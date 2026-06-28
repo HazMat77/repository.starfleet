@@ -61,7 +61,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.3.0"
+       version="1.4.0"
        provider-name="Community">
 
   <requires>
@@ -168,6 +168,12 @@
     <website/>
     <source/>
     <news>
+      v1.4.0
+      - Adult: site-specific title search (/?s=title) replaces page-1 catalog scan
+        Films anywhere in site archives are now findable, not just most recent
+      - Movies: added New Releases (upcoming) section powered by TMDB /movie/upcoming
+      - Torrent search timeout reduced 20s→8s for faster source picker response
+
       v1.3.0
       - Movies + TV: unified source picker (free streams + debrid/torrents in parallel)
       - Popcornflix + Archive.org title search added to source pipeline
