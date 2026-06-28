@@ -37,7 +37,7 @@
 
 </addon>
 
-<addon id="plugin.video.starfleet" name="Starfleet" version="1.6.6" provider-name="Community"
+<addon id="plugin.video.starfleet" name="Starfleet" version="1.6.7" provider-name="Community"
        provider-name="Community">
 
   <requires>
@@ -242,7 +242,27 @@
   </extension>
 
 </addon>
+
+<addon id="repository.elementumorg" name="ElementumOrg repository" provider-name="elementumorg" version="0.0.7">
+  <requires/>
+  <extension point="xbmc.addon.repository">
+    <dir>
+      <info>http://127.0.0.1:65223/addons.xml</info>
+      <checksum>http://127.0.0.1:65223/addons.xml.md5</checksum>
+      <datadir>http://127.0.0.1:65223/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.python.script" library="default.py"/>
+  <extension point="xbmc.service" library="service.py"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">ElementumOrg repository</summary>
+    <description lang="en">GitHub-backed repository for Elementum torrent addon.</description>
+  </extension>
+</addon>
 </addons>
+
+
 
 
 
