@@ -7,8 +7,6 @@
 
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
-    <import addon="script.module.resolveurl" />
-    <import addon="script.module.resolveurl.xxx" version="2.0.1" />
   </requires>
 
   <extension point="xbmc.addon.repository" name="Starfleet Repository">
@@ -16,26 +14,6 @@
       <info compressed="false">https://raw.githubusercontent.com/HazMat77/repository.starfleet/main/addons.xml</info>
       <checksum>https://raw.githubusercontent.com/HazMat77/repository.starfleet/main/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.githubusercontent.com/HazMat77/repository.starfleet/main</datadir>
-    </dir>
-    <dir>
-      <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-    </dir>
-    <dir>
-      <info compressed="false">https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/</datadir>
-    </dir>
-    <dir>
-      <info compressed="false">https://github.com/OldManJax/repository.animaniac/raw/master/addons.xml</info>
-      <checksum>https://github.com/OldManJax/repository.animaniac/raw/master/addons.xml.md5</checksum>
-      <datadir zip="true">https://github.com/OldManJax/repository.animaniac/raw/master/</datadir>
-    </dir>
-    <dir>
-      <info compressed="false">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/</datadir>
     </dir>
   </extension>
 
