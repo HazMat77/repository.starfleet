@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Kodi repo index — must be served with exact bytes so MD5 matches
+addons.xml     binary
+addons.xml.md5 binary
+*.zip          binary
