@@ -1,14 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addons>
+
 <addon id="repository.starfleet"
        name="Starfleet Repository"
        version="1.0.3"
        provider-name="HazMat77">
-
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
   </requires>
-
   <extension point="xbmc.addon.repository" name="Starfleet Repository">
     <dir>
       <info compressed="false">https://raw.githubusercontent.com/HazMat77/repository.starfleet/main/addons.xml</info>
@@ -16,234 +15,44 @@
       <datadir zip="true">https://raw.githubusercontent.com/HazMat77/repository.starfleet/main</datadir>
     </dir>
   </extension>
-
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Starfleet Repository</summary>
-    <description lang="en">
-      Official repository for the Starfleet Kodi addon.
-      Provides plugin.video.starfleet â€” TV Shows, Movies, Live TV,
-      Sports, Free Streaming, Adult (PIN-protected), Radio.
-    </description>
+    <description lang="en">Official repository for the Starfleet Kodi addon.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <website>https://github.com/HazMat77/repository.starfleet</website>
-    <source>https://github.com/HazMat77/repository.starfleet</source>
-    <news>
-      v1.0.2 - Add smrzips/unhingedthemes/animaniac/dobbelina dirs for ResolveURL + ResolveURL XXX
-      v1.0.1 - Fix repository schema for Kodi 21 (Omega)
-      v1.0.0 - Initial release
-    </news>
   </extension>
-
 </addon>
 
-<addon id="plugin.video.starfleet" name="Starfleet" version="1.6.7" provider-name="Community"
-       provider-name="Community">
-
+<addon id="plugin.video.starfleet"
+       name="Starfleet"
+       version="1.6.7"
+       provider-name="HazMat77">
   <requires>
-
-    <!--
-      â”€â”€ REQUIRED â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-      These must be present for the plugin to function at all.
-      Both are available in the official Kodi repository and will be
-      installed automatically when installing from zip.
-    -->
-
-    <!-- Core Python 3 runtime. Built into Kodi 19+ (Matrix). -->
     <import addon="xbmc.python" version="3.0.0"/>
-
-    <!--
-      HTTP library. In the official Kodi repo.
-      Auto-installed on zip install if not already present.
-    -->
     <import addon="script.module.requests" version="2.22.0"/>
-
-    <!--
-      â”€â”€ OPTIONAL â€” official Kodi repository â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-      These are in the official Kodi repo and will be offered for
-      automatic install. The plugin degrades gracefully without them.
-    -->
-
-    <!--
-      Best-quality adaptive HLS/DASH playback.
-      Pre-installed on Kodi 19+. Falls back to built-in player if absent.
-      Version range covers Kodi 19 (Matrix) through 21 (Omega).
-    -->
     <import addon="inputstream.adaptive" version="2.6.0" optional="true"/>
-
-    <!--
-      Detects and configures inputstream.adaptive + Widevine DRM.
-      Falls back gracefully if absent â€” non-DRM streams still play.
-    -->
     <import addon="script.module.inputstreamhelper" version="0.5.9" optional="true"/>
-
-    <!--
-      â”€â”€ OPTIONAL â€” jsergio123 repository (bundled in this zip) â”€â”€â”€â”€â”€â”€â”€â”€
-      repository.jsergio123 is included in this zip alongside the plugin.
-      Install it first from the zip, then Kodi can pull resolveurl
-      automatically from that repo.
-
-      resolveurl resolves stream URLs from file hosters (50+ supported).
-      Plugin works without it â€” direct stream URLs still play normally.
-    -->
     <import addon="repository.jsergio123" version="1.3.3" optional="true"/>
     <import addon="script.module.resolveurl" version="5.1.28" optional="true"/>
-
+    <import addon="repository.elementumorg" version="0.0.7" optional="true"/>
   </requires>
-
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video audio</provides>
     <reuselanguageinvoker>true</reuselanguageinvoker>
   </extension>
-
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Starfleet â€” TV, Movies, Live TV, Sports, Radio, Adult</summary>
-    <description lang="en">
-      All-in-one Kodi plugin.
-
-      TV SHOWS â€” Browse, search and stream TV shows with full metadata,
-      cast, episode stills, ratings and trailers powered by TMDB and TVDB.
-
-      MOVIES â€” Popular, top rated, now playing, browse by genre and search,
-      powered by TMDB with full cast, director, backdrop and trailer support.
-
-      LIVE TV â€” Unified channel list from Samsung TV+, Plex FAST, Pluto TV,
-      TVA (QuÃ©becor) and Global News (14 Canadian regions) via Google DAI.
-      Channel logos loaded automatically. Source picker for duplicates.
-      All sources fetched in parallel via ThreadPoolExecutor.
-
-      SPORTS â€” Live and upcoming events from istreameast.cx and crackstreams.mx.
-      Categories: NFL, NBA, MLB, NHL, UFC, Boxing, Soccer, Formula 1, College
-      Football, College Basketball, CFL, WWE/Wrestling. TheSportsDB and ESPN
-      league logos, game times, LIVE indicator. Stream dialog with quality labels.
-
-      FREE STREAMING â€” Movies and TV shows from Popcornflix, Fawesome, Filmzie,
-      Midnight Pulp, DistroTV, BounceTV, and Radial Entertainment. TMDB metadata,
-      artwork and actor photos. Plays via debrid torrent pipeline (720p+).
-
-      ADULT â€” Full metadata from Adult Film Database (cast photos, studios,
-      categories, ratings, director). Free streams from 5 sources (freeomovie.to,
-      xxxmoviestream.org, watchpornfree.info, pornwatch.ws, speedporn.net) â€”
-      deduplicated and merged by title. Source picker dialog. PIN protection.
-
-      DEBRID / TORRENTS â€” All movie and TV play buttons search YTS, The Pirate Bay,
-      1337x, and EZTV for 720p+ cached torrents. Instant availability checked on
-      Real-Debrid, AllDebrid, Premiumize and TorBox. Quality shown in dialog labels
-      (4K, 1080p, 720p, 3D). Nothing below 720p is ever shown.
-
-      RADIO â€” 90,000+ stations worldwide via Radio Browser. Navigate by
-      country (with flag emoji), region/province/state, then city A-Z.
-
-      Fast loading: SQLite/Pickle binary cache, parallel threading,
-      connection pooling, hot memory cache, reuselanguageinvoker.
-      Compatible with Kodi 19 (Matrix), 20 (Nexus), 21 (Omega) and newer.
-    </description>
+    <summary lang="en">Starfleet - TV, Movies, Live TV, Sports, Radio, Adult</summary>
+    <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <forum/>
-    <website/>
-    <source/>
-    <news>
-      v1.6.1
-      - Fix YourBitTorrent crash (requests.utils has no quote_plus)
-      - Fix torrent search timeout crash (as_completed TimeoutError now handled)
-      - Add Tubi TV free stream search
-      - Add Pluto TV VOD free stream search
-      - Add Plex free on-demand search
-      - Free sources now: Popcornflix, Archive, Tubi, Pluto, Plex (was 2)
-
-      v1.6.0
-      - Add Torrentio scraper (IMDB-based, most reliable for movies+TV)
-      - Add YourBitTorrent scraper (yourbittorrent2.com)
-      - Add Bitlord scraper (bitlordsearch.com)
-      - Wire IMDB ID through movie/TV play path so Torrentio fires correctly
-      - Total torrent sources: 10 (was 7)
-
-      v1.5.9
-      - Adult torrent search: skip 720p quality filter (adult content has no quality tags)
-      - Adult torrent search: use TPB XXX category (500) instead of Movies
-      - Fix zip install failure: forward slashes in zip entries
-
-      v1.5.8
-      - Fix all JS-embed hash URLs crashing player (player4me etc.)
-      - Adult source picker now includes debrid/torrent streams (yellow)
-      - Adult source picker now includes personal MixDrop/Streamtape sources
-      - Fix artwork on adult film list (add User-Agent header for CDN images)
-
-      v1.5.7      - Fix image URLs leaking into film descriptions (og:description pollution)
-      - Fix HTML entities in titles (& shows correctly now)
-      - Add upns/lulustream/wolfstream/streamvid to embed resolver
-      - Embed resolver: try API endpoints for hash-based (#fragment) embeds
-      - Skip unresolvable JS embeds instead of crashing Kodi player
-      - Fix breadcrumb: "Adult Movies" instead of "Free Streams"
-
-      v1.5.6
-      - Adult: flat Movies list (single entry showing all sources)
-      - Adult: unified Search by title, performer, or scene type
-      - Adult: trailers pulled from ADE, shown as first source option
-      - Adult: debrid links added to adult play path (shown in yellow)
-      - Adult: MixDrop Porn/Movies sub-folder search
-      - Adult: fix truncated stream labels (full domain name now used)
-
-      v1.5.0
-      - Movies: New Releases shows films released in the last 30 days
-      - Movies: List view shows cast/director/genre/runtime when detail cached
-      - Adult: Box art extracted from HTML (fixes 404s), scene screenshots shown
-      - Torrents: Added Bitsearch.to and TorrentGalaxy scrapers
-      - Personal: MixDrop + Streamtape personal library search added as sources
-
-      v1.4.0
-      - Adult: site-specific title search (/?s=title) replaces page-1 catalog scan
-        Films anywhere in site archives are now findable, not just most recent
-      - Movies: added New Releases (upcoming) section powered by TMDB /movie/upcoming
-      - Torrent search timeout reduced 20sâ†’8s for faster source picker response
-
-      v1.3.0
-      - Movies + TV: unified source picker (free streams + debrid/torrents in parallel)
-      - Popcornflix + Archive.org title search added to source pipeline
-      - Adult: ADE fallback metadata, parallel stream search, source picker dialog
-
-      v1.2.0
-      - Sports: Live/upcoming events from istreameast.cx + crackstreams.mx
-        NFL, NBA, MLB, NHL, UFC, Boxing, Soccer, F1, CFB, NCAAB, CFL, WWE
-        TheSportsDB/ESPN logos, game times, LIVE indicator, stream picker dialog
-      - Free Streaming: Movies and TV from Popcornflix, Fawesome, Filmzie,
-        Midnight Pulp, DistroTV, BounceTV, Radial Entertainment
-        TMDB metadata + artwork, plays via debrid pipeline
-      - Adult: 5 free stream sources (added watchpornfree.info, pornwatch.ws,
-        speedporn.net). All sources merged by title, single entry per film.
-        Source picker dialog: "Link 1 â€” Label, Link 2 â€” Label..."
-      - Debrid/Torrents: 720p+ quality filter for all torrent sources.
-        YTS (movies), TPB via apibay.org (movies+TV), 1337x (movies+TV),
-        EZTV (TV shows). Quality shown in picker: "Debrid 1 (RD - Source 1080p)"
-      - Kodi 20 (Nexus) + 21 (Omega) compatibility verified
-
-      v1.1.0
-      - Live TV: Added Global News (14 Canadian regions) via Google DAI
-      - Live TV: Channel logos from Clearbit CDN for DAI channels
-      - Adult: Free streams from freeomovie.to + xxxmoviestream.org, deduplicated
-      - Adult: Full AFDB actor detail (measurements, height, eyes, hair, ethnicity)
-      - Premium: Added TorBox resolver support
-      - Settings: Cleaned up dead VOD settings, added TorBox configuration
-      - Performance: All parallel ThreadPoolExecutor fetching for live sources
-
-      v1.0.0
-      - TV Shows: TMDB + TVDB metadata, seasons, episodes with stills
-      - Movies: TMDB popular/top/new/genre/search with full cast
-      - Live TV: Samsung TV+, Plex, Pluto TV, TVA+ (QuÃ©becor) with logos
-      - Unified live channel list with multi-source picker dialog
-      - Radio: 90,000+ stations, country flags, city-level browse
-      - Adult: AFDB metadata, actor photos, studio and category browse
-      - Premium resolvers: Real-Debrid, AllDebrid, Premiumize
-      - PIN protection and hide toggle for Adult section
-      - SQLite Pickle binary cache, ThreadPoolExecutor parallel fetching
-      - reuselanguageinvoker for near-instant warm navigation
-    </news>
+    <news>v1.6.7 - Elementum integration for magnet torrent playback</news>
   </extension>
-
 </addon>
 
-<addon id="repository.elementumorg" name="ElementumOrg repository" provider-name="elementumorg" version="0.0.7">
+<addon id="repository.elementumorg"
+       name="ElementumOrg Repository"
+       version="0.0.7"
+       provider-name="elementumorg">
   <requires/>
   <extension point="xbmc.addon.repository">
     <dir>
@@ -257,14 +66,8 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary lang="en">ElementumOrg repository</summary>
-    <description lang="en">GitHub-backed repository for Elementum torrent addon.</description>
+    <description lang="en">GitHub-backed repository for the Elementum torrent addon.</description>
   </extension>
 </addon>
+
 </addons>
-
-
-
-
-
-
-
