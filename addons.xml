@@ -39,7 +39,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.5.5"
+       version="1.5.6"
        provider-name="Community">
 
   <requires>
@@ -146,6 +146,14 @@
     <website/>
     <source/>
     <news>
+      v1.5.6
+      - Adult: flat Movies list (single entry showing all sources)
+      - Adult: unified Search by title, performer, or scene type
+      - Adult: trailers pulled from ADE, shown as first source option
+      - Adult: debrid links added to adult play path (shown in yellow)
+      - Adult: MixDrop Porn/Movies sub-folder search
+      - Adult: fix truncated stream labels (full domain name now used)
+
       v1.5.0
       - Movies: New Releases shows films released in the last 30 days
       - Movies: List view shows cast/director/genre/runtime when detail cached
