@@ -39,7 +39,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.5.6"
+       version="1.5.7"
        provider-name="Community">
 
   <requires>
@@ -146,6 +146,14 @@
     <website/>
     <source/>
     <news>
+      v1.5.7
+      - Fix image URLs leaking into film descriptions (og:description pollution)
+      - Fix HTML entities in titles (& shows correctly now)
+      - Add upns/lulustream/wolfstream/streamvid to embed resolver
+      - Embed resolver: try API endpoints for hash-based (#fragment) embeds
+      - Skip unresolvable JS embeds instead of crashing Kodi player
+      - Fix breadcrumb: "Adult Movies" instead of "Free Streams"
+
       v1.5.6
       - Adult: flat Movies list (single entry showing all sources)
       - Adult: unified Search by title, performer, or scene type
