@@ -11,9 +11,9 @@
 
   <extension point="xbmc.addon.repository" name="Starfleet Repository">
     <dir>
-      <info compressed="false">https://hazmat77.github.io/repository.starfleet/addons.xml</info>
-      <checksum>https://hazmat77.github.io/repository.starfleet/addons.xml.md5</checksum>
-      <datadir zip="true">https://hazmat77.github.io/repository.starfleet</datadir>
+      <info compressed="false">https://raw.githubusercontent.com/HazMat77/repository.starfleet/main/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/HazMat77/repository.starfleet/main/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/HazMat77/repository.starfleet/main</datadir>
     </dir>
   </extension>
 
