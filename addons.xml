@@ -39,7 +39,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.5.8"
+       version="1.5.9"
        provider-name="Community">
 
   <requires>
@@ -146,6 +146,11 @@
     <website/>
     <source/>
     <news>
+      v1.5.9
+      - Adult torrent search: skip 720p quality filter (adult content has no quality tags)
+      - Adult torrent search: use TPB XXX category (500) instead of Movies
+      - Fix zip install failure: forward slashes in zip entries
+
       v1.5.8
       - Fix all JS-embed hash URLs crashing player (player4me etc.)
       - Adult source picker now includes debrid/torrent streams (yellow)
@@ -225,5 +230,6 @@
 
 </addon>
 </addons>
+
 
 
