@@ -61,7 +61,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.2.0"
+       version="1.3.0"
        provider-name="Community">
 
   <requires>
@@ -168,6 +168,11 @@
     <website/>
     <source/>
     <news>
+      v1.3.0
+      - Movies + TV: unified source picker (free streams + debrid/torrents in parallel)
+      - Popcornflix + Archive.org title search added to source pipeline
+      - Adult: ADE fallback metadata, parallel stream search, source picker dialog
+
       v1.2.0
       - Sports: Live/upcoming events from istreameast.cx + crackstreams.mx
         NFL, NBA, MLB, NHL, UFC, Boxing, Soccer, F1, CFB, NCAAB, CFL, WWE
