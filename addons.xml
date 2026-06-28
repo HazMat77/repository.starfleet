@@ -39,7 +39,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.5.9"
+       version="1.6.0"
        provider-name="Community">
 
   <requires>
@@ -146,6 +146,13 @@
     <website/>
     <source/>
     <news>
+      v1.6.0
+      - Add Torrentio scraper (IMDB-based, most reliable for movies+TV)
+      - Add YourBitTorrent scraper (yourbittorrent2.com)
+      - Add Bitlord scraper (bitlordsearch.com)
+      - Wire IMDB ID through movie/TV play path so Torrentio fires correctly
+      - Total torrent sources: 10 (was 7)
+
       v1.5.9
       - Adult torrent search: skip 720p quality filter (adult content has no quality tags)
       - Adult torrent search: use TPB XXX category (500) instead of Movies
