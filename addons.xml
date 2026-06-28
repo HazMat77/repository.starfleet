@@ -61,7 +61,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.4.0"
+       version="1.5.0"
        provider-name="Community">
 
   <requires>
@@ -168,6 +168,13 @@
     <website/>
     <source/>
     <news>
+      v1.5.0
+      - Movies: New Releases shows films released in the last 30 days
+      - Movies: List view shows cast/director/genre/runtime when detail cached
+      - Adult: Box art extracted from HTML (fixes 404s), scene screenshots shown
+      - Torrents: Added Bitsearch.to and TorrentGalaxy scrapers
+      - Personal: MixDrop + Streamtape personal library search added as sources
+
       v1.4.0
       - Adult: site-specific title search (/?s=title) replaces page-1 catalog scan
         Films anywhere in site archives are now findable, not just most recent
