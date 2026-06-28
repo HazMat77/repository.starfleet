@@ -25,7 +25,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.6.9"
+       version="1.7.0"
        provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -35,6 +35,7 @@
     <import addon="repository.jsergio123" version="1.3.3" optional="true"/>
     <import addon="script.module.resolveurl" version="5.1.28" optional="true"/>
     <import addon="repository.elementumorg" version="0.0.7" optional="true"/>
+    <import addon="plugin.video.elementum" version="0.1.113" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video audio</provides>
@@ -45,7 +46,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v1.6.9 - Auto-install Elementum when magnet link is played</news>
+    <news>v1.7.0 - Bundle Elementum as direct dependency, auto-installs with Starfleet</news>
   </extension>
 </addon>
 
@@ -67,6 +68,27 @@
     <platform>all</platform>
     <summary lang="en">ElementumOrg repository</summary>
     <description lang="en">GitHub-backed repository for the Elementum torrent addon.</description>
+  </extension>
+</addon>
+
+<addon id="plugin.video.elementum"
+       name="Elementum"
+       version="0.1.113"
+       provider-name="elgatito">
+  <requires>
+    <import addon="xbmc.addon" version="16.0.0"/>
+    <import addon="script.module.kodi-six" optional="true"/>
+    <import addon="script.module.requests" version="2.9.1" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="navigation.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Elementum: Media streaming</summary>
+    <description lang="en">Torrent finding and streaming engine for Kodi.</description>
+    <platform>all</platform>
+    <license>Non commercial</license>
   </extension>
 </addon>
 
