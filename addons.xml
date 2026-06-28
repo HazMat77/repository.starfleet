@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="repository.starfleet"
        name="Starfleet Repository"
@@ -21,7 +21,7 @@
     <summary lang="en">Starfleet Repository</summary>
     <description lang="en">
       Official repository for the Starfleet Kodi addon.
-      Provides plugin.video.starfleet — TV Shows, Movies, Live TV,
+      Provides plugin.video.starfleet â€” TV Shows, Movies, Live TV,
       Sports, Free Streaming, Adult (PIN-protected), Radio.
     </description>
     <platform>all</platform>
@@ -37,15 +37,13 @@
 
 </addon>
 
-<addon id="plugin.video.starfleet"
-       name="Starfleet"
-       version="1.6.4"
+<addon id="plugin.video.starfleet" name="Starfleet" version="1.6.5" provider-name="Community"
        provider-name="Community">
 
   <requires>
 
     <!--
-      ── REQUIRED ──────────────────────────────────────────────────────
+      â”€â”€ REQUIRED â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
       These must be present for the plugin to function at all.
       Both are available in the official Kodi repository and will be
       installed automatically when installing from zip.
@@ -61,7 +59,7 @@
     <import addon="script.module.requests" version="2.22.0"/>
 
     <!--
-      ── OPTIONAL — official Kodi repository ───────────────────────────
+      â”€â”€ OPTIONAL â€” official Kodi repository â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
       These are in the official Kodi repo and will be offered for
       automatic install. The plugin degrades gracefully without them.
     -->
@@ -75,18 +73,18 @@
 
     <!--
       Detects and configures inputstream.adaptive + Widevine DRM.
-      Falls back gracefully if absent — non-DRM streams still play.
+      Falls back gracefully if absent â€” non-DRM streams still play.
     -->
     <import addon="script.module.inputstreamhelper" version="0.5.9" optional="true"/>
 
     <!--
-      ── OPTIONAL — jsergio123 repository (bundled in this zip) ────────
+      â”€â”€ OPTIONAL â€” jsergio123 repository (bundled in this zip) â”€â”€â”€â”€â”€â”€â”€â”€
       repository.jsergio123 is included in this zip alongside the plugin.
       Install it first from the zip, then Kodi can pull resolveurl
       automatically from that repo.
 
       resolveurl resolves stream URLs from file hosters (50+ supported).
-      Plugin works without it — direct stream URLs still play normally.
+      Plugin works without it â€” direct stream URLs still play normally.
     -->
     <import addon="repository.jsergio123" version="1.3.3" optional="true"/>
     <import addon="script.module.resolveurl" version="5.1.28" optional="true"/>
@@ -99,41 +97,41 @@
   </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Starfleet — TV, Movies, Live TV, Sports, Radio, Adult</summary>
+    <summary lang="en">Starfleet â€” TV, Movies, Live TV, Sports, Radio, Adult</summary>
     <description lang="en">
       All-in-one Kodi plugin.
 
-      TV SHOWS — Browse, search and stream TV shows with full metadata,
+      TV SHOWS â€” Browse, search and stream TV shows with full metadata,
       cast, episode stills, ratings and trailers powered by TMDB and TVDB.
 
-      MOVIES — Popular, top rated, now playing, browse by genre and search,
+      MOVIES â€” Popular, top rated, now playing, browse by genre and search,
       powered by TMDB with full cast, director, backdrop and trailer support.
 
-      LIVE TV — Unified channel list from Samsung TV+, Plex FAST, Pluto TV,
-      TVA (Québecor) and Global News (14 Canadian regions) via Google DAI.
+      LIVE TV â€” Unified channel list from Samsung TV+, Plex FAST, Pluto TV,
+      TVA (QuÃ©becor) and Global News (14 Canadian regions) via Google DAI.
       Channel logos loaded automatically. Source picker for duplicates.
       All sources fetched in parallel via ThreadPoolExecutor.
 
-      SPORTS — Live and upcoming events from istreameast.cx and crackstreams.mx.
+      SPORTS â€” Live and upcoming events from istreameast.cx and crackstreams.mx.
       Categories: NFL, NBA, MLB, NHL, UFC, Boxing, Soccer, Formula 1, College
       Football, College Basketball, CFL, WWE/Wrestling. TheSportsDB and ESPN
       league logos, game times, LIVE indicator. Stream dialog with quality labels.
 
-      FREE STREAMING — Movies and TV shows from Popcornflix, Fawesome, Filmzie,
+      FREE STREAMING â€” Movies and TV shows from Popcornflix, Fawesome, Filmzie,
       Midnight Pulp, DistroTV, BounceTV, and Radial Entertainment. TMDB metadata,
       artwork and actor photos. Plays via debrid torrent pipeline (720p+).
 
-      ADULT — Full metadata from Adult Film Database (cast photos, studios,
+      ADULT â€” Full metadata from Adult Film Database (cast photos, studios,
       categories, ratings, director). Free streams from 5 sources (freeomovie.to,
-      xxxmoviestream.org, watchpornfree.info, pornwatch.ws, speedporn.net) —
+      xxxmoviestream.org, watchpornfree.info, pornwatch.ws, speedporn.net) â€”
       deduplicated and merged by title. Source picker dialog. PIN protection.
 
-      DEBRID / TORRENTS — All movie and TV play buttons search YTS, The Pirate Bay,
+      DEBRID / TORRENTS â€” All movie and TV play buttons search YTS, The Pirate Bay,
       1337x, and EZTV for 720p+ cached torrents. Instant availability checked on
       Real-Debrid, AllDebrid, Premiumize and TorBox. Quality shown in dialog labels
       (4K, 1080p, 720p, 3D). Nothing below 720p is ever shown.
 
-      RADIO — 90,000+ stations worldwide via Radio Browser. Navigate by
+      RADIO â€” 90,000+ stations worldwide via Radio Browser. Navigate by
       country (with flag emoji), region/province/state, then city A-Z.
 
       Fast loading: SQLite/Pickle binary cache, parallel threading,
@@ -198,7 +196,7 @@
       - Adult: site-specific title search (/?s=title) replaces page-1 catalog scan
         Films anywhere in site archives are now findable, not just most recent
       - Movies: added New Releases (upcoming) section powered by TMDB /movie/upcoming
-      - Torrent search timeout reduced 20s→8s for faster source picker response
+      - Torrent search timeout reduced 20sâ†’8s for faster source picker response
 
       v1.3.0
       - Movies + TV: unified source picker (free streams + debrid/torrents in parallel)
@@ -214,7 +212,7 @@
         TMDB metadata + artwork, plays via debrid pipeline
       - Adult: 5 free stream sources (added watchpornfree.info, pornwatch.ws,
         speedporn.net). All sources merged by title, single entry per film.
-        Source picker dialog: "Link 1 — Label, Link 2 — Label..."
+        Source picker dialog: "Link 1 â€” Label, Link 2 â€” Label..."
       - Debrid/Torrents: 720p+ quality filter for all torrent sources.
         YTS (movies), TPB via apibay.org (movies+TV), 1337x (movies+TV),
         EZTV (TV shows). Quality shown in picker: "Debrid 1 (RD - Source 1080p)"
@@ -232,7 +230,7 @@
       v1.0.0
       - TV Shows: TMDB + TVDB metadata, seasons, episodes with stills
       - Movies: TMDB popular/top/new/genre/search with full cast
-      - Live TV: Samsung TV+, Plex, Pluto TV, TVA+ (Québecor) with logos
+      - Live TV: Samsung TV+, Plex, Pluto TV, TVA+ (QuÃ©becor) with logos
       - Unified live channel list with multi-source picker dialog
       - Radio: 90,000+ stations, country flags, city-level browse
       - Adult: AFDB metadata, actor photos, studio and category browse
@@ -245,6 +243,7 @@
 
 </addon>
 </addons>
+
 
 
 
