@@ -39,7 +39,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.6.0"
+       version="1.6.1"
        provider-name="Community">
 
   <requires>
@@ -146,6 +146,14 @@
     <website/>
     <source/>
     <news>
+      v1.6.1
+      - Fix YourBitTorrent crash (requests.utils has no quote_plus)
+      - Fix torrent search timeout crash (as_completed TimeoutError now handled)
+      - Add Tubi TV free stream search
+      - Add Pluto TV VOD free stream search
+      - Add Plex free on-demand search
+      - Free sources now: Popcornflix, Archive, Tubi, Pluto, Plex (was 2)
+
       v1.6.0
       - Add Torrentio scraper (IMDB-based, most reliable for movies+TV)
       - Add YourBitTorrent scraper (yourbittorrent2.com)
