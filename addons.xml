@@ -25,7 +25,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.8.5"
+       version="1.8.6"
        provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -46,7 +46,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v1.8.5 - Fix source picker timeout: reduce search from 28s to 12s so picker appears before Kodi resolution context expires; filter TV episode torrents from adult searches</news>
+    <news>v1.8.6 - YTS domain fallback (yts.mx DNS failing); lazy IMDB ID fetch for Torrentio; source picker appears within 12s</news>
   </extension>
 </addon>
 
