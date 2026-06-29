@@ -25,7 +25,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.7.6"
+       version="1.7.7"
        provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -46,7 +46,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v1.7.6 - Streamtape personal library: Movies/TV Shows/Porn folders, IMDB ID matching, settings entry</news>
+    <news>v1.7.7 - Personal library: MixDrop + Streamtape IMDB ID matching and TV subfolder navigation; credentials hardcoded</news>
   </extension>
 </addon>
 
