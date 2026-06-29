@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <addons>
 
 <addon id="repository.starfleet"
@@ -25,7 +25,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.9.9"
+       version="2.0.0"
        provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -46,7 +46,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v1.9.9 - Fix Bitsearch CSS-class dependency; fix YTS year-in-query limiting results</news>
+    <news>v2.0.0 - Fix Android HLS (inputstream.adaptive); add ext.to, TorrentFunk, BitTorrented scrapers; add VidSrc.me, 2Embed, MoviesAPI embed providers
   </extension>
 </addon>
 
@@ -93,3 +93,4 @@
 </addon>
 
 </addons>
+
