@@ -25,7 +25,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="1.7.3"
+       version="1.7.4"
        provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -46,7 +46,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v1.7.3 - CF bypass for 1337x/TGX, mirror rotation, TV quality filter fix, adult torrent search improvements</news>
+    <news>v1.7.4 - Fix adult search free streams, add Tubi TV scraper, fix Popcornflix endpoint, both show in source picker</news>
   </extension>
 </addon>
 
