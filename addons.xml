@@ -25,7 +25,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="2.3.5"
+       version="2.3.6"
        provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -46,7 +46,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v2.3.5 - Add CrackStreams/StreamsEast/Sportsurge/MLB24 scrapers; stream picker shows source name; fix stream page extraction with iframe fallback</news>
+    <news>v2.3.6 - Add NHL24 scraper for NHL section; all sports now have dedicated supplementary scrapers</news>
   </extension>
 </addon>
 
