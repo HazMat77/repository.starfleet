@@ -25,7 +25,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="2.3.2"
+       version="2.3.3"
        provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -46,7 +46,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v2.3.2 - Cache XXXClub browse results (30min) so Adult Movies is instant after first load</news>
+    <news>v2.3.3 - Fix Adult freeze: persistent SQLite cache for XXXClub; fix Tubi/Plex/Fawesome play via Elementum</news>
   </extension>
 </addon>
 
