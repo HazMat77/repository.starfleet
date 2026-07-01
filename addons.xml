@@ -67,9 +67,11 @@
 </addon>
 
   ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+  ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
   <addon id="plugin.video.starfleet"
          name="Starfleet"
-         version="2.3.21"
+         version="2.3.22"
          provider-name="HazMat77">
 
     <requires>
@@ -96,7 +98,7 @@
       <forum/>
       <website/>
       <source/>
-      <news>v2.3.21 - Movies/TV: four new embed scrapers added (NowTV/myfilestorage.xyz direct MP4, SmashyStream multi-server, Ridomovies JSON API + iframe decode, Flixon JS deobfuscation); all run in parallel with existing providers</news>
+      <news>v2.3.22 - Movies/TV: MovieBox Pro (aoneroom.com) added as embed source; HMAC-MD5 signed API, anonymous JWT, direct HLS/MP4 streams; title resolved via TMDB when needed; 11 parallel providers total</news>
     </extension>
 
   </addon>
