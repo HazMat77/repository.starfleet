@@ -68,7 +68,7 @@
 
   <addon id="plugin.video.starfleet"
          name="Starfleet"
-         version="2.3.23"
+         version="2.3.24"
          provider-name="HazMat77">
 
     <requires>
@@ -95,7 +95,7 @@
       <forum/>
       <website/>
       <source/>
-      <news>v2.3.23 - Sports: onhockey.tv (NHL) + totalsportek (original, multi-sport) added as event and stream sources; auto-resolves active totalsportek mirror; 12 supplementary event sources total</news>
+      <news>v2.3.24 - Sports: onhockey.tv now covers all hockey leagues (AHL/KHL/OHL/WHL/NCAA/etc.); Live TV: NHL Network added via onhockey.tv live channel scraper wired into unified live TV</news>
     </extension>
 
   </addon>
