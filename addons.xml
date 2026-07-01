@@ -25,7 +25,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="2.3.17"
+       version="2.3.18"
        provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -46,7 +46,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v2.3.17 - Max efficiency + richest metadata: ADE CDN artwork (1000px+) as primary thumb/fanart with AFDB fallback; AFDB back cover as banner; scene screenshots as landscape/fanart2-4; deep prewarm (12 concurrent AFDB+ADE detail fetches) during loading dialog; dialog shows per-film progress; ADE trailer now extracted from cached detail (no extra HTTP); source labels show quality badge (4K/1080p), file size, seed count, source name; background stream prewarm for top 20 films after list renders</news>
+    <news>v2.3.18 - Canadian geo-bypass: X-Forwarded-For header injection + optional proxy; CBC News Network, CBC Television, ICI Radio-Canada added; all Canadian channels geo-unblocked via header spoof + stream URL decoration; settings: geo_bypass_enabled, ISP IP selector, proxy URL, CBC policy key</news>
   </extension>
 </addon>
 
