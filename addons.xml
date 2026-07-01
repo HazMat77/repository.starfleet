@@ -25,7 +25,7 @@
 
 <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="2.3.19"
+       version="2.3.20"
        provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -46,7 +46,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v2.3.19 - New channels: TVA Sports 2 (Brightcove), Noovo live (dynamic JS scrape + Brightcove), Noovo Cinema/Comedies/Telerealites (FAST CloudFront); all Noovo geo-bypass compatible; RDS/RDS2/RDS Info require Bell Media subscription</news>
+    <news>v2.3.20 - Sports: ppv.to added as scraper source (PPV boxing/UFC/MMA/wrestling) with cloudscraper Cloudflare bypass; _cf_sess upgraded to cloudscraper-first with cfscrape fallback</news>
   </extension>
 </addon>
 
