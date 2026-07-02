@@ -20,7 +20,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.44" provider-name="HazMat77">
+<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.45" provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" version="2.22.0" />
@@ -40,7 +40,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v2.3.44 - Sports: Tennis, Rugby, Cricket, MotoGP; fixed TotalSportek24 event scraper</news>
+    <news>v2.3.45 - Fixed adult trailers; removed dead scrapers (bflix, solarmovie, netmirror, msearch, tubi, popcornflix, VidLink, MovieBox)</news>
   </extension>
 </addon>
 
