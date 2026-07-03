@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.starfleet"
        name="Starfleet Repository"
-       version="1.0.6"
+       version="1.0.7"
        provider-name="HazMat77">
 
   <requires>
@@ -18,6 +18,11 @@
       <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
       <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+    <dir>
+      <info compressed="false">http://127.0.0.1:65223/addons.xml</info>
+      <checksum>http://127.0.0.1:65223/addons.xml.md5</checksum>
+      <datadir zip="true">http://127.0.0.1:65223/</datadir>
     </dir>
   </extension>
 
