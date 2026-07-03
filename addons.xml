@@ -20,7 +20,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.138" provider-name="HazMat77">
+<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.139" provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" version="2.22.0" />
@@ -62,22 +62,5 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.elementum" name="Elementum" version="0.1.113" provider-name="elgatito">
-  <requires>
-    <import addon="xbmc.addon" version="16.0.0" />
-    <import addon="script.module.kodi-six" optional="true" />
-    <import addon="script.module.requests" version="2.9.1" optional="true" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="navigation.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.service" library="service.py" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Elementum: Media streaming</summary>
-    <description lang="en">Torrent finding and streaming engine for Kodi.</description>
-    <platform>all</platform>
-    <license>Non commercial</license>
-  </extension>
-</addon>
 
 </addons>
