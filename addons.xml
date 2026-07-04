@@ -20,7 +20,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.147" provider-name="HazMat77">
+<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.148" provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" version="2.22.0" />
@@ -33,7 +33,7 @@
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video audio</provides>
-    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <reuselanguageinvoker>false</reuselanguageinvoker>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Starfleet - TV, Movies, Live TV, Sports, Radio, Adult</summary>
