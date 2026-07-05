@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.starfleet"
        name="Starfleet Repository"
-       version="1.0.8"
+       version="1.0.9"
        provider-name="HazMat77">
 
   <requires>
@@ -10,9 +10,9 @@
 
   <extension point="xbmc.addon.repository" name="Starfleet Repository">
     <dir>
-      <info compressed="false">https://raw.githubusercontent.com/HazMat77/repository.starfleet/main/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/HazMat77/repository.starfleet/main/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/HazMat77/repository.starfleet/main</datadir>
+      <info compressed="false">https://cdn.jsdelivr.net/gh/HazMat77/repository.starfleet@main/addons.xml</info>
+      <checksum>https://cdn.jsdelivr.net/gh/HazMat77/repository.starfleet@main/addons.xml.md5</checksum>
+      <datadir zip="true">https://cdn.jsdelivr.net/gh/HazMat77/repository.starfleet@main</datadir>
     </dir>
     <dir>
       <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
@@ -41,6 +41,7 @@
     <website>https://github.com/HazMat77/repository.starfleet</website>
     <source>https://github.com/HazMat77/repository.starfleet</source>
     <news>
+      v1.0.9 - Switch to jsDelivr CDN (consistent updates, no stale cache)
       v1.0.8 - Add Starfleet icon to repository
       v1.0.7 - Add Elementum/smrzips secondary repo dirs
     </news>
