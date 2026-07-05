@@ -14,7 +14,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <assets>
-      <icon>https://raw.githubusercontent.com/HazMat77/repository.starfleet/main/repository.starfleet/icon.png</icon>
+      <icon>icon.png</icon>
     </assets>
     <summary lang="en">Starfleet Repository</summary>
     <description lang="en">Official repository for the Starfleet Kodi addon.</description>
@@ -23,7 +23,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.165" provider-name="HazMat77">
+<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.166" provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" version="2.22.0" />
@@ -39,13 +39,13 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <assets>
-      <icon>https://raw.githubusercontent.com/HazMat77/repository.starfleet/main/plugin.video.starfleet/icon.png</icon>
+      <icon>icon.png</icon>
     </assets>
     <summary lang="en">Starfleet - TV, Movies, Live TV, Sports, Radio, Adult</summary>
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v2.3.165 - NHL Network live TV in hockey menu; tennis via totalsportek24; removed dead scrapers</news>
+    <news>v2.3.166 - Fix home nav freeze; NHL Network live TV in hockey menu; tennis via totalsportek24; removed dead scrapers</news>
   </extension>
 </addon>
 
