@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.starfleet"
        name="Starfleet Repository"
-       version="1.0.10"
+       version="1.0.11"
        provider-name="HazMat77">
 
   <requires>
@@ -13,16 +13,6 @@
       <info compressed="false">https://hazmat77.github.io/repository.starfleet/addons.xml</info>
       <checksum>https://hazmat77.github.io/repository.starfleet/addons.xml.md5</checksum>
       <datadir zip="true">https://hazmat77.github.io/repository.starfleet</datadir>
-    </dir>
-    <dir>
-      <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-    </dir>
-    <dir>
-      <info compressed="false">http://127.0.0.1:65223/addons.xml</info>
-      <checksum>http://127.0.0.1:65223/addons.xml.md5</checksum>
-      <datadir zip="true">http://127.0.0.1:65223/</datadir>
     </dir>
   </extension>
 
@@ -41,6 +31,7 @@
     <website>https://github.com/HazMat77/repository.starfleet</website>
     <source>https://github.com/HazMat77/repository.starfleet</source>
     <news>
+      v1.0.11 - Remove Elementum localhost dir (caused repo check failure)
       v1.0.10 - Restore hazmat77.github.io CDN URLs
       v1.0.8 - Add Starfleet icon to repository
       v1.0.7 - Add Elementum/smrzips secondary repo dirs

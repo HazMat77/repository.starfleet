@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 
-<addon id="repository.starfleet" name="Starfleet Repository" version="1.0.10" provider-name="HazMat77">
+<addon id="repository.starfleet" name="Starfleet Repository" version="1.0.11" provider-name="HazMat77">
   <requires>
     <import addon="xbmc.addon" version="12.0.0" />
   </requires>
@@ -23,7 +23,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.190" provider-name="HazMat77">
+<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.191" provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" version="2.22.0" />
@@ -45,7 +45,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v2.3.190 - Fix home loop: nav.lock TTL 8s, no nav.lock delete in _dispatch_directory</news>
+    <news>v2.3.191 - TotalSportek24 timeout 5s; repo v1.0.11 removes localhost dir</news>
   </extension>
 </addon>
 
