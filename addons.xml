@@ -23,14 +23,14 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.192" provider-name="HazMat77">
+<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.201" provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" version="2.22.0" />
+    <import addon="script.module.beautifulsoup4" version="4.6.0" />
     <import addon="inputstream.adaptive" version="2.6.0" optional="true" />
     <import addon="script.module.inputstreamhelper" version="0.5.9" optional="true" />
     <import addon="script.module.resolveurl" version="5.1.28" optional="true" />
-    <import addon="repository.elementumorg" version="0.0.7" optional="true" />
     <import addon="plugin.video.elementum" version="0.1.113" optional="true" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -45,25 +45,37 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v2.3.191 - TotalSportek24 timeout 5s; repo v1.0.11 removes localhost dir</news>
+    <news>v2.3.201 - Sports/torrent performance with BeautifulSoup4; xxxclub fix; limetorrents fix; dispatcher menu loop fix</news>
   </extension>
 </addon>
 
-<addon id="repository.elementumorg" name="ElementumOrg Repository" version="0.0.7" provider-name="elementumorg">
-  <requires />
-  <extension point="xbmc.addon.repository">
-    <dir>
-      <info>http://127.0.0.1:65223/addons.xml</info>
-      <checksum>http://127.0.0.1:65223/addons.xml.md5</checksum>
-      <datadir>http://127.0.0.1:65223/</datadir>
-    </dir>
+<addon id="script.module.beautifulsoup4" name="BeautifulSoup4" version="4.15.0" provider-name="Leonard Richardson">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Screen-scraping library</summary>
+    <description lang="en">Beautiful Soup is a Python library for pulling data out of HTML and XML files.</description>
+    <platform>all</platform>
+    <license>MIT</license>
   </extension>
-  <extension point="xbmc.python.script" library="default.py" />
+</addon>
+
+<addon id="plugin.video.elementum" name="Elementum" version="0.1.113" provider-name="elgatito">
+  <requires>
+    <import addon="xbmc.addon" version="16.0.0" />
+    <import addon="script.module.requests" version="2.9.1" optional="true" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="navigation.py">
+    <provides>video</provides>
+  </extension>
   <extension point="xbmc.service" library="service.py" />
   <extension point="xbmc.addon.metadata">
+    <summary lang="en">Elementum: Media streaming</summary>
+    <description lang="en">Torrent finding and streaming engine for Kodi.</description>
     <platform>all</platform>
-    <summary lang="en">ElementumOrg repository</summary>
-    <description lang="en">GitHub-backed repository for the Elementum torrent addon.</description>
+    <license>Non commercial</license>
   </extension>
 </addon>
 
