@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.beautifulsoup4"
+       name="BeautifulSoup4"
+       version="4.15.0"
+       provider-name="Leonard Richardson">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Screen-scraping library</summary>
+    <description lang="en">Beautiful Soup is a Python library for pulling data out of HTML and XML files.</description>
+    <platform>all</platform>
+    <license>MIT</license>
+  </extension>
+</addon>
