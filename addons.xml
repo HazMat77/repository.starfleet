@@ -23,7 +23,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.202" provider-name="HazMat77">
+<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.203" provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" version="2.22.0" />
@@ -32,7 +32,7 @@
     <import addon="script.module.inputstreamhelper" version="0.5.9" optional="true" />
     <import addon="script.module.resolveurl" version="5.1.28" optional="true" />
     <import addon="repository.elementumorg" version="0.0.7" optional="true" />
-    <import addon="plugin.video.elementum" version="0.1.113" optional="true" />
+    <import addon="plugin.video.elementum" version="0.1.114" optional="true" />
     <import addon="script.elementum.burst" version="0.0.99" optional="true" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -47,7 +47,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v2.3.202 - Add repository.elementumorg and script.elementum.burst as optional dependencies alongside plugin.video.elementum, so Elementum's torrent-provider chain can be pulled in on install</news>
+    <news>v2.3.203 - plugin.video.elementum is now hosted directly in this repo (v0.1.114, base zip + per-platform binary zips to stay under GitHub's 100MB file limit); bumped dependency version to match. Install the base from the repository, then install your platform's binary zip on top and restart Kodi.</news>
   </extension>
 </addon>
 
@@ -92,6 +92,30 @@
       <icon>icon.png</icon>
       <fanart>fanart.jpg</fanart>
     </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.elementum" name="Elementum" version="0.1.114" provider-name="elgatito">
+  <requires>
+    <import addon="xbmc.addon" version="16.0.0" />
+    <import addon="repository.elementumorg" optional="true" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.requests" version="2.9.1" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="navigation.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.python.module" library="resources/site-packages" />
+  <extension point="xbmc.subtitle.module" library="navigation.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Elementum: Media streaming</summary>
+    <description lang="en">Elementum is a torrent finding and streaming engine. It doesn't go on torrent websites for legal reasons. However, it calls specially crafted add-ons (called providers) that are installed separately. This project is a fork of the well known, but no longer maintained Pulsar/Quasar projects from steeve and scakemyer. NOTE: install plugin.video.elementum-0.1.114.zip from the repository first, then manually install the matching plugin.video.elementum-0.1.114.&lt;platform&gt;.zip on top for your device's platform (e.g. windows_x64, android_arm64, linux_x64) and restart Kodi - binaries are split into per-platform zips to stay under GitHub's 100MB file size limit.</description>
+    <disclaimer lang="en">The author does not own or host any content found within this Addon. The author is not connected to or in any other way affiliated with Kodi, Team Kodi, or the XBMC Foundation.</disclaimer>
+    <platform>all</platform>
+    <website>http://elementum.surge.sh/</website>
+    <source>https://github.com/elgatito/plugin.video.elementum</source>
+    <license>Non commercial. See https://github.com/elgatito/plugin.video.elementum/blob/master/LICENSE</license>
   </extension>
 </addon>
 
