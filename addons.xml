@@ -23,7 +23,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.201" provider-name="HazMat77">
+<addon id="plugin.video.starfleet" name="Starfleet" version="2.3.202" provider-name="HazMat77">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" version="2.22.0" />
@@ -31,7 +31,9 @@
     <import addon="inputstream.adaptive" version="2.6.0" optional="true" />
     <import addon="script.module.inputstreamhelper" version="0.5.9" optional="true" />
     <import addon="script.module.resolveurl" version="5.1.28" optional="true" />
+    <import addon="repository.elementumorg" version="0.0.7" optional="true" />
     <import addon="plugin.video.elementum" version="0.1.113" optional="true" />
+    <import addon="script.elementum.burst" version="0.0.99" optional="true" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video audio</provides>
@@ -45,7 +47,7 @@
     <description lang="en">All-in-one Kodi plugin. TV, Movies, Live TV, Sports, Free Streaming, Adult (PIN-protected), Radio. Torrent/debrid sources via Real-Debrid, AllDebrid, Premiumize, TorBox. Elementum support for magnet playback.</description>
     <platform>all</platform>
     <license>GPL-2.0</license>
-    <news>v2.3.201 - Appitogether fixes</news>
+    <news>v2.3.202 - Add repository.elementumorg and script.elementum.burst as optional dependencies alongside plugin.video.elementum, so Elementum's torrent-provider chain can be pulled in on install</news>
   </extension>
 </addon>
 
@@ -64,6 +66,32 @@
     <platform>all</platform>
     <summary lang="en">ElementumOrg repository</summary>
     <description lang="en">GitHub-backed repository for the Elementum torrent addon.</description>
+  </extension>
+</addon>
+
+<addon id="script.elementum.burst" name="Elementum Burst" version="0.0.99" provider-name="elgatito">
+  <requires>
+    <import addon="xbmc.addon" version="16.0.0" />
+    <import addon="plugin.video.elementum" optional="true" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.future" version="0.16.0.4" />
+    <import addon="script.module.pycryptodome" optional="true" />
+  </requires>
+  <extension point="xbmc.python.script" library="burst.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <license>WTFPL, Version 2, December 2004. See included LICENSE.</license>
+    <source>https://github.com/elgatito/script.elementum.burst</source>
+    <summary lang="en">Elementum torrents provider</summary>
+    <description lang="en">Elementum Burst is a lean and mean multi-provider for Elementum.</description>
+    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon>
 
