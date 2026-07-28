@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-28T23:25:02.454106Z",
+  "scraped_at": "2026-07-28T23:55:02.378031Z",
   "sports": {
     "mlb": [
-      {
-        "title": "Arizona Diamondbacks vs Pittsburgh Pirates",
-        "status": "L",
-        "datetime": "2026-07-28T22:40:00Z",
-        "links": [
-          {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a69aad1.146124edi263c96f8.99fb.32ed7811/free.live.espn/master.m3u8"
-          },
-          {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a69aad3.847ac884i263c96f8.9a0e.8d7f058d/free.live.espn/master.m3u8"
-          }
-        ]
-      },
       {
         "title": "Texas Rangers vs Tampa Bay Rays",
         "status": "L",
@@ -24,11 +9,26 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a69aad3.aef31d2ai263c96f8.9a04.2048d0e2/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a69b1d8.6e532aeai263c96f8.9a04.1ed419bd/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a69aad3.320a940di263c96f8.9a02.6cd4de03/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a69b1d9.3a1f59cbi263c96f8.9a02.753acc47/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Arizona Diamondbacks vs Pittsburgh Pirates",
+        "status": "L",
+        "datetime": "2026-07-28T22:40:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a69b1da.7189aae8i263c96f8.99fb.4debc318/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a69b1da.89c6ba60i263c96f8.9a0e.b2bf5648/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -39,26 +39,11 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a69aad3.3525fd1ai263c96f8.9a03.9fa94262/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a69b1da.971f94e2i263c96f8.9a03.cc1b6e7a/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a69aad3.22955794i263c96f8.99ff.a4eb5d8b/free.live.espn/master.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Toronto Blue Jays vs Washington Nationals",
-        "status": "S",
-        "datetime": "2026-07-28T22:45:00Z",
-        "links": [
-          {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a69aad3.1eb8fe5fi263c96f8.9a07.f1e3a616/free.live.espn/master.m3u8"
-          },
-          {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a69aad3.8e0fa70fi263c96f8.9a01.52fa4e28/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a69b1da.19844b47i263c96f8.99ff.7d3eba8d/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -69,52 +54,71 @@
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a69aad4.532ad9f6i263c96f8.9a0f.6aaa52f3/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a69b1da.5de13888i263c96f8.9a0f.1731dc37/free.live.espn/master.m3u8"
           },
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a69aad4.5db35c98i263c96f8.9a14.497d334e/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a69b1da.e279844bi263c96f8.9a14.905c5dcb/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Toronto Blue Jays vs Washington Nationals",
+        "status": "L",
+        "datetime": "2026-07-28T22:45:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a69b1da.2d86c6fai263c96f8.9a07.c2818d80/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a69b1da.c5251096i263c96f8.9a01.7557e490/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "Kansas City Royals vs Minnesota Twins",
-        "status": "W",
+        "status": "L",
         "datetime": "2026-07-28T23:40:00Z",
         "links": [
           {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a69aad4.96feabbdi263c96f8.9a1f.6bc648fd/free.live.espn/master.m3u8"
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a69b1db.8fd5201di263c96f8.9a19.7932969d/free.live.espn/master.m3u8"
           },
           {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a69aad4.019337c2i263c96f8.9a19.f05a8939/free.live.espn/master.m3u8"
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a69b1db.7b7cb10ei263c96f8.9a1f.fe49b98f/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "New York Yankees vs Chicago White Sox",
-        "status": "W",
+        "status": "L",
         "datetime": "2026-07-28T23:40:00Z",
         "links": [
           {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a69b1db.c13d07afi263c96f8.9a20.310345d4/free.live.espn/master.m3u8"
+          },
+          {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a69aad4.cf84c504i263c96f8.9a1c.dcc33c30/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a69b1db.05e8765bi263c96f8.9a1c.4a7bdab9/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "Chicago Cubs vs St. Louis Cardinals",
-        "status": "W",
+        "status": "L",
         "datetime": "2026-07-28T23:45:00Z",
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a69aad4.804d399bi263c96f8.9a17.a837ffd9/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a69b1db.eef1508bi263c96f8.9a17.4cfebd5d/free.live.espn/master.m3u8"
           },
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a69aad4.1d899a4di263c96f8.9a0c.e8ec52c4/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a69b1db.b20fe3fbi263c96f8.9a0c.914a1cce/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -125,11 +129,11 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a69aad4.758bd8f9i263c96f8.99fe.a9f166be/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a69b1db.4152bd95i263c96f8.99fe.022ab760/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a69aad4.c913b02bi263c96f8.9a08.ca250fa3/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a69b1db.1684daa9i263c96f8.9a08.f0e855ca/free.live.espn/master.m3u8"
           }
         ]
       }
