@@ -1,4 +1,33 @@
 {
-  "scraped_at": "2026-07-29T15:25:02.801191Z",
-  "sports": {}
+  "scraped_at": "2026-07-29T16:25:02.703672Z",
+  "sports": {
+    "mlb": [
+      {
+        "title": "Philadelphia Phillies vs Miami Marlins",
+        "status": "L",
+        "datetime": "2026-07-29T16:10:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a6a99e2.6dbaee4fibd4ced18.9b1d.d9e22676/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a6a99e0.8a8d7f00ibd4ced18.9b1e.7c981d63/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Arizona Diamondbacks vs Pittsburgh Pirates",
+        "status": "W",
+        "datetime": "2026-07-29T16:35:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a6a99e2.ffbfd2baibd4ced18.9b1b.cf5bc5f2/free.live.espn/master.m3u8"
+          }
+        ]
+      }
+    ]
+  }
 }
