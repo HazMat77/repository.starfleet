@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-07-30T17:25:02.797256Z",
+  "scraped_at": "2026-07-30T17:53:05.129093Z",
   "sports": {
     "mlb": [
-      {
-        "title": "Kansas City Royals vs Minnesota Twins",
-        "status": "S",
-        "datetime": "2026-07-30T17:40:00Z",
-        "links": [
-          {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a6bf970.4c7d8c35ibd4ced18.9c1a.4626b725/free.live.espn/master.m3u8"
-          },
-          {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a6bf971.277f845cibd4ced18.9c19.ae1026f9/free.live.espn/master.m3u8"
-          }
-        ]
-      },
       {
         "title": "Texas Rangers vs Tampa Bay Rays",
         "status": "L",
@@ -24,11 +9,52 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a6bf971.f0f26b27ibd4ced18.9c0c.ebf81f6e/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a6c0002.43da7cd6ibd4ced18.9c0c.a9e0b904/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a6bf971.bad1b1b6ibd4ced18.9c0b.bd2622d0/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a6c0004.90ef7c12ibd4ced18.9c0b.f9f99f99/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Kansas City Royals vs Minnesota Twins",
+        "status": "L",
+        "datetime": "2026-07-30T17:40:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a6c0005.b4fbe984ibd4ced18.9c1a.3b912a32/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a6c0005.5b9ba594ibd4ced18.9c19.dd1d7449/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "New York Yankees vs Chicago White Sox",
+        "status": "W",
+        "datetime": "2026-07-30T18:10:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a6c0005.f7fc3fd6ibd4ced18.9c1b.310e4b22/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Chicago Cubs vs St. Louis Cardinals",
+        "status": "W",
+        "datetime": "2026-07-30T18:15:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a6c0005.821ca41dibd4ced18.9c1f.56294e30/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a6c0005.14370934ibd4ced18.9c1d.58702477/free.live.espn/master.m3u8"
           }
         ]
       }
