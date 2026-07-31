@@ -1,94 +1,101 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-07-30T00:55:03.233244Z",
+  "scraped_at": "2026-07-31T07:55:02.895283Z",
   "categories": {
-    "nfl": [
-      {
-        "title": "Winnipeg Blue Bombers vs BC Lions",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - CFL+ (HD)",
-            "playable_url": "https://lb5.strmd.st/secure/BREUxswCOHBOfDUQUhTqmlTkcCsHBvKT/rtmp/stream/BZqdAahE5oQ8Xjn8yaJeUoXHKzmfIvmCtOtbwFm06gxvpdPnwX60oLQXqGmZT3FWXtBLBMmO1gdNv71Ybw0EyiICnS-V47pG9g/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - CFL+",
-            "playable_url": "https://lb9.strmd.st/secure/ruiCtMaqMDXvxCElMMCTazvpaEbmafbL/rtmp/stream/gLoGIWn8km0YIqYZsw4yOcK83_nrQkw-qjE1RY0KepXIeEFZkZeUz0l55A-sJyVXA5bbu9cSiJCMPtMnmTx1U9EoXa4PLUdQxTJWwOQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
+    "cfl": [
       {
         "title": "Ottawa Redblacks vs Montreal Alouettes",
         "is_live": true,
         "links": [
           {
-            "label": "English - CFL+ (HD)",
-            "playable_url": "https://lb2.strmd.st/secure/jmeuUvfxfjxKcEmUMzrqamZlAohjTOlK/rtmp/stream/ikHIBeWL1uQ0AbNBDClskClgeeRQ4mAjm7X3zOKDGypIl0w9nNwZgYAyy2g8zVwlxSorRlwF3ynsF-PDEDKMCJuS42Oi/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb2.strmd.st/secure/JzvbbpVeEcqEQLtbvdSmyJsIcPuDsIqO/rtmp/stream/HD81frUEK8LbCUtnkjLtT7FSdnexk12jvEpPjXslq1DbDVCq3ckUSXaxRNP0dkIzH2P0D_aTxQMrGpZE3a5zpGutYLkD/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-montreal-alouettes-vs-ottawa-red-blacks/1",
+            "resolved": true
           },
           {
-            "label": "English - CFL+",
-            "playable_url": "https://lb4.strmd.st/secure/zRghHxxUgJigkYuFQxsrqKnUWZlvhtru/rtmp/stream/eNqGV2RGo_0bgyQeizKRmGi3OJ6n9L4_dk75KgDfKxgF1t-Zd88C8HIxcu0ICvVAesjovK1LEZ-AoVa2SWndI1yiWTnVyeCFMg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb9.strmd.st/secure/pljXqnCtwIkKSEruvpVZPQZowrksyKlq/rtmp/stream/WOiHg0NCEvc5UacliVOKm4KwaSKiz9zdSqpY2HQRmSuNi-RopFIs6kDMsu9z3SGH2Rw2rak3UWVE8hR2hTFZDiXWiit_kj9pPg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-montreal-alouettes-vs-ottawa-red-blacks/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Paris Lights vs. Firenze Red Lions",
+        "title": "Hamilton Tiger-Cats vs Calgary Stampeders",
         "is_live": true,
         "links": [
           {
-            "label": "English - AFLE+ (HD)",
-            "playable_url": "https://lb14.strmd.st/secure/xrJHThYhVddlFwIOPLcnJOeMPaDXGctr/rtmp/stream/C_XlOlriB_VomC926PoRB0dqJmYKQy9oMmDpqf3X8gSpGljmj71kyDP0MCxBsISc6IpcaC6dQYD2zHFfvb-5T1fsRrZOaw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/ngvSotgjcXdihPtkqAYsTxTfGbYRQDhm/rtmp/stream/5Bswx9HyWa1X-GQggiBg37ECfavgptc_FReDqz-BPkQzdf7dGieEOszlS1v9laJ8xelSBSFPHseZvcvAXnalvi0CfhwiIKI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-hamilton-tiger-cats/1",
+            "resolved": true
           },
           {
-            "label": "English - AFLE+",
-            "playable_url": "https://lb6.strmd.st/secure/NRtuzkwftsLRaitJqIvKuZFQGghLVrsA/rtmp/stream/wRn58vVpcimU3ag8ogvlkGtoPQNo3W44RAq7cHjekKv6hRrdsGgKaDrOpxo-80n8-nbypkGtiztvt7-MYx-ukqnFCgq3Vv5Cw3Q/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb8.strmd.st/secure/xEimSwadCcZbojPBNcJtIjbKmSHZnmME/rtmp/stream/weTBezC7YYm-HQQ-gSComJWZTWSD0NhukVyrTunNyymvUl-GcW3R360U05QQzI2r2mzfTHh5SxQjV_D5Pplwgi4G7adQ8hHJBjxF/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-hamilton-tiger-cats/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Alpine Rams vs. Rhein Fire",
+        "title": "Edmonton Elks vs Saskatchewan Roughriders",
         "is_live": true,
         "links": [
           {
-            "label": "English - AFLE+ (HD)",
-            "playable_url": "https://lb10.strmd.st/secure/cxaBsYGxkxLwvkKKPTDlGbcEVGVBSTpD/rtmp/stream/HmXFzXqcKgLz6Z8NQzm0eWkCNGMeJcpYcWb6hvvNPdltYuIcoXbu2YG22hSFgbQBhbqVOtkRJuIShgrXw3kgVw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/HyhHTBicSQGPARwllMRafEBCUAtoBOXk/rtmp/stream/QHFAZGxCds27xIwmIWgOors9FITkAB0Vjk3xfPrnHi1F-ubIJpMMH7tPieDqtPlVst8c5IBVBrLyrkiQyfNkhBgK/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-edmonton-elks/1",
+            "resolved": true
           },
           {
-            "label": "English - AFLE+",
-            "playable_url": "https://lb2.strmd.st/secure/atpFqmzKwepAsCNvzuarIwmvsjcFYCgp/rtmp/stream/QNIrtK2a_vNP3T1SQLCxVm4rn-rAdilOdX7nMVJ9-EcV7PmExxV7Qt4bf2_pqovv3ekouOp1ctk3R4LB0QRQ694aGmk/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb4.strmd.st/secure/UHotphmAxWdufnqbXBEdJcGyASvesmEp/rtmp/stream/6m84ySK6-I_c2XIVdv0ys6cp1I2j-88-rM0h91rTplXxPesk3jCWGQePq_3_hQ6ALzjSk1hkg-xZceM-cOJvriC88QGBvA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-edmonton-elks/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "nfl": [
+      {
+        "title": "Firenze Red Lions vs Paris Lights",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb13.strmd.st/secure/eiqQLwnYqouHVXrbcwcKzmHOgmPMLLvm/rtmp/stream/ZZNAoVFL-D6XCqRumJ_FX-d5blv65iA0W_8Etf3wLEa0mt46VUbRhamZCLpschulxKZ-R41HtgxFM85XdjtDztoLOdNSCw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb4.strmd.st/secure/FgTXoJynIiguSUCXpOeapJfSNVtQGMXw/rtmp/stream/y2EluejL41_Gx6J1wLbwSgxDazVEl7blV5K1j9CT5kCU-B--KPdza-KrTjUOT94NJVH8HMkBOLfgxM1PY2FRAmC19KMhJaHATao/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-paris-lights-vs-firenze-red-lions/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Calgary Stampeders vs. Hamilton Tiger-Cats",
+        "title": "Rhein Fire vs Alpine Rams",
         "is_live": true,
         "links": [
           {
-            "label": "English - CFL+ (HD)",
-            "playable_url": "https://lb1.strmd.st/secure/PkFDCtlQfMfwwdOJxeZgVObAPxGHXccK/rtmp/stream/PBm6nRQrVxzPEDB_tP7pLxg4W5msmbjfTHRgJBwBTFLqu6aTurNVfjaB1xyvTjNeMrvmt7LGmTAwuYMWHdkXpAc6dTAl7Rk/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/VfdBnoclTjBWkuoRxSfCnUkZVkPqGxFh/rtmp/stream/2ZHPMjnW-FFn9jW8c0f9RrdDTYayHzstU8cNQw8ALfNEL8o7SlKq1x45do0eoc54rPPlMaR1vGcfAkHEQ7WRqQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-alpine-rams-vs-rhein-fire/1",
+            "resolved": true
           },
           {
-            "label": "English - CFL+",
-            "playable_url": "https://lb12.strmd.st/secure/adumeSnfKenLxkdquLGOOHwxWwlorOym/rtmp/stream/LiHSMuv5bVY84e3zftwMJJq0Z4GdEaJD9NU3MHku2d1dVEVsFCg5bJN-SKv0Z3EXpPFyo3TZ0NMHm7fKOSOCyN_FOsJ_8FmrJAmm/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Saskatchewan Roughriders vs. Edmonton Elks",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - CFL+ (HD)",
-            "playable_url": "https://lb11.strmd.st/secure/VbrIctErhpznzRFKsjBvtPsWApIiJEEl/rtmp/stream/iDDZxd9FfC-xTtK1aGiZOKbsrByzd0MuJ7HyurhN9KAD4qMqDlbj9cIKTqmb5gg89Iy-UPSfFHh3-uBxG3qXkjGW/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - CFL+",
-            "playable_url": "https://lb6.strmd.st/secure/RFGwdFyHGSudTfIHOiPXnTnlbymBxfbx/rtmp/stream/TYBiAVsaQgmQnqON2SfftKasoztoY6f4AnncG_52OrY9Avb-e4eXK4SjPR4oeSYrdn860m2XpfuyZy1WhqEutcA39m9cKw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb8.strmd.st/secure/olTgHvOLEFmNVpXtXnOkyzlfxhQYyvnv/rtmp/stream/PHaQsUyKCvp8bOIzW651VQgjPQm-vYKJic8-IezhQAYgt5KCks0pToSslHCH79rE2j-ToDsDWPlw2wZDQUp-HyhHGA4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-alpine-rams-vs-rhein-fire/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -98,12 +105,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - AFLE+ (HD)",
-            "playable_url": "https://lb5.strmd.st/secure/YpAshYjNaNRyUIljvzWmdDgxdhMuSuWJ/rtmp/stream/d1QpG7z2Ew4Haxzbog5ZqMUlDrvlhyNe-Dm8Lij8xeVGKoT9iBuSoW7uiMtgY2zIHeKrFo7zvYwu45QxpTsJyoVeZug/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/fEUHNTOkyTwTVALytQGdAUkjRZYbpWwG/rtmp/stream/RFF7kcBma47xsaU2ZSsT6ErA7fv_8j7pAqxaUufa3hMnL3Ppbz79Z9MANbO9fhTKRbiOSL5cdAMY_zNWjgWAdDIIJJ8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-london-warriors-vs-berlin-thunder/1",
+            "resolved": true
           },
           {
-            "label": "English - AFLE+",
-            "playable_url": "https://lb14.strmd.st/secure/zgQWgzMXuDfndtHHcccqAqWzmcxLxVgs/rtmp/stream/_q7nCKbPwVXD_9_Ir2Wss0NmwV8Enm9dLDE9j-HDSthgvhzeh3SdocMnKe9CZ56q6ssDcbNhaD3pdRkC02_km01qIqUNpRkK/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb3.strmd.st/secure/vtVKtqcElZeLPVJjjcwDWTmrFsxAaODY/rtmp/stream/9xpOL6sI8aiKMiDDHns9_AW-rg2Z2qpFoINaSXt2sh4JLJK6S8bQ0HxxGMWSey1A_rOSt6KykLmBsJJt_iP8h9wSLu28pIeV/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-london-warriors-vs-berlin-thunder/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -113,48 +124,69 @@
         "is_live": true,
         "links": [
           {
-            "label": "English (HD)",
-            "playable_url": "https://lb13.strmd.st/secure/iWuOFpkJuOYyzZotvZdMixxlDTgcYuVE/delta/stream/live_nfl-preseason_cardinals-panthers-live-streaming-587559312/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb5.strmd.st/secure/wmhnQvSMxilhHiAOtsJwCIQZHWMgUWUh/delta/stream/live_nfl-preseason_cardinals-panthers-live-streaming-587559312/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_nfl-preseason_cardinals-panthers-live-streaming-587559312/1",
+            "resolved": true
           }
         ],
         "start_ts": 0
       }
     ],
-    "nba": [
+    "wnba": [
       {
-        "title": "Dallas Wings vs Atlanta Dream",
+        "title": "Washington Mystics vs Dallas Wings",
         "is_live": true,
         "links": [
           {
-            "label": "English - USA Net (HD)",
-            "playable_url": "https://lb11.strmd.st/secure/uCtbQSoFkFAzHAmASaSEOzHeNIeBAsao/rtmp/stream/bbNt6Vu_GrVAwlQACifY7K4VkGguJHVv_28kUnEzLF6Bo4KCHVtfvLo0d3nQczv1_rMqwm3YjpX6RGSt6w/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb2.strmd.st/secure/AyBfiAtZREiesPJxDGYIvbyRjVigxZCt/rtmp/stream/mZEg0Rx5nlENAK4WXahpj4RgU03DfxxTKGmYeAjPiZV_88NqTaxRCzuRLXoFinHPNMyV4soQtOEdhl2SAp877_0Juw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-dallas-wings-vs-washington-mystics/1",
+            "resolved": true
           },
           {
-            "label": "English - USA Net",
-            "playable_url": "https://lb6.strmd.st/secure/CAskVIRrAqXOHIzTAPVoulYNgFpODTIF/rtmp/stream/WORHZmw8eL8ERmyVSxWzTR1niOiyz9qiFq0q1H-4eM0VzXXjkEr9NCRkzZ_G1e33jHoZhWKT2LtAqwmLREfPMA0/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb10.strmd.st/secure/bbJJqaJsYyPMNSsUSgTtxyyMwbdzCcfg/delta/stream/live_wnba_wings-dream-live-streaming-524053152/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb3.strmd.st/secure/wGHyzxAfwrWTEgKihxBzXcbSHUHMKTGg/delta/stream/live_wnba_wings-dream-live-streaming-524053152/2/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb8.strmd.st/secure/JFGRwBittNyQEaWoSmvHeATEziQbmkQo/rtmp/stream/pV4PpgdPwpL0st7y-ObwsIyjbV7mTWl859-QXNzjHY9twiK8TYBkjrwLSpW6It2gL0IQdhY8Mw1RX2_8VBwLskczpeYcW-k/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-dallas-wings-vs-washington-mystics/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Phoenix Mercury vs Golden State Valkyries",
+        "title": "Atlanta Dream vs Seattle Storm",
         "is_live": true,
         "links": [
           {
-            "label": "English - USA Net (HD)",
-            "playable_url": "https://lb15.strmd.st/secure/jMDKxjQwtcneNCGqULqDXHWnUnZSROHd/rtmp/stream/TxVZ_pnG90wHUZNPNVDYK5GzHFEdEmmLCYmqlTKw6-XRpzjYb9IQ-xZmCm02T_p_rohsqtBAlscCkNCIu6OYOQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb5.strmd.st/secure/YNVdDFBewifrJKoZPjbtTbFIIjGgBcxL/rtmp/stream/xnlXek_bYMc7erhuneztI4iNSb1KQc-O7Rpbl9KqnwePQRAmfy5C__Z4BKCX02RtIM0PJKLTt_Pp943Y82I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-seattle-storm-vs-atlanta-dream/1",
+            "resolved": true
           },
           {
-            "label": "English - USA Net",
-            "playable_url": "https://lb8.strmd.st/secure/YyoqHOZIPegfkYsUEohSCLYFAKoRpyVB/rtmp/stream/wBAMVc2FpMTeod_iRftw_PvMTB9XJr2kJkJv4XM6wGlVoM5PnD7PisGYh5dZU5GiyDcmqhrsEQMMW2B1DAHqLiWS0g8/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb11.strmd.st/secure/KOtqjvhAnZHgSQDgHusnuPUMxBKAMknA/rtmp/stream/cWeQmLA6NUt9IkjgxVvRmVBYyNV_VciJzSeofhNCUE0WKe8k3gOTAILLUin4-XdodjnTME-U6oEcGJRp-CIKm_Qc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-seattle-storm-vs-atlanta-dream/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Portland Fire vs Indiana Fever",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb13.strmd.st/secure/fYJUBpOLeTtdtQfxUzLEVHtrTLGeUAgF/rtmp/stream/TtcXpPKcAoBwl2KrFVfL7KqYmaGE9Y0ojbcHI9lP9xeiwTkeBfKqvTDaLqspmqd4sMOz_A6VDawj_Ec1Uwg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-portland-fire/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb1.strmd.st/secure/EAKFimfMrPEdiOxJdnaGIdcfgCwZCGVi/rtmp/stream/aqffp1V9CKqfmhRSOxN_oWaGv8JRpfaNURN_uPXb6G1i_ASGwKhfMb_-AkMN4cEyLdJFDa9NM5C2olexHHUh80it/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-indiana-fever-vs-portland-fire/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -162,66 +194,20 @@
     ],
     "soccer": [
       {
-        "title": "MLS All-Star Game",
+        "title": "Birmingham City vs Barcelona",
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb9.strmd.st/secure/vQvQLWVLBytsofqsvVCzguzWxamNaHEb/rtmp/stream/aQNH9IB3dVidDDxRCfd8R71NDcB7znl88XAcgvuc8ioPWz4k9_SF98vf4lE5A-Lgqvv_Yma7gcnZrtr9oGF6sA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb1.strmd.st/secure/zJhivyvNNqEMFIKCaaNjVJjQRTSYScdl/rtmp/stream/aE8m9CunVu2hhoBVmPgb913s9hXIG-BKXApdcuofgUapJ6HxJ5GAU0OJpwU5w8GVGnCRJQxwb-kqNQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-birmingham-city-vs-barcelona/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb3.strmd.st/secure/bvszpBynojVMayGdlbOjmOfeweHLEEKl/rtmp/stream/TNDBESALUBmNCxGjZs3lHY-mUbvVMQ_hgv4i8OcvylqbAdbSUSft09VYQdu9hkpKNSGAGu2Y64f7kqpiCs1Zmicy6ig/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "Spanish - Apple TV (HD)",
-            "playable_url": "https://lb5.strmd.st/secure/REwnTocOjCAIOINAUmewdRILgzayAvUi/rtmp/stream/OKLuINKs2X1qcKgg0dl3SXVXzlKOv7-z2NsSIHLgOwXOJ-c720TKXFAO28rdgvxj5jbTM88CXvSykGBaQdIFrNVw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "Spanish - Apple TV",
-            "playable_url": "https://lb6.strmd.st/secure/DzvdSioZLhcGpGPVfQuWdDyVMUiduJrX/rtmp/stream/ABD3E0Wm3Q_3G1gthn5uDIIFuHrh8lbg9PLKp4hW2y7wTdoR5OhqhrYzhj1_brlojqaMwAdLj5C5DI2TA24GHjfMiV3NFQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "French - Apple TV (HD)",
-            "playable_url": "https://lb14.strmd.st/secure/cQCXjFBciqIEDakiXQTvSxymMQcgJhEV/rtmp/stream/MhXS-f__TernL56gHN4rwzYYHTnLA5qVh3kIXnjgoaS_hE54gnRrDeNTIhpofWAmxQsmfQmWYClqq5yU5jl23jmr/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "French - Apple TV",
-            "playable_url": "https://lb1.strmd.st/secure/tzSUxnzpDNDueSjRVSntaJDaHObSPQkT/rtmp/stream/-DR4l1lFndW0utGCvvt-tTrZfCiQdxLrWS4B7Iw1Wpggz6FyqGyl1hzKNnzsjDj3ACtjJs-kXuG3uCJIvh9R27QrHNmEaA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Liverpool vs Wrexham",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Club Friendly (HD)",
-            "playable_url": "https://lb12.strmd.st/secure/kDmyoNjtBRTxEPyZpSEVGadXIufDptYi/rtmp/stream/NbuKo_1rjGp0Rfwre63hl7-aIlFiiyJT1U5K7ZLUgWi8DrWJUWX_pYADGbpCDck2zjiVbK_WILt9zg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Club Friendly",
-            "playable_url": "https://lb8.strmd.st/secure/PDrFFeOSIhfPPxiCKmThvUbFuXzbHouy/rtmp/stream/5MrgUeX-wwbPlSRptyKeiFtop9gaRw_zW7Gg2OcDAG_2SWDebo5mp043UpHCEoFCKAK6IJKo2De89OwOVvE/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb6.strmd.st/secure/ZojvfzEZgxnKhqOizyvfkheumzTjWrVS/delta/stream/live_club-friendly-games_liverpool-wrexham-live-streaming-597643056/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Senegal vs. Kenya",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - beIN Sports XTRA USA (HD)",
-            "playable_url": "https://lb10.strmd.st/secure/FZxmhBmiIQAzrGIRGJhUsxHTvVGaMRQQ/rtmp/stream/6SWRIggRsV5yc-qCo4vc_Ijzx0mPR5NoM4lZiIcsoG1WvM2CjAwNbdlxqwVt8r3pPnHnghZMZ_z_/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - beIN Sports XTRA USA",
-            "playable_url": "https://lb1.strmd.st/secure/rRxqsAveeQdvcTJusFUkjiBqMqQqZmSN/rtmp/stream/ZqmEs4VXlMyu7BD63wpoYfw0aeh4df0AqFsHmmtB1GhFi4brg9ESn40LjE0mRYZ8fm2Yf0IVBZKXr9lbNA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb5.strmd.st/secure/nvaDPQnBsITYpuWnvLLCBXtZazSmDtii/rtmp/stream/ftRRd9RCF2E5H-cbuRecjefWf-wUz1XaZpQqQPPUdWPh3w9cDQDBr3-s8wRdDcc-YGrNFCn5KHddmSNtcw8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-birmingham-city-vs-barcelona/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -231,12 +217,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - SPFL Premiership (HD)",
-            "playable_url": "https://lb13.strmd.st/secure/fsczEONbFUTgrhdTctGKeFteDDCSFawl/rtmp/stream/Skq9R7eYsUyaj0bhTN1KsnpwgrE66MdLBgcKX303YczIH1EYIE4tdb8yf4vX1JilZcLzap4usBkJ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb1.strmd.st/secure/lvKLpAHLAipjKhnXVGtBlsOFgifZjnmT/rtmp/stream/kF4TgpUHesfnfnZpbKMo1_m_qTJQhvyp31PObJJ_Jw8QuSclL7GqU2Sf28KaYZsBWWQlwKY6eZhQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-dundee-united-vs-rangers/1",
+            "resolved": true
           },
           {
-            "label": "English - SPFL Premiership",
-            "playable_url": "https://lb4.strmd.st/secure/EhHaRXONIKoPgUDRvxWpQfZGlSwtkiUk/rtmp/stream/cDwxgOBdh005nfXfRb2MKtNg0VuMQDtv8BX2TDqnS1kmgGUZE5JCKQygv3GDu-0mc7csCZJjapPMCpibuw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb13.strmd.st/secure/rpLzDAxyRfaCvgLYdvDjoVxxCGZkuQYl/rtmp/stream/3PkWDjCLC5okddB30uGnkKW9DDumYLpngjE7JPhE8WZlzjElgPB8aGZc69ODprNfusgw7A4Xtujdmek7Dw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-dundee-united-vs-rangers/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -246,132 +236,149 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb6.strmd.st/secure/TlUNPUaslcQYBzfLlXDPTdxIiCIDzUAM/rtmp/stream/0LW8ohKygNtuM1dqYlihsq6K8St42Fm0dKGRR33iKISHYEWFN2Uar_-6qrQIq2-uf6pxajHnmzuH/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb3.strmd.st/secure/PCoWNOPzqnRnJqxIuJWEfNskttnqDWTb/rtmp/stream/tozdge5x1ypdQFUO35zEMmQC8EzUN6dN3VfcTpXTJrkifL3e8xUMf3ibnZG2XE9Z4IX5jwGELIgd/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-new-york-city-fc-vs-toronto-fc/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb1.strmd.st/secure/aLNrxfFXNapkcZHcWCoEwmOiQxWlCGwv/rtmp/stream/2DBrrDjoHbzJckW8LTMsymZvJDBgqh7xZLYQXzaA-wbupNVElBiT1FYtYu5_Q9Py1Ltthu_58sdfhbZ8JA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb1.strmd.st/secure/GhZoARwOwvMtRlqEsleJvQWCDgzauDSG/rtmp/stream/J83uX70EbK0BpGMZk8lvIhfqZxRPdKFnouoPjHT3m7MxdevNbaCqGKhsIEUvQLJCF7SjjcOJjcelW3lAgw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-new-york-city-fc-vs-toronto-fc/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Puebla vs. Guadalajara",
+        "title": "Puebla vs CD Guadalajara",
         "is_live": true,
         "links": [
           {
-            "label": "Spanish - Liga MX (HD)",
-            "playable_url": "https://lb5.strmd.st/secure/HHJyjGKlVmODNwQtBFKMFUdcmcULZCXt/rtmp/stream/XV9zII4gzroLqzPXB1ein1Uaqr79EE-AAo8rZ8nyC9aMdydUBPJQIneowB7ZeqFkF97F7QMfCM4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb5.strmd.st/secure/jPqvBaTqBrCxsnhQGnxNJFvKawaWAVJG/rtmp/stream/L_kikSVv9N8DCCGT9kvlDw-U-d1DYXBoEDnyPbzD6WNPeLlcanL11D6WSWnLYLeZVbw1to491Uw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-puebla-vs-guadalajara/1",
+            "resolved": true
           },
           {
-            "label": "Spanish - Liga MX",
-            "playable_url": "https://lb15.strmd.st/secure/goWRvhQzqjKMmjHRkNApnmnWhfvzLnbk/rtmp/stream/U2lSxSgEag4xIoJ8f2GQsIrxbVoayg0mEYELW9Tk5ws6Yg8nSUaA0jsJ90dyoovRUXI6CtAh0oI8SmGz/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb1.strmd.st/secure/TTmkEjNBRQZCndtWkvbNDYDkxrLvnpZF/rtmp/stream/TPPdTWrI7wYFklBJmf7okwSvJoGBQ-O8siYlFcRdnpOzFJENXUs8EqrfLz5sl9bi4PJLLMt42I_RBDHF/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-puebla-vs-guadalajara/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "FC Juarez vs. Pumas UNAM",
+        "title": "Atlético de San Luis vs Tijuana",
         "is_live": true,
         "links": [
           {
-            "label": "Spanish - Liga MX (HD)",
-            "playable_url": "https://lb8.strmd.st/secure/IxaeVuOCALFkEaICbZfYUpVyDPqndHMz/rtmp/stream/pX8IBf06MwFge-dwDj5WBlaEjY-kRtiF1Lbye0WnJXKCKL2mYph6tY_gjuXt7OMg7ooYKb-fJy0/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/RcwMevNvePpzILfzNtxRAjyvnpWcDsTg/rtmp/stream/AaVbmkj3wFX2voCx7jCIYzj2T4LpP6K447WfgYqaB52uV6ciEda1i9QEv7bn17rp-5DRqy0ntVU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-atl-tico-de-san-luis-vs-tijuana/1",
+            "resolved": true
           },
           {
-            "label": "Spanish - Liga MX",
-            "playable_url": "https://lb6.strmd.st/secure/cYIQhJTCfmpIwJyikPlIieqboTqBTCyw/rtmp/stream/mW-GWhR2uyIvkkJ6pLaIK5V6fkWNkfSg-oKyRSnRN6DdwV2oxIud_9oKONmBrjimiMHQICTisi3iBxHy/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb2.strmd.st/secure/NAfcmIdpEXOyVLXUAoKbXPTyUnBTbPms/rtmp/stream/Dj8cxlKba0POrJbWoyrIVQNigoIFp4IvoyjrtVuQ1gg4IxD0FrvAgkazCgqoxFlXLNp3JZaJ78mAEzH5/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-atl-tico-de-san-luis-vs-tijuana/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Atlético de San Luis vs. Tijuana",
+        "title": "Juárez vs Pumas UNAM",
         "is_live": true,
         "links": [
           {
-            "label": "Spanish - Liga MX (HD)",
-            "playable_url": "https://lb3.strmd.st/secure/gYLEBylWdyMTjwGsRyeTaBpTvUgiWcJQ/rtmp/stream/hw3F_cUTc1XQlm0lAhuwDxz0IJH81jPQuT8-dp_n37RGy3Q4QsUjuHuiEyGWphIyK7wdVscGz4k/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb1.strmd.st/secure/kTzXcxjtoWVLKjKaHSnXnsXzBxLiOMeD/rtmp/stream/ZAe70pK0p3a8QtoJcDK00i2rN2dF7dS0RODxgWqVgLWqnNRmz8rBDwAtzuypcYqzFQlon3IKKDE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-fc-juarez-vs-pumas-unam/1",
+            "resolved": true
           },
           {
-            "label": "Spanish - Liga MX",
-            "playable_url": "https://lb2.strmd.st/secure/gBypcbsmZgMjJwbBRUpgWGWVnQsQomaE/rtmp/stream/FS3zAC12rHtAyrbr69oAyxU9FIbtk6gbmvEyrihDT4jlvb_iQAR3v8FF1BHnjuQxNFf5LafWrS50Bpo4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb8.strmd.st/secure/MJnsVgKGqyoUTgMFNJxHZUuAFuKCMKRI/rtmp/stream/Be14RcKt8BjXsIWD-KUsBJ1KZXyYt1XZjrF685vFDAZDj8pWBUaQ6vfAV3WhzoEwdn_K6fizako1wgo_/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-fc-juarez-vs-pumas-unam/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Chelsea vs. Tottenham Hotspur",
+        "title": "Chelsea vs Tottenham Hotspur",
         "is_live": true,
         "links": [
           {
-            "label": "English - SPURSPLAY (HD)",
-            "playable_url": "https://lb11.strmd.st/secure/PWwiCGzbCKCTHJtUnNqwKbyvvJYgNOOl/rtmp/stream/MVOHvPOzzi8rhS5hX5Q83lUzA2Vq99UQLOlbgiRKPzNE7AmO1CD5Weh44V4STcxciwgyxA0G0Q/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb14.strmd.st/secure/QqlUkxVFLMYIJOoDfJfeQOuBgFsIVpro/rtmp/stream/SgpL_ZLoQjnU3wOvZkd0pSxD_0pZb4xvI9sKY7I0PFv46K2hzFRckVhlnmq_Q-1D0jCwVWautg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-chelsea-vs-tottenham-hotspur/1",
+            "resolved": true
           },
           {
-            "label": "English - SPURSPLAY",
-            "playable_url": "https://lb13.strmd.st/secure/zuMHtlrpiaHJdsJLzyahXdwGHhNaZOtd/rtmp/stream/UQoUSwFXcpiLU8ongt12VQkbrcz6N3jGDx6P7jMcJ3ksCWe3zneG5L2DE7TXf93LqXVvmyANtYUM9DM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb12.strmd.st/secure/hIqoreOXhLtvjeAyEJNDWhmRYoYFcgId/rtmp/stream/v1InwdhFAN0bTqXXPSnplYyS3SZwk5Mb-etzwyfLoVZCe91GqM6z3RCLOgBiwGzdLsFrTFzH3s7aQD0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-chelsea-vs-tottenham-hotspur/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Falkirk vs. St Mirren",
+        "title": "Falkirk vs St Mirren",
         "is_live": true,
         "links": [
           {
-            "label": "English - SPFL Premiership (HD)",
-            "playable_url": "https://lb11.strmd.st/secure/tdkaTymLQMnYbloKmIpUkWHmUMlIazwR/rtmp/stream/HY6yodLE_lZzzmv9Q8yo2RzlRJP_mQFQss4IdmzC0ydJeNydBekrzVkZkPu4_a0inDcYNk0D_MnfBA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/vdNIILZAwNPKkfMrTWjwDnzwXcgesvNY/rtmp/stream/VtYxkionzimblB98xqdCu5uqFkncsmG_f7OwdTyZzWX6xyDa2HESSRtUINnQOdqA1EicUFXZxd-pYQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-falkirk-vs-st-mirren/1",
+            "resolved": true
           },
           {
-            "label": "English - SPFL Premiership",
-            "playable_url": "https://lb2.strmd.st/secure/uvkAdckIRTzkkyEKVzrDSjjVSELiweas/rtmp/stream/7VxH8JVNxGg58259Am0lViuAN-flvj7UbCOH5qZfiQwcHw03cBpuyg8Swh5RtCz9XsoSm-FiRQagFjDopsM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb2.strmd.st/secure/SSdjpPAPFGzzfySHFiZvDUPlpAtyohOx/rtmp/stream/rMsfQI4j4KwLpzjmQXhJHO00J9GP4S_IZzUlFRKQVbNTUE7e3zwaAE2vq07G7UDgZRZwYIR-6rByxlQkZ0E/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-falkirk-vs-st-mirren/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Aberdeen vs. Heart of Midlothian",
+        "title": "Aberdeen vs Heart of Midlothian",
         "is_live": true,
         "links": [
           {
-            "label": "English - SPFL Premiership (HD)",
-            "playable_url": "https://lb12.strmd.st/secure/QaZNyMROkNmJsJSndgJCkWwwmuvuOeeq/rtmp/stream/4DjDWtzkum197DUHpO6lP81F0vVHbOzHm24zhB4lz2zfiI7G1TxmbFa2cCqLaj-XjyIjZNmy4GT5/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb10.strmd.st/secure/HYRuUOoRrKYuoQoPHKfarHoQDyNgaMlJ/rtmp/stream/-NhCWA0z86AfbljDO7ApTJeIu5vvV5ZCwvfQQoALRzSIvKxfztl1nPVC75DQ_MVU9eg2KZsDu3RI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-aberdeen-vs-heart-of-midlothian/1",
+            "resolved": true
           },
           {
-            "label": "English - SPFL Premiership",
-            "playable_url": "https://lb6.strmd.st/secure/jWOrxGoMqeVZoLNlNUAArItfAXBOyikE/rtmp/stream/uqIM-Iqaz1H-rG_14sA-2yq4I9nGJCHjgce6MJJhwj-P83SrlbhFbAio8-az22UmDWEtvLF9I-9zTOl1Pw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb13.strmd.st/secure/JRLGpBfMavtmKjbqjKfWSvDugVoKgNnD/rtmp/stream/WKqVSrcJfbF1KTIthiDlYybxXwv7X_oTZadfb4oIc3hnyNOQArDP_BqURr8AO3oW3wUyFRzew0u-4BLCuA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-aberdeen-vs-heart-of-midlothian/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Querétaro vs. Tigres UANL",
+        "title": "Querétaro vs Tigres UANL",
         "is_live": true,
         "links": [
           {
-            "label": "Spanish - Liga MX (HD)",
-            "playable_url": "https://lb14.strmd.st/secure/aMVsrkbeFwIaMnYnaviyuuNPhkRyjWii/rtmp/stream/yq2AD_LwG5vdvxBHfuLpEjWJbL1fBXPfpI4z0gupKBHXd_I3m0HV-8f07GubUaldskeF7eGX5kE/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb1.strmd.st/secure/VQrKqAzSOEhhQBULjVxiqBnvpASTjYvB/rtmp/stream/qioKsH8t_BinlqncZ4XKNbswvqU8eJNJfHLy1kKi8jg8sNXS9F9A5BnXTocGZ_I7shr3CMPM7mU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-quer-taro-vs-tigres-uanl/1",
+            "resolved": true
           },
           {
-            "label": "Spanish - Liga MX",
-            "playable_url": "https://lb3.strmd.st/secure/jKzTUxMXBRBlwJezJmXkrkeVsDqoCNwp/rtmp/stream/LAn5Rh_lkENbBn1yNyX6Y5nMRU2BeS_IYxxZg2ort51-qgg21sA1NZXPaRHMK_BzOj5pNuTj40bQOFWa/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Red Bull New York vs. Orlando City SC",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb6.strmd.st/secure/ietUxaHhLRSpxRsFTFTYRbezMqaLKfGO/rtmp/stream/W7F276l6Qg5XQrRyIIHofsMZki47THc6JH_nA9fbZmnpMLfNW4GblQmJMk-VwJA8-aOUpv0VDnqoAw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb13.strmd.st/secure/gRDvAXQyEvKAWHZbnxesFHOOHIuoRSkC/rtmp/stream/11Z6A8huK5zYE1DuB73ZxHKlrCJIOxaLvnEhGFwAckFVcKiYan_11JSMXyKckhEzDXIxs-l7FOnMAs8BoLs/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb4.strmd.st/secure/YKyfImwrsCkoxxKpwJdmMZBZhlsxWGuS/rtmp/stream/uJAJE7qWOIb2r8-c88WnRd-SMzoq5Fs8ZexOytFjjk8xjPTuRaEGSQTHvVnea6QE4KQWX7LuxLu23y9z/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-quer-taro-vs-tigres-uanl/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -381,132 +388,130 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb2.strmd.st/secure/yLHkGlncizQzQxTsTiIKIgOxnuLqqeJc/rtmp/stream/PPp1_LQAkDoWVDznJYJ2trZ0TZmG28K2ROaEiKHQCiJKi7WgviR7m6pFFg97gXrWxNa3L4fb7C3t/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/jHgjqIWqfSpskiKxherkmpoVezLXANEC/rtmp/stream/sFSW-vB5LwMDcQcXVu3ESANy8TGTCPEAqnEmnYZFPLSUn3ND64Qlbmg7PTglpV--WjqhxJu1z84K/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-lafc/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb12.strmd.st/secure/YVenJtbhqQlAAeNqfpbjwSqekTTTcFTP/rtmp/stream/SIqwB6NpmEHO97Fcg0eoNfp4BCfoTqLqlPcGmIitB33buizLZq7IKl353iVG1623oe2E0uwyv18bnbHdFg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb13.strmd.st/secure/zdZRnkGRSDrGoiOTxSivSHyrDngZjsTm/rtmp/stream/BKNNtTawCLOlY_oXH95OTOePQ8gKvaOwHz0twVCZD-ZeTCFhn9ofoKKNhKgW92QD-DIf_8P7ka3AOXAjzA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-lafc/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "CF Montréal vs. New England Revolution",
+        "title": "CF Montréal vs New England Revolution",
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb1.strmd.st/secure/JMMhSsVfbLVemBemThsdhoBPBguuGXXe/rtmp/stream/5k_kgL7C_4z7r7JnJRLpG0491dOV5gX6e2q9FKXooaHx7kocBD82DpjcR--vmhro-eDWa_Axh0M1/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb5.strmd.st/secure/kdxhbIyFDOkQWSgySdUnCuZwyGvdmNNe/rtmp/stream/b5F66at5B1ybON8VYA5MHvnjU3HZsenPq0Hw7sB9BU0foWnArmWDBWi8hWMvJ1kAXj8mO4Im0KMh/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-new-england-revolution/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb4.strmd.st/secure/uardocHodWdnbGjPzdOZgoXgpoGzuNOi/rtmp/stream/eEjLGNBINcczxpmUqYd74EiwaqaVS-Rgee78GegUVDtzpfdvyjqUCUhaW_QwszdoK_VMoT5J6oE9tfG5Jw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb9.strmd.st/secure/CpOUJaoFCEktsYeLnRIRUBJZdXuoCcfw/rtmp/stream/zbbt22Dr04pb0ifKMSsYn6eNQr_pa91E8C8Kob1gc5K4Bv1w7kq_OyBC6WbIDjNL0rjHLzmIgxU3bCjwQg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-new-england-revolution/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Philadelphia Union vs. Atlanta United FC",
+        "title": "DC United vs Nashville SC",
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb13.strmd.st/secure/jYywDlauPpOpopfTKofwKvJEFGzfYEZM/rtmp/stream/Vn3W9Y8zdPOlokzTUbSJhwMKeXyrv5wbnuVP2u5b1E0LrbbvdBDNWuP13NxrG1CWTQHvqK-jHRDK/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb1.strmd.st/secure/eheVNywOlNLjTqAEaNWdOeTJpzUSKhdk/rtmp/stream/ex2ve3nExa47AdcLwg0X1XRyvYKYJ_DJ18WBfaF3TRJ49VgOXZFUGEBs4L-AAEiGBcI4Zwvuijs/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-d-c-united-vs-nashville-sc/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb5.strmd.st/secure/gEzepNkSVFcgOVALkZxkHNlvuKPybbPK/rtmp/stream/XY4z8frOuMECWD4yf5YMbj1zkEUoYwq6fYlJo1GELcyjP5IRrpgFROocktrr8vBzJflz4II6ouCMzd284Q/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb5.strmd.st/secure/gflqTArbZJRSySrjddQzWyveSNxYEWGE/rtmp/stream/fOqDLfIR7EupBSLA8FyV96HlUHftPpTpVTSczYdxB-1xPkBTkPlmrapyXzrKr5qjqiY_BCxAmepbrtWb/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-d-c-united-vs-nashville-sc/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Inter Miami CF vs. Columbus Crew",
+        "title": "FC Cincinnati vs San Jose Earthquakes",
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb14.strmd.st/secure/zFHFNxzKkAfDLfDgoIknxCHQLxFCPDLP/rtmp/stream/Xlw92_RHHrE6vpzVXUbvfoKE048eW3QPSCV8LU3o2f8kHAzf40wYss5Zg1UGRsaTwRQXdv6Dgyo1/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb14.strmd.st/secure/otWfZeDcFpVzKvGXpyglYeDuFpbftAld/rtmp/stream/h5KKyFHMaNNWsHY7nW2SIH1Zw5SWZ9cHUcJf0vLYpBOnGLnRZJxL7BXwBTb5F6dBXGqRHzCtXXYu/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-fc-cincinnati-vs-san-jose-earthquakes/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb1.strmd.st/secure/lVkUeTBYiJtnnUMKtxnKxEpfdalRSgiG/rtmp/stream/p0HcrNmgbgbOaYLWVD1asoCAlb2l4ZTQm7HwpJV4VO7ejI8z23DDbPsYLL62YxjWaX0I9Q0wQmyBaZutFQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb11.strmd.st/secure/LfNSEjBjflyqqqVPztesyisqlkqnkGdV/rtmp/stream/ROspRvQWcWks5L4J9mWPh2WG2sbA5kCF4LiwJPHpdRDhWdP07SeI9eaxBaPx6DRw-66Cxe4T-XTYkEdk-A/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-fc-cincinnati-vs-san-jose-earthquakes/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "FC Cincinnati vs. San Jose Earthquakes",
+        "title": "New York Red Bulls vs Orlando City",
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb9.strmd.st/secure/ajRdriCcuOlvgSribSBdHrUVWdugQRTr/rtmp/stream/3ueHtP2smxd99apiFDhgk7TS-IkorBAGWi3l6U4U-V9uzNQFZXTq_KAdgCPk-LksaGn4PNFBQlT-/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb3.strmd.st/secure/LzhPKhqrzxYRJFARtJPbJqNrvRkscoPa/rtmp/stream/yNP7rOatYq-Dv-Qat27j6FqHnEPndidqjN1jyoHjF-sgDTP30mJnhzOUVOq5sYcwVUFgEt8R9mCYwA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-orlando-city-sc/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb1.strmd.st/secure/BsadzaIKwzGdLWEcXuEiYggBMqGNgPSW/rtmp/stream/T98AIxFK3HAgGbJfLlfadAs1KoTnwNfvDvbAubLoFhP6U-XL4AuyCjS9AZ4oYsAibEaz7mo3sbjIeCj4nQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb5.strmd.st/secure/gNXRTNfAsDlSCgOavnAAsyGHjurzXsxZ/rtmp/stream/et-losyhMeGve2y1WkxR-mB867jidvKturOUUTFUgN__-8cH-GTZa14OAXE_H5FEtPEDxXsw9tmVZi1taBY/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-orlando-city-sc/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "D.C. United vs. Nashville SC",
+        "title": "Philadelphia Union vs Atlanta United",
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb15.strmd.st/secure/RMtNpjVCdhtvkycLLzQUaXpKgsjuhllc/rtmp/stream/XJn8djuUpUb6kMM7S-qd5LXEADfgwg4BweOJDiTA7Y-23hj4eGhsk4s99XAJ_FIz4u1M-J-SdTA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb7.strmd.st/secure/UsiHgEnZmasNUEHrOcaCYOCPthgzqtGB/rtmp/stream/wTw6rMKKSo0INVfUhybX1EKk_FLEL041CKPQVYiTFhJWa_NUQSg_s8RWDqlePGQ8FCGry3fjAE71/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-philadelphia-union-vs-atlanta-united-fc/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb7.strmd.st/secure/DGKmZwfaNZwGRzTbUunBROGKtGFCphgw/rtmp/stream/300pQ1qkX5ozo9IY66yjVCnJav-U_UAMcrspb2DxwjQ1My8eEbaQJVpsivU3En2gsWw_AFWdwh0cd0e-/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb14.strmd.st/secure/QrjYelRnZiXpbLVSftHJkvqusqCmqpLt/rtmp/stream/vCkf_qdycb-aO5ZubRWwOoeAPg6PShDB261pw1l1IWxKoLAoKJd0qBo_N-hOoAaIFKUoNwtnrx8f0soq8g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-philadelphia-union-vs-atlanta-united-fc/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Minnesota United FC vs. San Diego FC",
+        "title": "Inter Miami vs Columbus Crew",
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb14.strmd.st/secure/gzUxzpKxbpzAlGeTtVKaNVoQqwofpxwi/rtmp/stream/62ZmIF5f-Lf7a_uyT8hbAEAWOH-sUo1njIGrkSvJfAhXUenV3EvfxLrD2d14XyaQa989o07EekQO/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb12.strmd.st/secure/rvGDnFGSevNjkKnaTHNcEsUebBzrPdZc/rtmp/stream/960Y0r5WjzkE2ItIZ8WCoSv7ie4GcxCJQNY50oL1enS3LUag_muhMljjqpLbpGo496jrq0dgypAP/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-inter-miami-cf-vs-columbus-crew/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb2.strmd.st/secure/CGvEtYIEfsEXqDXMpJdodwlNCLRtwIsm/rtmp/stream/KzDl6MjJCODzEl9n24BW20zD9jTmXSUPpXOEKUiLofa4cnMFki5A4D1Cuk3u3Ej6qBIv9vBnxr7Q53J0sg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Sporting Kansas City vs. Houston Dynamo FC",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb6.strmd.st/secure/bXKClrzRYfrCUFvBqeyYfpWqCLwqEmfF/rtmp/stream/1OXzKl6YlpL-VBMSSQOtDQT7nPsNljVnvbD0PDB0kARstC8ftPMoJi8PZB69gMX6vQxs5Ql-V25i/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb1.strmd.st/secure/noaICqTZwFpiysvxWAKcJywYnKlqOKmr/rtmp/stream/el8tZ2VtVzEdnysQRXoy09CMLfeaBNbzR_g2V8IgsgFYuFyVFQoeRgZQ5z6gMy4omHJ_EhOwnXT6hbWL-A/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Chicago Fire FC vs. Charlotte FC",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb4.strmd.st/secure/kKHXUyjGODntvYpzblALZuaiHSwjTTIh/rtmp/stream/RCqzcOHnHohQbXwjM1RnbVax1Chv547GSLnfzp-DHEy37ZC5A1s6gW8Qen1oWSuBQI926LugcaDK/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb10.strmd.st/secure/zHXAHwYcqpyAnjGeAscpGNkdEMCUTPWT/rtmp/stream/MR1uZ3pJBsb5EEUd6esVoDFXZ4-__thnaa2h6Wndw1f4cdjNk4GEEN5heJIIUdhTkiMaE6Xba40DQ8fZZw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb6.strmd.st/secure/PcagPuUcrjclyYdrywQhSvXrLlIZPvfQ/rtmp/stream/XukSO95wNOV4-N7cKZq1E48pjp75qRBy2Jo3bq-LvcVXxD_N-mHVsJJnV9EiDpLVo1ju41ThA_FRAVruag/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-inter-miami-cf-vs-columbus-crew/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -516,12 +521,73 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb11.strmd.st/secure/lFGOqYDwzurgNQDDKxFCBKgGROpkOCCj/rtmp/stream/SNbaqcXkzCUtpFc1wpsw5YeOzSNh9LZxLtGcnoJz6tug3C6mcVia_lNyHc20Ywpg_3f34OICy_G1/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/abTsXglMQDkkZpMZDoeCKfUhyFrAhXIe/rtmp/stream/jg4nqMt5Sl-3C_VUUGneodTQuKgBBzUlnRAKSjY6Ymyb-ikzaDPitmhaqW0kzC7YpmisyRGWfLBV/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-real-salt-lake/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb12.strmd.st/secure/xzenuFVGVdMaFTfksrtJSUAhrRxmEjkX/rtmp/stream/L23ViKDMxYLR48BdNZOxv8kc6nxDz-sXfLcw9LF7Zqo1pywizs-zOVebyQQ14Kod6AqPKAU8O7iKfoD2Qg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb14.strmd.st/secure/PQePiHWGvVZjnyHphDDAltrvYTZcZPNw/rtmp/stream/RzYS5SFHaA6uXhEcsNhd0_W_yEZHJOOO7ohK39Wxmil5XDCi4MnKd40V9LvczeWhAtAoKs0HyRyv9KBpUg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-real-salt-lake/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Chicago Fire FC vs. Charlotte FC",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb2.strmd.st/secure/xfiIoTOZNPHdKHYLZZPLQTmafQQWySSr/rtmp/stream/sAfUf0h1rEz-JdbA6vydex1ukr7ThlhN2mGE7wOcUXYpYi_Y465NnkilTjc0Dd-VY5ferjiFjMfy/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb1.strmd.st/secure/UqTdsdMyXEisMJSfSOXCNMSKelGnyEhK/rtmp/stream/JqNFB1mJod7G8542q3YEZ9ELWl85h27esnT0lf0ThmQeSqy4T8JzKsg3gadLx77RBogF9y2uoYaZY_3pMw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Minnesota United FC vs. San Diego FC",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb14.strmd.st/secure/BoSdCyziIrbpmKAXXrhwkrrDHZVQtKHJ/rtmp/stream/-Kca2UJ1vmXE_2DnIJJ2FAp8Eb_v3FBG5xipt3XdRRaqyYXKHBzpyBJHklK3YAOSs1MdQvVoQdam/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb8.strmd.st/secure/EjoJSRXqBnTutGSaALDQypFnuOCxRpRE/rtmp/stream/h6SnPHP_2sUzYKai1tjrkEo56nQVwTLPP_3rgEJ5YKJZ8ubdrY1ZjbAlswplAXzNIKdtSmgCS2FbPfioAw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Sporting Kansas City vs. Houston Dynamo FC",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/IRAHBSZlTwfHGuBYSNUvWrRAtmmTQHfh/rtmp/stream/Zbc6fWIGqqOrt1J1sfyW9r3c6enDWMDIuWxy3OShGU3_Y9FfZm7A2cjeEALiJDGLKzIkZo1LrqfN/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-sporting-kansas-city-vs-houston-dynamo-fc/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb5.strmd.st/secure/zXjqNOoXFwVgvvSxQWzEfhODzJFthhZS/rtmp/stream/3NIVxI15qlMBz_iWocl9zSv-Xc6eyXH2-EGjHMwz9Csje2JEgDhNEcwRCbzHGW4o3s2RRTiBBhxLZDrIgw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-sporting-kansas-city-vs-houston-dynamo-fc/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -531,12 +597,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "Spanish - Liga MX (HD)",
-            "playable_url": "https://lb9.strmd.st/secure/yVlQDFQflFCWNIIvcMSifHhkELJkoPFp/rtmp/stream/XM32LniGTQUFIDEVCALjdKVnrvc3nMRiOXy8V3lsOspdgLdJiuRoMo5UZoTf3nivlcCDKpysr0M/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb6.strmd.st/secure/xpzdjqdcJXHUimBArLqpWgCxyqcXcvPm/rtmp/stream/09SQwOD8Or_kqjqPbqe2tQUksdx8HUEuWALMT_ZOGlCIXQ5DHYwyvLo_uXXl28qB8pjCYCQiyW0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-atlas-vs-monterrey/1",
+            "resolved": true
           },
           {
-            "label": "Spanish - Liga MX",
-            "playable_url": "https://lb3.strmd.st/secure/rnoygeQoQaYuYrsZSzmifyyVbgLuicAl/rtmp/stream/wFEPL_6gM3_bqHbvdAc4CkdUmv76J8oLDq74Hcjy2mWfoD5Yf0tzrcNS6nFIKboxgjBDwGcr5qDSq2Pw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb5.strmd.st/secure/TYNkRLTbLYqlnpyWBwRkceJUUtMWRoHu/rtmp/stream/YBz4JyrkzKLrjyc4w5VpZMPNXX7_n34-6YV35DES_i8ZMNzgWzer0JILMAhyhTbLSZqEF9ggq7oAapwm/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-atlas-vs-monterrey/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -546,12 +616,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "Spanish - Liga MX (HD)",
-            "playable_url": "https://lb1.strmd.st/secure/OCwhqtrkyItisFlyVVZpZedGqSMtafSN/rtmp/stream/ZN-f485nGo1RNgWhJIYckWS7vvNBkBDoRiE1ll17EeViiW18UBE6V6Ifi4sBFq-9czEQ8Oby5mc/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb14.strmd.st/secure/tdJpmrvOiaaBKLnlSkywQdRMRXrsgMGy/rtmp/stream/QWT4NMwrY-jdjde1md0mFBbCe3R4PcUhCIwANV4Xtd7A41ecmI603LVRFv64qzmaRpM4qJBfJW8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-le-n-vs-pachuca/1",
+            "resolved": true
           },
           {
-            "label": "Spanish - Liga MX",
-            "playable_url": "https://lb8.strmd.st/secure/CjnlDXwEMSNfXUKZjPmCzPJWXwBtofPg/rtmp/stream/nbNzazwHGgirDd_ufgwv9513TYZoJQz8FZo1f617MaHcSsOpr5b4iSAvxAB87dJc8B571ygpBcdcP2jZ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb9.strmd.st/secure/SThtKBUZuzFmfgcvRrzpNTlBquDzCtRr/rtmp/stream/a51cksUb0N_z6SVoE04xRAeZiikKPjGP7Sr1WlAWg9RuySehvSnc2HmtF39s5rdhfdjJklAJOO6CFvtA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-le-n-vs-pachuca/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -561,27 +635,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb9.strmd.st/secure/APTroeUuCezXBTKpcXUNfTBSSdcpDKcg/rtmp/stream/fWaXzOO4HmWtWgHh6JTH7foOVKmbvLctYVCum3YB5JUbcEVc1g6yI_GpVKB0io7dNc770C5TC5SJ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb1.strmd.st/secure/iGRNHpgsyEYBCCUAhIFnGKWcSWLZVWUJ/rtmp/stream/UyrhXK85u1kQwIRECq8aqTaaZfUMOZc0zxsWzHzgqLx2FNvFRDBvo7NpUyPm2Gbxj6EXhM9VNqw4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-austin-fc/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb2.strmd.st/secure/wYiOHkqScVbaYVbCyGZZBqapPnxzSZMn/rtmp/stream/K7yJUBnGmmPCypl_GZzAxCEdHwAqeaoqNFMCN36mqwKDzhX-Oh1lQkarvRar8X4PKYZJumXp_b5w5EIoVw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Portland Timbers vs. Seattle Sounders FC",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb12.strmd.st/secure/dJXKkTjuXIDOZKZbHlQRoWHTpGvuwtyb/rtmp/stream/O49qgemgS1WDSGORwnvNYmgTTL-90FESlCpRrDkcH6aNxsqB6_pj5kzFAjPs76GSDguqQJQJaRnk/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb7.strmd.st/secure/JjCuIszcNPZubDtBeVICRMxWRjoPjOcS/rtmp/stream/06d_BZfvDDGuHXJGpG4-oGMrQ1dMJtJvxKmP_ceCyJFvDwgkSsquM9iphd5nJUrmZ6piRNaDHFaurHn4Aw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb13.strmd.st/secure/kweNotUHkLqrmCNiGDxaVUNPkhSmOBTu/rtmp/stream/p-MEY9hRKJUYiGjhmaV_PiPZNlnlPcLtYkMtnxEz1JveMoUn1qYs0D8l4BfAEMbj7MHDHbf8Ax1uFK3WkQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-colorado-rapids-vs-austin-fc/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -591,12 +654,35 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - Apple TV (HD)",
-            "playable_url": "https://lb14.strmd.st/secure/DtqhxkFEZpuqLxMXoiHMWCkpxtrrGoTG/rtmp/stream/zTCWA_-FNcK_Cri6FtqO4FcCY7ig4ocsv6dSu-Llec7RAYMLCzkzRd8Tj1zMl7PESY4vtiF7k58/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb13.strmd.st/secure/tgcdtvnCHwjwBHtUtckTrYmRljJTuWIL/rtmp/stream/1yodiBIudDUdAEZCWCWKudaSNF-Ryfl5KQ1xR4-2vuNl4SPHm9Vu4fWCb7DcvKzFffYbno8n50s/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/1",
+            "resolved": true
           },
           {
-            "label": "English - Apple TV",
-            "playable_url": "https://lb10.strmd.st/secure/FAxGuxZTgPMxocyzjoEXapXliFXEihfg/rtmp/stream/FV-4Qj79bPo-tybVX7CO4ftD2CmVyWQ7KC5eiCF77CxutGQRk5yckdeDis0axZXr1mCngVpL0sTaLe9-/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb12.strmd.st/secure/EYizSGnJpoXUplNpEDWmPgPGalTjqjKG/rtmp/stream/4GAgXNsg6gI4ptttrWd7EtDBJdca9CRdXgUquXmWxjKpM9xoKhVLIWjwERZHFNix-LNuqmV4_xDrtIAn/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Portland Timbers vs. Seattle Sounders FC",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/OSDtthMomFGeqhPCzsKUnzekZKKOvotE/rtmp/stream/cVk53iH433fuKtHCwrL1zwBFeY05hHjPgSet_kvKCtnkkSrHleLTe4KzSXCMhAzYClZ0-jl5zgSL/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-portland-timbers-vs-seattle-sounders-fc/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb2.strmd.st/secure/VOltFPLJACJWhuqoLkFnAXeftAKbylQH/rtmp/stream/ONebK__LC4ItJrMgULTwV0Is4fhICXivywBFv4nrEgm7w3dIyXl9fCyFeqKtEnX6WbPFVdQvJ1jCWKvIAw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-portland-timbers-vs-seattle-sounders-fc/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -606,12 +692,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "Spanish - Liga MX (HD)",
-            "playable_url": "https://lb1.strmd.st/secure/srkcgexHSnAQsFMNLsBmiwGqZtQzkksH/rtmp/stream/SyBxwvUwpSIfUSwhpMRudEB0hmSOLSc9X12IN_D30PJPOiWtR7GUV-NgusvZw2jm79EOTLntsv4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb11.strmd.st/secure/XJgjugHKgxssakUQjZLtNYPNfusciKVZ/rtmp/stream/QhB07bR1Ukxq1APXm8EFe6Ah2t7eQ09XT1N0e6lPsnMo8dCq0ghdOGvWs0JSxEqDRn15jyY_DCg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-cruz-azul-vs-atlante/1",
+            "resolved": true
           },
           {
-            "label": "Spanish - Liga MX",
-            "playable_url": "https://lb7.strmd.st/secure/FAJzXXDbiNDWqjmXxjakefrYffXiWWiB/rtmp/stream/jnUegwm3AbNHRpMRaXMpSzHG82hiZQDjIKRdRYf7HTPIPjTUiPz7BofVTui0FCpoF0XEnD1dn--4Q-D9/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb3.strmd.st/secure/aVkraobsbdSqFgZUZhOgvwVEDlsqvJro/rtmp/stream/J8jKIu8AtbdpxMimmkXqaba_8RiWqXSPk_V2GlJyr4KhHTRRYrhDDbObmHTehd_lMsIVsp4Y-otbIw5X/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-cruz-azul-vs-atlante/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -621,12 +711,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - SPFL Premiership (HD)",
-            "playable_url": "https://lb2.strmd.st/secure/wLUkoofmxEglGFjSqMKAPXVHNzBoduTi/rtmp/stream/K1dyXiZn2n0W69S4AdhyszQ-0143-Agas3I7vDVyvPaIZx6tZ-r1fpuwrOP3nsb9a9sZDxaPY5-_/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb11.strmd.st/secure/BMHFogkcWuhhsdQCFViqdaGfJEqzUjdf/rtmp/stream/AoAf0f_0tZ1GHhEeQtxDLyiqIX7rVQa-WgqFmT71pEOAokBhi_Cq71FHAlAD6bP8diZOrAQoKv7A/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-st-johnstone-vs-kilmarnock/1",
+            "resolved": true
           },
           {
-            "label": "English - SPFL Premiership",
-            "playable_url": "https://lb10.strmd.st/secure/uTdUuKPgvNgosPXchqeOUdAnBgRRlqgj/rtmp/stream/IQawIrPU9BR18Pw9ihI3h5Zv3lm0AINYRpSLxkvwy6kJ-NEbn9475NbiXxv4c3pRMob2O8HLf_c0W6Vkig/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb13.strmd.st/secure/FWAcpmzygunoMITzTDpWPqmshzkIywty/rtmp/stream/TZMtVX8otODJglbkwZP9NfXG_db7vf_qA3g3FooIOTH2rGtIZ7Ge0ZK66j84h_VerWGhmApsNqhSpN881w/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-st-johnstone-vs-kilmarnock/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -636,12 +730,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - SPFL Premiership (HD)",
-            "playable_url": "https://lb6.strmd.st/secure/dBcFjttlRmBaPdGHxADgiFFdGhMKiRHO/rtmp/stream/GbLcnKSkaJMM3aP5UbNzYNEjC4JI4KgIzzAXfPalu0LuxjBpkp_w8Jn8K4XvANVvVDxbifWLi3QECA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/pMiDlUDRmVvmivlUHFmDPibuPmQQGsQA/rtmp/stream/deqBd0i_Yg8NN62V-4jR-stBJD9MruEN9VI6PXwCB7TcXFbSA1GnGV8aiYwAEs5OrDh8Zh2W0f2Tpw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-hibernian-vs-motherwell/1",
+            "resolved": true
           },
           {
-            "label": "English - SPFL Premiership",
-            "playable_url": "https://lb13.strmd.st/secure/jWlVqEXrMOFRsJNfXvjFiXTxYHbrRtKE/rtmp/stream/gw_lq9MZOu0zSMqyfdHMREEm-IryVMUSiZbeyWM00-IHzIvXVi3V11f_LmvlMQxmmESUOfnziydnE2l07Bs/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb6.strmd.st/secure/zOgRmFLqQCoADXERtACvzQYindGFSTEO/rtmp/stream/x0b6K73T5P96hck30GgDzKPvJO7jMrsWimsY2bcOil60L1SzHsEc5JTo4ZUqiNakrOVjDZaIO8z8pM0bMbs/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-hibernian-vs-motherwell/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -651,12 +749,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "Spanish - Liga MX (HD)",
-            "playable_url": "https://lb12.strmd.st/secure/BQOsSJwkSrADRrrfQcoFChJuQKATbCFW/rtmp/stream/ZM71iRMf_eSYagaOMmsqj_PA2gs-NlY5acYTSEj7-AijugAd4Z26-okDktlgv0IksUMfpwgmYuQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb14.strmd.st/secure/cZjaUmvLXhSUYvLUdvMBImIEJpEfOFsr/rtmp/stream/OLBiieEl5s5BKgTe-EOs7ZMiKOwzTnllQ3YB8JwiMmhQBN1PwfDAeJtzbZLhU4IWnIyMCI2s11w/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-am-rica-vs-santos/1",
+            "resolved": true
           },
           {
-            "label": "Spanish - Liga MX",
-            "playable_url": "https://lb2.strmd.st/secure/KLdemCbNowGokTtyJwWbAuQsGOjcIGTn/rtmp/stream/rgfojcv_-NbAa30wyh1giPgeThizNjdxUSOwlhbSPAZUTMU_q9CN5f2TNRuyYUXZ3gOuC1zgLwuMYgPz/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb1.strmd.st/secure/psJdZYhJEMUjNfgElKYuBIHbGHxXpoBN/rtmp/stream/v0f3_ns5sowcr-WUd4b1w9VSL232meI1a_MGfIcJXyObCz9GEAMOhJfxROM613sfDwHAaNzeErqMUpsH/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-am-rica-vs-santos/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -666,12 +768,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "Spanish - Liga MX (HD)",
-            "playable_url": "https://lb1.strmd.st/secure/BXGwZZqtKLVVljokaMFYRLTqhnzHvYPX/rtmp/stream/CmDPBKmf4CxNGhpnnVfHQk5bJ6IDRlwQtM5bjONdWRQrXY-NdDDbb9ZdCFj0TOqEccR4sifZG8o/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb15.strmd.st/secure/oRSjBuZwZSVAWrOeQXgQbNpgBqUJQSHD/rtmp/stream/gqW3qyaNjGk4PjwY58HNxLaJlGXSb49Hc6LV6bHAwhmdQOXl0n71NWfb-1D3FwlEmRe-Xj4fyQ0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-toluca-vs-necaxa/1",
+            "resolved": true
           },
           {
-            "label": "Spanish - Liga MX",
-            "playable_url": "https://lb3.strmd.st/secure/KuNbhFiRLnqKfmfSNZXeUapfcqJaZkxY/rtmp/stream/iUwsQa11IZ5Tuo-S6vrdnygHYLdTuGPgRgYZ1fUgJBpiq5LXdxFnEFvuYESD4U29wpmDvk6W0BevU2K_/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb6.strmd.st/secure/flrSViNAegmhITrHgcFDtvRzmJPxfuIt/rtmp/stream/F76x65Swz2qPXH1jTJvMvL7YF4jdAyHJSxwaR5DQ_zOTRQA1xvZ6TFV3beY299AR7-VPbz9_zAVDTYSd/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-toluca-vs-necaxa/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -681,12 +787,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - SPFL Premiership (HD)",
-            "playable_url": "https://lb4.strmd.st/secure/wmxpezikHGEmwDVDkzumIngtyLpywaAp/rtmp/stream/XHhyZClxMJ_3gKN_g51CBLl0QZSyZhJNxIdPr4sy6vX7bqoFbMy8UnVEjpSgfziEx20bV1Wf6dey/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb2.strmd.st/secure/IVPKtHRriuVhFlhtXuLeHirroPIogYDC/rtmp/stream/U-huBqka952r0zPi8UkuXcFgqHUS4GQUyBX36MvFEbq4ORSuZz9ELG-8Q7uREFD4H2CEDsSJaVoq/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-celtic-vs-dundee/1",
+            "resolved": true
           },
           {
-            "label": "English - SPFL Premiership",
-            "playable_url": "https://lb8.strmd.st/secure/bQwCuiKuCNYZSXrugxVzzoFdcAmxGJRm/rtmp/stream/-7cDRXbJ4D5hr7MAjgNEPRFlIyLmJp11oE8N0W2Oul0ysSdSQj6Ek_S5c7QQBWh3CeRLs1EtDeBl6XCbew/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb4.strmd.st/secure/dsxIrDPskTpoViaOZfntFGdCKUAadoIO/rtmp/stream/fFWtXs2vFfwuZiKoGSAg7CynA8wwVSG-xY3eJLvdUHn-1Kz0KF4dstTlTC-gOhiFHABHNrIQlTgmnMHkfA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-celtic-vs-dundee/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -696,12 +806,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - SPURSPLAY (HD)",
-            "playable_url": "https://lb13.strmd.st/secure/rkVzfCspySAOzmkRDDrUbJSGWdrsUYiq/rtmp/stream/cvJafA_iUtJoQNIaaOuvVt6upFpQXRn6mjSXy8bHFBvqeDBObE4IwFpwpqqW4Ga7FmEtZ9I-9Q/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb5.strmd.st/secure/oQXGCGxvlfmzCSHLSjGHnnncSAUkwLav/rtmp/stream/rAbvj7Wa4WEI0gbVlWE_DwYyGFHu996qOp_Zxr7tcEmIBmRAFuf-Tv46u2-AYfFpj_7m2dNFoA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/1",
+            "resolved": true
           },
           {
-            "label": "English - SPURSPLAY",
-            "playable_url": "https://lb10.strmd.st/secure/GuHjCwkdfZrbEOEErdEtBhekXDiYyiHp/rtmp/stream/wvjI4MauWZ01REFLXc1AHRP4MdRwdFdX3s8jaz-cOx3ULhfZ_bGTFddIFDdbJeqlNzKHI3uWIs8MvQ8/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb7.strmd.st/secure/qaSbFYTHmXeoPEhEQbGFzmGivscdPSZc/rtmp/stream/oQVSGJY0_ssDFvX5FVgaik06iyzQP9sAJRZ577a3DsmYeA87-woVrv4DBAX-lcIn_ZLRwk2iBCElqzU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -711,12 +825,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - UEFA Super Cup (HD)",
-            "playable_url": "https://lb2.strmd.st/secure/oUrbIDAYvXqyWZcDxogBFpKBCUGUelKh/rtmp/stream/aTCLVeTwuyvukfufhmtcFJwhslZbdkPa3tEi5gax0_z4d-Z4i-vah_nGdC8MHew6uH8RPmTCAIbYug/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/rIjvJCwCnJBrhNMwKboDmfHhrbTuqtgs/rtmp/stream/wbgRFz94_OVn9HSh-NiMTMXaTfi7hREJzbmUa9CxXtQfUdnQNnpabWGyCv-wAKcqjCfkDmZaYvdXEQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-paris-saint-germain-vs-aston-villa/1",
+            "resolved": true
           },
           {
-            "label": "English - UEFA Super Cup",
-            "playable_url": "https://lb11.strmd.st/secure/RmyJfHHLxPjmFFnIsfwVtrJmxmYzUWZg/rtmp/stream/VmncI7FtHMrnIqoT21v6MYVqob3MZzyOn9ki16Y-cjcNkhJSDpfROHc27l3h_58KnHbTw4lXKMVQqfZuv-0/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb1.strmd.st/secure/hlHgmmmXZewoJjPYprZYWkcGjvZJFotk/rtmp/stream/thKNeOFuLzXeI_OajZScdfou9Syt-9k-CVvy0uDaQ-nGFMAf7-Xeep2oLqURYYno-mtVNEMI4i4x4cHA0XI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-paris-saint-germain-vs-aston-villa/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -726,12 +844,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - SPURSPLAY (HD)",
-            "playable_url": "https://lb1.strmd.st/secure/aoPhGQtPbpDbGmKRZoFQhLfbQgVelRtc/rtmp/stream/I5aGASpZCIUSNt6CY7WzwT0u96-gO9dFhtGxxeHGdeMYyRe9DvOIlr0ZOJmLGpep4vmetle-OA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb15.strmd.st/secure/bvhLeyZLyBUefwiWGpdwVLnVeXmvBAag/rtmp/stream/yrcdda3vF9Fy_IdR5h-hivezU5q0jGILDKeVwHY_ZYq_fKmakNrn8_F_yXT9Gf0J7dAik0lTxQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-tsg-hoffenheim/1",
+            "resolved": true
           },
           {
-            "label": "English - SPURSPLAY",
-            "playable_url": "https://lb4.strmd.st/secure/ONIqpvCRrmBNdZZkjEpIaMbbGMsOMxzt/rtmp/stream/H-v6iXWH5yoWxegiqXslb1li11gaCtyPCpLbvB0vVoxaNJ3yHJIClh2ud1VsBjEtnqBNAb1boR588Ig/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb3.strmd.st/secure/UBQLnTenDAmrhqqzxQrVZufKzlfOhyBo/rtmp/stream/lr-3-YsTMT92sZm4QM658CNm3yXTO13OWlNh5OLiyQil_iqGXyJjg0E8dQS1UJnE1neZODtFM14AIuY/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-tsg-hoffenheim/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -741,12 +863,16 @@
         "is_live": true,
         "links": [
           {
-            "label": "English - SPURSPLAY (HD)",
-            "playable_url": "https://lb2.strmd.st/secure/hnCfypxLeMzSQnrOXzDzrDHwomWCpSkz/rtmp/stream/I5aGASpZCIUSNt6CY7WzwT0u96-gO9dFhtGxxeHGdeMYyRe9DvOIlr0ZOJmLGpep4vmetle-OA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/RCnEeAyawwALLRhrPjlhOWbjugkwUWcH/rtmp/stream/yrcdda3vF9Fy_IdR5h-hivezU5q0jGILDKeVwHY_ZYq_fKmakNrn8_F_yXT9Gf0J7dAik0lTxQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-tsg-hoffenheim/1",
+            "resolved": true
           },
           {
-            "label": "English - SPURSPLAY",
-            "playable_url": "https://lb15.strmd.st/secure/VtFbNAOdRReCGhkfgRYKoUDQPhQQgtjS/rtmp/stream/H-v6iXWH5yoWxegiqXslb1li11gaCtyPCpLbvB0vVoxaNJ3yHJIClh2ud1VsBjEtnqBNAb1boR588Ig/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb9.strmd.st/secure/aCtGBsgjKnyQlPuRDDnuzjUcZmceKNQd/rtmp/stream/lr-3-YsTMT92sZm4QM658CNm3yXTO13OWlNh5OLiyQil_iqGXyJjg0E8dQS1UJnE1neZODtFM14AIuY/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-tsg-hoffenheim/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -754,199 +880,286 @@
     ],
     "mlb": [
       {
-        "title": "St. Louis Cardinals vs Chicago Cubs",
+        "title": "Chicago Cubs vs New York Yankees",
         "is_live": true,
         "links": [
           {
-            "label": "English - Cardinals.TV (HD)",
-            "playable_url": "https://lb9.strmd.st/secure/vUmMRARdopeBfqgBLJzOorBSUyPeAQRZ/rtmp/stream/INBlybrXmL8zWH6GvBvOQ5YEZzZnYqjCZFAOMS6f5A1RHk5Ot63vdFmjphFY4dZeYJT4Qav-KccgGKZUKR0V7mgK/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb8.strmd.st/secure/VNNLytMaegpfkVGGsZTMvdAAvvZlCfle/rtmp/stream/RHMtTrmY2-2dLdlsMYYc8haH1TELA5DTVS7pcGhN5j0DDBwy4tVt3a3ykNbMXMp85MihlnmNv8sdBWW0IQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-chicago-cubs/1",
+            "resolved": true
           },
           {
-            "label": "English - Cardinals.TV",
-            "playable_url": "https://lb6.strmd.st/secure/JxBhIdnvIwSQxUYOsIKbPeienUETungv/rtmp/stream/PvA4lWdPO9R9LWVGbEZXijLfpO2JG1s7WzggbCR9D10KRrjYLu8DPL7FbORBn4v_xcr4JyQKMZY2I6NS804F4Nisi4dz_Q/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb11.strmd.st/secure/VhEEEgcxdtMthpDVhaRZmKRKOzXdfeRI/delta/stream/live_mlb_cardinals-cubs-live-streaming-591067152/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb3.strmd.st/secure/acFojwNaddwBwlXHRYLgYXFBbsjbjbsV/delta/stream/live_mlb_cardinals-cubs-live-streaming-591067152/2/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb4.strmd.st/secure/lGgTfdCNQBsQBTfexorOLvWRwAOOmmrf/rtmp/stream/yyOALjg1AQSmA3QXIHcvC-w81-P6BXLAM3mk3C-jvTBSH8LmO8Ju49KaEAnmVht_un7vzeo0GiKeN6WesvtnCKY/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-chicago-cubs/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Chicago White Sox vs New York Yankees",
+        "title": "Cincinnati Reds vs Pittsburgh Pirates",
         "is_live": true,
         "links": [
           {
-            "label": "English - CHSN (HD)",
-            "playable_url": "https://lb2.strmd.st/secure/vFWaWLePzhJrYlABXagsubIePiZGrVXT/rtmp/stream/sw96eIzHTIJ0WwmudVm9Ha5UPhmf6QomWDrwa4puzUYSFj0KQ0g4jR_Y6jmaFc27-9JmDZrV0pQsV137tvQskP8/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb6.strmd.st/secure/sjEixamuBeqSlRfBScmhqkSDhWupzxtJ/rtmp/stream/Pof4DOthkWbx3NCe3wt9SrvUzlbm1DrVPwEDpHuUixZSbsLdU9KF4PouFUSMkAaFgZUjFriYNl1FdQuD7w2Jkw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-cincinnati-reds/1",
+            "resolved": true
           },
           {
-            "label": "English - CHSN",
-            "playable_url": "https://lb1.strmd.st/secure/sEyjunNfcAqlKOjOdgmpdQYAPMRwYqZi/rtmp/stream/7PX0SRneBYOUxyNW8KnQo2-vIk0aSnAikse-dVP_T5yf7nE7lL9LiDtHXgKVDqZTXgcXvNCj5J9Fhjp07f4fv81ZBrNX/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb7.strmd.st/secure/sIaXkmNLogqUpBZWSIlngBxaIxoIyRjC/delta/stream/live_mlb_white-sox-yankees-live-streaming-591066288/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb1.strmd.st/secure/PCLDhIwyEDXElwmBWuxKiyiMekzJwsPN/rtmp/stream/THMQbXl5mtGo7lSr-LFAfObN8MlTjF-xwgq6i9BNvN09HX1nFQ5YzptWNiqjnifIp6uNZqUYPvasVc3b-KVle5kijjQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-cincinnati-reds/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Minnesota Twins vs Kansas City Royals",
+        "title": "Baltimore Orioles vs Philadelphia Phillies",
         "is_live": true,
         "links": [
           {
-            "label": "English - Twins.TV (HD)",
-            "playable_url": "https://lb14.strmd.st/secure/ozxAVIAMbxLDbpVUdOamcYYXNqGwKqus/rtmp/stream/xwWBPjSNKpO3EyxuSbUP5bVmihYiDOUflrbGOroaTnULlotoME7D2lV4M98umsbKvhaS-_lIc6n4cf3FHQ0Rjw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/lFDbLVpPSQgTeyrSmvqplISvfCsTcgdW/rtmp/stream/hZBPIcza5YzM5bWoY4c4C9pZHwW2knqk259vdXD1cfo1MmefAsYkivd5tePKN5v1fuqdbi8lYZU8iNYDLD-Nd5BH/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-baltimore-orioles/1",
+            "resolved": true
           },
           {
-            "label": "English - Twins.TV",
-            "playable_url": "https://lb11.strmd.st/secure/BDXnAGRidQnZxjdUSYRtjsuFFLWSKrlP/rtmp/stream/TQBID5w9MRouKJhk-kPfuz7Jb4VZFr_0IyW0mi1X4uDwdUoRuzt0g9yqB9rwvt43OYslinWnJPpWZCOD3iwLIebHsII/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb8.strmd.st/secure/pIuisFfzLFJJsoVYYjfDwrCUgqdkZPZQ/delta/stream/live_mlb_twins-royals-live-streaming-591066720/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb3.strmd.st/secure/uwVrSWKWHDpIlhztXdJtPZhOuZXdwyOp/delta/stream/live_mlb_twins-royals-live-streaming-591066720/2/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb6.strmd.st/secure/ECaMKZvzwWieIuLzpLRDXGkHkkbAkaHN/rtmp/stream/PF3SOrWxsjDRCagbBDdOUO6TmazBzYyrnmFzG7DusYddragmwpv_z0d5jkBISvFbcjp7Kjsqc5V2d92KBcPr_Wktegi3PQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-baltimore-orioles/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Cincinnati Reds vs Cleveland Guardians",
+        "title": "Toronto Blue Jays vs St. Louis Cardinals",
         "is_live": true,
         "links": [
           {
-            "label": "English - CLEGuardians.TV (HD)",
-            "playable_url": "https://lb1.strmd.st/secure/hJUyNWAjXiwHuyfkrmyWlUqyyhXRovRx/rtmp/stream/F5Ii-nOKdOnYRpOSXXlyyo1l7rOoZQOTFcGTImCPCy0rmC4FPg0ZYL3IqUtCB1Dsp4Bda3aipdg1rXkDA837pw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb2.strmd.st/secure/TBUsjDKGSXQsZlOpmqfUuIUIDakTbtve/rtmp/stream/D4cB5UVo1YXRm96rvWT40dnAg5f5ujDVLnCk1ubPxFmqZscdpnNdoTM39mds6Trpg0IATCE1TqnE6KW2sxrU2Y0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-toronto-blue-jays/1",
+            "resolved": true
           },
           {
-            "label": "English - CLEGuardians.TV",
-            "playable_url": "https://lb9.strmd.st/secure/KbGapsdPIzvaXzpJANseEfdtNzTmwact/rtmp/stream/mfOihyxGSa0Thsvcsuy8Jta1ZtlmQGO8xG9MNMllvxaXMutMrU059OO5uFXZEbQashw-ij8Xs8qmFuJMQo6yzbyoPPo/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb3.strmd.st/secure/EGeWeIccuqiOVqTcHCoeVhupmulAppkV/delta/stream/live_mlb_reds-guardians-live-streaming-591065856/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb1.strmd.st/secure/UGlRZUvxVWSAtnbMhwkuCJHEncHDDgyG/delta/stream/live_mlb_reds-guardians-live-streaming-591065856/2/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb10.strmd.st/secure/fOaNTRBwIoAUdVIIqaUmbyLvDgaXvsVV/rtmp/stream/daCbxLvCS2O813R-PN9q53CybMW_rXNOAfnZlnyj_X1xv0hFbNjguG8DNQF_7Vg2lAEInsxZU4r-Z8a8Q3vJ4HF459qH/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-toronto-blue-jays/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "New York Mets vs Atlanta Braves",
+        "title": "Cleveland Guardians vs Arizona Diamondbacks",
         "is_live": true,
         "links": [
           {
-            "label": "English - SNY (HD)",
-            "playable_url": "https://lb11.strmd.st/secure/PNNRAkmfZpGYDYbRrZhQsTFOYDULVDYf/rtmp/stream/k2tu_Ub-PowEWPnmJ-IGV6cTfKQFNNiwE4qPpgpXcwFFh7DRZRQ6ZTERLVbqUWY6RIDySXeYv0WWLsQxHQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb7.strmd.st/secure/YfVatsXGQvbJxJGktKtnzDDtRgqJepPB/rtmp/stream/ObB-etdi9RALnbTZv_z2WLismlz8ZkA16cCLSjW0o34FhK2p70TY2Jie3ruaenxHKwrRms1-cDHpXJuO8jFOl-CeGe8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-cleveland-guardians/1",
+            "resolved": true
           },
           {
-            "label": "English - SNY",
-            "playable_url": "https://lb4.strmd.st/secure/bXVPgGgSnOlmLFmNQnvSSzWUSJOKRyBQ/rtmp/stream/aw86R5UTi6B-7epoqs2Dqi4l11sIOf4Am7rO0dM1vdujunFz7Prsqatet9ocbsgTIwdceH4pGId72kcDQMWgiYg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb15.strmd.st/secure/MzRTcHSRDcrAaowDPTYuWZMxksRXBKPy/delta/stream/live_mlb_mets-braves-live-streaming-597401136/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb10.strmd.st/secure/sEJsVNgMxntZlNdnrPcHzHuFZhnNOjnS/delta/stream/live_mlb_mets-braves-live-streaming-597401136/2/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb10.strmd.st/secure/BXlVRTVZPxHvOINYUjzoonjgAvwMQfZW/rtmp/stream/3Si1neR6UW-0mCee2JUN9fRFcq5gaTUtEkTS9Rj78SlzS04UkpOKSGc0artmVPyNn0q2aGvyoABdGX7vHvMOk4u9bBObs36l/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-cleveland-guardians/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Tampa Bay Rays vs Texas Rangers",
+        "title": "New York Mets vs Miami Marlins",
         "is_live": true,
         "links": [
           {
-            "label": "English - Rays.TV (HD)",
-            "playable_url": "https://lb7.strmd.st/secure/QFpAusXliCQYtqvbpTOwwDzoNqGUQual/rtmp/stream/V7Fi7y2KbDlNkXt3JNFgA3WNWZUeqZHDjstw51PYegahKq0qt7qFEIK3biD8xM03wDOVcDxwlrOMbf12PjE/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb6.strmd.st/secure/IJWtbczkuRXLXZGspaNRqbMQntVrHuZt/rtmp/stream/vZ74e4rIH6D_Emn9J3RQxzfXG_Xkq0hWLwCLOSgUrZK6iAum7SJTYL6qPp0zIPoewThJwnsaEk-eQFmX6Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-new-york-mets/1",
+            "resolved": true
           },
           {
-            "label": "English - Rays.TV",
-            "playable_url": "https://lb1.strmd.st/secure/AxkWbOsIthqxiNPHXmVnrnklgplJoAKh/rtmp/stream/zb28CKIjLds2vNp2mdw5uRf69wPmrxdG4mlIiHOhGDlaYkKH_aAcDhfPT4KWkmg0xjUwerloA2ODzT8700GxC07g/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb2.strmd.st/secure/RbgMuImInFtdralCbISqcRxDXiqQmkeU/delta/stream/live_mlb_rays-rangers-live-streaming-591065424/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb9.strmd.st/secure/hlSNJUHuqdfAdVCixncsASFsiKuMdQjI/delta/stream/live_mlb_rays-rangers-live-streaming-591065424/2/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb8.strmd.st/secure/yCDVubVMcaOsQDZliRrwHldltpIbfzCH/rtmp/stream/D-tqqqqLe90zxabmv2w_pusFtsCGXsixxWQFxZOnMYbbg9egDKjXJO7opNHQj8GNTlEVCoSCs3CXGtTDqaxs63o/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-new-york-mets/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "San Diego Padres vs Colorado Rockies",
+        "title": "Tampa Bay Rays vs Chicago White Sox",
         "is_live": true,
         "links": [
           {
-            "label": "English (HD)",
-            "playable_url": "https://lb10.strmd.st/secure/JjbBzQcJiJPxhOvNpjFmBBIxOVaDeLOO/golf/stream/24027/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/RLocmkFMIVCSYGybXvCEviptIInHyDGo/rtmp/stream/JrAYfE8E8wL0JsliiODXg9-KV2dWX__iyBxKuDKhS9-Pd3WC3XRM9MZIuAPVE5TzBiwGhlr2Tp9pBpVSBss/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-tampa-bay-rays/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb9.strmd.st/secure/xWoAABLAwkDfNIUGqAMaFpIAkXGCqBtS/rtmp/stream/HaETYNlZ72430suMUFYOm1oNbYHpAcYbVDmUQjxKlyjezKTpuAZde_0rzYTDtSnFj3oHVD9lqBuztsKtQPDe7GJ2/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-tampa-bay-rays/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Los Angeles Angels vs Houston Astros",
+        "title": "Atlanta Braves vs Washington Nationals",
         "is_live": true,
         "links": [
           {
-            "label": "English - Angels.TV (HD)",
-            "playable_url": "https://lb13.strmd.st/secure/yasFdNKGaonLUlNuLITIyAfNkBsKwLmv/rtmp/stream/ACfyY48UupP4OGD5BLejMtPLzDEiF5w3yQsSB1q9s4uQt_ihVzMaBOR5BL-U0q5XYYfMOXsiD_vGPk8nk4Ody97c/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/BQpHvMAnpGnygygNTUaEEyNYOwasCGvJ/rtmp/stream/c3BZ0YNl8Hk0G8RNyyc_kKEkpEu5OUFRPeeCE4mP7t0SYsy9tDRXJqI7nyD0WXuLjGVEcQuMo_Fba2uR95Q8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-washington-nationals-vs-atlanta-braves/1",
+            "resolved": true
           },
           {
-            "label": "English - Angels.TV",
-            "playable_url": "https://lb8.strmd.st/secure/YfRzowOaQFWkjMqIYLiKsLRpSSdqbyYY/rtmp/stream/AL8jvMhUfIiItwLdH_XebrR-1ffaC861TttukW6jln7ksgrt9rkG_i56dq1giM6PIUaofJJxG-U4RjxptBC5bmRWAgeUTQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb14.strmd.st/secure/JYMYyBnbZeghpcKkPzKpHzqBrYurczHb/delta/stream/live_mlb_angels-astros-live-streaming-591067584/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb4.strmd.st/secure/mMieSRInWXGoMGVGQbhSXNNDVqlodAzC/delta/stream/live_mlb_angels-astros-live-streaming-591067584/2/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb12.strmd.st/secure/SFbdTjAzSklnuxJtuAkbtSDcujEnnzBo/rtmp/stream/SmV8mbum-0owbc0n7VAjVhiGL-jB_0KSzztqs0R4wNZvjWElu9WFp3CLQJfBVCU49WoCgfuoBmodue-SvaTON0i68A/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-washington-nationals-vs-atlanta-braves/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Athletics vs Boston Red Sox",
+        "title": "Houston Astros vs Texas Rangers",
         "is_live": true,
         "links": [
           {
-            "label": "English - NBC Sports CA (HD)",
-            "playable_url": "https://lb2.strmd.st/secure/SXYdonAROgaDBKBJsHDsISuqNONvpNdG/rtmp/stream/mal3A6kGGRhIVW0iXxjIduWnLDEdoQhQYKWEFAhSaiMNAOynE060fHpCD75dU9hrMdi2PPuu0wHEERc/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/qFFDLhvfmHSMMmRQRqDeZGbvkceDdCvT/rtmp/stream/aAV_yJgGusEw0tk4ZEbE_K29Kic9c2T6PXk9nZA_SRRn3tGIEw1j984FyhzymwdngxdMkb4rrjmq0PPVTopS/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-texas-rangers-vs-houston-astros/1",
+            "resolved": true
           },
           {
-            "label": "English - NBC Sports CA",
-            "playable_url": "https://lb15.strmd.st/secure/jGHTmKIALPuDuSPVtqYCGTrgIWqQnffI/rtmp/stream/F2UA9Hv4pKsHktlw_DG3N2qBrbIlM5SMpSvcBxMZ14q6RHD2iILVVBumqK1hnyx6PCaLFN9oIsEcHnrLo7hg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb8.strmd.st/secure/aKJwGhWlTIpcTCpQmphgcvaqvyNTZCvP/rtmp/stream/3giNISvXvWyj9nGh-SWBy67UL_Guouel4qurT7cYi_oesnUJcyylZANAKDjdZfLNmz01DH4aY4OD5fSDHV58Lnb_5w/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-texas-rangers-vs-houston-astros/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Los Angeles Dodgers vs Seattle Mariners",
+        "title": "Colorado Rockies vs Kansas City Royals",
         "is_live": true,
         "links": [
           {
-            "label": "English - Sportsnet LA (HD)",
-            "playable_url": "https://lb12.strmd.st/secure/eWXzTGpKENYLjYqLQXTfHlGJqhwKacaO/rtmp/stream/i4mFdhM79xXJyWUTPE42C4a5AUIlMLFOwx2y7-C2IJZp1bswqGjA3rZiauMzEm8uoqpir9PT1pyb4K0z37bBZsM4kA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb11.strmd.st/secure/SMUweuVRQLFKxkVmWGnoxAiPcDWccPWS/rtmp/stream/4g6lRKtNSC0MlgLu6jY8yeey1AdrTzbKJyTN7XptnZIeHa3fqxB3Ajc0ks9VXadyMDHVihP8bdu9TPdLg_m5dOE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-colorado-rockies/1",
+            "resolved": true
           },
           {
-            "label": "English - Sportsnet LA",
-            "playable_url": "https://lb8.strmd.st/secure/XtgxaPHHBLCihHGqAdRGWEltlyEalNpQ/rtmp/stream/cIqVKIrSKMHC_YejwbtFViOeY2ISkVjm2nqdA4VNPpCSzdwTcydgjfUtUa7QrkoreA7BREF6pd0_b70mj5rj8k6AGFz0XPA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb10.strmd.st/secure/VZvCxSRXmtjmYGBsiggHkkRaMUepwhVw/rtmp/stream/jP0sPPN1Ob7JkH1lSxpHK_wetfRM5QVL9RclWVcDu-ObTqFCwD-fkLF-wLuYKkez7wWYPyXlH7xMIyucgfqQq24vbePW/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-colorado-rockies/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Los Angeles Angels vs Milwaukee Brewers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb1.strmd.st/secure/ZgDsJzlqJcTFGtRglNlaxYuCjXQhefzC/rtmp/stream/phxWgGdqG9X56M0PA8YKes1UxOrFAvy7oKqTmhagr_FhZjcOrj0X-C-oqlfBD4BdTWHBqlVC_GqPDgD1spG1F1wT/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-angels/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb8.strmd.st/secure/uiqyHgJTiYVDpGGcMeCUPvwITTWBuIjd/rtmp/stream/_TgqFs-UBCqLtaJtiw_ZfFQeFJc3IbAiKcbAhesrUDZES4alcHv88gtmr6Hfcd6WGTNM5eOr-VDf1N6M5xvn60RMPknR-Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-angels/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Athletics vs Detroit Tigers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb14.strmd.st/secure/BlquaoxCCToMbeEvITwxRfKbSHjGXnoH/rtmp/stream/Mdo0rysJqNUoDlmuMYizSGGGx35GYxNfCEXltgh27buqQFah7xzG8pr3nZ5VACSRATGAA5waRd42Jnw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-athletics/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb10.strmd.st/secure/ePNxABVhuGdJlBJTLdxDNmkSIHKxoMGN/rtmp/stream/kdUPhQqh8FizlmHng1nGLiM1ZNx6RfzHnCS_TzD-QD1rtaC0_qOLjPM58fbV1rjioUTfO2M8CtAq8lgLiwBR/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-athletics/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "San Diego Padres vs San Francisco Giants",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb6.strmd.st/secure/VAWOjeuWxkkCxYQiZDdLxUoMzPEKpwNW/rtmp/stream/6Uk-aXOPBxidNpMhFFBCMK1nLLnzSH29XTwZ0rsdSPuSSfJIYrGzbimVVNJ4Tx18x_4aanQNC4lU8yxxmKIp9Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-san-diego-padres/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb2.strmd.st/secure/VvQesBIoYAUeDhcDgNTlQAyucWmeQmZB/rtmp/stream/xAfpF0bZCaNthpOy0w-1JsZeyB73S0ITcSkLj3rSgD395L6lmGACk81R_LsqShOg9-Z7l-NjGOCo7xIThDK1-Ic2t1U/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-san-diego-padres/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Seattle Mariners vs Minnesota Twins",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb6.strmd.st/secure/gGCgCkycVxgdWVRBphMuvlJDvPbeEcIs/rtmp/stream/FXAgzrgo43B0HjhyLWovIGzH7DRJLHAJwnkBCWwKv7x1V7ActbOP5cF5V6A1TH3ycB-ckUcK5-UpBfMQi1FuyFE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-seattle-mariners/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb1.strmd.st/secure/BocUXzryGEhOttaUuCnojPaSVSSvUGre/rtmp/stream/1MWTIcchv23RahpO54KKBkaCK9b6hte8UKOvqOeRNtgD7eumongfyE6aiF10G2P_IKCW_Gk4bBKgTH-A6yX7sIY_BToi/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-seattle-mariners/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Los Angeles Dodgers vs Boston Red Sox",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb10.strmd.st/secure/IYUsezAfKceTTbjWNwzXHGmEtdbsdyOR/rtmp/stream/q1JQwURJBjOBkmyy8vGv-_Wyem92aU57eJ8hYvP4E78e8pei8_Qqh36zCYhpni7xUBYrmxHIZ2MCxd4bs4lE_0ePsA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb10.strmd.st/secure/oRYWsqJIXZPRwvWEsOCXpdSOQkpzvHon/rtmp/stream/ZzyRN4OZbjxToJSwXKZT70b9hj2KK_vbCpzHvAp1uQ1aWLw4-nVbqrILDBRes13v6usCYJ-MuNwMvtKAlxzcvISy7jKC-WM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
@@ -958,334 +1171,31 @@
         "is_live": true,
         "links": [
           {
-            "label": "English (HD)",
-            "playable_url": "https://lb12.strmd.st/secure/qpjodWNHfMbAxAIJVqJoASriNIXImSQJ/delta/stream/live-event_nascar-cup-series-2026-quaker-state-400-available-at-walmart-live-stream/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb1.strmd.st/secure/iWjkOydsAcOJjLzsxfFJVfwsAllDXpTL/delta/stream/live-event_nascar-cup-series-2026-quaker-state-400-available-at-walmart-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live-event_nascar-cup-series-2026-quaker-state-400-available-at-walmart-live-stream/1",
+            "resolved": true
           }
         ],
         "start_ts": 0
       }
     ],
-    "wwe": [
+    "boxing": [
       {
-        "title": "AEW: Collision",
+        "title": "ONE Inner Circle 24",
         "is_live": true,
         "links": [
           {
-            "label": "English (HD)",
-            "playable_url": "https://lb11.strmd.st/secure/rgptbJKMYVuKumFYSrLVOZPEhTLZJZqP/delta/stream/live-event_aew-collision-live-stream/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "AEW: Wednesday Night Dynamite",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - TBS (HD)",
-            "playable_url": "https://lb6.strmd.st/secure/jffyrZHJIjrCECeBQMEkObaXjjusIBPK/rtmp/stream/8WHpfj0-4Ls5vTHPXJz9eBq8gb7cDopAOvVWcczGzTm2VxNQONfGe4ZVkBUYkVS2wPTWW60/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 1",
+            "playable_url": "https://lb8.strmd.st/secure/CPEkbrGhSjCymUICeNkJUWfIyRJnrMtk/rtmp/stream/rQIe9dz8-l7bup354UuM4BPVvfO2A2-scsJFd3IUM8-w0OXeH5n_wx7i4r-HyA8gDe-58lv9fg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-one-inner-circle-24/1",
+            "resolved": true
           },
           {
-            "label": "English - TBS",
-            "playable_url": "https://lb13.strmd.st/secure/MUNNFhophbdhfkZQUnLmHDFpATFUdrjP/rtmp/stream/pcYxjHOM8SFtHIQ_JjbqTkAELVyyLHPY6T57qCu16adwyoWdmFF56kZDnGMuHTQnbZGjE2w3d_I_/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "TNA: Impact",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - AMC (HD)",
-            "playable_url": "https://lb12.strmd.st/secure/ZFonqYIidsjJhEuZoWsYPMEYsrCjYljo/rtmp/stream/dIQjySWkDj3BHaNsoBlWHX2XMU-_XK-1PWGWxhEf98rad2iILwz4EMAXpZBqYo9GnoqMUKs/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - AMC",
-            "playable_url": "https://lb6.strmd.st/secure/zbRobGrKCpHnqxdoFvIiWCwzmwLtGrpU/rtmp/stream/4yz27jhfA0KlU4TYh-O0HpR2Ry_-3sSt9YINgPttg-y__szw-pFnkw-mv4X7JMubid_w3-6oizDP/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "WWE: Friday Night Smackdown",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - USA (HD)",
-            "playable_url": "https://lb10.strmd.st/secure/IbEJwttdWoOrNPqXqYLSMUYuvIThpHos/rtmp/stream/KkLUnNFtdtKZTxQdv59PKAYYJo8VX7Qwzi2hcxIH_73uWOOItNcl1Eyibs4S2xBU2v5mbeA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - USA",
-            "playable_url": "https://lb2.strmd.st/secure/OijVBPnHNIkQnGoiPqSjantEuFlEWnzc/rtmp/stream/7iFha7ll4wJQxcNe746LoHd4NZlDe-iLIrXSUqaaedIokNeW4c2mB37etkPBl3gVTYPOLFdqjqbb/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "AEW: Saturday Night Collision",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - TNT (HD)",
-            "playable_url": "https://lb9.strmd.st/secure/MJuAXYjuVoCdpPCUJwKJDROIlObWMLVN/rtmp/stream/dfMYiNf5Q_LK9GrPPj2axtVOgmhnWC3gClwrgPEYpt8qiUnoiM0bSSD9Zb7t2bEU4lj-4Bo/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - TNT",
-            "playable_url": "https://lb7.strmd.st/secure/sHEdfFUHjLcwaOdaqZoNCVmzSZpNXjHH/rtmp/stream/xA7CtlNkRk1iu-BDfdoyP8e1WZT_IEZfHBiJxt67nTXdncdhB19UonDPeCXeBiZQIF_dVbs6il6y/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      }
-    ],
-    "cricket": [
-      {
-        "title": "Willow Cricket",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb14.strmd.st/secure/AelkmyeiSoSDmYbxDJxPdJWTtlwlbfhM/rtmp/stream/streamed-willow_720/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "Willow 2 (HD)",
-            "playable_url": "https://lb1.strmd.st/secure/vTZRljIByNlKrzMYOMGzkEEeAqWJMjTr/rtmp/stream/streamed-willow2_720/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "Willow Sports (HD)",
-            "playable_url": "https://lb8.strmd.st/secure/fIDMgPXLFEUjApPafQCRlguFzndCYKVO/rtmp/stream/streamed-willowsports_720/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English",
-            "playable_url": "https://lb2.strmd.st/secure/pCCZlFJtLiPzbijNvTwNDSeONUYOVhDY/rtmp/stream/streamed-willow_low/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "Willow 2",
-            "playable_url": "https://lb3.strmd.st/secure/ngQVVDGdvfDVeAPnGOEAXoMnaiXPiXvu/rtmp/stream/streamed-willow2_low/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "Willow Sports",
-            "playable_url": "https://lb4.strmd.st/secure/LTFTBPBuidCEWgBxHQETyNNshfKvLYnd/rtmp/stream/streamed-willowsports_low/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      }
-    ],
-    "rugby": [
-      {
-        "title": "North Queensland Cowboys vs Sydney Roosters",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Fox League (HD)",
-            "playable_url": "https://lb15.strmd.st/secure/IjRvwMouJcrFktrVueDKCrByDPtyJPQy/rtmp/stream/YVWrlDDtStIxy3ob0aGSbMXIgqVLR2xh1pf_fcROMoM3iqhEOQlMjeXi2Y8LhaOcud5nCJ3aojccOoY/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Fox League",
-            "playable_url": "https://lb2.strmd.st/secure/yqMAAPxYPePDkTKVSFocQKcDAzuwBfvN/rtmp/stream/hk5OopDeQ_HDpG_n3oSiV7jn_weqRhopu7BQ_tXZU8tO9ajD-asTekpfTQqjlyLDNwFdJPxPO4e7nBSwl6wY/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "St. George Illawara Dragons vs Dolphins",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Fox League (HD)",
-            "playable_url": "https://lb10.strmd.st/secure/hXlcPAtLTfttyaXLPZyODiWaDxRIwYFz/rtmp/stream/2KkMGI-dni8k0zB2ukgIWMl2O1mTTBIuVmI5jZLn_WReCjpJFQYnQ501GDlqGSHNOOtaQ9V3p6nLCFg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Fox League",
-            "playable_url": "https://lb12.strmd.st/secure/XlygIcziwKqRmjxlzMyhAIEZwUGznInA/rtmp/stream/wzkSJYa5BhEUPalZ2C5EwWmQDcadEO9a1Y5OCpbgKjLfvsTZ7jOYwRfkeUXJMMSoNU5Ph7QD7pyOgpOtpxci/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Melbourne Storm vs Canterbury Bankstown Bulldogs",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Fox League (HD)",
-            "playable_url": "https://lb9.strmd.st/secure/DlrgDKVCLIqIrUiUYAThsUdGwqKEsfPw/rtmp/stream/vPLytqQfnfVthDSrw3wNLLdH2894p0MAvvXUeF51oyirtchzjzu9MwjflFwPi479N_StW4VQNdksG58/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Fox League",
-            "playable_url": "https://lb13.strmd.st/secure/eudmMMZlmXQPYcpvXVGePcMGUTaHGhDj/rtmp/stream/oaMv8mmvIk1xR-2U_-tN2I9n7Uc_pE7YtdtREyxoBADC8TK-UiU0J5gmln5SFDa1KWKpatb8nS0X-rc4ujga/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Titans vs. Warriors",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Fox League (HD)",
-            "playable_url": "https://lb7.strmd.st/secure/JolHRcRFFgVvZTSEEEJRkcvDViAYZVIB/rtmp/stream/o-FKbhTvY00nRjpZLKHtp-kswDRiETE2MG4Qjjw5CvO6KT162ICrddbTAsuXFcnqEmvmEQJno7jmQqY/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Fox League",
-            "playable_url": "https://lb1.strmd.st/secure/JwuOSznStjbzxndZlAmhNwbLjyvtwFYm/rtmp/stream/xuY53bTs5mPl3pF9BznjtGI3l_QRQRet2avN3R6tdL-P0F1oGD7ab-kNij6Sq24NSvArpGFvoM8XsuSQnEUY/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Panthers vs. Raiders",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Fox League (HD)",
-            "playable_url": "https://lb3.strmd.st/secure/DpRrAMZJozizQpHUQgMWEwBgARVfLBZC/rtmp/stream/_AvU5r7ySZ8Yo2bFFJXcZDhe3QJIoQynmGbPZfF6DTgnDGJF3vS4r6QNgrBp3oJMEaGqOUC0g2Bs-2Q/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Fox League",
-            "playable_url": "https://lb5.strmd.st/secure/MQvqgVyWLMpnMgqBAVRudKtwEbFYCViF/rtmp/stream/0Q9M4nXbwpxyA0jBTqD_PjmXt41KoGYlFl3cQeNrwgoBkodJd1Vn7rrp0dr8ZQcBg-3wpuDGTKm_HtV6pHoM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Broncos vs. Knights",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Fox League (HD)",
-            "playable_url": "https://lb14.strmd.st/secure/OVgxJDyHASZzjFmJJgHWQwOsjtkDwsMr/rtmp/stream/znK6t65Ozk-Nil_eqqhoW1RqwSv1mRAV3IXALYUheyiuTg6kX5FDtHQS8WzVYw_T7IYn43lrh8F4wLU/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Fox League",
-            "playable_url": "https://lb8.strmd.st/secure/QXOqBIaAWAsfkzVoXuJJDygqypfvrYAd/rtmp/stream/HF1ogZdXXlucqW9EPSLTU2Ht1KmuV-LRc9hkc2kH0py367QO4tkqXxvNbonrDiqiBHWk_zVa3EnBRctQZIvf/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Sharks vs. Rabbitohs",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Fox League (HD)",
-            "playable_url": "https://lb6.strmd.st/secure/kEIGMVDpemanlrolQVjnjTyjLUCKAtyd/rtmp/stream/ja5AJSJhFsxVyA_cr63MOlCjmwcHfoupCKaZWR60wIFQfkFpSTYX5Cz9sz4M3O_EtdBLeFUEb09JdYE/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Fox League",
-            "playable_url": "https://lb11.strmd.st/secure/tKhIGPZIaJxGmqdMNYdaqyBXfVEZruRA/rtmp/stream/iUnae6Ikk6BT7sRiw-lLbi3L17po-R7ACnVYPKo7sx3g4TDRRDaaJ0gIjega7MPg-F6ut8POy8s5ViYfq_tG/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Wests Tigers vs. Eels",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Fox League (HD)",
-            "playable_url": "https://lb2.strmd.st/secure/EFmXKslQrHQaNwCyAuBRbQfDsTwPxPHf/rtmp/stream/OesKmmTvBvr5bNnDvaaGTbh4XcELVlWAUtdjs5hktgKxEdP9h3GbP7Z1qz8bkjbdjWU3Ath1asXWvPg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Fox League",
-            "playable_url": "https://lb10.strmd.st/secure/YJhUHGjWEtvRgFaCJjhALmxxirfLFfbv/rtmp/stream/ObimUkrNxB1Ap7fADQBjZX5WINicpUchmK-66G3dkAu8ir1FLx0Q8hpBAm3YnIezcpK70MZSllV0dB05l1mG/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      }
-    ],
-    "darts": [
-      {
-        "title": "Players Championship 26",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - Board 1 (HD)",
-            "playable_url": "https://lb3.strmd.st/secure/XipsBfAdfWUEnUbHIdHlgsdppXIviDSG/rtmp/stream/J9_WG7B1oCZaZsVNz5Q0Y5I4oXLYkVxyAfkzO6nmLg5p962ayi8AWi_5AZilrc_-vLyOdj-Jvsc/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Board 1",
-            "playable_url": "https://lb11.strmd.st/secure/PFbFOOHiSdMIMeyZUEwtZLyDRnAIZFkb/rtmp/stream/Kk532SU1nVY6kkb_0gSPi0tas2s7Z4qT27M2ScGuG4lcJxd032P6Os1q9xWWfPdX8dL-TwZJsZyT_cnp/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "German - Board 1 (HD)",
-            "playable_url": "https://lb7.strmd.st/secure/QtffjhzoOWildBVbUMifgNTYnytiFooO/rtmp/stream/jq2UVamnD_vtGYPDdv4zUNnO-_e8QQCJSXOZe8e2hYGpBS3c9f5vl0S0PBvRDMPxIZUhzYGduvS2Dw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "German - Board 1",
-            "playable_url": "https://lb11.strmd.st/secure/TJROOYrwVTWMeSBIarlWYqsdkRxGWAKV/rtmp/stream/6Um7VF0Lm6IJCBFimqoNe1ctTqm0J8JgRWF3Je1NA_ZC9iz_ZCa_y6aHFWKLgBIHy4OzIeL7eHOwH_dA2AA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Board 2 (HD)",
-            "playable_url": "https://lb8.strmd.st/secure/qrWNVzUGJiRWejXovyiVctFOJSUDlsaa/rtmp/stream/t2DK5szMVxuaXmcjapgejMIOn2rZ99AArcJLphqNcEqCbhj-NRCW0wPTYPZcTC0b30RTXGgi4k4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Board 2",
-            "playable_url": "https://lb2.strmd.st/secure/zfutZMoSjmJWvHzqvOnVCvNezzZlzcXy/rtmp/stream/DPohmMqbKrivJzEMqXe3VSGIlcxqOnfeB8_Z5x5MKoiO6JgNo4gk20JOPTlsONsx4CD6iwCwhE6UreRQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Board 3 (HD)",
-            "playable_url": "https://lb12.strmd.st/secure/AmgjZcaZecTHvtGWqlyYNDjoWSrNCaDI/rtmp/stream/uSteVWaDezPTL3a6OK9Iof4XFQUhnQAC-7kX7VUSzRczkoPS3TGZsWdcdVI9qxEGsEPwtSM8kxs/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Board 3",
-            "playable_url": "https://lb13.strmd.st/secure/lGVTxQzczeaKQFoIeBdenkUbuchpavVw/rtmp/stream/L_2iDYQZOKBbdg-8zV9MDINDZAf6GxHtFy-ROI4gYNkykshiCMrZnb0wIKuJXd5a_hmfCA3mrdlTHrf5/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Board 4 (HD)",
-            "playable_url": "https://lb10.strmd.st/secure/OKvRIBUBEZYriIAIMncWDTPBDESJSiyr/rtmp/stream/ptmOg6ASmn7415FFpaduCMqLQTO_-66HwYMg8VyHLeW_SE-Zy8p4aYJiiBNfBwjvCH3IMBVeaj4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - Board 4",
-            "playable_url": "https://lb4.strmd.st/secure/HuDakvmmGKENAjEtPWfxvAMqJGrxmDGR/rtmp/stream/MyPch6KpdXAtClzkWwhrfY_tucXQcy__C9EIxwLVIe10LfmNZdwtHJEUsylYD0uW5PLeMZlAbaayirV8/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      }
-    ],
-    "tennis": [
-      {
-        "title": "Tennis Channel",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English (HD)",
-            "playable_url": "https://lb11.strmd.st/secure/hqTXmjyvgyjFQeWMUgqVNMNOCETAZTFP/rtmp/stream/247-tennis_720/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English",
-            "playable_url": "https://lb13.strmd.st/secure/HIDozoudszaibIFkNBdpTFVojntfOEYq/rtmp/stream/247-tennis_low/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      }
-    ],
-    "other_events": [
-      {
-        "title": "Kill Tony Live from MSG | Friday",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - PPV (HD)",
-            "playable_url": "https://lb1.strmd.st/secure/xNnBVAIbbBItPufpVjnfJHyPdeolwlRM/rtmp/stream/SajXFFpNS25AGYdw8gY3Pyejc07Fr7QAzsS-i_f15oZ3USv3rZ7MeNEhtyqygGw5L0n6e3CP1B7ctw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - PPV",
-            "playable_url": "https://lb9.strmd.st/secure/eMViUPoONNBDdwjlIULHWddbBxpNbqBf/rtmp/stream/t9f9y4JKyDpSrIUMFRFCBUsNB44Y-emJVEGsqtR0VZirwDthVN9JptRDKuW394rcykkwfazrs-wdNLKk7zM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Kill Tony Live from MSG | Saturday",
-        "is_live": true,
-        "links": [
-          {
-            "label": "English - PPV (HD)",
-            "playable_url": "https://lb8.strmd.st/secure/ZuPVwNjwHvOkNHqFgvBOigszFBHIhyJz/rtmp/stream/tr00-WXfM0xc0k_xxFqIzdHYJ7AmC6P5rrWOGTUNZv8S5aFSGUwGmFLY6jD_X472V0Mq8dT_9646aA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "English - PPV",
-            "playable_url": "https://lb2.strmd.st/secure/xdSmCwAOVFaXMMrVBCjJkjTeRCwiHsrQ/rtmp/stream/ExZ-3nA7oOaSRcRDIS0pMypOWUsT9Zy3qgdGm62GyQsEQOOdz4ZgfJ12GrZkhQAT2XcRfp8UZ_zxtjAC3tE/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "Stream 2",
+            "playable_url": "https://lb10.strmd.st/secure/hQXYFWeTMqaScudTlderiFWiRXgvAvRv/rtmp/stream/Huz9uqohfhdEs17HCTcLOB2Pe4ffpOizpRjfs95meVwx2aovvHzam5UPH6S3F9Te9AnrPqQARQEbg20/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-one-inner-circle-24/2",
+            "resolved": true
           }
         ],
         "start_ts": 0
