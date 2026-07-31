@@ -1,7 +1,22 @@
 {
-  "scraped_at": "2026-07-30T23:55:02.049085Z",
+  "scraped_at": "2026-07-31T01:25:02.268595Z",
   "sports": {
     "mlb": [
+      {
+        "title": "Boston Red Sox vs Athletics",
+        "status": "W",
+        "datetime": "2026-07-31T01:40:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a6c69f2.e00715afibd4ced18.9ca2.bda5c3e4/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a6c69f0.29c64c04ibd4ced18.9c9f.d591d06e/free.live.espn/master.m3u8"
+          }
+        ]
+      },
       {
         "title": "Pittsburgh Pirates vs Cincinnati Reds",
         "status": "L",
@@ -9,26 +24,26 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a6c54d8.b6d2ea33ibd4ced18.9c43.26321ff4/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a6c69f2.179c46d3ibd4ced18.9c43.3a5d1525/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a6c54d9.06d227deibd4ced18.9c49.30db8d44/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a6c69f2.f70e0906ibd4ced18.9c49.691ddb9a/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "Miami Marlins vs New York Mets",
-        "status": "W",
+        "status": "L",
         "datetime": "2026-07-30T23:10:00Z",
         "links": [
           {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a6c54d9.ca96cbf8ibd4ced18.9c4f.43068ce0/free.live.espn/master.m3u8"
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a6c69f2.15ad56e1ibd4ced18.9c4c.fdc4abaf/free.live.espn/master.m3u8"
           },
           {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a6c54d9.204e8528ibd4ced18.9c4c.5e63c157/free.live.espn/master.m3u8"
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a6c69f2.fa9ed652ibd4ced18.9c4f.dc7902dc/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -39,7 +54,33 @@
         "links": [
           {
             "label": "National (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a6c54d9.d8b694acibd4ced18.9c53.5b288c21/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a6c69f2.f97b5d6eibd4ced18.9c53.d4acdccd/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "San Francisco Giants vs San Diego Padres",
+        "status": "W",
+        "datetime": "2026-07-31T01:40:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a6c69f2.5b09a1dcibd4ced18.9ca6.ccaeb010/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a6c69f3.64c387efibd4ced18.9ca4.a86e99c5/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Seattle Mariners vs Los Angeles Dodgers",
+        "status": "S",
+        "datetime": "2026-07-31T02:10:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a6c69f3.3cdde4edibd4ced18.9ca3.c0ce8d24/free.live.espn/master.m3u8"
           }
         ]
       }
