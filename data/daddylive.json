@@ -1,42 +1,154 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-07-30T23:11:41.149187Z",
+  "scraped_at": "2026-07-30T23:55:02.484730Z",
   "live_tv_by_country": {},
   "adult": [],
   "sports_events": {
-    "other_events": [
+    "soccer": [
       {
-        "title": "Lollapalooza Chicago 2026 | Channel 2",
+        "title": "Sunderland vs Leeds United",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.strmd.st/secure/nAQAgytbSAbDlMdqBICKQAiMhDKsqZQm/rtmp/stream/dj9FbwmfCOK7yjT2XZ9z4qZBu3Dvs4JHIaqYQ3mAUebgSyeiJ6FsvDYNj3hIvOfZvslOxVCF2arUn6LkwMOM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1",
+            "playable_url": "https://lb8.strmd.st/secure/gkgyPKjezTPcbHQgAUYrYLkgPCEEUJoe/rtmp/stream/pIfh8jKoQktTz4gW5xhkEtJymwjE-60LfuJZuk0MYJMzyxPCYWM844A_cijHSSE8fP8FxWZ5AZxr8g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-sunderland-vs-leeds-united/1",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb13.strmd.st/secure/dAtPpsXnrAGVOFzKNGMmUUCnERGghtVz/rtmp/stream/B1B17CovIEIAgM6xgRQxrlvt4ImvvaWUCodJHPE3seJhIWy9Q1ghoNhcRGpW2ZvgyiueOBiW-MI-wdfEzb77zFWWNw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2",
+            "playable_url": "https://lb10.strmd.st/secure/OWiTyguJuLZtHJowHYlhUNGOVysvhYUD/rtmp/stream/LiuzALQxkGMOyy7gPg31BkxQlja0tgcetX3KxrOxiOAJPQ6A1zQR-eWVHUVi-Wv5MrWXMEm2-AQ7wYk5ilk/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-sunderland-vs-leeds-united/2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "mlb": [
+      {
+        "title": "New York Mets vs Miami Marlins",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb11.strmd.st/secure/QgRAQlCRwzGBzSAsIbzlnngFvFKRubMA/rtmp/stream/pyjNGb-t30NWJcpj56R8t0NMnCsrauwxktCuCZrx4zKNYV_xMdv4Rmdn3Y-8ZYXqO-_zL2eWgSET9yWZDg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-new-york-mets/1",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb12.strmd.st/secure/LpARperQElqYlXAjLHiUnQrujUraBXoX/rtmp/stream/rDV4kL8hSWr0IUgdTxqjApKmN9jeCjwtsnQPqkDigj_ypNEizFecLuomRCACMb5xMxMmiNQG6rIRXtXkFQP0MfE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-new-york-mets/2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.strmd.st/secure/kkhvaDRkRaCQyAuPQLZjoZOsbgihjQll/delta/stream/live_mlb_mets-marlins-live-streaming-591109488/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_mlb_mets-marlins-live-streaming-591109488/1",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb12.strmd.st/secure/lJNgZcYxnICwGPJefwKwZNamKBCuavCf/delta/stream/live_mlb_mets-marlins-live-streaming-591109488/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_mlb_mets-marlins-live-streaming-591109488/2",
             "resolved": true
           }
         ]
       },
+      {
+        "title": "Cincinnati Reds vs Pittsburgh Pirates",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb9.strmd.st/secure/fIAASwJNCxjMiNohRcbISzNuqWpvkxBP/rtmp/stream/AKmHzyybpDWSBUk0jB2vvTnpE8ol8D-2KayHvaC1ZYJCJCDZmUPLVukVcHBB8_Kr7OcftV0dmMnAqUl7iWAEXQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-cincinnati-reds/1",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.strmd.st/secure/rvuShpPKkLHZGDEApbQSqmPNIAATRHeX/rtmp/stream/p3kg4xAEMrN6wCB65qui3pf7EEzTv2t6iJyuMrkJ8xu2x8RCBIcQ_Kd2cn1IuRMovgx1yH-l3zUwI1kF8HkOCrnr6pg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-cincinnati-reds/2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.strmd.st/secure/zEoGRCtUUwgDuTLzwAnMuiPSQNQPLiZB/delta/stream/live_mlb_reds-pirates-live-streaming-591109056/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_mlb_reds-pirates-live-streaming-591109056/1",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb1.strmd.st/secure/CNcOzArbjjlMJVWDlZHZDPPFtfJPiXqF/delta/stream/live_mlb_reds-pirates-live-streaming-591109056/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_mlb_reds-pirates-live-streaming-591109056/2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Atlanta Braves vs Washington Nationals",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.strmd.st/secure/GgtmNmylqYMNLuxkLISGLelQpCNuqEsk/rtmp/stream/uXTm12sKUA77rljYf23NyU-PtmqBspX4te4XQRlBT8obRnjivkYvW7Vng0AZjsQpnbUhfPq_eUf6jjDN9tF2/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-washington-nationals-vs-atlanta-braves/1",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb12.strmd.st/secure/xNQElvoRLSmNWanEBBVcPznpRiIjIydy/rtmp/stream/Xchp46aadxirM8jL7qBvGkV0DaDILSRXKj__k1mP5-COUFHboodVxoH1lQVPo2fffXOrOZwsSUMKa-76gQwoV05tFg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-washington-nationals-vs-atlanta-braves/2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb11.strmd.st/secure/BPrYenSJcqcbPNgQCXByBweqtZWMlIEf/delta/stream/live_mlb_braves-nationals-live-streaming-591109920/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_mlb_braves-nationals-live-streaming-591109920/1",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb2.strmd.st/secure/RClAaZyWTgUTJOTHdiVthbsLmMBGbkjL/delta/stream/live_mlb_braves-nationals-live-streaming-591109920/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_mlb_braves-nationals-live-streaming-591109920/2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "other_events": [
       {
         "title": "Lollapalooza Chicago 2026 | Channel 1",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb9.strmd.st/secure/XKjaUkqdEMSedeDHlDKJoEGYfNJsqbAI/rtmp/stream/GIyV7yjtbxpQYQQ1kQgBqkxUbS0E2Sy_6WMrW7VUtPhOY-55fjInVDJgiFZ58ddE9Fezmg1kLS31dRxyERtK/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb14.strmd.st/secure/AdGsAqCgjBnMEnqfIMOeuFqnHkwKfqXr/rtmp/stream/qhzNe4KJ2UA3qYuZIxx5-ksMvNeqU1A3s7GNVhdmYWcdSoVa1OaE602JxXXApfrFNqRUHHM2QxXTfdc1y6Yi/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.strmd.st/secure/xEBsHGYzGGHsYZAVIMYJbisNRfgoPksH/rtmp/stream/KOQtFjBrfk4H1DRi30y9Swjw8DTYwMjtHt1oQbbPRXAoTsYtu6FahbvnaD962uOjdqOPNuluJN91B7kS90usBS1RZg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb14.strmd.st/secure/PaTHPJhKMPUbmNcAwTWsnxGpfVvATZSv/rtmp/stream/ymVPkDJX8CkcDNOi5A8fXudM0RtaXDl8QvPzlB83Qj9ZOQ_aGj7XXZZmOfTSLfAhfHgGyg_yOizVBGO5NAKxjKbJIg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Lollapalooza Chicago 2026 | Channel 2",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb7.strmd.st/secure/GCRZtVCVIoyDEUGYuFQHkXKDtyyFYrYB/rtmp/stream/O_P92HZ9b0AIDND7y38_VQI3Q6LWaV3sGtEExxn__H_aEv8pjLLCWHmuZeV9-i4_kF3jbGa0aX6bp6mrXt5B/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb15.strmd.st/secure/aBJfQygTXuIZZyXURMgdQtiBBOnovclo/rtmp/stream/q2y4nx9cfbm5FXqjc3N1Qx5KGle394qBVrWnaJwBCXnDNLNpyeLZ9yeGJngkfZmyyX5egBmm2vss6mIJJwMsG9F8dQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2",
             "resolved": true
           }
         ]
