@@ -1,35 +1,7 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-08-02T03:55:02.337104Z",
+  "scraped_at": "2026-08-02T05:55:03.262799Z",
   "categories": {
-    "soccer": [
-      {
-        "title": "LA Galaxy vs Dallas",
-        "is_live": true,
-        "start_ts": 1785637800,
-        "links": [
-          {
-            "label": "regular (SD)",
-            "playable_url": "https://lb3.wfty.st/secure/4OdJ1C9UJEZoI7MOtBU9HQ/regular/la-galaxy-fc-dallas/1/761709/1785664546/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "easy (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/uKh_K8zn6F5QREHNXrqI6g/easy/la-galaxy-fc-dallas/1/761709/1785664616/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Inter Miami CF vs Columbus Crew",
-        "is_live": true,
-        "start_ts": 1785629400,
-        "links": [
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/DOgcGFoGd7S6RnnMpadcHQ/delta/live_mls_inter-miami-columbus-live-streaming-538388640/1/761701/1785664718/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      }
-    ],
     "mlb": [
       {
         "title": "Los Angeles Dodgers vs Boston Red Sox",
@@ -37,63 +9,8 @@
         "start_ts": 1785633000,
         "links": [
           {
-            "label": "regular (SD)",
-            "playable_url": "https://lb4.wfty.st/secure/wjFvJ3xlBNdIrJC8470ZRQ/regular/los-angeles-angels-milwaukee-brewers/1/401816359/1785664763/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "regular (SD)",
-            "playable_url": "https://lb6.wfty.st/secure/JJqfzE-9CCEN2nzqNEkgcA/regular/los-angeles-angels-milwaukee-brewers/2/401816359/1785664781/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "regular (SD)",
-            "playable_url": "https://lb4.wfty.st/secure/F7rRg05y0ah2G6tc3FL4sw/regular/los-angeles-angels-milwaukee-brewers/3/401816359/1785664810/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/iIeuYCg3E6mck0tLvzzrag/pro/los-angeles-dodgers-boston-red-sox/2/401816357/1785664883/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/rnD6cbZqor92Zjk19Ui_Fg/pro/los-angeles-dodgers-boston-red-sox/3/401816357/1785664910/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "easy (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/BKI9TrOlhoAZ7BbEthD1EA/easy/los-angeles-dodgers-boston-red-sox/1/401816357/1785664933/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "easy (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/SxI2DofoTs456tajDJphdg/easy/los-angeles-dodgers-boston-red-sox/2/401816357/1785664961/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "San Diego Padres vs San Francisco Giants",
-        "is_live": true,
-        "start_ts": 1785631200,
-        "links": [
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/DMv2ICW-qGudLbM2sfaLmA/pro/san-diego-padres-san-francisco-giants/2/401816361/1785665029/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/elD4wRFx4syNfpBcxsIFxQ/pro/san-diego-padres-san-francisco-giants/3/401816361/1785665056/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "easy (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/jKWV6mDF1-M9zFfE7J2pGw/easy/san-diego-padres-san-francisco-giants/1/401816361/1785665072/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "easy (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/wF8IovwS0DYUSbrGFdDY4w/easy/san-diego-padres-san-francisco-giants/2/401816361/1785665091/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/ohf9q_UI41RS2w2Wp2L7Sg/delta/live_mlb_padres-giants-live-streaming-591222240/1/401816361/1785665112/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/AkilllRplHGUDXG12blsKw/delta/live_mlb_padres-giants-live-streaming-591222240/2/401816361/1785665137/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "platinum (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/fyTJz6FvfI3uoEBTwPJbdA/platinum/los-angeles-dodgers-boston-red-sox/1/401816357/1785671833/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
