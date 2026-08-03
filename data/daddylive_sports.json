@@ -1,5 +1,44 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-08-03T16:55:02.461774Z",
-  "sports_events": {}
+  "scraped_at": "2026-08-03T17:55:02.748538Z",
+  "sports_events": {
+    "soccer": [
+      {
+        "title": "Djurgården vs Västerås",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb7.strmd.st/secure/COxxCyVTehUoFnVeUtrVYRiUfzcAbUAd/rtmp/stream/pR1jj2rI-e3HkRbOgHS7NgElkMrcy2P7XhFeg55B_M4mAWt2mUsrdv-U_kYG_JzN03F9Jp_FVTYp/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-djurg-rden-vs-v-ster-s-sk/1",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.strmd.st/secure/uPGYikqFncMMgOzHqzdGfhmwowWkQzhU/rtmp/stream/IB28Y5lWearznVDmcQCdu6tAmTzX6a43wo8RjzftrV5eiTl4nL9DXwzlpLH8df4qZguuMfuGAa0PU_9K4Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-djurg-rden-vs-v-ster-s-sk/2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Halmstad vs Sirius",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.strmd.st/secure/XSHNArcoUcHHanJYwsoUSMdDOXRcBHmt/rtmp/stream/31HtOgb_41nwejZdI-MtP22YBRcNlDCyBIwUaevgNxjXSKdEb2saZX0OJlh9fSRN8YjYlUmnJe4J/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-halmstads-bk-vs-ik-sirius/1",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb13.strmd.st/secure/vYjprvwJvvyLaEiAYjpNVMWoteWDHbkt/rtmp/stream/2pQuVEP2zdfmxzTZs1Td-2XzgXpaMqtNcVLG6_wp8WMD7tRA6nOjsHlfTqud3xEFVSe5vAiyAJ5CWWF_sw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-halmstads-bk-vs-ik-sirius/2",
+            "resolved": true
+          }
+        ]
+      }
+    ]
+  }
 }
