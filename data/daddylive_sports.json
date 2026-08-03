@@ -1,7 +1,33 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-08-03T01:25:03.382044Z",
+  "scraped_at": "2026-08-03T01:55:03.855747Z",
   "sports_events": {
+    "soccer": [
+      {
+        "title": "Toluca vs Necaxa",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb10.strmd.st/secure/rGUJBxdzjVEXlFyvnDrPhbXDsSZgwEAk/rtmp/stream/AirhLwuFqz18XaCJNja07fvcBdJOOizIgrO68RglnuXRxUAXZtmn-Ppk8Z1PYja9Vyt3q3Bs890/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-toluca-vs-necaxa/1",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb11.strmd.st/secure/BmfbJviobQAkZXokGeRZVLTbTMidSeYf/rtmp/stream/wMJCTRC0xZpOpePaMCHVHvtQlJkyd5hoQIp53i0wi4rx74_Coh4DLGMr0zdkVEvEQtWwphqjvFQjnjWo/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-toluca-vs-necaxa/2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb1.strmd.st/secure/MWPJWGUCGiZJwoVorpgiEuZjdjPolqLR/delta/stream/live_liga-mx-apertura_toluca-necaxa-live-streaming-598449600/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_liga-mx-apertura_toluca-necaxa-live-streaming-598449600/1",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "mlb": [
       {
         "title": "Los Angeles Dodgers vs Boston Red Sox",
@@ -9,19 +35,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb13.strmd.st/secure/eTOhQzponqyeKGvgijPqyBIUfMcfHKCo/rtmp/stream/HrQXrUriR4x0da8BtUhIkAgeTS5auZWOgV7_ckD7xmkEvSil72LWMoImSHYnQ0atb5-BUZj00z5gz2AyrG-v0mjDKg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/HtpoQaObRTKhNNgToQgiZEqhriJxBkfV/rtmp/stream/gG0AYhPraJzl7WYu5Yq8-yNChxSXUIop-Z5-NkIfUkr5HrqRdJmmv8OF7U0N4KdUmQw5CuRZe1B8pkxl2WKGWyeXAQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/1",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.strmd.st/secure/LBxMPtDSevOiLMzHGsVaGQslvCTuiDhE/rtmp/stream/LQg_ELUAwJhgUgitr52-8Ch6jL5tFT4uDGiWzjC9MPThxOCtzc-Ii4EkwOVB0VToPcFkJZ9FkYbOqWmhfclRX_8z8lC7Ib4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb11.strmd.st/secure/QefBfdtBGDvwiFFOZgQnoZPmlunMDZeT/rtmp/stream/zNVsS5QiCDzDTjph57nKBe44d3sxpjE8DISgUXiSa2bv1IOsl7W6izgtPXoJKxCREFeQ0J2_XKnGKpo6JOc0hkgTAkUvnB0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb8.strmd.st/secure/ghQKdOdhgqNTkeqSVaAfBRiQWFevPPXA/delta/stream/live_mlb_dodgers-red-sox-live-streaming-591283152/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.strmd.st/secure/vMUrhvIigvFWVxyxDmGYdCVurrlmLQSi/delta/stream/live_mlb_dodgers-red-sox-live-streaming-591283152/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/delta/live_mlb_dodgers-red-sox-live-streaming-591283152/1",
             "resolved": true
           }
@@ -35,19 +61,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb13.strmd.st/secure/nXkOQgGrzjHGNcIHyyZEnKzQGaIcTDRX/rtmp/stream/-DUNi1I4JIxkmFdx6XFDC1A0iUKAJMRjDyZRxzz-EjNcqK4MoYSl3Abvan8v2R6cUC6XzXI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb8.strmd.st/secure/pAUkbQxQRQhActXjmgsULuhRYrYxgWrI/rtmp/stream/o4X33PYkcPDyX6gVPsgjvCkMiby0SLfCUTLWasBKFfZCNA7aDxUqg6dU92tGsB5gX0czJpc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/1",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.strmd.st/secure/sQlcQJQRPijageOhFLZvtBglzLLYxQAZ/rtmp/stream/gmLEqPY2wT9vwvu9rjcIJiUpyOAu-Z-3SoBPThIc4qAD-P3EhkW3masAOcssCqquWEfuJy3yJJRM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/nSUQQeWnzjFsqyOaEELNsTyKcXcLscpt/rtmp/stream/bhk4sfWw3EBB-2q0nIEwcK7zIVUPHFLuJX-fCAKJhoMdwe0LOnBWN5dyb9iFuqhaOX-6XmG1hHfS/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb8.strmd.st/secure/RwfDtBkTnUQztWgEfUvzHHfTkHyFSsLQ/rtmp/stream/O1S3ujaH1AuWy9Lt96aFuuekJXUztwKH6eqW7sZNNu2z9AuCCkKEJ3ymGZrJvg79fB4eOoZ_5zI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.strmd.st/secure/OtsFYrsgUPKiEAWXgwdmqhnmzPJburlN/rtmp/stream/qD9hB5oRAX45Hbqn-6vbIFX9CY3yzvAfJYc054GFPyN13fJJeHUswcBlj-zSpVLbPFXwLYWosr4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-wwe-summer-slam-night-2/3",
             "resolved": true
           }
@@ -56,81 +82,37 @@
     ],
     "other_events": [
       {
-        "title": "Lollapalooza Chicago 2026 | Channel 1",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb10.strmd.st/secure/zQFXmkQCTjMgzvrgcuPZUJyRPLOMIbrL/rtmp/stream/f3aN_SbXJ46d5DL4kC7bfb65ZSJnv_yvKitd8TCAMbiMEFDOMN7pCyVdB7Cx8LrJfmQi6uGxuoYAQi-MSmX8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb12.strmd.st/secure/dTbMHTdNGlzlRthWIESqylYDEgDQTWZD/rtmp/stream/OgXsV6UIfIKp7DxAPkJdwfc0z8S8oFRNxRSODM94E3gltah2VSIoN8YreSg37ShVkztdNOCHG33kOaR2oufK_x-73w/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2",
-            "resolved": true
-          }
-        ]
-      },
-      {
         "title": "Lollapalooza Chicago 2026 | Channel 2",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb8.strmd.st/secure/kmmJOMTfDgQULgWkeJrCjMmMCacgMGTv/rtmp/stream/mXT4i_upOjI43Nnmt03NIA4k13Cl7IhDf_34juOWhz0cdsI1rwgCSAJvHru-xVcyyhS_-XoppRynC0OGIILV/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/tXMGzFDNbMbUzNUIyMmaweszWQDzWumK/rtmp/stream/L0Xs_oZ7EaZ0xOmHu2NS8rSzIgFEVmhAbJK3x0qX_KcRaBSApf4Ctp1t0gGVljqjem_CUjVJh77HZ3GeG8bN/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/1",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb14.strmd.st/secure/SXOVSxZsueDijxwvwiMbSQhqMUVNsStS/rtmp/stream/RyoISCmsfTlZZwVGvWL-w4B3freypqZPqg4ewcLKUd4o46qPsiHAQTU_FcKYdec3DLT4Uuy4X-aL8nCRMRhYcK7KDw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/SQMLxgyGPLXWKmwjilLDyJUaxvvLkBrP/rtmp/stream/PbUtEKCcSK1zenDR4UdZFOyKy5C5cAZB1Zo7jIpDhLYFG5EF7nieUImOvcwMKJqC1_3LOb1rgwEqAmbcworp_NAaFA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "soccer": [
-      {
-        "title": "Toluca vs Necaxa",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb10.strmd.st/secure/AMyMOiXIbTwUHtBRKwDNqzCBXMOBFWfX/rtmp/stream/e3Ga5V5PWvHVsDAvNN1yCg2_P79xQWAybHPAxGBWDHaCDn_v88Ft7PgGBQWcDlQnP3For9bZRKY/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-toluca-vs-necaxa/1",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb12.strmd.st/secure/HwGTzaYwVGlmfkMIwezLcysTTnWhmWQR/rtmp/stream/L7zD-coGaf5m106peybz4TLboLpN5lNkJ3sPfWlWA-vpNfX8FiQUY1YGrRw2N6z-CNZh6QFfkuI9bZVz/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-toluca-vs-necaxa/2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb8.strmd.st/secure/LvAsMRqIzmfkLdtiEqyEWcnMZHDAMYmO/delta/stream/live_liga-mx-apertura_toluca-necaxa-live-streaming-598449600/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/delta/live_liga-mx-apertura_toluca-necaxa-live-streaming-598449600/1",
             "resolved": true
           }
         ]
       },
       {
-        "title": "América vs Santos Laguna",
+        "title": "Lollapalooza Chicago 2026 | Channel 1",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/wRlQpBqPPQmWeFRshOcCKVBXRlpTZnQo/rtmp/stream/dTzGNM2tplHDDnkg7G7CEU7B4PZ_98nr7O6St1Za4MJ0FzX_1lDbryMxJ7eA1ixkY46f0Y35zcc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-am-rica-vs-santos/1",
+            "playable_url": "https://lb3.strmd.st/secure/TcxwADjAJBQssQGMpUIaaSGpqdrlzCpy/rtmp/stream/2Hv_46E9P3-dagMF1K8kfD846QV8uHiOkBgiqKv9fu1m0ge4Jyw-OcWhmL0u83CHq-QIR9SZxK9L-KoFkfuy/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.strmd.st/secure/TAgHtwDTSLTVKSMsjqzBEeLtMSfIvvys/rtmp/stream/10c2DV07wKdM_viiNaSRcRrQYK6MNu1InpVsVpqj7YSiWGFz9nyrg_IUhuHD4Umf9j_Ids_hKBbvToU5/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-am-rica-vs-santos/2",
+            "playable_url": "https://lb13.strmd.st/secure/UBRdOBDZCUUEcrsJBhEDWueSUIpqimnk/rtmp/stream/GbdDAvH1HgNuqOw2ym4mh5E45Vr0vUEKgAuAblJuJA7PzZ-VlEbZHn_9bqmsq19hOyzwYuMMa7MoyykuNbW-dMdy4Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2",
             "resolved": true
           }
         ]
@@ -143,19 +125,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb10.strmd.st/secure/aMbvhHxyfBFpuWJihxmdYGpLPLYfcHXz/rtmp/stream/69J4H9ExCQu3sf2UQZqsD9xfULT_2SIFWUqNR2wPJJLkqqmTN2m9g_FyH6ylIHFX_kmPmFDhYFD0Qp2ICedEb7kELBchxA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb8.strmd.st/secure/lDkzgkpEUACwwWiuEIRwlaXGrmmnKMmR/rtmp/stream/AuGsn52IiOP8sBNYfueN7CuNIPF3XehEzid7baWzhCuQT0HZhkCxGTnib8qHCdewSMvMdiiuBF5X6DaUKAZscpuSnAZJdQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-golden-state-valkyries/1",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb12.strmd.st/secure/fkHWZCXcNiuiHFnLEzYlAeadZEmSscOD/rtmp/stream/ialhTmk6zTvaejdYU6HIubWpuSJfj6IXHgKxnUmPJUWnv5Vf867fWRf71QBDjcK4fwh4maIX1o9ZB8CFqt-yetdIrI-RMdOhwFI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/QlNkUXCHEhlCfvODzcryoUObwbATIROe/rtmp/stream/SrrLT_H39OMGBiMucisg19lXG_NUp4dr-QoYz4sfcNXDM0TnbpK6BLJkQfFlGtJzdN-Zs9vhP-bSt3FCQrzXShwDiNgpV4liOJg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-toronto-tempo-vs-golden-state-valkyries/2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb8.strmd.st/secure/NnRTUiXAZTrWqXYlnVofQpwUpMRRILcR/delta/stream/live_wnba_valkyries-tempo-live-streaming-524062656/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.strmd.st/secure/GAczEFyHEFrslxVsGIvYwhZpNrRFbNMs/delta/stream/live_wnba_valkyries-tempo-live-streaming-524062656/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/delta/live_wnba_valkyries-tempo-live-streaming-524062656/1",
             "resolved": true
           }
@@ -167,13 +149,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/hEeGanJvegDopGPKcmHxyVwsvwEuUHCd/rtmp/stream/ZGFCKcCfj0sN2Alln4ABvZZQq0PAMIJULrwdwD8nkMTUE8VimTmj97__LlxjnsMGKvGPcPG6wEtKFs1kTw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb15.strmd.st/secure/QIkkxLgXBIdiQTQKCHYKPwEboBuuYJxx/rtmp/stream/N4xjLbvPIg5Lj6W4LMPp0G0WJMPsfflwhWpvObyGHmQnssH7GO03BZx401UK3C7hX54Ylx8tvBTEgGCjKA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-connecticut-sun-vs-dallas-wings/1",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb9.strmd.st/secure/HSBkAlnEwqaYflnwjOLIhlMPoXxSsGVg/rtmp/stream/HpohtcOXxI00au03PMm9QvJGeut5Ir7R3RY5I1Ah83X-xBZ4sS740ZRsBOyPyKkCbsVW9AGjlWx_CMC-o42THYo/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb7.strmd.st/secure/tLFmidBudxPScBOhZhoOfQmKFpMJztlf/rtmp/stream/IyglkOcmLnGaMqagd4F3bvxnaj2Qgbh0C-IegM9HjNfj27bgFE0UtRkj4m3_8Ye3GtgpisOV3RfigPmHdavF-kc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-connecticut-sun-vs-dallas-wings/2",
             "resolved": true
           }
