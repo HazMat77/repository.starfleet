@@ -1,143 +1,17 @@
 {
   "site": "https://streameasti.is",
-  "scraped_at": "2026-08-02T23:55:04.179952Z",
+  "scraped_at": "2026-08-03T00:50:53.873581Z",
   "categories": {
     "nfl": [],
     "nba": [],
     "mlb": [
-      {
-        "title": "Houston Astros Vs Texas Rangers",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/24105/1",
-            "resolved": false
-          }
-        ]
-      },
-      {
-        "title": "Chicago Cubs Vs New York Yankees",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/24103/1",
-            "resolved": false
-          }
-        ]
-      },
-      {
-        "title": "Colorado Rockies Vs Kansas City Royals",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/24091/1",
-            "resolved": false
-          }
-        ]
-      },
-      {
-        "title": "Los Angeles Angels Vs Milwaukee Brewers",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb1.strmd.st/secure/dCBnWVAncUONCYsndGjHnPMJqikdyRBM/admin/stream/ppv-milwaukee-brewers-vs-los-angeles-angels/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-angels/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 2",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/24092/1",
-            "resolved": false
-          }
-        ]
-      },
-      {
-        "title": "Athletics Vs Detroit Tigers",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb14.strmd.st/secure/xpAJJmGvmiXcCGDxaBZZwprzZcjTXzTO/admin/stream/ppv-detroit-tigers-vs-athletics/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-athletics/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 2",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/24093/1",
-            "resolved": false
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb15.strmd.st/secure/hfSEdRyzahWYWFiMpzvlMQPpKjwGeeNc/delta/stream/live_mlb_athletics-tigers-live-streaming-591281856/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_athletics-tigers-live-streaming-591281856/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Seattle Mariners Vs Minnesota Twins",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb9.strmd.st/secure/uslYkRSvJIjUqKvpsgGqBJZaoZynGeVw/admin/stream/ppv-minnesota-twins-vs-seattle-mariners/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-seattle-mariners/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 2",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/24094/1",
-            "resolved": false
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb13.strmd.st/secure/OwhOcHOPRehFkdEYxFGhrxUzmtFxdvzW/delta/stream/live_mlb_mariners-twins-live-streaming-591282720/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_mariners-twins-live-streaming-591282720/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "San Diego Padres Vs San Francisco Giants",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb13.strmd.st/secure/fqwoOBmFTBeBDsngitpglCqduinADORt/admin/stream/ppv-san-francisco-giants-vs-san-diego-padres/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-san-diego-padres/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 2",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/24095/1",
-            "resolved": false
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb12.strmd.st/secure/uQGKcuKXbQGVQEiHDONsAvYEsMNkVuYi/delta/stream/live_mlb_padres-giants-live-streaming-591282288/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_padres-giants-live-streaming-591282288/1",
-            "resolved": true
-          }
-        ]
-      },
       {
         "title": "Los Angeles Dodgers Vs Boston Red Sox",
         "is_live": false,
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb15.strmd.st/secure/fbWzPlRUtRwDiuCvipYGfRNGCvNmLYGk/rtmp/stream/NYmZUMwoS_Kt0A6365sdCI18EuNIGRUYjYJ-wMnVY0s4FGvJ_1C6_loq5aH99lhebmsdwOC6_k0DTfwybK6xUb2kHQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb14.strmd.st/secure/BNvvfzLlpajCQwrlgoZAHkfSlyJERCot/rtmp/stream/jaF1pYDJFOUFw8eVx4vn4rUSbNXam3qP-GS3XVWETTc9ZReUE2ZocBSN8WpwQaP8RmsihlOxpvy561y4qo69Lvn4tA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-los-angeles-dodgers/1",
             "resolved": true
           },
@@ -149,7 +23,7 @@
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb3.strmd.st/secure/dXLCJIjPNdlaVGZMIojSkfOYQEJCrsha/delta/stream/live_mlb_dodgers-red-sox-live-streaming-591283152/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb11.strmd.st/secure/BnRxCGMxvHekwWbkXhNavkcrBlCUxDCc/delta/stream/live_mlb_dodgers-red-sox-live-streaming-591283152/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/delta/live_mlb_dodgers-red-sox-live-streaming-591283152/1",
             "resolved": true
           }
