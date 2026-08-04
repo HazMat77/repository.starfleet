@@ -1,6 +1,6 @@
 {
   "site": "https://streameasti.is",
-  "scraped_at": "2026-08-04T05:55:02.936900Z",
+  "scraped_at": "2026-08-04T06:25:02.882324Z",
   "categories": {
     "nfl": [],
     "nba": [],
@@ -11,7 +11,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb6.strmd.st/secure/ZZTXiVqUtmgQnQHBtGystoytDxsaRsJz/golf/stream/24108/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb5.strmd.st/secure/kqTjlVhMYySeFubTmzpPUppmuFBxGnJa/golf/stream/24108/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/24108/1",
             "resolved": true
           }
@@ -23,21 +23,9 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb8.strmd.st/secure/uRMMykBUTeqsTcjZXyHFPuVhJUtWtpoc/rtmp/stream/XhcrpRYeDtPMzzwRY9_w7_QK7JMd3tVZxMaanl2LH7oTCYL2X1RTrXQj-KV_iEh_H-wdbbRKfy-hwtqUkQqkQ4npnqEK/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-arizona-diamondbacks/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 2",
             "playable_url": null,
             "source_url": "https://embed.st/embed/golf/24109/1",
             "resolved": false
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb6.strmd.st/secure/OjMsFjUAFMznwYuHVDLMJNcrXQveUOZH/delta/stream/live_mlb_diamondbacks-padres-live-streaming-591322464/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_diamondbacks-padres-live-streaming-591322464/1",
-            "resolved": true
           }
         ]
       }
@@ -45,91 +33,7 @@
     "nhl": [],
     "ufc": [],
     "boxing": [],
-    "soccer": [
-      {
-        "title": "Ararat Armenia Vs Celje",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb6.strmd.st/secure/iWiqvdlFaEmoQzsKvgHjEpKgGeVonxaV/rtmp/stream/yniW4hyrYrKxciG0fdrBQh0NiXuimoRMLLbOWuXRo8pQ6sezexR8El6sYKRJLcN5FKkrhVlNNL9M2A/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-ararat-armenia-vs-nk-celje/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Mjallby Vs Slovan Bratislava",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb6.strmd.st/secure/DdlBKKUsntqeKWmZCaXojSwknyqiwDxT/rtmp/stream/dsCpI3kfaCXvCNSUO-PY2DsdvCKTtc5Esw_sKaHmycf-BnEw2eWPzsVNC5xlRImlr7TUVymQqN1qtg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-mj-llby-aif-vs-slovan-bratislava/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Auda Kekava Vs Dinamo City",
-        "is_live": false,
-        "links": []
-      },
-      {
-        "title": "Hapoel Beer Sheva Vs Crvena Zvezda",
-        "is_live": false,
-        "links": []
-      },
-      {
-        "title": "Levski Sofia Vs Kairat Almaty",
-        "is_live": false,
-        "links": []
-      },
-      {
-        "title": "Olympiacos Vs Nec Nijmegen",
-        "is_live": false,
-        "links": []
-      },
-      {
-        "title": "Sparta Prague Vs Lyon",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb4.strmd.st/secure/yVLDWTYZAMtwnpmNWZjNWzvJCAwAStPE/rtmp/stream/lzV_b2VEvTRYhqKGjna0Ve0Vi--5TpExO7gfdb-_RetuwluQ_Z7ftj_AcW5_rVQyupBwb3JTt0BOZQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-sparta-prague-vs-lyon/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Union Saint Gilloise Vs Bodoglimt",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb6.strmd.st/secure/qfNUnMxhLhvMtyCuIFrIRaYVAuwrSEYX/rtmp/stream/9S1tbYo2__ldP0eyOV3pi1B5SvDGshI7E4gnWw_3fI-cH7CvgYUgH5hebr5ryInl_Q2vME6-0GG20A/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-union-st-gilloise-vs-bodo-glimt/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Dinamo Zagreb Vs Kauno Zalgiris",
-        "is_live": false,
-        "links": []
-      },
-      {
-        "title": "Shamrock Rovers Vs Egnatia",
-        "is_live": false,
-        "links": []
-      },
-      {
-        "title": "Larne Vs Iberia 1999",
-        "is_live": false,
-        "links": []
-      }
-    ],
+    "soccer": [],
     "cfb": [],
     "cfl": [],
     "ncaab": [],
