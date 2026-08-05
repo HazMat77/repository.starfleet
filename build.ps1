@@ -24,7 +24,15 @@ Remove-Item $zipPath -Force -ErrorAction SilentlyContinue
 $zipStream = [System.IO.File]::Open($zipPath, [System.IO.FileMode]::Create)
 $archive   = New-Object System.IO.Compression.ZipArchive($zipStream, [System.IO.Compression.ZipArchiveMode]::Create)
 
-Get-ChildItem $pluginSrc -Recurse -File | ForEach-Object {
+Get-ChildItem $pluginSrc -Recurse -File | Where-Object {
+    # $pluginSrc doubles as the zip/index.html output directory (same folder
+    # build.ps1 writes $zipPath into) -- without this filter, every past
+    # release's .zip gets recursively bundled INSIDE the next one, and the
+    # bloat compounds every single build (confirmed live: produced a 1.6GB
+    # zip containing 167 nested historical zips instead of the real ~20MB
+    # addon). index.html is repo/download-page content, not addon content.
+    $_.Extension -ne '.zip' -and $_.Name -ne 'index.html'
+} | ForEach-Object {
     $relative  = $_.FullName.Substring($pluginSrc.Length + 1).Replace('\', '/')
     $entryName = "plugin.video.starfleet/$relative"
     [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile($archive, $_.FullName, $entryName) | Out-Null
@@ -59,7 +67,12 @@ if ($indexRaw -notmatch [regex]::Escape($zipName)) {
 
 # Sync to local Kodi install
 if (Test-Path $kodiDir) {
-    Get-ChildItem $pluginSrc -File | ForEach-Object {
+    # Same reasoning as the zip-build filter above: $pluginSrc's root also
+    # holds every past release .zip and index.html, neither of which belong
+    # in the actual installed Kodi addon folder.
+    Get-ChildItem $pluginSrc -File | Where-Object {
+        $_.Extension -ne '.zip' -and $_.Name -ne 'index.html'
+    } | ForEach-Object {
         Copy-Item $_.FullName -Destination $kodiDir -Force
     }
     Get-ChildItem $pluginSrc -Directory | ForEach-Object {
