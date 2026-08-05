@@ -1,34 +1,49 @@
 {
-  "scraped_at": "2026-08-05T17:55:02.389567Z",
+  "scraped_at": "2026-08-05T18:25:02.354038Z",
   "sports": {
     "mlb": [
       {
         "title": "Los Angeles Dodgers vs Chicago Cubs",
-        "status": "W",
+        "status": "L",
         "datetime": "2026-08-05T18:20:00Z",
         "links": [
           {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a73e978.d60db7d1i697096f8.a329.5a341c8c/free.live.espn/master.m3u8"
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a73f080.2b36dd4fi697096f8.a326.a12d6564/free.live.espn/master.m3u8"
           },
           {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a73e979.12d6afbdi697096f8.a326.06876704/free.live.espn/master.m3u8"
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-5d763f4c.4587.website/6a73f081.966e0194i697096f8.a329.feaa16fd/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "Toronto Blue Jays vs Houston Astros",
-        "status": "W",
+        "status": "L",
         "datetime": "2026-08-05T18:10:00Z",
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a73e979.9c75ed1ai697096f8.a32a.007874ef/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a73f081.15185d28i697096f8.a32a.a10f41de/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a73e979.0a10d017i697096f8.a328.68a10848/free.live.espn/master.m3u8"
+            "playable_url": "https://node-5d763f4c.4587.website/6a73f081.2b1b6355i697096f8.a328.f2361951/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "San Francisco Giants vs Texas Rangers",
+        "status": "W",
+        "datetime": "2026-08-05T18:35:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a73f081.14066799i697096f8.a32b.457588db/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a73f081.7e0d7baei697096f8.a32e.e3ef4789/free.live.espn/master.m3u8"
           }
         ]
       }
