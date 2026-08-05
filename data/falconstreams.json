@@ -1,7 +1,33 @@
 {
   "site": "https://falconstreams.app/v2",
-  "scraped_at": "2026-08-05T16:55:03.218176Z",
+  "scraped_at": "2026-08-05T17:25:03.263158Z",
   "sports_events": {
+    "mlb": [
+      {
+        "title": "Houston Astros vs Toronto Blue Jays",
+        "is_live": false,
+        "links": [
+          {
+            "label": "admin",
+            "playable_url": "https://lb10.strmd.st/secure/FNdPFeuMuCeYwfxKRJEFYWtufWJjfRdI/rtmp/stream/_lSactoVteiLMNj40ZMcVjMv7QcKqsd1ujFKJorHLy2lvO6-FSn2RBmHxQYizlEeN20XxgHy1nwzUFORRU29/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-houston-astros/1",
+            "resolved": true
+          },
+          {
+            "label": "echo",
+            "playable_url": "https://lb12.strmd.st/secure/xUAzCLgBNtbAPaiYRozpTQNtEYIhvfnO/echo/stream/houston-astros-vs-toronto-blue-jays-baseball-179724/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/houston-astros-vs-toronto-blue-jays-baseball-179724/1",
+            "resolved": true
+          },
+          {
+            "label": "delta",
+            "playable_url": "https://lb12.strmd.st/secure/ybkiiKaCzPPkXvZFXksRKRqTUhfSqIin/delta/stream/live_mlb_astros-blue-jays-live-streaming-591407136/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_mlb_astros-blue-jays-live-streaming-591407136/1",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "soccer": [
       {
         "title": "AC Milan vs Inter Milan",
@@ -9,13 +35,13 @@
         "links": [
           {
             "label": "admin",
-            "playable_url": "https://lb4.strmd.st/secure/BrrJqWJfEqBwLIETowafqALqHccFdHIy/admin/stream/ppv-ac-milan-vs-inter-milan/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/SJUEwTfiauKnDvoxhMjzqddlysFByLwg/admin/stream/ppv-ac-milan-vs-inter-milan/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-ac-milan-vs-inter-milan/1",
             "resolved": true
           },
           {
             "label": "delta",
-            "playable_url": "https://lb9.strmd.st/secure/kvIHtOcUBfCyLgNobdtpQuJIZaHQSHCO/delta/stream/live_club-friendly-games_milan-inter-live-streaming-599744304/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb8.strmd.st/secure/OXnmpibDsSrDldTOZBskCeGAcuKRAJfz/delta/stream/live_club-friendly-games_milan-inter-live-streaming-599744304/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/delta/live_club-friendly-games_milan-inter-live-streaming-599744304/1",
             "resolved": true
           }
@@ -27,7 +53,7 @@
         "links": [
           {
             "label": "3",
-            "playable_url": "https://cdn3.zohanayaan.com:1686/hls/do71.m3u8?md5=r_3KmxjWLCYYMXqaPv2kNA&expires=1785953828|Referer=https%3A%2F%2Ffsportshdz.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://cdn7.zohanayaan.com:1686/hls/do71.m3u8?md5=YoeRqRNU-FaK6DCk-ohgIw&expires=1785955618|Referer=https%3A%2F%2Ffsportshdz.xyz%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://fsportshdz.xyz/embed/k-league-all-stars-live-streams.php",
             "resolved": true
           }
@@ -39,13 +65,13 @@
         "links": [
           {
             "label": "admin",
-            "playable_url": "https://lb13.strmd.st/secure/KlcMXZtWMJAoaxdMwPmMoorauwCbfpbT/admin/stream/ppv-chelsea-vs-juventus/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb7.strmd.st/secure/BcDdMpzmsOLrsFtwFwhDrcxlVQzhRltA/admin/stream/ppv-chelsea-vs-juventus/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-chelsea-vs-juventus/1",
             "resolved": true
           },
           {
             "label": "delta",
-            "playable_url": "https://lb7.strmd.st/secure/MuCKCTTwGPMTvcIMNlcWoNApHeRJcfyf/delta/stream/live_club-friendly-games_chelsea-juventus-live-streaming-599745168/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb7.strmd.st/secure/YkXpCwSnWzNDiAVWBUyqvWZyDgutuMes/delta/stream/live_club-friendly-games_chelsea-juventus-live-streaming-599745168/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/delta/live_club-friendly-games_chelsea-juventus-live-streaming-599745168/1",
             "resolved": true
           }
@@ -57,13 +83,13 @@
         "links": [
           {
             "label": "admin",
-            "playable_url": "https://lb8.strmd.st/secure/EPEdUoQtzXOJqOfanmMYkalZuePBsWBX/rtmp/stream/2ryfJEvknUdZ0YQM63I9UFc7sNwr5e4OvJENaiKjuvQlCRxOX7qC19eyaqUHV2WZ0r62mID5Hti5qA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb7.strmd.st/secure/cCVwtLFKOFtyPaXcwCxQcyrYQHXGPsWK/rtmp/stream/hlql3ss1ACYpEGlM3e58J_o6vfLfVRnJhujJ_4nkMVfi01Enmr8e42WDSs-KhKYyu91_hYx5jUL1qg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-agf-vs-sabah-fk/1",
             "resolved": true
           },
           {
             "label": "echo",
-            "playable_url": "https://lb8.strmd.st/secure/MygLestYQNzdXUNhzjitDVRlZbfpLSbV/echo/stream/aarhus-vs-sabah-fa-football-1607163/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb7.strmd.st/secure/SxNEmCOwkWRBbIErztZCYjRNtYFItrqq/echo/stream/aarhus-vs-sabah-fa-football-1607163/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/aarhus-vs-sabah-fa-football-1607163/1",
             "resolved": true
           }
@@ -75,7 +101,7 @@
         "links": [
           {
             "label": "echo",
-            "playable_url": "https://lb10.strmd.st/secure/kDktXbhXKDJGDkFgmsbMBIUEwCnTwzGP/echo/stream/brann-vs-apollon-limassol-football-1607578/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb9.strmd.st/secure/cxkcvugZxZzdptpyDVDwJopjACUtfjxK/echo/stream/brann-vs-apollon-limassol-football-1607578/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/brann-vs-apollon-limassol-football-1607578/1",
             "resolved": true
           }
@@ -87,7 +113,7 @@
         "links": [
           {
             "label": "echo",
-            "playable_url": "https://lb15.strmd.st/secure/SraklmTLoodbpfffSNBEPfIaUpXTtYLC/echo/stream/villarreal-vs-levante-gamevsbw-135/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb12.strmd.st/secure/SodicQRBQyYiKJaKGOwLThTudZROwibc/echo/stream/villarreal-vs-levante-gamevsbw-135/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/villarreal-vs-levante-gamevsbw-135/1",
             "resolved": true
           }
@@ -99,7 +125,7 @@
         "links": [
           {
             "label": "echo",
-            "playable_url": "https://lb13.strmd.st/secure/oBqhVYXIsWGUHXqoqqRZKbqnOUDmxuEy/echo/stream/napoli-vs-osasuna-game-311111/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb14.strmd.st/secure/TqKupgFUiAAwCfoocGwElsAPfsJuxwrW/echo/stream/napoli-vs-osasuna-game-311111/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/napoli-vs-osasuna-game-311111/1",
             "resolved": true
           }
