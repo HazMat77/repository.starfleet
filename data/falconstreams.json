@@ -1,15 +1,39 @@
 {
   "site": "https://falconstreams.app/v2",
-  "scraped_at": "2026-08-05T09:55:03.403414Z",
+  "scraped_at": "2026-08-05T10:25:03.071838Z",
   "sports_events": {
     "soccer": [
+      {
+        "title": "AC Milan vs Inter Milan",
+        "is_live": false,
+        "links": [
+          {
+            "label": "admin",
+            "playable_url": "https://lb4.strmd.st/secure/yjchzyOVaiYVsMFPAtUcIxKwDqgiZtME/rtmp/stream/GNZkBLAU2J_khQO-U0ZkeVph3oQYASYjQYT_0WpyRXR-t9n7juq9rVYijle4w0KV6tAx50sIOVgBUQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-ac-milan-vs-inter-milan/1",
+            "resolved": true
+          },
+          {
+            "label": "echo",
+            "playable_url": "https://lb12.strmd.st/secure/btysMRiZKJzdWdGEoDVUyWbLvChIwzWN/echo/stream/ac-milan-vs-internazionale-game-51111/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/ac-milan-vs-internazionale-game-51111/1",
+            "resolved": true
+          },
+          {
+            "label": "delta",
+            "playable_url": "https://lb12.strmd.st/secure/wVMKHLEhGfTcayRiQyFkGPPXXPQYmxVU/delta/stream/live_club-friendly-games_milan-inter-live-streaming-599744304/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_club-friendly-games_milan-inter-live-streaming-599744304/1",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "Villarreal vs Levante",
         "is_live": false,
         "links": [
           {
             "label": "echo",
-            "playable_url": "https://lb12.strmd.st/secure/bsyokDrYpvhjvrsdomgXuTGMzSkIvwrU/echo/stream/villarreal-vs-levante-gamevsbw-135/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/TwSZfpZQrNxBxAOlsUAbnuGKceAStiAC/echo/stream/villarreal-vs-levante-gamevsbw-135/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/villarreal-vs-levante-gamevsbw-135/1",
             "resolved": true
           }
