@@ -1,7 +1,57 @@
 {
   "site": "https://falconstreams.app/v2",
-  "scraped_at": "2026-08-06T15:55:03.517869Z",
+  "scraped_at": "2026-08-06T16:25:03.254990Z",
   "sports_events": {
+    "mlb": [
+      {
+        "title": "Baltimore Orioles vs Los Angeles Angels",
+        "is_live": false,
+        "links": [
+          {
+            "label": "admin",
+            "playable_url": "https://lb10.strmd.st/secure/XbHntwZvbvgyhcjYgijHNQycLTsjOeQh/rtmp/stream/hBYRg9fX3hYWbaLviEiq8Imj7qsrKxYIsbN86yD2Kz4_yjFVUwgxiAufPdggyx6dmrtgOSEVVtxqcBtQw0e6YLif/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-baltimore-orioles/1",
+            "resolved": true
+          },
+          {
+            "label": "echo",
+            "playable_url": "https://lb12.strmd.st/secure/IpdIxXzqliVXlRjDoBznFyVkSdmkKqOt/echo/stream/baltimore-orioles-vs-los-angeles-angels-baseball-179746/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/baltimore-orioles-vs-los-angeles-angels-baseball-179746/1",
+            "resolved": true
+          },
+          {
+            "label": "delta",
+            "playable_url": "https://lb15.strmd.st/secure/yaHMPEcSAFSGxyooAhGkfzbQMTAIWAZl/delta/stream/live_mlb_orioles-angels-live-streaming-591455952/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_mlb_orioles-angels-live-streaming-591455952/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Cincinnati Reds vs Oakland Athletics",
+        "is_live": false,
+        "links": [
+          {
+            "label": "admin",
+            "playable_url": "https://lb4.strmd.st/secure/hHZhhojcNzxNzFnnxImGqasLpJnyOjoc/rtmp/stream/4n8FMXOEr1ewyqFxoTKUDvE1NHbd83KCU-2J-AAjb2u8ANVv5eGMxu9gbTcxT3khhIiFuOqoSvRwBJYu7nq1MA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-athletics-vs-cincinnati-reds/1",
+            "resolved": true
+          },
+          {
+            "label": "echo",
+            "playable_url": "https://lb10.strmd.st/secure/DlEmdQFqkxzvOOXhPvviMzpPPSFSwZix/echo/stream/cincinnati-reds-vs-athletics-baseball-179743/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/cincinnati-reds-vs-athletics-baseball-179743/1",
+            "resolved": true
+          },
+          {
+            "label": "delta",
+            "playable_url": "https://lb12.strmd.st/secure/RioOGqSaDwTblGKLjXIkliygZjKXGKrR/delta/stream/live_mlb_reds-athletics-live-streaming-591456384/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_mlb_reds-athletics-live-streaming-591456384/1",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "soccer": [
       {
         "title": "KuPS vs CSU Craiova",
@@ -9,8 +59,20 @@
         "links": [
           {
             "label": "admin",
-            "playable_url": "https://lb4.strmd.st/secure/CKYFhayTMSqKtiuqCoHpCwcyoLZCECTg/admin/stream/ppv-ku-ps-kuopio-vs-csu-craiova/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb7.strmd.st/secure/uwVogyfYnYpMbkBBYAFLoOPnyWoHaSni/admin/stream/ppv-ku-ps-kuopio-vs-csu-craiova/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-ku-ps-kuopio-vs-csu-craiova/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Jagiellonia Bialystok vs Rangers",
+        "is_live": false,
+        "links": [
+          {
+            "label": "admin",
+            "playable_url": "https://lb10.strmd.st/secure/dmxeeIDZjkdUBQsHPPRWVMoDuWxeiZlR/rtmp/stream/MfbIABhwcj3ZldamExjRV6GnN8sCJcIwyqrycxMzWA9RCkub_U2R9IC7XiNlRVfb_5nBCWt8_vzIqQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-jagiellonia-bialystok-vs-rangers/1",
             "resolved": true
           }
         ]
@@ -21,7 +83,7 @@
         "links": [
           {
             "label": "echo",
-            "playable_url": "https://lb6.strmd.st/secure/XerZQrHzyfRkQGJAnwyOLnwdLGZJGBQN/echo/stream/maccabi-tel-aviv-vs-cska-sofia-football-1607563/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb12.strmd.st/secure/EQZSmaAwBAfwkwWJVOwvRRhKSKNxEbsW/echo/stream/maccabi-tel-aviv-vs-cska-sofia-football-1607563/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/maccabi-tel-aviv-vs-cska-sofia-football-1607563/1",
             "resolved": true
           }
@@ -33,7 +95,7 @@
         "links": [
           {
             "label": "echo",
-            "playable_url": "https://lb3.strmd.st/secure/fbSZTNLQbdqFthTtErQKCpnnxygpUKPZ/echo/stream/inter-turku-vs-fc-vaduz-football-1607587/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/OrBNkAVJULZQejuKkwGslTaiNLHqTqMp/echo/stream/inter-turku-vs-fc-vaduz-football-1607587/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/inter-turku-vs-fc-vaduz-football-1607587/1",
             "resolved": true
           }
@@ -45,7 +107,7 @@
         "links": [
           {
             "label": "echo",
-            "playable_url": "https://lb10.strmd.st/secure/iyLHCQHJWGbDqtXPRDqODOwVsjTfzTYN/echo/stream/fc-noah-vs-fc-sion-football-1607590/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb12.strmd.st/secure/CdxLYgltcCLSwgvOPdZAjGsCUhezUUks/echo/stream/fc-noah-vs-fc-sion-football-1607590/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/fc-noah-vs-fc-sion-football-1607590/1",
             "resolved": true
           }
@@ -57,7 +119,7 @@
         "links": [
           {
             "label": "echo",
-            "playable_url": "https://lb4.strmd.st/secure/xiySuINgJJNVMZDTZYdwacoqERiiTZmd/echo/stream/hjk-helsinki-vs-motherwell-football-1607586/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb15.strmd.st/secure/ryAPrOVGelWgBdPujQUrMmdLHpQKOAGC/echo/stream/hjk-helsinki-vs-motherwell-football-1607586/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/hjk-helsinki-vs-motherwell-football-1607586/1",
             "resolved": true
           }
