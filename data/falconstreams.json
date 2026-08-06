@@ -1,6 +1,6 @@
 {
   "site": "https://falconstreams.app/v2",
-  "scraped_at": "2026-08-06T15:25:03.623352Z",
+  "scraped_at": "2026-08-06T15:55:03.517869Z",
   "sports_events": {
     "soccer": [
       {
@@ -9,8 +9,20 @@
         "links": [
           {
             "label": "admin",
-            "playable_url": "https://lb6.strmd.st/secure/dGoIGLiEfScgpPxDEOUvADoCtmpnXPwB/rtmp/stream/oNf_JteAMZ_90B5Fswei0bcsHTYOO4icrTLfh4_BuaMBqb7rzN3wN5Qo8HcAYzJ2tIvSqYPANtobuK0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.strmd.st/secure/CKYFhayTMSqKtiuqCoHpCwcyoLZCECTg/admin/stream/ppv-ku-ps-kuopio-vs-csu-craiova/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-ku-ps-kuopio-vs-csu-craiova/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Maccabi Tel Aviv vs CSKA Sofia",
+        "is_live": false,
+        "links": [
+          {
+            "label": "echo",
+            "playable_url": "https://lb6.strmd.st/secure/XerZQrHzyfRkQGJAnwyOLnwdLGZJGBQN/echo/stream/maccabi-tel-aviv-vs-cska-sofia-football-1607563/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/maccabi-tel-aviv-vs-cska-sofia-football-1607563/1",
             "resolved": true
           }
         ]
@@ -21,8 +33,32 @@
         "links": [
           {
             "label": "echo",
-            "playable_url": "https://lb9.strmd.st/secure/LSbssXDrBuGwjsSboclBRqsyTqEoaJPz/echo/stream/inter-turku-vs-fc-vaduz-football-1607587/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.strmd.st/secure/fbSZTNLQbdqFthTtErQKCpnnxygpUKPZ/echo/stream/inter-turku-vs-fc-vaduz-football-1607587/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/inter-turku-vs-fc-vaduz-football-1607587/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Noah vs Sion",
+        "is_live": false,
+        "links": [
+          {
+            "label": "echo",
+            "playable_url": "https://lb10.strmd.st/secure/iyLHCQHJWGbDqtXPRDqODOwVsjTfzTYN/echo/stream/fc-noah-vs-fc-sion-football-1607590/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/fc-noah-vs-fc-sion-football-1607590/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "HJK vs Motherwell",
+        "is_live": false,
+        "links": [
+          {
+            "label": "echo",
+            "playable_url": "https://lb4.strmd.st/secure/xiySuINgJJNVMZDTZYdwacoqERiiTZmd/echo/stream/hjk-helsinki-vs-motherwell-football-1607586/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/hjk-helsinki-vs-motherwell-football-1607586/1",
             "resolved": true
           }
         ]
