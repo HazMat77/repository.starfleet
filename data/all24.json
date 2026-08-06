@@ -1,4 +1,37 @@
 {
-  "scraped_at": "2026-08-06T15:55:03.572750Z",
-  "sports": {}
+  "scraped_at": "2026-08-06T16:25:03.265832Z",
+  "sports": {
+    "mlb": [
+      {
+        "title": "Athletics vs Cincinnati Reds",
+        "status": "W",
+        "datetime": "2026-08-06T16:40:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a7525e1.59acc992i697096f8.a44d.db2b4039/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a7525e2.8ed78d4ci697096f8.a451.353865f4/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Los Angeles Angels vs Baltimore Orioles",
+        "status": "W",
+        "datetime": "2026-08-06T16:35:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-5d763f4c.4587.website/6a7525e3.3faf75f8i697096f8.a44b.624e4f4d/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-5d763f4c.4587.website/6a7525e3.4e5e09e5i697096f8.a44c.302237dd/free.live.espn/master.m3u8"
+          }
+        ]
+      }
+    ]
+  }
 }
