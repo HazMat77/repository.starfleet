@@ -1,5 +1,32 @@
 {
   "site": "https://falconstreams.app/v2",
-  "scraped_at": "2026-08-06T14:25:02.217833Z",
-  "sports_events": {}
+  "scraped_at": "2026-08-06T14:55:03.274482Z",
+  "sports_events": {
+    "soccer": [
+      {
+        "title": "KuPS vs CSU Craiova",
+        "is_live": false,
+        "links": [
+          {
+            "label": "admin",
+            "playable_url": "https://lb9.strmd.st/secure/aoFaUIvGXAZWpvykSuItruaTTbBKfUww/rtmp/stream/wjtkJph0or4yyPxernJB2xrYsfKzbOinJ10Xoc2QlpvkPc6NNvy8tHHlGAsUJMCqlIc4tp_VoNGAdQ4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-ku-ps-kuopio-vs-csu-craiova/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Inter Turku vs Vaduz",
+        "is_live": false,
+        "links": [
+          {
+            "label": "echo",
+            "playable_url": "https://lb9.strmd.st/secure/MdSoDHRpPTEpZCAjzAlJhmlluWyITlJd/echo/stream/inter-turku-vs-fc-vaduz-football-1607587/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/inter-turku-vs-fc-vaduz-football-1607587/1",
+            "resolved": true
+          }
+        ]
+      }
+    ]
+  }
 }
