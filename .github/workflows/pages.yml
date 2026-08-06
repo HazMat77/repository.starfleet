@@ -1,0 +1,39 @@
+name: Deploy Pages
+
+# The auto-scraper commits to data/*.json every 10-60 seconds during active
+# periods -- with the old branch-build (legacy) Pages source, every one of
+# those commits queued a new build and immediately invalidated whatever
+# build was already in flight, so a Starfleet release commit almost never
+# got a wide enough gap to actually finish publishing. paths-ignore here
+# means a commit that only touches data/** doesn't trigger this workflow
+# at all, so Pages only rebuilds when something addon-relevant actually
+# changes.
+on:
+  push:
+    branches: [repository.starfleet]
+    paths-ignore:
+      - 'data/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - id: deployment
+        uses: actions/deploy-pages@v4
