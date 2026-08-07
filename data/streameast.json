@@ -1,6 +1,6 @@
 {
   "site": "https://streameasti.is",
-  "scraped_at": "2026-08-07T20:55:03.076848Z",
+  "scraped_at": "2026-08-07T21:25:03.061751Z",
   "categories": {
     "nfl": [],
     "nba": [],
@@ -11,7 +11,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb7.strmd.st/secure/cnelkTyIrNGgbRyQPtqdLcyEXxFAZFhY/rtmp/stream/vVMjXh73sOPvVDG_d1VYoZ1J9sZNltv1_TPegS2E2GWJKMYVoHbJUlsM7ksby0JC1MsYnHRIAvfhhloax4Gvs5xbpQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb13.strmd.st/secure/cfFHrszkQRSGopMfGMqZWLJKkgtkxVes/rtmp/stream/ya340EXzDgdyMyPDuEJbJQBXDlDTv1SkKqV3LFwQ-klCTPyKggRLUBFp3ruN2Ir7NRfb1KvZIQdzlCBOUwXZpe6Abg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-new-york-mets-vs-pittsburgh-pirates/1",
             "resolved": true
           },
@@ -26,7 +26,20 @@
       {
         "title": "Philadelphia Phillies Vs Toronto Blue Jays",
         "is_live": false,
-        "links": []
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": "https://lb10.strmd.st/secure/xaumuYQockkFHPGmBAkhNReisXkcdGIA/rtmp/stream/Kmz1Me0-NNcR4xrRga4KcGQmkNTnOtmvp-7A5WO3iHzDIwR3G0a30YPirEIxc-2gOh_NZ1xzIugvaeuOIeoMd0NSQG3o_w/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-philadelphia-phillies/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 2",
+            "playable_url": null,
+            "source_url": "https://embed.st/embed/golf/63/1",
+            "resolved": false
+          }
+        ]
       },
       {
         "title": "Washington Nationals Vs Cincinnati Reds",
@@ -34,7 +47,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb11.strmd.st/secure/VwkLyneBPqARAyorrCqFPzIOAdEExeEs/rtmp/stream/-ERbGgIgUMD0oNpH4DFdzu83jjG-_9DqMKNOW4mCy-Mo2nnCYFOePr3wkP9LQ-hkEst10Jp3awFC556rT2a9zwlystwS/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb3.strmd.st/secure/IWZWscHRTgZeZeVdIoEduiWesTqrMtFj/rtmp/stream/ktKvf0p0Dna9q0Ng7HuMaFy11bCBPU4-cPm-GzG1fZV4IF0IshhycLGIAv07R8osDO7dvdoiq5Ajo2_YLwSZY_ELSrB0/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-washington-nationals/1",
             "resolved": true
           },
@@ -49,20 +62,7 @@
       {
         "title": "New York Yankees Vs Atlanta Braves",
         "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb3.strmd.st/secure/MDovEYUgNgGYOzEwMASXonltyBNVStit/rtmp/stream/KapRTbvD4KaCo3UOqJNx2l5QXfMtjiHTQgqa3e6nwqXadVVTimcUdSzFDiZRb3ix3P_hWjgK0aYSychKgCae8w/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-yankees/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 2",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/65/1",
-            "resolved": false
-          }
-        ]
+        "links": []
       },
       {
         "title": "Miami Marlins Vs Los Angeles Angels",
@@ -70,9 +70,9 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": null,
+            "playable_url": "https://lb5.strmd.st/secure/cDEbFWjxaJrfWtGfshDEpYHjuJfebSwu/rtmp/stream/-R_Wpe3RucFf6qoUyRT1x6apLMPJA-VJiJTBMjCHKacJsPkBiXo36BV5kph2l2y81ASF3j0dzhgnpTVCZ2M/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-los-angeles-angels-vs-miami-marlins/1",
-            "resolved": false
+            "resolved": true
           },
           {
             "label": "Source 2",
@@ -88,9 +88,9 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb11.strmd.st/secure/goCSqoxLmMMAGLlVTNBRtgftbUkzDCib/rtmp/stream/Nn18Ib-F9wMkyAWIlTvU6bk3YS5Ci23L2DETp0bNZaBvsADFjxzVvg2zgA0xFiLomPm2YDZB0Pn6kI9u7XY/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": null,
             "source_url": "https://embed.st/embed/admin/ppv-athletics-vs-boston-red-sox/1",
-            "resolved": true
+            "resolved": false
           },
           {
             "label": "Source 2",
@@ -106,7 +106,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb3.strmd.st/secure/lcJnDZBPHcyUJtBRMfDAyGTSpwVJcwcO/rtmp/stream/kxBMBxMxBj_CK3JTkhfSjT1LO6jmRBr_jLBOzoul-AVHkD9Nh9hfnnQnA6SqrpIzVixlE8aTK-rzZw5umh2iTB4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb3.strmd.st/secure/buxIzLBcLknfXaTxCQKqzxgFWCzYuXyZ/rtmp/stream/Tf8lH3kC4Zmge4Qav9ye6HrNwORl00yK1gCLhwvvQdtyqZaSGQncCCCFPA5I3ENKm6CX2W2vuH6JiKTKhSY1sbM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/1",
             "resolved": true
           },
@@ -124,7 +124,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb6.strmd.st/secure/cjdlDLTshipwJMDtTTdNtRTQdfTpIEzN/rtmp/stream/-eUc29pnRXrldMIJ6giWtBT2wJ-bZG5bmN8DaSBd1E8pWWebVBoGzoANM3bvXI_ToQ_2CHUIgsBK2esd6og-7yZc/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/sEyZJblzXNJwdYxiXIRkHStIyDrZaiMJ/rtmp/stream/d93lPSrDHECEyaJxjD0KkSd8sHbAv9JErDT1pL_XUGXKPXaVBo8eM8KcK-QIJghC-vror2cZZqNREZ5PuiDzbfB6/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-milwaukee-brewers/1",
             "resolved": true
           },
@@ -139,20 +139,7 @@
       {
         "title": "Kansas City Royals Vs Chicago Cubs",
         "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb7.strmd.st/secure/fzOXNthRigJHdEsvIbNlIJgbqcAFXmJb/rtmp/stream/LfeP59rhEybXOERS-pZ6rTLc6I0-FKabo7LaNW8833u8eEkO3wFVmutzh37V-w-GaVEWg58yOTKKjpQl1nh_daf_/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-kansas-city-royals/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 2",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/70/1",
-            "resolved": false
-          }
-        ]
+        "links": []
       },
       {
         "title": "Texas Rangers Vs Baltimore Orioles",
@@ -160,7 +147,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb7.strmd.st/secure/dObrrPhBXjjeElPxGBWtqrCnUQkTHyKn/rtmp/stream/b3ZQfvvBw4BSBiEj5fGuJJzamIYWuU2dgyrAYilaoftmwp9FItn3G72K1ouhFJsQV8_BOec0uEKVwzhenng/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb13.strmd.st/secure/YyRRusoGgXZHWTDVwDUDvvScjZRjTmny/rtmp/stream/1EieJwMq6srylppMnCtFFJVYISzEqcy9Ul29RXRTkoZ_qxsyiE1eBqPtvJM_lC6M9MUBRu6DVg9pHhcFAM8/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-texas-rangers/1",
             "resolved": true
           },
@@ -178,7 +165,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb2.strmd.st/secure/UJQbmmVQmgCtrmvUfCcIykQKNYiLjcix/rtmp/stream/TAv-2qzoqIYb_bWwtaE0JxeYbQ7JoxkVVj51L2zkovBmAWdZ-n3rQmaLR--3FnN6FgPSM3GXl7H2E_i8dQH1Gm4G/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb5.strmd.st/secure/mfWKhrhNJOwNKyvGqPolAJhTvYYFHYTx/rtmp/stream/6cykOzgTPYOu9gDMYcjTSLK_6_EblETg3v-Lx-H2-adN57TyCBVTJIlSJmpROdzeiM0GZ0cPQNCXvL9aFGw2Ik7D/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-st-louis-cardinals/1",
             "resolved": true
           },
@@ -196,7 +183,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb4.strmd.st/secure/pdVNXjukoaOhtZTdxGgbmCAJTXFmpJxe/rtmp/stream/X5TBTQxPSvukkxWKCNv3_QasU8r-r15A-tmPN-P0_4zpPctF40cKO3vEbaTc71P566yJMY52ACrqFFpy2PGQ_Q/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb10.strmd.st/secure/OHJyYhZxaZkOOdBIReDVOyARNlOZzyne/rtmp/stream/kKcBtvSugL4zepdTvTQbKw2L4bLOf2RPjEkzxjDgHMCTj4cY0G0V2lc481CLVnL6IEiT4P4qzN76JPgKzkMH1w/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-houston-astros-vs-san-diego-padres/1",
             "resolved": true
           },
@@ -211,20 +198,7 @@
       {
         "title": "Arizona Diamondbacks Vs Los Angeles Dodgers",
         "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb5.strmd.st/secure/bKvquJNYDQAAUrhUBGtZxEZIaLqJcSnY/rtmp/stream/-3iJjI9-aESh55H_vIE7-1nd6fLKx9-OUEJ99-qNL3Q0ax6uNJ9IXumwlC6LV5Sl3lX-OHJMdNrvCIGxgD-5dYPSltUN/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-arizona-diamondbacks/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 2",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/74/1",
-            "resolved": false
-          }
-        ]
+        "links": []
       },
       {
         "title": "Seattle Mariners Vs Tampa Bay Rays",
@@ -232,7 +206,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb7.strmd.st/secure/UfFQTsLAkoozulMzJTjyuRRcwcMVacrT/rtmp/stream/Y6-P9zhZpppSStP2HKdtBLLqsFQpX9DGyS-Cu0-qRE4DZba4IH4suqqLJzY0IbTomNARoly2JzM7WFndffp6fMc/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb7.strmd.st/secure/DNBwmvJYyiQkoiofuzuwkRokcSYMJZzP/rtmp/stream/b1RsrF8vqXiwhB0jcCGcZdKhWFrx9WIA-V55YYY9UQ057ybE1_-xZm6y4Vs2nWtV0mxcqtmDE7xdU0RBxKM6OYQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-seattle-mariners/1",
             "resolved": true
           },
@@ -250,7 +224,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb7.strmd.st/secure/RbAbhdCbzmiKjUYXPyWoZFohnoDmyTvy/rtmp/stream/rzH1f38F3FJStdGZcwrAG2SOuyHSYBiHSL2syAmhBXT8uP7RLw8e-ipPUApuW3BBsFlZp3uZzgxv9pPGDhB51rB79Vk/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb5.strmd.st/secure/LMspCccJVUaotQBCQOSStWoXMQZRcjOV/rtmp/stream/f8C16G3G-wB3R41ewhtpUhqU7-A5H1jmPF5Is_CrTNojyKkddeYfv6o1gr0Mov4Im68Q-ojxXv4dNb-umqhusmJnDyg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-san-francisco-giants/1",
             "resolved": true
           },
@@ -294,7 +268,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb11.strmd.st/secure/HnHZipfKviZtwhXxkzkxCPUlGNLWiomZ/rtmp/stream/WM86P7JWi99fJJkSKeccMlLyHM49PG1rn9Ocb3eRixX4xiHuqnM6i_Ogj0fB1pvN6T1I08n0Zd2HLRi0C_mYhrs8jhA_oSmIW9C-bLU/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb8.strmd.st/secure/xfxvWnntdprbgbWhUBEnpJEQEbSHzbci/rtmp/stream/Tryr9aVrlFohCr7P9jZPw3V9OQ_on_d4KuEgbzxcv728OtKgoC-AjSk-qIRGxUfBk3da0TwmXj3TTRWEG55iKPBkXeF81vsUsfDD3xM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-ottawa-red-blacks-vs-saskatchewan-roughriders/1",
             "resolved": true
           }
