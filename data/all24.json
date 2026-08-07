@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07T23:25:03.127192Z",
+  "scraped_at": "2026-08-07T23:55:03.206304Z",
   "sports": {
     "mlb": [
       {
@@ -9,26 +9,11 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a76d9d6.28912700i50e38259.a5d9.8a9d10ed/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a76e0db.1475df0ei50e38259.a5d9.dbfb3fd2/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a76d9d7.2c91dc2fi50e38259.a5e3.00146257/free.live.espn/master.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Cincinnati Reds vs Washington Nationals",
-        "status": "S",
-        "datetime": "2026-08-07T22:45:00Z",
-        "links": [
-          {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a76d9d7.58854b08i50e38259.a5d6.470b33fb/free.live.espn/master.m3u8"
-          },
-          {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a76d9d7.e2577abfi50e38259.a5d3.efcf3087/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a76e0da.5c8f1cdbi50e38259.a5e3.5eb2dc1e/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -39,22 +24,26 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a76d9d8.3cf4b308i50e38259.a5d2.94c171b5/free.live.espn/master.m3u8"
+            "playable_url": "https://node-5d763f4c.4587.website/6a76e0dc.8319f6f6i50e38259.a5d2.435679e1/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a76d9d8.676da569i50e38259.a5d0.57b00b79/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a76e0dc.e3942273i50e38259.a5d0.9ed91fe3/free.live.espn/master.m3u8"
           }
         ]
       },
       {
-        "title": "Chicago Cubs vs Kansas City Royals",
-        "status": "S",
-        "datetime": "2026-08-08T00:10:00Z",
+        "title": "Cincinnati Reds vs Washington Nationals",
+        "status": "L",
+        "datetime": "2026-08-07T22:45:00Z",
         "links": [
           {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a76e0dc.25491ad1i50e38259.a5d3.a95b2cc5/free.live.espn/master.m3u8"
+          },
+          {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a76d9d9.6a0fad33i50e38259.a5df.a7ecea9b/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a76e0dc.255b40f3i50e38259.a5d6.22e39109/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -65,33 +54,41 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a76d9d9.e1c8c965i50e38259.a5d5.b96e4817/free.live.espn/master.m3u8"
+            "playable_url": "https://node-5d763f4c.4587.website/6a76e0dd.2b0a506di50e38259.a5d5.c0706ac3/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a76d9d9.0e05c059i50e38259.a5da.8f528184/free.live.espn/master.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Cleveland Guardians vs Chicago White Sox",
-        "status": "W",
-        "datetime": "2026-08-07T23:40:00Z",
-        "links": [
-          {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a76d9da.dc7b79e4i50e38259.a5e7.66917264/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a76e0dd.d1f54fd4i50e38259.a5da.98891cf6/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "Minnesota Twins vs Milwaukee Brewers",
-        "status": "W",
+        "status": "L",
+        "datetime": "2026-08-07T23:40:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a76e0dd.bf2aaa83i50e38259.a5f0.e293d87a/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-5d763f4c.4587.website/6a76e0dd.a97ab28ei50e38259.a5ec.b5ea29f6/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Cleveland Guardians vs Chicago White Sox",
+        "status": "L",
         "datetime": "2026-08-07T23:40:00Z",
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a76d9da.09d130e1i50e38259.a5ec.3f8b29fe/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a76e0de.7d6cff85i50e38259.a5e7.f336744c/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a76e0de.ff8c36aei50e38259.a5ef.889e71e3/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -102,11 +99,22 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a76d9db.1ac0817ei50e38259.a5ca.7369b4e4/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a76e0df.7aa96e98i50e38259.a5ca.3ff4a605/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a76d9db.b000e0e8i50e38259.a5c9.b541b6a6/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a76e0df.9a255b64i50e38259.a5c9.19636e62/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Colorado Rockies vs St. Louis Cardinals",
+        "status": "W",
+        "datetime": "2026-08-08T00:15:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a76e0df.383c2d3bi50e38259.a5ed.2909fcca/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -117,11 +125,26 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a76d9db.7f7aecb5i50e38259.a5d7.dc6ecb2d/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a76e0e0.e682c0efi50e38259.a5d7.3e1f4e11/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a76d9dc.83496284i50e38259.a5c8.dca6d58b/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a76e0e0.42cfa92bi50e38259.a5c8.5752fe51/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Chicago Cubs vs Kansas City Royals",
+        "status": "W",
+        "datetime": "2026-08-08T00:10:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a76e0e0.21fde2cei50e38259.a5df.55066750/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a76e0e0.b410c985i50e38259.a5ee.9eb6b57a/free.live.espn/master.m3u8"
           }
         ]
       }
