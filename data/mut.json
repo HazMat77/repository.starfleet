@@ -1,6 +1,6 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-07T11:25:02.894279Z",
+  "scraped_at": "2026-08-07T11:55:02.929416Z",
   "categories": {
     "soccer": [
       {
@@ -9,7 +9,13 @@
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb11.strmd.st/secure/IOYxLKSJJfzqVmfcWOWzDkXQLaWGOUEk/rtmp/stream/nX36M_RcdgOvEbYxcTsatZLxSGtpnyF5Ef8-xakbFxZoNhSxWR2lX4xKYhEb3zFaXB0EoQ9z20B4W89PD6s/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.strmd.st/secure/lWpwzyHLaDLwjzTPzkNzPofFjkGlIBSQ/rtmp/stream/yTBtzu5z-dExsHePv9yMUElBpDqXzal1zFAcxwk1nY2hXp1iMI2HIKxD-yoTxxMT-ETyt8CIxrAm3g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-bayern-munich-vs-aston-villa/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb13.strmd.st/secure/CMlyTfsdqyGfJZPhgbricOEoLIchGIkw/rtmp/stream/fN0ZCdvC-3BEcYXqUwpWRvG0-afBRLl5zzGvrH8W6C4-Ou5FcGVWQJyt0V-Ai952fQ6AaLCzYiLjZd5vvSU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-bayern-munich-vs-aston-villa/2",
             "resolved": true
           }
@@ -17,26 +23,52 @@
         "start_ts": 0
       },
       {
-        "title": "Columbus Crew vs Pachuca",
+        "title": "Philadelphia Union vs. Necaxa",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb12.strmd.st/secure/SOJpgaGTnlwFucvjAdiQKNFzfkrvYKNP/rtmp/stream/Za9wpvDmHIeHZZGwF8mX1QaXqMQ9o_GEyAqNCz3x9fmtI1cGNYJwc-36DW9QzHyX9L7jHq6ItgTa/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-columbus-crew-vs-pachuca/1",
+            "playable_url": "https://lb5.strmd.st/secure/HVLxcQxjxCeAtsUWzrULnapCELeBTkDB/rtmp/stream/4Aqld0FWF4T4SeQmlX_1PKyENpj1YwrPzXm5S_OVgSAmHZ7r6le-GZ7Vx_pJXfCZlEUnC_bBID3P/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-philadelphia-union-vs-necaxa/1",
             "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Tottenham Hotspur vs. TSG Hoffenheim",
+        "title": "Wolverhampton Wanderers vs Port Vale",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb5.strmd.st/secure/JUngkQRLGQwylrGqGoGEyZUvyNrBbmcN/admin/stream/ppv-tottenham-hotspur-vs-tsg-hoffenheim/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-tsg-hoffenheim/2",
+            "playable_url": "https://lb8.strmd.st/secure/SbjbCgWFKAnAEhmdEGOYGEJyDtrTMHau/rtmp/stream/T5dNypsraMlDkbdxPrBWER8l-YJaDHIkbzcq4j_TMl53u5h4hPeDk7Y8ZUiKpk8prHuSThj2bh0zJX4-GQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-wolverhampton-wanderers-vs-port-vale/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Queens Park Rangers vs Millwall",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb14.strmd.st/secure/TLRhywTPQqcPsHqSasiUULbPMSFQbjkM/rtmp/stream/Cy8IUDVHVG4ljtz8ktL-sZBTUXIO9mLoCNsYhkUW9kYAn_yr_Y3Xb-sN9LF-R78AE17NvnNjIYIp8xIelg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-queens-park-rangers-vs-millwall/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Middlesbrough vs Wrexham",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb8.strmd.st/secure/ZqbTRdyieMSWNAyfTNnYpklvWmkbJeVx/rtmp/stream/IuuBFNULWEXCD8fCk36a_JiV2f7oVDrX2FjvKcnxTRu3GTWVEjzl_m1LDm7kG9X3SxeppNqojchz5JBT2Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-middlesbrough-vs-wrexham/2",
             "resolved": true
           }
         ],
@@ -50,42 +82,34 @@
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb9.strmd.st/secure/wLCmgOOHjEDvBfYacTgEdlJaZhtOVSvh/rtmp/stream/Yu4Cd4IfQ3KarRZfEFe9ITgBvjNQHW4EV8PyCJAmmI41c1_cL4D9aAkPtRl_GzQ009OjQEWaILmfC_mCXj8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/MLrDJGoEURDtcmvelCNhAvnLcUSkkocD/rtmp/stream/LkNaA_-6CaWkc-Y_qgHirIcfpLESQculBTzYP_qtOc5jCHSuvHtnNQJsuK1tO2gdTNfufVyItKd0hrCYU5s/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-athletics-vs-boston-red-sox/1",
-            "resolved": true
-          },
-          {
-            "label": "Stream 2",
-            "playable_url": "https://lb9.strmd.st/secure/TjOcUZXTfXsjBeZqvOfgKEhcHDJvIyDB/rtmp/stream/0UnPlUkI5ZEgvzlVjTlYw5mP0mZljKtlbgXrQ0_SvBRdXTjP6JorwRlgeyxsODcVWtmeMiiNBMHlZNM1q5oYjqkc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-athletics-vs-boston-red-sox/2",
             "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Pittsburgh Pirates vs New York Mets",
+        "title": "San Francisco Giants vs Detroit Tigers",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb12.strmd.st/secure/RFwBZJaGqiaaUkMUZlJipRAWgVuucihN/rtmp/stream/ONLgTR8ssAeInjQr5FhRnzc4hG7Mb35_aGeifebewSoW3hIubUn9Ah1tC5Zwue1uaqxIRTN605s_AEpxFJuJD6VurQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-new-york-mets-vs-pittsburgh-pirates/1",
+            "playable_url": "https://lb9.strmd.st/secure/ZmZLGAKFOlJZpoDTASYAxkCdVsEzdGov/rtmp/stream/1EpYJatfvH4b-RrY6ZbXUeNuswIGbdnLrfvc_XS3O2IeasRX-xAELRDGg66IJfuwtknrB_Lyh87EfJVt-23s_vT9yPw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-san-francisco-giants/1",
             "resolved": true
           }
         ],
         "start_ts": 0
-      }
-    ],
-    "wnba": [
+      },
       {
-        "title": "Dallas Wings vs Golden State Valkyries",
+        "title": "Chicago White Sox vs Cleveland Guardians",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb11.strmd.st/secure/yJEzyNkjDeDpRmIxYAbRsCbOYbPAzsVH/rtmp/stream/DNyvA7SFwYHQnOtxZ3LrPb51Fss3xNuvajF53UiWh-nTnepGQWfx0WiBvJZm4wZUXoiuK2UdUsbbMvrHsVN0B1g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-dallas-wings/2",
+            "playable_url": "https://lb6.strmd.st/secure/aJYdGHvUrxzFdHimtIMzMFJUMCIJZoaA/rtmp/stream/Bi9FNSg1TYRmfKvVXVGo7EEZilzBa8qC_rYv4WRSImunzpjA2-Q-twSGDE4GO5kAU14cZi5oDAOCXDod3fhfAoU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/1",
             "resolved": true
           }
         ],
