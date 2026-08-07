@@ -1,4 +1,29 @@
 {
-  "scraped_at": "2026-08-07T21:25:02.860259Z",
-  "sports": {}
+  "scraped_at": "2026-08-07T21:55:03.241920Z",
+  "sports": {
+    "mlb": [
+      {
+        "title": "New York Mets vs Pittsburgh Pirates",
+        "status": "S",
+        "datetime": "2026-08-07T22:40:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a76c4bd.4512866fi50e38259.a5c9.4f16bf10/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Athletics vs Boston Red Sox",
+        "status": "S",
+        "datetime": "2026-08-07T23:10:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a76c4bd.c8bc3262i50e38259.a5c8.ced23102/free.live.espn/master.m3u8"
+          }
+        ]
+      }
+    ]
+  }
 }
