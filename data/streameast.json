@@ -1,6 +1,6 @@
 {
   "site": "https://streameasti.is",
-  "scraped_at": "2026-08-07T02:25:09.952758Z",
+  "scraped_at": "2026-08-07T02:55:07.010473Z",
   "categories": {
     "nfl": [
       {
@@ -9,19 +9,19 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb9.strmd.st/secure/amNCYYGeDJcwsCtsIVvhzElVwkVLNDeL/rtmp/stream/qX8k_aNCDcD1wHEOVQhdN-hQvBc4lUqrcxHO5mALpKr8c2p82_lzhdM0UPOfGSOG8IKZwCs-ZB-vxiU-0gzU-8-7/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb8.strmd.st/secure/OQzVrQTyUwPPPLEqfbyQUzzLOALZqBvZ/rtmp/stream/Lqlt6gCNDyIO20RQjRo2NqGNi5SMvb1WjqaYoQKa-g6oDMp9OkTShRaaICeOxEol20qs2954FVhivmyaOU2CsyDp/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-carolina-panthers-vs-arizona-cardinals/1",
             "resolved": true
           },
           {
             "label": "Source 2",
-            "playable_url": null,
+            "playable_url": "https://lb10.strmd.st/secure/aataHeiBNmRrMUroVCFoJqGGBaJotrtD/golf/stream/60/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/60/1",
-            "resolved": false
+            "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb13.strmd.st/secure/BxYWGWzZhnWvOFdkXqIMpglnUveMDaNJ/delta/stream/live_nfl-preseason_cardinals-panthers-live-streaming-587559312/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/mMPSRuDZRkaIgLPFEtjJLkxnddIaCYDj/delta/stream/live_nfl-preseason_cardinals-panthers-live-streaming-587559312/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/delta/live_nfl-preseason_cardinals-panthers-live-streaming-587559312/1",
             "resolved": true
           }
@@ -31,54 +31,18 @@
     "nba": [],
     "mlb": [
       {
-        "title": "Seattle Mariners Vs Detroit Tigers",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/75/1",
-            "resolved": false
-          }
-        ]
-      },
-      {
-        "title": "Philadelphia Phillies Vs Washington Nationals",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb3.strmd.st/secure/ounLkasGkHGFReznUqGZgxZnARYNfhzk/admin/stream/ppv-washington-nationals-vs-philadelphia-phillies/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-washington-nationals-vs-philadelphia-phillies/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 2",
-            "playable_url": "https://lb4.strmd.st/secure/aJvREpAuIFYHIiFCUsrfoORnfDsyrzao/golf/stream/46/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/46/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb12.strmd.st/secure/HSRKSPbJFKkchGjWmTIawHrLfnOTNdaU/delta/stream/live_mlb_phillies-nationals-live-streaming-591458544/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_phillies-nationals-live-streaming-591458544/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
         "title": "Boston Red Sox Vs Chicago White Sox",
         "is_live": false,
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb7.strmd.st/secure/DRHacFrawuwaRRnCnWuZdEdkCbGHDZyS/rtmp/stream/ymxe1Kc5jES4Gnt_OQ4Bbt43KvRThq3Gxa3lgjhlVj4UejI79pi6xAQ7q_cbBJ8_Ykz90WxKrLntVPz7ZBQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb6.strmd.st/secure/IZTSyOBSLMxiCkyyyPQeUvibWMjrcjjj/admin/stream/ppv-chicago-white-sox-vs-boston-red-sox/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-boston-red-sox/1",
             "resolved": true
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb14.strmd.st/secure/lQBWIwLfqyErYSqjQWuAVtiCJsiKKdgg/delta/stream/live_mlb_red-sox-white-sox-live-streaming-591458976/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb13.strmd.st/secure/IgXdmkMgsNXaYZSYkAZbTsFRsGBjsLfo/delta/stream/live_mlb_red-sox-white-sox-live-streaming-591458976/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/delta/live_mlb_red-sox-white-sox-live-streaming-591458976/1",
             "resolved": true
           }
@@ -90,13 +54,13 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb13.strmd.st/secure/ItRcWiyjNzRevgNbxgIzHvytKyaEOfeO/rtmp/stream/38Fi_EgdwZSCbNVCXwVhm98m-KNjZjdsPuI-NR4Nn0JmKWcHbALGxEfLVU-0nRHbrvpN6JPZukNXPDBWnsE5/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb8.strmd.st/secure/NEpaiDACqhwBLcoJwwkrsNfTrfxYyDaY/admin/stream/ppv-miami-marlins-vs-atlanta-braves/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-atlanta-braves/1",
             "resolved": true
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb5.strmd.st/secure/XesQCDsbBqMIBVgDLWJaYCoIotLOpnHp/delta/stream/live_mlb_braves-marlins-live-streaming-591459408/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb11.strmd.st/secure/xhYVipkdQnVipOiaXGYuxjWRuuhXkoWY/delta/stream/live_mlb_braves-marlins-live-streaming-591459408/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/delta/live_mlb_braves-marlins-live-streaming-591459408/1",
             "resolved": true
           }
@@ -108,19 +72,13 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb1.strmd.st/secure/KNythFmmlykHAPeyvtGmdJcTiTJkqApF/rtmp/stream/wgu9SiXAnheYwfsQRoF_Xc71N1yaEMnPvWag3pbpeP7Jhn919Fj279A2kuUplFDTyRlA32IuD2ZelIa51xtB7rCi/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb11.strmd.st/secure/eXQROtOFDBjZZjETegWBgSBNUsUIYtpI/rtmp/stream/Izfh4arYHN58McBdYywRVhO0H6kvjmSId94kE6lelKXFgNQ4CngwK-I5UeTzv-NC5z7IpOR3Prtj02TcAGNyRobH/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-minnesota-twins-vs-kansas-city-royals/1",
             "resolved": true
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb7.strmd.st/secure/ZjzWoiBEDweoorWQVPumKeKPjidiiaCB/golf/stream/49/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/49/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb6.strmd.st/secure/tOdhvakzUHgvOUVlKDgPAOufLBUGapie/delta/stream/live_mlb_royals-twins-live-streaming-591459840/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb14.strmd.st/secure/BSjdkmpRSEJhYayINRwtUxBDpINyMIcu/delta/stream/live_mlb_royals-twins-live-streaming-591459840/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/delta/live_mlb_royals-twins-live-streaming-591459840/1",
             "resolved": true
           }
@@ -132,7 +90,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb3.strmd.st/secure/cEOPvJqdlTNZwvnBesWrIbWdfmPhOCtY/rtmp/stream/PQxYxgKrJ8WF53QHK5RbVRJ_bY9zhxmAY3NaS2A0UIdOH37oxhrAYB45ArfMEQGi-Td7HUu3JnXyZZjAGwSdL2o-YYJy/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb2.strmd.st/secure/HHTqTeIplxZnTLDfsDoyOzeCLPHrGAwg/rtmp/stream/yS6YWagBOW6eH3QCKyqeaNm05ZlmQAnQ9s_RX2JFgE9dTuLk8oelmAg0upxfnDmh8ub_7sOMf8c84crG8hiSWISWN-eZ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-arizona-diamondbacks/1",
             "resolved": true
           },
@@ -144,7 +102,7 @@
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb9.strmd.st/secure/YrHUcCaUQFWSAAXcSxyPRLkSmoxGNZtW/delta/stream/live_mlb_diamondbacks-padres-live-streaming-591460272/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/vRpqSFZbwJNgXKvlHFzFyJcDQmytHFWn/delta/stream/live_mlb_diamondbacks-padres-live-streaming-591460272/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/delta/live_mlb_diamondbacks-padres-live-streaming-591460272/1",
             "resolved": true
           }
@@ -163,7 +121,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb4.strmd.st/secure/zTglNwvTDPJJrqoIonFqJohKFKuLHAeT/rtmp/stream/82-3_BxTjXODexY1V9WN8RcrimCHG3g-NEZM0PcJOkA706DaNyZObx9C-k02v-dfGubk71a4lu3xmRiYXShpjtOKs-_hWg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb10.strmd.st/secure/vLxfGhInYtnJLhzGVvSrTSDUZzVPdqlT/rtmp/stream/80LjkijAhPlDQHnWgg8zsTcpkpb8WH61Au0hER9o88bMdJGbmsO_6g43X5706VCl2MtqpjLZSgB0LdSItz6Tix3BSFoESA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-calgary-stampeders-vs-toronto-argonauts/1",
             "resolved": true
           }
