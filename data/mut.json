@@ -1,22 +1,59 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-08T18:25:03.139439Z",
+  "scraped_at": "2026-08-08T18:55:02.822648Z",
   "categories": {
-    "mlb": [
+    "nfl": [
       {
-        "title": "San Diego Padres vs Houston Astros",
+        "title": "Berlin Thunder vs Rhein Fire",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb3.strmd.st/secure/IJAZIGKoyMlHuDzdZSVZobwgVRPCWNHl/rtmp/stream/ESTdBv8tflJS30Ejvj7ulvz7bwaS24eYNO9JkEM_ggzCTZ_T2CcGfIywWnfunmypjhVuZVEneidfro2x1NCD5A/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-houston-astros-vs-san-diego-padres/1",
+            "playable_url": "https://lb11.strmd.st/secure/ZAEqCTriYKKcJfyfLHxiLxKQXsTwNWeC/rtmp/stream/8DB2xvz7FnPd6VPCZyFcREBvX9iCVaC-8L2Sobqp4KAcjBKg46E9VjlDqks1LObvDkCUlTnFd-1iWqvE_OHXZ0NAxSc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-rhein-fire-vs-berlin-thunder/1",
             "resolved": true
-          },
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "cfl": [
+      {
+        "title": "Montreal Alouettes vs Edmonton Elks",
+        "is_live": true,
+        "links": [
           {
-            "label": "Stream 2",
-            "playable_url": "https://lb2.strmd.st/secure/HHCpbDhIPwbGcSACIxyMVYIqYtTljlmM/rtmp/stream/9AuMLlLH_uHmFwnrkhMYfhQMwxrCGHCF7J8-003d_7Y_z4ZYvvpWppI3CU1dmDOTEyH-l2TUOcknC_C0Z_rAIlXASr4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-houston-astros-vs-san-diego-padres/2",
+            "label": "Stream 1",
+            "playable_url": "https://lb5.strmd.st/secure/fsrbJrozDzdVFAuAqquPWWSbRwCISlYh/rtmp/stream/Kx5mCb-Hw0G8bkt0pPhWfLeBUKxQ0Ki-CGK129SEEwYf9kqzKfaYUYdgsJJ_Frix3H6EEmufVNs8ZsjdKz6nlUQpS2XRpj4k_6Wl/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-edmonton-elks-vs-montreal-alouettes/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "mlb": [
+      {
+        "title": "New York Yankees vs Atlanta Braves",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb12.strmd.st/secure/qkiLwflvfFTYhQTVkImJAjiBRzdhFSnk/rtmp/stream/o61UqC9yRQJ-27IslRX4mIslI9bjIbSOuvlmJm7JEIujTxkIWoW5qEywvKP9L7rdjlbwfzUcOZmIzlHLiXB62Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-yankees/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Washington Nationals vs Cincinnati Reds",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/kVJowtutqgggSRKSdPFbyZyjmJsKNsHY/rtmp/stream/7-zSDJhQ-UUWOL7iwDPWZDzGpFSE96cs3YY6lC9JVxOJT2mzxFF2wKR0zAYRRfHUJ_Yytu3O82obpKGw5nwhkQE0C5Ul7EAYzw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-washington-nationals/2",
             "resolved": true
           }
         ],
@@ -28,21 +65,14 @@
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb9.strmd.st/secure/lEVAHTsIffjMlNrXZnZTzQORIniMHVbA/rtmp/stream/XfBJUmpXU9eJC5hVIN-qQZ4PQaLBa1qxQEqFo9dLDcaRhBEfo-QOPe-3su4B1T5ZAQAArcG3QQ6NVPYj9Zsh2ts5sgTT/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/tMSgZcQwksslDtErnUqelWGteeQnYLUS/rtmp/stream/yHD6MWfGhiRZJlPZGHtccW5LAtSEdy7AibjJj3AsLmo8dQqyCwwfMX_ClkcOfKlgLdADAqOiyoVs6XINiNUVNJdjrVIo/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-arizona-diamondbacks/1",
             "resolved": true
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Kansas City Royals vs Chicago Cubs",
-        "is_live": true,
-        "links": [
+          },
           {
-            "label": "Stream 1",
-            "playable_url": "https://lb8.strmd.st/secure/AlfsKZVRsNwBFzkTSUkBLDgmdtZVzdtL/golf/stream/84/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/golf/84/1",
+            "label": "Stream 2",
+            "playable_url": "https://lb13.strmd.st/secure/TocLaxFrWAaGiTmYJGPHxLqCNcEXakmA/rtmp/stream/IWqMaTvpI68IvYyV2ia_jPDXunDCf3LJOE17DmzTHuPmrtmsvcwi8rYERQ4twan4l2IpZc2BAWFequkBEhUIhu1-m2vSyP9Njg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-arizona-diamondbacks/2",
             "resolved": true
           }
         ],
@@ -54,55 +84,8 @@
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb1.strmd.st/secure/oZtZCNlUqVoRHEofTISYPJHpIUgZbSGu/rtmp/stream/ydUYA_ckXXowpGFgrDgiobFe4sT-hPL9MVsuiV1QZSR8XhvCWRMAId5Y_NcXrd3CiXvjTJeAi4Ec2S53mCHnu2HutPaC/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb8.strmd.st/secure/wbZlDIevbDQEKdRhPvAZrjfwOYwjnuhg/rtmp/stream/lX4ReUETOW0KdzW5TTs73icWGdIQyJeI54aAeMOV_MZS7YZwg3ngF3yHcVbYvbvgwePrqhA6v13DHsZNOTzJid-8dqgT/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-tampa-bay-rays-vs-seattle-mariners/2",
-            "resolved": true
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "Philadelphia Phillies vs Toronto Blue Jays",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Stream 1",
-            "playable_url": "https://lb7.strmd.st/secure/OxerLqJXigHAitYOumoKPOCSGthFLTnS/rtmp/stream/XLonpE0fNWWkywSaaUwXdZz_VBbzIRG85LDnGvHqTXFa1JKvLsl_PaGC5xSjeow57oNb_UJJEq_2YyQURpEPIO7zv8oY41OeF8A/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-philadelphia-phillies/2",
-            "resolved": true
-          }
-        ],
-        "start_ts": 0
-      },
-      {
-        "title": "New York Yankees vs Atlanta Braves",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Stream 1",
-            "playable_url": "https://lb3.strmd.st/secure/HXWfeADFnKJRvTNdmSjAXlMPwcGUXbTF/rtmp/stream/TeMC4W5YK-41gFN4CmP5x5ATDSxJDkDjRngULANwRg68MwBpPJ1gHVs3Sme4gJ5NqFKBRtXelZ89UN75bL2mJg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-yankees/1",
-            "resolved": true
-          }
-        ],
-        "start_ts": 0
-      }
-    ],
-    "wnba": [
-      {
-        "title": "Minnesota Lynx vs Las Vegas Aces",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Stream 1",
-            "playable_url": "https://lb13.strmd.st/secure/NdvQCVgkdrvFjxZIrSQNrgoNqXCQgtGV/rtmp/stream/a-dgm760-xRQv-hGOnhwtLhlTYgFo3VF7oRju97FTjyz-iz_2K2uSpwrgflCCskkVWrhOoKFvM6i1ncbKNPx/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-minnesota-lynx/1",
-            "resolved": true
-          },
-          {
-            "label": "Stream 2",
-            "playable_url": "https://lb4.strmd.st/secure/jXAHgqSGvVNWfmLkGCcIxRnvwGhBPBBm/rtmp/stream/bqmCyoLaS1N0febNaOz5Rzr4M4TpUR0UTRuPGL_4Nlqs0x4UL1XHeQsZTggQFOTHaFe5PAy1wNIXOqJ9zCjPJePJGw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-minnesota-lynx/2",
             "resolved": true
           }
         ],
