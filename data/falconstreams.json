@@ -1,21 +1,8 @@
 {
   "site": "https://falconstreams.app/v2",
-  "scraped_at": "2026-08-08T17:55:02.454599Z",
+  "scraped_at": "2026-08-08T18:25:02.816864Z",
   "sports_events": {
-    "wnba": [
-      {
-        "title": "Minnesota Lynx vs Las Vegas Aces",
-        "is_live": false,
-        "links": [
-          {
-            "label": "echo",
-            "playable_url": "https://lb9.strmd.st/secure/zuwOxzeKbHmlgLtzDPeqZYVSzMAPAjDc/rtmp/stream/KDCy0-hThhv8elkGo2wMx8rAcoShEWhcSQzdUM2jlMEIRE3zI8Af5ttynKibNkcdhFzMr2h0J5yzEMwpSiAyULMdkQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-minnesota-lynx/2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
+    "wnba": [],
     "motorsports": [
       {
         "title": "MotoGP British Grand Prix vs",
@@ -23,12 +10,13 @@
         "links": [
           {
             "label": "3",
-            "playable_url": "https://ds164.bluetier.top/tntsports2/index.m3u8?token=dG50c3BvcnRzMnxub19jaGVja19pcHwxNzg2MjEyMDY3.76b52c3fa7cbb30a9dfb36104a971ea197a8ad9f05a860cae62b652572694189|Referer=https%3A%2F%2Ftrendy47.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://ds164.bluetier.top/tntsports2/index.m3u8?token=dG50c3BvcnRzMnxub19jaGVja19pcHwxNzg2MjEzODY3.2fb60699aa907e5fc7f46e700835a7c1310edbd07344b71c6e1e16415e845f87|Referer=https%3A%2F%2Ftrendy47.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://trendy47.st/event/motogp-m",
             "resolved": true
           }
         ]
       }
-    ]
+    ],
+    "boxing": []
   }
 }
