@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T19:25:02.466751Z",
+  "scraped_at": "2026-08-08T19:55:02.640505Z",
   "sports": {
     "mlb": [
       {
@@ -9,22 +9,41 @@
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a77f314.716e0588i50e38259.a70b.60b046ba/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a77fa20.e8d4b3fci50e38259.a70b.91c9f0c6/free.live.espn/master.m3u8"
           },
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a77f315.78d91500i50e38259.a6ff.b73b23c8/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a77fa22.2d15aca1i50e38259.a6ff.ca2234f4/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "Athletics vs Boston Red Sox",
-        "status": "S",
+        "status": "W",
+        "datetime": "2026-08-08T20:10:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a77fa22.18d291b2i50e38259.a70e.45e8b54c/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a77fa22.8075c3c8i50e38259.a705.e45e98d8/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Los Angeles Angels vs Miami Marlins",
+        "status": "W",
         "datetime": "2026-08-08T20:10:00Z",
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a77f316.f0af9b52i50e38259.a705.7566bfa2/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a77fa23.459a4a5bi50e38259.a711.5395ab6b/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-5d763f4c.4587.website/6a77fa23.e059d90ai50e38259.a70c.3b2a9083/free.live.espn/master.m3u8"
           }
         ]
       }
