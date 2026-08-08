@@ -1,8 +1,7 @@
 {
   "site": "https://falconstreams.app/v2",
-  "scraped_at": "2026-08-08T18:25:02.816864Z",
+  "scraped_at": "2026-08-08T18:55:02.561685Z",
   "sports_events": {
-    "wnba": [],
     "motorsports": [
       {
         "title": "MotoGP British Grand Prix vs",
@@ -10,8 +9,48 @@
         "links": [
           {
             "label": "3",
-            "playable_url": "https://ds164.bluetier.top/tntsports2/index.m3u8?token=dG50c3BvcnRzMnxub19jaGVja19pcHwxNzg2MjEzODY3.2fb60699aa907e5fc7f46e700835a7c1310edbd07344b71c6e1e16415e845f87|Referer=https%3A%2F%2Ftrendy47.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://ds164.bluetier.top/tntsports2/index.m3u8?token=dG50c3BvcnRzMnxub19jaGVja19pcHwxNzg2MjE1NjY5.f1c6ac6466e826ee659708062b09d89cfe2268e954fa8efa0dc104e127cfa1a8|Referer=https%3A%2F%2Ftrendy47.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://trendy47.st/event/motogp-m",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "mlb": [
+      {
+        "title": "New York Yankees vs Atlanta Braves",
+        "is_live": false,
+        "links": [
+          {
+            "label": "admin",
+            "playable_url": "https://lb8.strmd.st/secure/RWIUgkTBNENBLJtgdWplaTwnxQDVfdiX/rtmp/stream/NG7hxuhJ7x2slRQwKBsPhdV_aGwjbRYsw1wV7Fbt1j99rvxDCH3DWefsNx5CWuX55DMX0OFbtGDD0rJn0osc5w/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-new-york-yankees/1",
+            "resolved": true
+          },
+          {
+            "label": "echo",
+            "playable_url": "https://lb6.strmd.st/secure/HZPfBPTRLtcSqMCcIdXOjrkdAAZUgTpJ/echo/stream/new-york-yankees-vs-atlanta-braves-baseball-179772/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/new-york-yankees-vs-atlanta-braves-baseball-179772/1",
+            "resolved": true
+          },
+          {
+            "label": "delta",
+            "playable_url": "https://lb2.strmd.st/secure/URFEYcUQydIIiLnMenmBrHzRdympstkf/delta/stream/live_mlb_yankees-braves-live-streaming-591564384/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_mlb_yankees-braves-live-streaming-591564384/1",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "wnba": [
+      {
+        "title": "Minnesota Lynx vs Las Vegas Aces",
+        "is_live": false,
+        "links": [
+          {
+            "label": "echo",
+            "playable_url": "https://lb10.strmd.st/secure/xAhuGSFwZoPPiYGqHHwnIoNWecjeOLdY/rtmp/stream/6c1X0L01mizCbke5zvAW0KJO-jXLwrDv3YhexEfWpQwn99r0RQ3C7LyoxtbHOxBy80QAYqTuevqrU5PlZtJ0oqUyJQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-minnesota-lynx/2",
             "resolved": true
           }
         ]
