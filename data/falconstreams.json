@@ -1,21 +1,94 @@
 {
   "site": "https://falconstreams.app/v2",
-  "scraped_at": "2026-08-08T10:25:03.226725Z",
+  "scraped_at": "2026-08-08T10:55:03.270548Z",
   "sports_events": {
+    "motorsports": [
+      {
+        "title": "MotoGP British Grand Prix vs",
+        "is_live": false,
+        "links": [
+          {
+            "label": "3",
+            "playable_url": "https://ds164.bluetier.top/tntsports2/index.m3u8?token=dG50c3BvcnRzMnxub19jaGVja19pcHwxNzg2MTg2ODY5.d16aa1053ea30832747070f774e53ef2a03f7d82e17d753e3db30efcf98cb2e9|Referer=https%3A%2F%2Ftrendy47.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://trendy47.st/event/motogp-m",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "soccer": [
+      {
+        "title": "Juventus vs Inter Milan",
+        "is_live": false,
+        "links": [
+          {
+            "label": "echo",
+            "playable_url": "https://new.foxtrend.gd/events.php?id=http://193.47.62.191/hls/GGGG.m3u8|Referer=https%3A%2F%2Ftrendy47.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://trendy47.st/event/Juventus-Inter-Inter-m",
+            "resolved": true
+          },
+          {
+            "label": "delta",
+            "playable_url": "https://lb5.strmd.st/secure/YGFCkHIcihxBsUvTcHoAlaJfnUTDozwB/delta/stream/live_club-friendly-games_juventus-inter-live-streaming-600262272/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_club-friendly-games_juventus-inter-live-streaming-600262272/1",
+            "resolved": true
+          },
+          {
+            "label": "delta",
+            "playable_url": "https://new.foxtrend.gd/events.php?id=http://193.47.62.191/hls/GGGG.m3u8|Referer=https%3A%2F%2Ftrendy47.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://trendy47.st/event/live_club-friendly-games_juventus-inter-live-streaming-600262272",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "Lens vs Sunderland",
         "is_live": false,
         "links": [
           {
             "label": "echo",
-            "playable_url": "https://lb4.strmd.st/secure/UXlYYaGrggbdLzFWOKIGwMsBCnGFoYbf/echo/stream/lens-vs-sunderland-football-1585048/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/gcdsoJKwFofSadsblwTjwtkOXNeIcgRJ/echo/stream/lens-vs-sunderland-football-1585048/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/echo/lens-vs-sunderland-football-1585048/1",
             "resolved": true
           }
         ]
+      },
+      {
+        "title": "Darmstadt 98 vs Holstein Kiel",
+        "is_live": false,
+        "links": [
+          {
+            "label": "echo",
+            "playable_url": "https://lb2.strmd.st/secure/CJIHqHtrafegLycVdLgnfpMBdohCrDWS/echo/stream/sv-darmstadt-98-vs-holstein-kiel-football-1576136/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/sv-darmstadt-98-vs-holstein-kiel-football-1576136/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Karlsruher SC vs Arminia Bielefeld",
+        "is_live": false,
+        "links": [
+          {
+            "label": "echo",
+            "playable_url": "https://lb12.strmd.st/secure/eQTkRWSzNxhKnQLTQJAZYajMJYIsHorz/echo/stream/karlsruher-sc-vs-arminia-bielefeld-football-1576138/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/karlsruher-sc-vs-arminia-bielefeld-football-1576138/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Magdeburg vs Eintracht Braunschweig",
+        "is_live": false,
+        "links": [
+          {
+            "label": "echo",
+            "playable_url": "https://lb9.strmd.st/secure/LtBmtoYoNODseFcDQNxpBLdLmNEiAhgn/echo/stream/1-fc-magdeburg-vs-eintracht-braunschweig-football-1576139/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/1-fc-magdeburg-vs-eintracht-braunschweig-football-1576139/1",
+            "resolved": true
+          }
+        ]
       }
-    ],
-    "motorsports": []
+    ]
   }
 }
