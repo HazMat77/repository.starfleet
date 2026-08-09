@@ -1,34 +1,19 @@
 {
-  "scraped_at": "2026-08-09T19:25:03.603297Z",
+  "scraped_at": "2026-08-09T19:55:03.806477Z",
   "sports": {
     "mlb": [
       {
-        "title": "Baltimore Orioles vs Texas Rangers",
+        "title": "Colorado Rockies vs St. Louis Cardinals",
         "status": "L",
-        "datetime": "2026-08-09T18:35:00Z",
-        "links": [
-          {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a794491.5acd64bbi09bc96f8.a87a.a6db001b/free.live.espn/master.m3u8"
-          },
-          {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a794492.85c8d62bi09bc96f8.a881.b99dd3a9/free.live.espn/master.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Chicago Cubs vs Kansas City Royals",
-        "status": "L",
-        "datetime": "2026-08-09T18:10:00Z",
+        "datetime": "2026-08-09T18:15:00Z",
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a794493.0ae261b0i09bc96f8.a85d.152a5578/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a794b9c.9576765fi09bc96f8.a883.fb131228/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a794493.792b894di09bc96f8.a874.8b8f23a7/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a794b9e.76782477i09bc96f8.a878.8c8b977e/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -39,22 +24,78 @@
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a794493.87aab79bi09bc96f8.a870.4d632e0c/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a794b9e.fb726ccbi09bc96f8.a870.d454eabd/free.live.espn/master.m3u8"
           },
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a794493.73d83f56i09bc96f8.a867.847cc7ec/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a794b9e.e9557b15i09bc96f8.a867.f2d44caf/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Baltimore Orioles vs Texas Rangers",
+        "status": "L",
+        "datetime": "2026-08-09T18:35:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a794b9e.94ccb648i09bc96f8.a881.d7907ced/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a794b9e.82f5b3a2i09bc96f8.a87a.ea3aec7f/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Chicago Cubs vs Kansas City Royals",
+        "status": "L",
+        "datetime": "2026-08-09T18:10:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a794b9e.2598e560i09bc96f8.a85d.41ad7f6d/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a794b9f.91b18f3bi09bc96f8.a874.2b16bab5/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Tampa Bay Rays vs Seattle Mariners",
+        "status": "W",
+        "datetime": "2026-08-09T20:10:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a794b9f.f25159b9i09bc96f8.a892.ce399cc2/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
-        "status": "S",
+        "status": "W",
         "datetime": "2026-08-09T20:10:00Z",
         "links": [
           {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a794b9f.4125bd5ci09bc96f8.a893.68d77cc5/free.live.espn/master.m3u8"
+          },
+          {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a794493.3c6ae5e5i09bc96f8.a88a.859d2bc9/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a794ba0.b02de91ei09bc96f8.a88a.cee3e906/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Detroit Tigers vs San Francisco Giants",
+        "status": "W",
+        "datetime": "2026-08-09T20:05:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a794ba0.a8f12cc0i09bc96f8.a890.fc98c900/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -65,26 +106,11 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a794494.6249e207i09bc96f8.a884.6257cbd8/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a794ba0.e0b17bf7i09bc96f8.a884.f09847f3/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a794494.9a4c5935i09bc96f8.a875.c2644d40/free.live.espn/master.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Colorado Rockies vs St. Louis Cardinals",
-        "status": "L",
-        "datetime": "2026-08-09T18:15:00Z",
-        "links": [
-          {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a794494.8ec1e663i09bc96f8.a883.759326c2/free.live.espn/master.m3u8"
-          },
-          {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a794494.f08e329ci09bc96f8.a878.613e4a22/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a794ba0.1f93bb35i09bc96f8.a875.e184e403/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -95,11 +121,11 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a794494.03901a1ei09bc96f8.a86f.aeeb2d9c/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a794ba1.8358e9f7i09bc96f8.a86f.696566d0/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a794494.5e3c8e4di09bc96f8.a85c.ae04ba7b/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a794ba1.ba6d4d6di09bc96f8.a85c.d6d07b70/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -110,11 +136,11 @@
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a794494.d440a27ci09bc96f8.a877.eb6190ce/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a794ba1.3db33f6bi09bc96f8.a877.b0d9c2cb/free.live.espn/master.m3u8"
           },
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a794494.991a0ea9i09bc96f8.a864.7890260b/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a794ba1.3c56eb1fi09bc96f8.a864.083279f9/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -125,11 +151,11 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a794495.48b3c1fci09bc96f8.a87d.11d94d4b/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a794ba2.5e840402i09bc96f8.a87d.1942deeb/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a794495.a25d438ai09bc96f8.a873.11280691/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a794ba2.7a841201i09bc96f8.a873.8b232b33/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -140,11 +166,11 @@
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a794495.d67f9be5i09bc96f8.a86a.fbd07772/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a794ba2.95a32181i09bc96f8.a86a.c5a6b6c5/free.live.espn/master.m3u8"
           },
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a794495.0da33074i09bc96f8.a869.1fe06223/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a794ba2.878d55a7i09bc96f8.a869.e628d884/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -155,11 +181,11 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a794495.8d5e11fbi09bc96f8.a865.d506b023/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a794ba3.35f1fb04i09bc96f8.a865.2b648e1b/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a794495.7e1fb8d0i09bc96f8.a85a.152c148a/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a794ba3.e0a6f95bi09bc96f8.a85a.5c454362/free.live.espn/master.m3u8"
           }
         ]
       }
