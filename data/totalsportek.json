@@ -1,11 +1,36 @@
 {
   "site": "https://totalsportek.press",
-  "scraped_at": "2026-08-09T16:55:02.311285Z",
+  "scraped_at": "2026-08-09T17:25:03.522805Z",
   "sports_events": {
     "cricket": [],
-    "wnba": [],
-    "rugby": [],
     "motorsports": [],
+    "rugby": [],
+    "wnba": [
+      {
+        "title": "New York Liberty Vs Las Vegas Aces",
+        "is_live": true,
+        "links": [
+          {
+            "label": "matchstreampro.click",
+            "playable_url": "https://lb4.strmd.st/secure/RYSCuuayjvpkaZPPrtPRadILaeaLLjoN/rtmp/stream/9hHFnK5mENZ-Q1uDMYkhMXerRw5UIDnrvRaJo_s-6FiaihLAtZBq12AATbABhkWbWD5Vp3JhCiqvbRqSapafAw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-new-york-liberty/1",
+            "resolved": true
+          },
+          {
+            "label": "sportscasthd.best",
+            "playable_url": "https://lb4.strmd.st/secure/CeRTXAGUISkblOczYGzREpyxUGNLjrtb/rtmp/stream/ZuYpmz0PVEoBfMM9tVtHqrGZN6-uKcfsYGsFEF5rvHd29iOOp6OSEV9eUHKKf8tKAtrNWq_KxjnQJ0vhkdTne5-gmXQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-las-vegas-aces-vs-new-york-liberty/2",
+            "resolved": true
+          },
+          {
+            "label": "livematchhub.top",
+            "playable_url": "https://lb8.strmd.st/secure/AIeGFBlEAHtbOfdwTZDcdzqqFlHKBesR/delta/stream/live_wnba_liberty-aces-live-streaming-524073024/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_wnba_liberty-aces-live-streaming-524073024/1",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "mlb": [
       {
         "title": "Washington Nationals Vs Cincinnati Reds",
@@ -13,13 +38,13 @@
         "links": [
           {
             "label": "sportscasthd.best",
-            "playable_url": "https://lb13.strmd.st/secure/zXzznzbpoPOuzZIXmAAFemXkjLLxbUtc/rtmp/stream/bI2Euum4FnIu399abrKYZrlN3HEdHIL_VsiQFIbM9ooEvZYOn-s9pw-8k_sJH0MwyAfjxWg7w3gwCH2k7agWNcpHUY8D/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/QdzHqVoLMUDxeVOmHFojOODvaGAHBYeB/rtmp/stream/wBxGv26LRb0t6qx3H2i61lakAi5rRhSZx0VKapoyfkIr_64UOfH3SFWVNBEDx7yY_C30WInqEC2eN6Oa-xe905aLqOKV/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-washington-nationals/1",
             "resolved": true
           },
           {
             "label": "livematchhub.top",
-            "playable_url": "https://lb13.strmd.st/secure/TKeSIYXBRpltWdnWyPaHrwVQwJAkXaup/rtmp/stream/g4TU1uho6vv-jm4yU-mqkUKOKx-3T_C72gSKHC-TDeCTnsT9MFwMwiOCeuV7e9y9QLwm-MAvmTa1tPfN6nrFXZ7tBrNNHeiP5g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb12.strmd.st/secure/JFexmaXXurkbIVEoJOEuEQPyUUHxQkfS/rtmp/stream/pb2WHUsgbwct1qCycLZu4yUaQRlp_2BtFi1Kt5jv3-QDDLBJY1Xg417Lds_16mrtrYuEJwiV4cDw-b4cPRjOy6pmZLlxOUdYKA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-washington-nationals/2",
             "resolved": true
           }
@@ -33,7 +58,7 @@
         "links": [
           {
             "label": "matchstreampro.click",
-            "playable_url": "https://lb13.strmd.st/secure/ZLMSnzawcTvimvtpLNxWBWtGptEgItcK/delta/stream/live_club-friendly-games_man-city-atl-madrid-live-streaming-601106400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.strmd.st/secure/KUGJjXrKEzacBKGMiETjnZkTVwyfQoch/delta/stream/live_club-friendly-games_man-city-atl-madrid-live-streaming-601106400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/delta/live_club-friendly-games_man-city-atl-madrid-live-streaming-601106400/1",
             "resolved": true
           }
@@ -45,7 +70,7 @@
         "links": [
           {
             "label": "matchstreampro.click",
-            "playable_url": "https://lb13.strmd.st/secure/ldxEzqFGSOZRvYDjRgHMtittGZqBdOXw/delta/stream/live_club-friendly-games_jdt-chelsea-live-streaming-601107696/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb8.strmd.st/secure/nuQHopWPvCCtRuInnPEpLgezJvSAWzXY/delta/stream/live_club-friendly-games_jdt-chelsea-live-streaming-601107696/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/delta/live_club-friendly-games_jdt-chelsea-live-streaming-601107696/1",
             "resolved": true
           }
@@ -57,7 +82,7 @@
         "links": [
           {
             "label": "matchstreampro.click",
-            "playable_url": "https://lb10.strmd.st/secure/CpmCCoWCYZXfxKBhZLuPTCSyhsjAtLNo/delta/stream/live_emirates-cup_arsenal-dortmund-live-streaming-601927632/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb8.strmd.st/secure/oAJtVMVNDafqkWcIsnIGFYfSXFsEWEwd/delta/stream/live_emirates-cup_arsenal-dortmund-live-streaming-601927632/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/delta/live_emirates-cup_arsenal-dortmund-live-streaming-601927632/1",
             "resolved": true
           }
@@ -69,7 +94,7 @@
         "links": [
           {
             "label": "matchstreampro.click",
-            "playable_url": "https://lb10.strmd.st/secure/gYWOqoMHwjMzhZBZsCGavoDAKPYoikWP/delta/stream/live_club-friendly-games_liverpool-as-monaco-live-streaming-601108560/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/WodapYPiVoXajdAeeUrSPReqqMXyzLfx/delta/stream/live_club-friendly-games_liverpool-as-monaco-live-streaming-601108560/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/delta/live_club-friendly-games_liverpool-as-monaco-live-streaming-601108560/1",
             "resolved": true
           }
@@ -81,19 +106,19 @@
         "links": [
           {
             "label": "matchstreampro.click",
-            "playable_url": "https://lb15.strmd.st/secure/CfiClqArsLOmjdGqJrrLbzqHCOBKeALi/rtmp/stream/TkxNx_c5rgkrPYycsKvHnQtjaIdMGMvD9Qii_0nxOvrDeHPan_2bdYWSzjKeEEMPyGXXLQWsTllf/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/tpjAeZBaXHXwfxKVFKzzAPoBAhKRybmw/rtmp/stream/VNNq3iSUqocmxpUt-cAfr__n7c-zOHVY85sjK3UcWVokhlOy8wJEJEHiIk1top19sJSRTpJ6TS2Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-mansfield-town-vs-sheffield-united/1",
             "resolved": true
           },
           {
             "label": "sportscasthd.best",
-            "playable_url": "https://lb15.strmd.st/secure/waFSshMqVoQWpyfpashygdfosVftpydk/rtmp/stream/IfdKLrv5oQV42HSHeTr4GSwMoqbee7qrQuYKxgNakP4VXaWe2g78msl7JLVxr8fPO6E6NPMOHrjvTtalTw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb14.strmd.st/secure/OIjPrKZPEaSRKoPJUyyIvlheyOwvquqs/rtmp/stream/lnGII4z8t7uHFQF0bIV8xxOK3yGaOZ_r01LfZ6zPBMfVaOH5r498pUDm_loSeQGvlvlIqJO74rkCYva3bA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-mansfield-town-vs-sheffield-united/2",
             "resolved": true
           },
           {
             "label": "livematchhub.top",
-            "playable_url": "https://lb9.strmd.st/secure/karOfasYrFTxdNJAKWKspdxMRRpLfSuz/delta/stream/live_efl-cup_mansfield-sheffield-utd-live-streaming-601002720/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb14.strmd.st/secure/kOmQxCEwHAivnaKzYAdoneZWjZhMTxuO/delta/stream/live_efl-cup_mansfield-sheffield-utd-live-streaming-601002720/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/delta/live_efl-cup_mansfield-sheffield-utd-live-streaming-601002720/1",
             "resolved": true
           }
@@ -105,13 +130,13 @@
         "links": [
           {
             "label": "matchstreampro.click",
-            "playable_url": "https://lb13.strmd.st/secure/pcnIMlUjGfxinwAmVvjnEPmRatxdaHPM/admin/stream/ppv-kilmarnock-vs-celtic/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/svzsNWDlQQKccpJXEtyWHnshJyzadOaV/admin/stream/ppv-kilmarnock-vs-celtic/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-kilmarnock-vs-celtic/1",
             "resolved": true
           },
           {
             "label": "sportscasthd.best",
-            "playable_url": "https://lb13.strmd.st/secure/LdTxaYqPjOzXrCyzhypVjtEWHgXIZXsA/admin/stream/ppv-kilmarnock-vs-celtic/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb12.strmd.st/secure/cyceHnkYaaWdpisHFgSIVEkCclCIfUdi/admin/stream/ppv-kilmarnock-vs-celtic/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-kilmarnock-vs-celtic/2",
             "resolved": true
           }
@@ -123,8 +148,20 @@
         "links": [
           {
             "label": "matchstreampro.click",
-            "playable_url": "https://lb5.strmd.st/secure/aVEuQjSVZCxcLzTCeGVVSdcCmjTxxIIl/delta/stream/live_premiership_rangers-hibernian-live-streaming-601000992/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb12.strmd.st/secure/MmSVLtfuKBIkOwQozcvtSepegGVXdbDl/delta/stream/live_premiership_rangers-hibernian-live-streaming-601000992/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/delta/live_premiership_rangers-hibernian-live-streaming-601000992/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Porto Vs Alverca",
+        "is_live": true,
+        "links": [
+          {
+            "label": "matchstreampro.click",
+            "playable_url": "https://lb9.strmd.st/secure/iKZaWDSiAEZFBwSFFBmOwAeoEfQqzKaf/delta/stream/live_liga-portugal-betclic_porto-alverca-live-streaming-600991056/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_liga-portugal-betclic_porto-alverca-live-streaming-600991056/1",
             "resolved": true
           }
         ]
