@@ -1,4 +1,37 @@
 {
-  "scraped_at": "2026-08-09T03:25:02.666996Z",
-  "sports": {}
+  "scraped_at": "2026-08-09T03:55:10.290307Z",
+  "sports": {
+    "mlb": [
+      {
+        "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
+        "status": "F",
+        "datetime": "2026-08-09T00:10:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a786aa4.db69cb03i09bc96f8.a757.f965be13/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a786aa5.178fe043i09bc96f8.a747.a994ab4f/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Tampa Bay Rays vs Seattle Mariners",
+        "status": "L",
+        "datetime": "2026-08-09T01:50:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-88894cb5.4587.website/6a786aa6.557f4dd5i09bc96f8.a7e4.9fac2035/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a786aa6.506d6f23i09bc96f8.a7d8.be46f58b/free.live.espn/master.m3u8"
+          }
+        ]
+      }
+    ]
+  }
 }
