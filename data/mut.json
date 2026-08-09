@@ -1,7 +1,37 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-09T01:55:02.673951Z",
+  "scraped_at": "2026-08-09T02:25:03.133640Z",
   "categories": {
+    "mlb": [
+      {
+        "title": "Milwaukee Brewers vs Minnesota Twins",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb10.strmd.st/secure/tSoYItbUrLcwavbJPKhEOImwslvwhzCH/golf/stream/110/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/golf/110/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "soccer": [
+      {
+        "title": "Real Salt Lake vs Atlante",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb10.strmd.st/secure/CzvmjHHLenvFZAUkGLFwkANkZuCXQrPo/rtmp/stream/et2vU_hXyBPDFnPNP_zM2y-bXDra-pNkGclDojH7bcqmQgB5DODAAm4Di0TozFSOilxYyEvizzaP/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-atlante/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
     "ufc": [
       {
         "title": "UFC Fight Night 284 Gamrot vs Salkilld",
@@ -9,8 +39,23 @@
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb7.strmd.st/secure/PeRHwPlOKWhtSuSAeXCrEHLlbBfEYZIF/rtmp/stream/Tv2Z6fQvxLcGY_eIMzhoHp05CBfYPUU1mGwln8WO6mzG8EW6Ew_28UadefJ0wFS-scWDyjjShk8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb7.strmd.st/secure/NbRrnhhXOWJlmFhUBNdQjQlfQjUaOfPE/rtmp/stream/lkNOjcHPUdHpwIjr0koSe4PJWT52_q2rOI1FnuEjLiL_DBqHQy36M5AIzDl_JxGLW-Yxpye1IXI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-gamrot-vs-salkilld/3",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "cricket": [
+      {
+        "title": "Willow Cricket",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb8.strmd.st/secure/FjdaeFGAcTHfpJbxuGZGPKeMjoGLtgrY/rtmp/stream/streamed-willow_720/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/admin-willow-cricket/1",
             "resolved": true
           }
         ],
