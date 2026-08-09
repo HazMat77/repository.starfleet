@@ -1,22 +1,7 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-09T02:25:03.133640Z",
+  "scraped_at": "2026-08-09T02:55:03.186292Z",
   "categories": {
-    "mlb": [
-      {
-        "title": "Milwaukee Brewers vs Minnesota Twins",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Stream 1",
-            "playable_url": "https://lb10.strmd.st/secure/tSoYItbUrLcwavbJPKhEOImwslvwhzCH/golf/stream/110/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/golf/110/1",
-            "resolved": true
-          }
-        ],
-        "start_ts": 0
-      }
-    ],
     "soccer": [
       {
         "title": "Real Salt Lake vs Atlante",
@@ -24,23 +9,66 @@
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb10.strmd.st/secure/CzvmjHHLenvFZAUkGLFwkANkZuCXQrPo/rtmp/stream/et2vU_hXyBPDFnPNP_zM2y-bXDra-pNkGclDojH7bcqmQgB5DODAAm4Di0TozFSOilxYyEvizzaP/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/KAOyDqpFssGJjEohJuCRAoWXJxxvHWPg/rtmp/stream/5DT24kwfNnol_pYQmMn82Z1YoSTE58xab4ZS25d1u6WcgM4uR0TEAlUBmkvqCIJioPASWGaGiM2K/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-atlante/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb1.strmd.st/secure/LQbFiwOnSrIoAcIBcVAbawIduXWSZGBz/rtmp/stream/4ehPf3Ty7aMIN9X1oUn4iZUgn2dnfB2e48AqBsFmY5D8PyncVdH5RkpSNjr1GkPg-BYHD1UTfwHANQ4Wtw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-atlante/2",
             "resolved": true
           }
         ],
         "start_ts": 0
-      }
-    ],
-    "ufc": [
+      },
       {
-        "title": "UFC Fight Night 284 Gamrot vs Salkilld",
+        "title": "CD Guadalajara vs FC Dallas",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb7.strmd.st/secure/NbRrnhhXOWJlmFhUBNdQjQlfQjUaOfPE/rtmp/stream/lkNOjcHPUdHpwIjr0koSe4PJWT52_q2rOI1FnuEjLiL_DBqHQy36M5AIzDl_JxGLW-Yxpye1IXI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-gamrot-vs-salkilld/3",
+            "playable_url": "https://lb13.strmd.st/secure/nnRKKhwonOyCnjDUKIWjIpAetHnsQFAL/rtmp/stream/-JmTwVYp5fR8Ynaki3ugqjHze8Eyly3F-ZWWUHX0XkofyLRPZZp_fN8xqh6Kek90J5lWkoytMVTS/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-guadalajara-vs-fc-dallas/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "América vs Portland Timbers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb14.strmd.st/secure/bqSvSrPjlIkccwVhRakYjKyLsEfAfTLW/rtmp/stream/v4tR3yiF5R8hfLYLrGK23c5cSUx1_MZVF3RYGytCydqfG_7JwWdz7IB03S7QKlbw0fayBqEYmVAK/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-am-rica-vs-portland-timbers/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Inter Miami vs Monterrey",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb13.strmd.st/secure/thrJKeQXSukvFXrIByffNoCvWPaSqnNn/rtmp/stream/-_PDIr3Zah3AR7mHsDVAU87NXUxWVto9XIjfqFnFdLUUJ6cj27pLKCTKYB3t4DNAKf7OxDX0sZAb/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-inter-miami-cf-vs-monterrey/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Halmstad vs GAIS",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb15.strmd.st/secure/oOoostToitrYahTzUoldDbLExjSjNuMK/rtmp/stream/8p7ZlRzSanDNOHZFr21eU4_YEJrDv_zt1UuYzaCx9r9217HgDnCuwFHTQFp0A9qA1PV-YBq6ljRd/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-halmstads-bk-vs-gais/1",
             "resolved": true
           }
         ],
@@ -54,8 +82,87 @@
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb8.strmd.st/secure/FjdaeFGAcTHfpJbxuGZGPKeMjoGLtgrY/rtmp/stream/streamed-willow_720/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb7.strmd.st/secure/GhTLFIkhHAmGFEsPIeGCfHxHvWeytgwv/rtmp/stream/streamed-willow_720/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/admin-willow-cricket/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb13.strmd.st/secure/jAhFmzRopzdhBQCEwvYSTenSyBioxIZL/rtmp/stream/streamed-willowsports_720/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/admin-willow-cricket/3",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "rugby": [
+      {
+        "title": "Canberra Raiders vs Newcastle Knights",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb7.strmd.st/secure/yKghfopDxBkiwpBzbffPydiMjelCxjdF/rtmp/stream/Xzt_N018Z4G4XSRfmnLjpViZ0vv6MWrxWb_vMqV1HRsxff0MrGYb3nIGwB-DyFSjg6cGTHhVzMmwNbDv-aq_/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-raiders-vs-knights/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "mlb": [
+      {
+        "title": "San Francisco Giants vs Detroit Tigers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/XOwnBlsJLLfuiGzVoXtdhFqBuKDxVgBs/rtmp/stream/ZrdBaKX4eEnDBnaEV79bDfASv_-5S84pi_bbr2EdIkSCEoCky_rqEk-R-LfTYDJshs0B96xdd4_Utcls9zgf0zlGl08/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-san-francisco-giants/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/PZwcuNfVXkYLuBqGTgBPMoGAqluXUgoD/rtmp/stream/R1WUSl2eziMI4HrPu5Rvpufh8qDSNwR-93BT1TiA3wxjYXCk1KaFIu1P3B_vTfMuf9WFtRWH2XSKHLrvZndag9DjEGRP/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-arizona-diamondbacks/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "ufc": [
+      {
+        "title": "UFC Fight Night 284 Gamrot vs Salkilld",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/VzCQobIYPNmfsonConpMVWrgILLpQszX/rtmp/stream/XTnTpQNnCLqNpvOdtc07YLaAp6O2RheEO-C-pgryf-Qzz-hCL3Rz6WgXdHkPimzETDel72HNPJad/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-gamrot-vs-salkilld/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "wnba": [
+      {
+        "title": "Portland Fire vs Seattle Storm",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb1.strmd.st/secure/HDdFXKKoJsaEBpUAaAYXRwxxofJtGoaa/rtmp/stream/7PALYVSqD3IJzsHoqQUiK5cqR67IfOsySL3zb4G-F_LuDEzg7Fn0LWvsL7Jaa7m46AwC8hq-S7rbJcAeVHMBtLd4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-seattle-storm-vs-portland-fire/2",
             "resolved": true
           }
         ],
