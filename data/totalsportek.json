@@ -1,9 +1,22 @@
 {
   "site": "https://totalsportek.press",
-  "scraped_at": "2026-08-09T11:25:19.930549Z",
+  "scraped_at": "2026-08-09T11:55:32.539479Z",
   "sports_events": {
     "motorsports": [],
     "cricket": [],
-    "soccer": []
+    "soccer": [
+      {
+        "title": "Manchester City Vs Atltico Madrid",
+        "is_live": true,
+        "links": [
+          {
+            "label": "matchstreampro.click",
+            "playable_url": "https://lb4.strmd.st/secure/gsUNBZRlMpGRGXaGrAeoQeiRaMGTZmdh/delta/stream/live_club-friendly-games_man-city-atl-madrid-live-streaming-601106400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_club-friendly-games_man-city-atl-madrid-live-streaming-601106400/1",
+            "resolved": true
+          }
+        ]
+      }
+    ]
   }
 }
