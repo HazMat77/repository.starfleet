@@ -1,35 +1,116 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-09T00:25:02.689535Z",
+  "scraped_at": "2026-08-09T00:55:02.673635Z",
   "categories": {
-    "soccer": [
+    "cfl": [
       {
-        "title": "Inter Miami vs Monterrey",
+        "title": "BC Lions vs Hamilton Tiger-Cats",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb8.strmd.st/secure/SXUYMseXPyUiqLrnLikAYBuzLrXXhyNb/rtmp/stream/XDwk_VBGyDGoGcMnriiUIkpPsI8QqFuNV4hWp5ZT4iKIx8e87RkahgaMxSl834ISrfTmykCq3uIS/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-inter-miami-cf-vs-monterrey/1",
+            "playable_url": "https://lb6.strmd.st/secure/jozCDYcHJnfUYPvbLfXcatDocuVrZwgl/rtmp/stream/AYQke1IDNAVVVw_x4pyu4jpUXYoUC4hhzH7mXEPHlRuhgTvMKlqJy1BYluPzd3KBwO9DURQIxx9xT2TAeE8llcw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-hamilton-tiger-cats-vs-bc-lions/2",
             "resolved": true
-          },
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "mlb": [
+      {
+        "title": "Pittsburgh Pirates vs New York Mets",
+        "is_live": true,
+        "links": [
           {
-            "label": "Stream 2",
-            "playable_url": "https://lb6.strmd.st/secure/fWytitbCMGAApuqNDLaMvLGoydTlnHVs/rtmp/stream/d17eW3QqxqdRLxVIHCVvpJBqE3su2IwcHZ0QqzmM8elX4o5lT5h37LWPPPcGBJsFs6iJr87cB-1nVerpMQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-inter-miami-cf-vs-monterrey/2",
+            "label": "Stream 1",
+            "playable_url": "https://lb8.strmd.st/secure/WUFJguzedIHEKFlKRqtUbPCqmbvUfCUZ/rtmp/stream/0uU9pKIFFkREnAEZYsPtD65kSKo-KlnTeRlZECJJgmOr14NLLEjn--M0aiFnkNPkpXg8UIqQlpuXlr3m2efZXDszBw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-new-york-mets-vs-pittsburgh-pirates/1",
             "resolved": true
           }
         ],
         "start_ts": 0
       },
       {
-        "title": "Orlando City vs León",
+        "title": "Philadelphia Phillies vs Toronto Blue Jays",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb8.strmd.st/secure/CVAyUaqDKuXBjXMWezTIgEtsIOqqsdcW/rtmp/stream/fX0MdQ2w8K2aO4ZSr5Bjx0PoVQK7eyU4OEj53LGE9G3Oj8k76fMRNQMCYqHQ1DFU-wO-JMeguD4h/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-orlando-city-sc-vs-le-n/1",
+            "playable_url": "https://lb8.strmd.st/secure/SbkcIWQzTThOJXtUKLrCgwipwNqcJNex/rtmp/stream/JBEerL3b84yUbgAycBChGkGvqstRu1lnwB4PRWC36TSZSByz2079rOzkcLSQ-MXQ1kXW092P35o4O7YVm0MLLslgKImKKg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-philadelphia-phillies/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb6.strmd.st/secure/gPYWmBwBfmtciqJydccpRWtUktHfdLsk/rtmp/stream/Wt6ivhBYDhnU5Y1wAPwUOeQaWwTvxHwyj0SmSgklrwxyiw47hZ6QdJEBVOPWT8nJAmGXhTZ2-JRzYRuBDC6SioyuY1wY-geYoc4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-toronto-blue-jays-vs-philadelphia-phillies/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "boxing": [
+      {
+        "title": "BKFC Fight Night: Acheson vs Jones",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb13.strmd.st/secure/IXDIlqcYLOqUainymnkpdXgGlPvnMRzL/golf/stream/142/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/golf/142/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "wwe": [
+      {
+        "title": "AEW Saturday Night Collision",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb13.strmd.st/secure/vUZHBtyUvoomeFLrxbwcLMeUCSuwLHbU/rtmp/stream/h9yoKhhFiApFSGQaeiA6awsR25tDdaNga87I0R1pRs5-nXuczKJoHkotHLRdOqWk-cLTC1M/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb13.strmd.st/secure/NngyjDiWDADSaNyCoseoxizLHrWqBBpO/rtmp/stream/M7YjqUEw4UEcEBMma9A719R3YXbxIp7eNhpMCKeTln5hQV-IutsmUxebbVnGU_xd4ZIFkPsoQJtG/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-aew-saturday-night-collision/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "cricket": [
+      {
+        "title": "Willow Cricket",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/jIRoDVcQWcriMppEEIeqaRreZBsUnvrB/rtmp/stream/streamed-willow2_720/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/admin-willow-cricket/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "soccer": [
+      {
+        "title": "Seattle Sounders vs Querétaro",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb3.strmd.st/secure/hgDxGruwlDQfxSSHhWYyYCUODOqHSQvC/rtmp/stream/4QWMVHk7tDFWTe3bobG2WJQNSOXVJZBWv6F03DCvzd_wskz6HgCQAosUMA9QGah6aNR87jY6J5pozvM1Rw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-quer-taro/2",
             "resolved": true
           }
         ],
@@ -43,23 +124,14 @@
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb6.strmd.st/secure/XGbYBedbJbQYJWzjrrbafUOiBzNjVMVW/rtmp/stream/5sjtUCu8nR-TyN2vm4PofhYHbBJqZ3DwOIjXoK1FflwEvE1Au-mSuLIxPVHG9Ah-yVXEVqyJh6Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-gamrot-vs-salkilld/3",
+            "playable_url": "https://lb15.strmd.st/secure/ZAxvLLVSilZJmvSIbVdFchuEvhATyVTy/rtmp/stream/Hd6YppWYTQCftsZYavgAE1g_07sQ0_FKLt_N8VnlJ9u4dVXAwy88spOgeuAN5QSo9NO8QeIUI9Do/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-gamrot-vs-salkilld/2",
             "resolved": true
-          }
-        ],
-        "start_ts": 0
-      }
-    ],
-    "mlb": [
-      {
-        "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
-        "is_live": true,
-        "links": [
+          },
           {
-            "label": "Stream 1",
-            "playable_url": "https://lb10.strmd.st/secure/bWrMGMBKzBNmLuwrpvgkzIjpGXbvPFoE/rtmp/stream/obUjtjIYa8_M_gtzbDHishvGlhxZPKsX30ZdeBmsw4kMwyecWCUkQWtuxMYLzdLo1FlThYMV4wA7xG9IWSzz_Y3XZJ_v/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-arizona-diamondbacks/1",
+            "label": "Stream 2",
+            "playable_url": "https://lb14.strmd.st/secure/GROKwxEuBuWiAFNFEjpUgvzEmSRmerpc/rtmp/stream/GYDm4OCUTEWA6hK3XVsAj7C46BOkOuKDMwv_CsBLsICS5d3WOB1O7chivx3_9-f5B0EPB5skMeM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-ufc-fight-night-gamrot-vs-salkilld/3",
             "resolved": true
           }
         ],
