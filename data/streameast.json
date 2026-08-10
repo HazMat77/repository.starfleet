@@ -1,6 +1,6 @@
 {
   "site": "https://streameasti.is",
-  "scraped_at": "2026-08-10T05:25:02.756832Z",
+  "scraped_at": "2026-08-10T05:55:02.702510Z",
   "categories": {
     "nfl": [],
     "nba": [],
@@ -14,14 +14,25 @@
     "nhl": [],
     "ufc": [],
     "boxing": [],
-    "soccer": [],
+    "soccer": [
+      {
+        "title": "Santa Clara Vs Nacional De Madeira",
+        "is_live": false,
+        "links": []
+      }
+    ],
     "cfb": [],
     "cfl": [],
     "ncaab": [],
     "wwe": [
       {
         "title": "Raw 1733",
-        "is_live": true,
+        "is_live": false,
+        "links": []
+      },
+      {
+        "title": "Nxt 850",
+        "is_live": false,
         "links": []
       }
     ]
