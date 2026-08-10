@@ -1,7 +1,21 @@
 {
   "site": "https://falconstreams.app/v2",
-  "scraped_at": "2026-08-10T14:25:02.725745Z",
+  "scraped_at": "2026-08-10T14:55:02.773098Z",
   "sports_events": {
-    "mlb": []
+    "mlb": [],
+    "soccer": [
+      {
+        "title": "Panionios vs Olympiakos Piraeus II",
+        "is_live": false,
+        "links": [
+          {
+            "label": "echo",
+            "playable_url": "https://lb3.strmd.st/secure/keRwCRptJcaisLhJhBYakHbdQNBmDGuK/echo/stream/panionios-vs-olympiakos-piraeus-ii-football-1618911/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/echo/panionios-vs-olympiakos-piraeus-ii-football-1618911/1",
+            "resolved": true
+          }
+        ]
+      }
+    ]
   }
 }
