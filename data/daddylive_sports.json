@@ -1,9 +1,59 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-08-10T02:25:02.913632Z",
+  "scraped_at": "2026-08-10T02:55:03.116226Z",
   "sports_events": {
     "nba": [],
-    "mlb": [],
-    "soccer": []
+    "mlb": [
+      {
+        "title": "San Diego Padres vs Houston Astros",
+        "is_live": true,
+        "links": [
+          {
+            "label": "NBC Universo",
+            "playable_url": "https://xameleon.phantemlis.top/four/secure/fc967dc1c9d4078e6e398f02a9c0d978/1786341321/premium845/index.m3u8|Referer=https%3A%2F%2Fhamis.romponalis.st%2Fpremiumtv%2Fdaddy4.php%3Fid%3D845&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=845&player=1&source=tv.json",
+            "resolved": true
+          },
+          {
+            "label": "TNT Sports 1 UK",
+            "playable_url": "https://xameleon.phantemlis.top/one/secure/dc5b9030143c84ddd8fb310fdac384b4/1786341324/premium31/index.m3u8|Referer=https%3A%2F%2Fhamis.romponalis.st%2Fpremiumtv%2Fdaddy.php%3Fid%3D31&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=31&player=1&source=tv.json",
+            "resolved": true
+          },
+          {
+            "label": "NBC USA",
+            "playable_url": "https://xameleon.phantemlis.top/two/secure/d264cc04c9273fcfa7bf4b1be588863d/1786341330/premium53/index.m3u8|Referer=https%3A%2F%2Fhamis.romponalis.st%2Fpremiumtv%2Fdaddy2.php%3Fid%3D53&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=53&player=1&source=tv.json",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "soccer": [
+      {
+        "title": "América vs Portland Timbers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Fox Sports 1 USA",
+            "playable_url": "https://xameleon.phantemlis.top/three/secure/dec6bbdd4e6192118933d3288da21095/1786341315/premium39/index.m3u8|Referer=https%3A%2F%2Fhamis.romponalis.st%2Fpremiumtv%2Fdaddy3.php%3Fid%3D39&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=39&player=1&source=tv.json",
+            "resolved": true
+          },
+          {
+            "label": "TSN2",
+            "playable_url": "https://xameleon.phantemlis.top/three/secure/532ecb6cb91d9f2d132b780a074ad594/1786341321/premium112/index.m3u8|Referer=https%3A%2F%2Fhamis.romponalis.st%2Fpremiumtv%2Fdaddy3.php%3Fid%3D112&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=112&player=1&source=tv.json",
+            "resolved": true
+          },
+          {
+            "label": "RDS 2 CA",
+            "playable_url": "https://xameleon.phantemlis.top/four/secure/9402178a8511902d46d157bc66fb4809/1786341324/premium840/index.m3u8|Referer=https%3A%2F%2Fhamis.romponalis.st%2Fpremiumtv%2Fdaddy4.php%3Fid%3D840&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=840&player=1&source=tv.json",
+            "resolved": true
+          }
+        ]
+      }
+    ]
   }
 }
