@@ -1,7 +1,20 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-08-12T22:25:03.049600Z",
+  "scraped_at": "2026-08-12T22:55:02.975250Z",
   "categories": {
+    "soccer": [
+      {
+        "title": "Inter Miami CF vs León",
+        "is_live": false,
+        "start_ts": 1786577400,
+        "links": [
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/ZNm0WRy22R9uxarK_NhMVA/delta/live_leagues-cup-group-stage_inter-miami-leon-live-streaming-538615872/1/401863614/1786596928/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
     "mlb": [
       {
         "title": "Toronto Blue Jays vs Boston Red Sox",
@@ -10,37 +23,42 @@
         "links": [
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/ZxWLqUXuhfK8oM3WCW9yCg/delta/live_mlb_blue-jays-red-sox-live-streaming-593282880/1/401816494/1786595130/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/WMNu3QS4Oxc0bxCbO5yDuQ/delta/live_mlb_blue-jays-red-sox-live-streaming-593282880/1/401816494/1786596953/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/PykJSVpJ-FdfLR_zj11Wnw/delta/live_mlb_blue-jays-red-sox-live-streaming-593282880/2/401816494/1786595133/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "San Francisco Giants vs Houston Astros",
-        "is_live": false,
-        "start_ts": 1786563900,
-        "links": [
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/hCjLp5cEBxap1UNcLIQzww/delta/live_mlb_giants-astros-live-streaming-593280288/2/401816504/1786595174/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/XQiR5YW_EbgIK4vtk4e-xg/delta/live_mlb_blue-jays-red-sox-live-streaming-593282880/2/401816494/1786596956/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
       {
         "title": "Washington Nationals vs Chicago Cubs",
-        "is_live": false,
+        "is_live": true,
         "start_ts": 1786574700,
         "links": [
           {
-            "label": "delta (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/RD-ZYBJ8PqX_C5lxqT57yg/delta/live_mlb_nationals-cubs-live-streaming-593282016/1/401816495/1786595196/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "regular (SD)",
+            "playable_url": "https://lb6.wfty.st/secure/NHC8SL-iPiK_4Iv5DVy6uQ/regular/washington-nationals-chicago-cubs/1/401816495/1786596997/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "regular (SD)",
+            "playable_url": "https://lb1.wfty.st/secure/Fd9CjFVHfKN2x4HgRi2kCw/regular/washington-nationals-chicago-cubs/2/401816495/1786597000/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "regular (SD)",
+            "playable_url": "https://lb6.wfty.st/secure/rCSnOJosjEHrLaB8Gki8MA/regular/washington-nationals-chicago-cubs/3/401816495/1786597003/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "regular (SD)",
+            "playable_url": "https://lb1.wfty.st/secure/VvlnBHO_F0BXogkKG0juxg/regular/washington-nationals-chicago-cubs/4/401816495/1786597006/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/Omqk2hjhO0eOX-vndtMKDQ/delta/live_mlb_nationals-cubs-live-streaming-593282016/2/401816495/1786595199/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/eZoHRfapv2LmWXOkCnDUtQ/delta/live_mlb_nationals-cubs-live-streaming-593282016/1/401816495/1786597008/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/l5Mh7p5vVau_f5ez6_GFGg/delta/live_mlb_nationals-cubs-live-streaming-593282016/2/401816495/1786597011/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -51,11 +69,26 @@
         "links": [
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/9tlJSNQTooAzVFKxmj64LQ/delta/live_mlb_yankees-mariners-live-streaming-593282448/1/401816499/1786595221/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/c1VqQzIgVFcV7k2F-oRFew/delta/live_mlb_yankees-mariners-live-streaming-593282448/1/401816499/1786597033/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/l3M2_S2St1afAczB50hcPw/delta/live_mlb_yankees-mariners-live-streaming-593282448/2/401816499/1786595223/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/jUQkGi_vIQc1VQfwkcpZaA/delta/live_mlb_yankees-mariners-live-streaming-593282448/2/401816499/1786597035/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Atlanta Braves vs New York Mets",
+        "is_live": false,
+        "start_ts": 1786576500,
+        "links": [
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/3xyhDpzzZOVMhxuTxuKy7A/delta/live_mlb_braves-mets-live-streaming-593283312/1/401816497/1786597057/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/CzGe_q6Rcp_FGkotW2DvmA/delta/live_mlb_braves-mets-live-streaming-593283312/2/401816497/1786597060/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
