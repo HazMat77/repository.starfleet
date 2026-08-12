@@ -1,26 +1,45 @@
 {
-  "scraped_at": "2026-08-12T21:55:03.529191Z",
+  "scraped_at": "2026-08-12T22:25:02.891337Z",
   "sports": {
     "mlb": [
       {
         "title": "Pittsburgh Pirates vs Miami Marlins",
-        "status": "S",
+        "status": "W",
         "datetime": "2026-08-12T22:40:00Z",
         "links": [
           {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-88894cb5.4587.website/6a7d6342.36fb8bfdi287096f8.aca8.a72fd118/free.live.espn/master.m3u8"
+          },
+          {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a7d5c3a.fd28551fi287096f8.ac99.c7597e2f/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a7d6343.c6a3e541i287096f8.ac99.08e292b6/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "Chicago Cubs vs Washington Nationals",
-        "status": "S",
+        "status": "W",
         "datetime": "2026-08-12T22:45:00Z",
         "links": [
           {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a7d6343.a4b6809ei287096f8.aca9.030a7375/free.live.espn/master.m3u8"
+          },
+          {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a7d5c3a.71b688dbi287096f8.ac9a.783e9e77/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a7d6343.facb32bei287096f8.ac9a.84806c21/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Boston Red Sox vs Toronto Blue Jays",
+        "status": "S",
+        "datetime": "2026-08-12T23:07:00Z",
+        "links": [
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a7d6343.eefc9872i287096f8.aca3.bb1865fd/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -31,41 +50,37 @@
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a7d5c3b.39041c79i287096f8.ac88.0827c168/free.live.espn/master.m3u8"
+            "playable_url": "https://node-5d763f4c.4587.website/6a7d6343.0978d3a2i287096f8.ac88.0fe39d77/free.live.espn/master.m3u8"
           },
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a7d5c3c.a6d5e45ci287096f8.ac90.b10211e1/free.live.espn/master.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Tampa Bay Rays vs Athletics",
-        "status": "L",
-        "datetime": "2026-08-12T19:05:00Z",
-        "links": [
-          {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a7d5c3c.4410e0c3i287096f8.ac7d.3c02fd83/free.live.espn/master.m3u8"
-          },
-          {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a7d5c3c.70926777i287096f8.ac7b.f9ae1602/free.live.espn/master.m3u8"
+            "playable_url": "https://node-5d763f4c.4587.website/6a7d6343.fdd72d01i287096f8.ac90.72780dca/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "Houston Astros vs San Francisco Giants",
-        "status": "L",
+        "status": "F",
         "datetime": "2026-08-12T19:45:00Z",
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a7d5c3c.fb3cf262i287096f8.ac85.80c2f489/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a7d6344.1aa8781ai287096f8.ac85.7e46b485/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a7d5c3c.49eafc19i287096f8.ac82.58bcfd8d/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a7d6344.f72725abi287096f8.ac82.f51231e8/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Cleveland Guardians vs Detroit Tigers",
+        "status": "W",
+        "datetime": "2026-08-12T22:40:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a7d6344.2bdd08dbi287096f8.aca6.4d0e12bf/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -75,12 +90,12 @@
         "datetime": "2026-08-12T19:40:00Z",
         "links": [
           {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a7d5c3d.8d2ecfdfi287096f8.ac83.bc8a2ec7/free.live.espn/master.m3u8"
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-025d151e.4587.website/6a7d6344.919e5c25i287096f8.ac87.53c2e154/free.live.espn/master.m3u8"
           },
           {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a7d5c3d.1f3d901bi287096f8.ac87.aecc4a1b/free.live.espn/master.m3u8"
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a7d6344.550c4019i287096f8.ac83.38f4f26e/free.live.espn/master.m3u8"
           }
         ]
       }
