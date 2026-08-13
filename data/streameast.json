@@ -1,8 +1,123 @@
 {
   "site": "https://streameasti.is",
-  "scraped_at": "2026-08-13T06:55:02.497538Z",
+  "scraped_at": "2026-08-13T07:25:02.519501Z",
   "categories": {
-    "nfl": [],
+    "nfl": [
+      {
+        "title": "Cincinnati Bengals Vs Detroit Lions",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": "https://lb13.strmd.st/secure/UiBlROyhakmXosvpokfYgKGBwrJuGfas/rtmp/stream/y_BTI_cdpcjUQhjKVfdILKVbvoKcdtfgRKxaHqEpRJQ0xkkYaKqcivnp5jmiaiEkorxjawOtFCM5JJt64ie9X3X8ow/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-detroit-lions-at-cincinnati-bengals/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 2",
+            "playable_url": null,
+            "source_url": "https://embed.st/embed/golf/50/1",
+            "resolved": false
+          }
+        ]
+      },
+      {
+        "title": "Pittsburgh Steelers Vs Green Bay Packers",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": "https://lb13.strmd.st/secure/tXeLPIcnXRMQvRMfALCZdBROkMXbapLg/rtmp/stream/0FuTJHj3yTYWhq4dDxK85UrG9S2xOKWsMdipe5BuswZkYwG2gi7bqfX3h3PPEssMkfZBPrR4By6YGrj9DHR0fm4BGaM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-green-bay-packers-at-pittsburgh-steelers/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 2",
+            "playable_url": null,
+            "source_url": "https://embed.st/embed/golf/51/1",
+            "resolved": false
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb11.strmd.st/secure/cXXdLTFSrJNEoYXFMkKxpkUVRxoDfoil/delta/stream/live_nfl-preseason_steelers-packers-live-streaming-587561904/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl-preseason_steelers-packers-live-streaming-587561904/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "New England Patriots Vs Indianapolis Colts",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": "https://lb15.strmd.st/secure/PHZbdJShlrVOLEqgeqVrBufosQsMtvLn/rtmp/stream/oGmmK8PICvnt7fLeWM2O1XkF2fsqQC75zcfj6IZLk118FEdlZh_ofJM4inTZlrjA3tBrkGkzZx9VlgBz0k1wQbUa1uQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-indianapolis-colts-at-new-england-patriots/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 2",
+            "playable_url": null,
+            "source_url": "https://embed.st/embed/golf/52/1",
+            "resolved": false
+          }
+        ]
+      },
+      {
+        "title": "Houston Texans Vs Los Angeles Chargers",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": "https://lb15.strmd.st/secure/eaGGfybmWvHkbFiwsEPQYLieTetxBHvR/rtmp/stream/qsEkj_CwXDUIrkUNkJMQC2CFVb6ubtXRwF6l2ZK-Gc-ZxxbyUtFxoITow5XQ8YyeikfZLoF2OMyzp7J7YrNN/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-los-angeles-chargers-at-houston-texans/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 2",
+            "playable_url": null,
+            "source_url": "https://embed.st/embed/golf/53/1",
+            "resolved": false
+          }
+        ]
+      },
+      {
+        "title": "Las Vegas Raiders Vs Arizona Cardinals",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": "https://lb15.strmd.st/secure/gdZQnuDtShzloJpbaEpPGXaioWOLgRjK/rtmp/stream/4T3-k69qdweEr-hR5pYxCUPRYDNZlcrhneCXPCa7U9OImdxXjPjgflm2vJsHDyTaD0ueVFdeX1khT2HJyAf_JaQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-arizona-cardinals-at-las-vegas-raiders/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 2",
+            "playable_url": null,
+            "source_url": "https://embed.st/embed/golf/54/1",
+            "resolved": false
+          }
+        ]
+      },
+      {
+        "title": "San Francisco 49Ers Vs Tennessee Titans",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": "https://lb11.strmd.st/secure/RetOhDzcZNaMTXRhUPdOZGdnjzHndEiF/rtmp/stream/EjQFjLc9J05UhLBjOHw74Q7-GBYMP6dynTqcuMileZW5tTZw32oGzV7P8qitGoDTZEPJFG-1DEjy162cycSVGbMveQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-tennessee-titans-at-san-francisco-49-ers/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 2",
+            "playable_url": null,
+            "source_url": "https://embed.st/embed/golf/55/1",
+            "resolved": false
+          }
+        ]
+      }
+    ],
     "nba": [],
     "mlb": [
       {
@@ -11,14 +126,14 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb7.strmd.st/secure/ewbUflNmwAjejJjIdyJJEfizIzTSmpOa/admin/stream/ppv-kansas-city-royals-vs-los-angeles-dodgers/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-los-angeles-dodgers/1",
+            "playable_url": "https://lb13.strmd.st/secure/kVBBIlnyQzTNTKFOUkgrRRDbvEpAlAol/rtmp/stream/j_TU48DnfxddMC7XjlB5giqSTNegjIZIhyx8rkNqobf2ZTH-xoTpso1lTwdWmHPyzPGIVtNixabnnAsr8U2-P92Rmg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/1",
             "resolved": true
           },
           {
             "label": "Source 2",
             "playable_url": null,
-            "source_url": "https://embed.st/embed/golf/215/1",
+            "source_url": "https://embed.st/embed/golf/248/1",
             "resolved": false
           }
         ]
@@ -29,7 +144,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb12.strmd.st/secure/hYEFFfJivJCxLwAVEEQCdhSiVZgwntQk/rtmp/stream/zI580aNgWZrA_4HQXXfzzvgHo4TsDHW8TRCW6ngyDh-0mQvzIhuUZvypkv7PgtV4RET-2ToAYwjDRF8jyTM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb14.strmd.st/secure/bKxbaYeucAwmxMPYLVnJHsxBGEmEbFhR/rtmp/stream/ViHKkR98wK41ePTvqkbV8CK3V7_5s27C40_G5eCBRBZOt5Eknz3eydgN6kDyjn_HYbwlFk0kWzExEWrq0EU/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-pittsburgh-pirates-vs-miami-marlins/1",
             "resolved": true
           },
@@ -47,7 +162,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb13.strmd.st/secure/nkawubysurLPJlCWElVYSKOEnNvbToDq/rtmp/stream/xW8f_RiPQEuNZX4jdyVWsXAL8SdkntbbclWrGLMK56ZpRD6mT66MTzkH3Ct_hghS1etDuJ8S0nylY4Vu874W/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb7.strmd.st/secure/TWVafzJAMUEHIgjzArLlIlejTtPYEhiH/rtmp/stream/063PfPkOpW0At19twJTBL4S3zemVApLT3WgRDLk9h4jOGXNFy77KpiWXsBnZk9q7-cCqhwj3LPFy34Vf1QLS/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-cleveland-guardians-vs-detroit-tigers/1",
             "resolved": true
           },
@@ -65,7 +180,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb7.strmd.st/secure/fOEpmPQgQcuRAnMUjMPSbXECDswXjoye/rtmp/stream/cLgyExFMdWp6foTnD1S_mIS9B0Isj57-cg-IsPtvEWhNRaCyD1V2OhYhZHybPR-VBOlbjbB7polPQHdJ6QmtcQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb7.strmd.st/secure/KOlfmIDiNxLXtJoYCwnWEHcJapteaDmf/rtmp/stream/fSgtxs9cnJVSF9yIxMJvOG6lA9kV4ghLhAzkmfAj8-ubhIjMKtadGZZrF-mx79CJ5rOOyG8bqVUyyLG0WE4eZg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-new-york-yankees/1",
             "resolved": true
           },
@@ -83,7 +198,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb1.strmd.st/secure/BpCzbnoMrKmVUXkPyKvUoPqeFkYzkIid/rtmp/stream/pZ3wk_fT1yaYXu4otILz_89BdVT6jJVluokwoxYjYIRzPbeQjuxuh9QXqQ08q-A0YvF25vPZPNGvFaO6BmZchgM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb7.strmd.st/secure/PzRqYcZRCSanRcSNlcyGIDcnXBNlpOFX/rtmp/stream/9VGJzANwb0s8h6CAAJyBdEgXzYus_CHaqJ2K2VeibwQ6dLdG-UrjCqRyeVJM73UsQHBDiHeWSUkTLnoa_WgbGD4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-cincinnati-reds-vs-chicago-white-sox/1",
             "resolved": true
           },
@@ -101,7 +216,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb14.strmd.st/secure/SFHDIeIWyusaavnhRfICSdETvqnSzQuw/rtmp/stream/oxtqQUA_SYtBTeQu-K4jWfSxEFEBpxOopEbqYQblfyZeXLqxzw8e_JEuqtgNDqWUbJ61E_JzxDBJqyiGKh8DKSo/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb11.strmd.st/secure/cedOwowgXBRKNlIBjPwBBGMULqvQUTwB/rtmp/stream/Fb8AzOOIVL5iLDh0LVQYT8z9zMgHdKprW81on6tyQedHMiyspsuQF5dQznEqhZmcaH9yQsqgWIMJq0SI_S84O5Y/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-toronto-blue-jays/1",
             "resolved": true
           },
@@ -119,7 +234,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb1.strmd.st/secure/XwCZWKSHaPsYhAlpwXfbsPrtuIbjILvb/rtmp/stream/CjE6URklInItKTtN-vt3Ky-0LrtAk2SkZV6ZaRATVJwFEAs_HT79kMfEbFNacWoSdmA_BSJZ-3wgx_qTG9AOzGs1bhl-/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb10.strmd.st/secure/QPQHGahcwaSuLRqKNwzmHbYVTqOimQGk/rtmp/stream/VU4EY3ZyHZhrpeoxhdIlBPooivJ0a12AmUK_AqDi1HCu62GHqm_ZE_sTgwtKW8BCEQfzM7nbLLAkOBhJtq41_-4z7bZp/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-chicago-cubs-vs-washington-nationals/1",
             "resolved": true
           },
@@ -137,7 +252,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb14.strmd.st/secure/WEfELZOTIiOTOrEzpPhHMlgKQITGUsoc/rtmp/stream/Di-A9TjiBQ4Y_SXSPLxakxi_mpYJYFcvQq1tJJbtSwG3EadgeYubhPhvKeKEV9hxCRIHAbPK4FtyUudM_qfI4g/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb3.strmd.st/secure/ovAZlaSUKsTQeNgEhvOiLbMbIpTszwEU/rtmp/stream/NuNQFgpfnvbhGgk561PJNMueBeg42Wb34VfO4p5-GdLkjDpDkIuybIWxUWgWhZj58kJJyt5DTF0OmljbvY5jMQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-minnesota-twins/1",
             "resolved": true
           },
@@ -155,7 +270,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb15.strmd.st/secure/xLXvoxrsMFthLEnAvIOKmIhAVDlpcwCp/golf/stream/216/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/mNYauebMXJsakpeCOouZIsZixxdCcMEn/golf/stream/216/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/216/1",
             "resolved": true
           }
@@ -167,7 +282,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb13.strmd.st/secure/XonLUkmafyLojYZUScaUumXQLMKeqPBK/rtmp/stream/FyVp17HVoc9RsOjdoNwk9tc9BlRgBQ4_dBumQZz5VLlS_aZTN8fvMvkqrb2y_YaIqxKxFUUNV0D0WXb_ByTRqITs7g/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/UtLKHttKMgvbobKkCYtpZVfaAmIFVhVT/rtmp/stream/3eAhtVpCguhkeNH_cGi7xEvRc8V9kwOzvzN0tQrJrGK9FJpGcLisAdH7FoJexAAZ4UkU3NWcZLtgHcihN-TpAZVEQw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/1",
             "resolved": true
           },
@@ -353,7 +468,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb11.strmd.st/secure/abYZLoHJceTvPEifJoLEPTTMxIzGSQDs/rtmp/stream/baO7hd81e1JTD-EHExoAmlw9Wp6tNTdmiLC4yHeykC7tHmTHJ2qaSdAJfmLuJ_i7Ge9jfUigK40k051F6uMSmWKtmvVF570/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb14.strmd.st/secure/vmlnPgABlsHchivpRymiihOaFIXRrOzT/rtmp/stream/THAvs2_gwgifLEq2VIYZPkg1WGlm8XgOCQc2zHBT1FbNW-UOiAS7TVHJgQO0mZkiX4NP0MvZcS2f9__QmAQ6gOd2SLKpPlo/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-bc-lions-at-calgary-stampeders/1",
             "resolved": true
           }
