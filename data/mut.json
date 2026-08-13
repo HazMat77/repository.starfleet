@@ -1,6 +1,6 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-13T22:25:02.960078Z",
+  "scraped_at": "2026-08-13T22:55:03.197502Z",
   "categories": {
     "wnba": [
       {
@@ -9,8 +9,29 @@
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb1.strmd.st/secure/aTvruLaNaNWmPEQvAtDcibCkjRboFRrf/rtmp/stream/5aBcHBxgzAXxqeEY3nH6OypZlmnOMXiXmkKY4bq0zArHjXIq7PDR7oIdusv1IiPfh_M3-VjVYHzEipJn2rcZaw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb15.strmd.st/secure/PvqkgtwXkSVobcMMgBeDcNuFmmijmbBD/rtmp/stream/-ltwVR3D6Q_W-yMaWYmW6WnCDrpEnaCBjJtEubJkUSskjVmN9qD4JceILBu8uFSU_IfCjE1xMxcHl-D11bKTKw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://embed.st/embed/admin/ppv-atlanta-dream-vs-connecticut-sun/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "nfl": [
+      {
+        "title": "Cincinnati Bengals vs Detroit Lions",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb3.strmd.st/secure/wqZnXcCQrEdfHmNgpDVfejCDuIgqRTnN/rtmp/stream/whsX9DyjDC3qIy5BFlnE52wvKaJq17eZ3mzSTo2M7-gPYZrqt9UxDGAKqNPBK5Z_RCgeOfo4NFQ6UxNwE0IR_RQKQQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-detroit-lions-at-cincinnati-bengals/1",
+            "resolved": true
+          },
+          {
+            "label": "Stream 2",
+            "playable_url": "https://lb3.strmd.st/secure/zGLtzBwTAQXqNbACWfbPqcKQULblaeXl/rtmp/stream/5TTT3tvIlWcLpD4T1wSYQtE4hOACCMmx9QKlAbJDs-1mwfYQGL9p7kkgy-42hIKQIyCKTV4eNhfuGKpKAPgOPVtuR9o74K8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-detroit-lions-at-cincinnati-bengals/2",
             "resolved": true
           }
         ],
