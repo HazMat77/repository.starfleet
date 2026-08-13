@@ -1,22 +1,7 @@
 {
-  "scraped_at": "2026-08-13T18:25:02.595889Z",
+  "scraped_at": "2026-08-13T18:55:02.677594Z",
   "sports": {
     "mlb": [
-      {
-        "title": "Cincinnati Reds vs Chicago White Sox",
-        "status": "L",
-        "datetime": "2026-08-13T17:10:00Z",
-        "links": [
-          {
-            "label": "Home (ESPN)",
-            "playable_url": "https://node-5d763f4c.4587.website/6a7e7c80.98ba3733ib83c96f8.adc2.e6cae9cc/free.live.espn/master.m3u8"
-          },
-          {
-            "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a7e7c81.65848eefib83c96f8.adcd.6757cac4/free.live.espn/master.m3u8"
-          }
-        ]
-      },
       {
         "title": "Cleveland Guardians vs Detroit Tigers",
         "status": "L",
@@ -24,22 +9,41 @@
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-025d151e.4587.website/6a7e7c81.1867c0caib83c96f8.adb7.9b436b94/free.live.espn/master.m3u8"
+            "playable_url": "https://node-025d151e.4587.website/6a7e8388.23462aa2ib83c96f8.adb7.90216f09/free.live.espn/master.m3u8"
           },
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a7e7c81.c6c3d2d7ib83c96f8.adbf.2b4bd599/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a7e8389.8c7b9ba7ib83c96f8.adbf.aafd0103/free.live.espn/master.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Cincinnati Reds vs Chicago White Sox",
+        "status": "L",
+        "datetime": "2026-08-13T17:10:00Z",
+        "links": [
+          {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-5d763f4c.4587.website/6a7e8389.ca6f48bdib83c96f8.adc2.80da0b2c/free.live.espn/master.m3u8"
+          },
+          {
+            "label": "Away (ESPN)",
+            "playable_url": "https://node-8bba18be.4587.website/6a7e8389.0b12fd4aib83c96f8.adcd.2cc9da29/free.live.espn/master.m3u8"
           }
         ]
       },
       {
         "title": "Boston Red Sox vs Toronto Blue Jays",
-        "status": "S",
+        "status": "W",
         "datetime": "2026-08-13T19:07:00Z",
         "links": [
           {
+            "label": "Home (ESPN)",
+            "playable_url": "https://node-9b5feb01.4587.website/6a7e8389.c2bc82d6ib83c96f8.add9.01d497e3/free.live.espn/master.m3u8"
+          },
+          {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a7e7c81.ba77024bib83c96f8.adca.6e884983/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a7e8389.03999681ib83c96f8.adca.0e401cba/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -50,11 +54,11 @@
         "links": [
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a7e7c82.e1df42beib83c96f8.adc4.0f7057b5/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a7e838a.879f762eib83c96f8.adc4.6e947030/free.live.espn/master.m3u8"
           },
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-88894cb5.4587.website/6a7e7c82.8cb32d70ib83c96f8.adc9.346e93fa/free.live.espn/master.m3u8"
+            "playable_url": "https://node-88894cb5.4587.website/6a7e838a.cf293fc2ib83c96f8.adc9.541c3db9/free.live.espn/master.m3u8"
           }
         ]
       },
@@ -65,11 +69,11 @@
         "links": [
           {
             "label": "Away (ESPN)",
-            "playable_url": "https://node-8bba18be.4587.website/6a7e7c82.caa0c793ib83c96f8.adb6.7089e315/free.live.espn/master.m3u8"
+            "playable_url": "https://node-8bba18be.4587.website/6a7e838a.00c609f1ib83c96f8.adb6.e7217f0f/free.live.espn/master.m3u8"
           },
           {
             "label": "Home (ESPN)",
-            "playable_url": "https://node-9b5feb01.4587.website/6a7e7c82.1979c729ib83c96f8.adb9.442320d5/free.live.espn/master.m3u8"
+            "playable_url": "https://node-9b5feb01.4587.website/6a7e838a.70ecfda3ib83c96f8.adb9.33832527/free.live.espn/master.m3u8"
           }
         ]
       }
