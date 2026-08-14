@@ -1,16 +1,70 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-14T05:25:03.300620Z",
+  "scraped_at": "2026-08-14T05:55:03.107831Z",
   "categories": {
-    "soccer": [
+    "nfl": [
       {
-        "title": "Sevilla vs Rayo Vallecano",
+        "title": "Washington Commanders vs Miami Dolphins",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb2.strmd.st/secure/yWaakPVYFZbIzLkFqprdxsXGTZbxyXaL/rtmp/stream/8rZ0st9iRQV2uvw-OWb2ABFI9xrNXQk7P0c7W1ZiX_ORwA9cOwl5GefCJM6ArWrH1yJqX8aAm4bv5fKk/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-sevilla-vs-rayo-vallecano/2",
+            "playable_url": "https://lb14.strmd.st/secure/ddJiyyAVEWDPKJZOdeBnhWjlpxQWLhUP/rtmp/stream/qdpXiWSeBtPThTlPlfFCPI9oPzlp6Rzz2az6nmO23Z7eq_y3iD4V4qG2wznKh-1zI_-l9ZC0iTH6fdzmd0f1ZOpG0ubLMtGK_bE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-miami-dolphins-at-washington-commanders/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "mlb": [
+      {
+        "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/vhjhMyvffdZIhmvEwQuNlkLEDZdFXHoE/golf/stream/264/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/golf/264/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Toronto Blue Jays vs New York Yankees",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/uDkVayfEHGKMOtHwndUjcsLdbsDaootO/golf/stream/268/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/golf/268/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "San Francisco Giants vs Colorado Rockies",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/zzsMVdtiyjXDZfxotrvVhrbWyoavtzOB/rtmp/stream/XBg1PVROHmOtwrJzkGjDEJ3QtA9TQoaVKS69Ki5bxKOKQ3Fs_PFJXPYvyI56Nh_g1RWrviuuG_bEqNgW2dgGe5H8Vuk/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-colorado-rockies-vs-san-francisco-giants/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Detroit Tigers vs Chicago White Sox",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/BbgQhCkwutCHTfBZvlDrTbGtadBFlsFE/golf/stream/266/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/golf/266/1",
             "resolved": true
           }
         ],
