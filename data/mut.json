@@ -1,16 +1,57 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-14T15:25:03.064155Z",
+  "scraped_at": "2026-08-14T15:55:03.027072Z",
   "categories": {
-    "nfl": [
+    "soccer": [
       {
-        "title": "New York Jets vs Tampa Bay Buccaneers",
+        "title": "Al-Hilal vs Al Faisaly",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb12.strmd.st/secure/TJoITsqKTfTyzmqiXcQFJZptYaweUYpD/rtmp/stream/TSA9ECJ5UQrYxPbc4f2dJPrcatcdBIKJmUkNJSgoKIb0hWi97Wu4swXKDTBjNpovvhXvUxX75rU3UgnbiCKjpt0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-new-york-jets/2",
+            "playable_url": "https://lb10.strmd.st/secure/NfOFEcpRJsSFKkAyKkPtBBYJOYOdXBCQ/delta/stream/live_saudi-pro-league_al-hilal-al-faisaly-live-streaming-603323856/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_saudi-pro-league_al-hilal-al-faisaly-live-streaming-603323856/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Tottenham Hotspur vs Hoffenheim",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb10.strmd.st/secure/krblnsjXhhAljBhfMmqveOjBFdzGOrNR/rtmp/stream/y7Kbf4omw7HG1S3_1JhHsBPsZHCEnZ2jJeQ7wt7dEi-piQ9PXOwJ7YhL5ZvpTxClYIU9vcXZdGCYZmc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-tsg-hoffenheim/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Racing Santander vs. Villarreal",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb10.strmd.st/secure/TrgLYckfmQPgiheUwvxjiWTdnMFfWwLm/rtmp/stream/wFtfZT-BYqRU_DqfydL5zXE4lF4Eg8rdJ6plw-QwKKKNmuwEc9buJtoGXFAkJU0oOhF3byqhD4LZOoDy/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-racing-santander-vs-villarreal/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "mlb": [
+      {
+        "title": "Cincinnati Reds vs Miami Marlins",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb10.strmd.st/secure/rHUCGcuUclXOApaQaWQwsYzYioGLtQKL/rtmp/stream/90eFIkdhEAlfyUzUcoROJVk1IFAYlP26-WOSo0tbnaxd17iL-SnARHKJL9_fsKGsK8D3CWPWz29DnNGyhzPbtg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-cincinnati-reds/1",
             "resolved": true
           }
         ],
