@@ -1,16 +1,29 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-14T14:25:03.249296Z",
+  "scraped_at": "2026-08-14T14:55:03.016470Z",
   "categories": {
-    "mlb": [
+    "nfl": [
       {
-        "title": "Detroit Tigers vs Chicago White Sox",
+        "title": "New York Jets vs Tampa Bay Buccaneers",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb12.strmd.st/secure/WHTtDbZZvZFtYfEUfyBFTUCmkYYAeXHC/rtmp/stream/fVlDXC4Hz9U89tMVlZo7Hg4d9c18PDD0ieF_7f-pp0PGbKzbyowMrHbMhTM4KEYebuHFBkoSZHDofd07eTS04-z57g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-chicago-white-sox-vs-detroit-tigers/2",
+            "playable_url": "https://lb5.strmd.st/secure/PItAMQEHJSaSYqvdPSdWrrtsGYkMfLst/rtmp/stream/dyrGJuuLEzrqzW4SXzacGeaBMVzHdHj1sMtAKkDoPdA-Ff3DyD0V3rV-goZTRkxYhtujCf0LkH8ghpqGycvi3ps/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-new-york-jets/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Dallas Cowboys at Seattle Seahawks",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb5.strmd.st/secure/epMzQdJqkueKTbkQvBpKlvwZmlLLqtVd/rtmp/stream/kknFes8G3AlNIOF6hJEWchI0paC31kZvoYWlRt11Drb7S671D9LJnAt0WtzFF4H_Nf_AFDxZ80lEUY8knaheQU-VcFsV/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-dallas-cowboys-at-seattle-seahawks/2",
             "resolved": true
           }
         ],
