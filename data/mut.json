@@ -1,16 +1,29 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-14T03:25:02.863098Z",
+  "scraped_at": "2026-08-14T03:55:03.566164Z",
   "categories": {
     "nfl": [
+      {
+        "title": "San Francisco 49ers vs Tennessee Titans",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb2.strmd.st/secure/IYzUZzsswgwfRvPkJsZXrwcsxEikgWDs/rtmp/stream/iBJKlhTBzDm60HMejtQBMqX1bxyD196Eif90PSxZbzRW9AgTcZZeK7LmNCeupWHbuUlwzfbmC4dzlNQUvxRmjrFpqQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-tennessee-titans-at-san-francisco-49-ers/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
       {
         "title": "Las Vegas Raiders vs Arizona Cardinals",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb3.strmd.st/secure/AyaWuIejWqZTljNJqkbNQJaEpwPoabcJ/rtmp/stream/IE8WedFh0kmd8lLkMk2Vainj6LnHAZJpCuc4yc7DBqwReLvTREWJgxCQTwGQLkhTybk5fr_2eSth_w/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-arizona-cardinals-at-las-vegas-raiders/3",
+            "playable_url": "https://lb2.strmd.st/secure/XabfBxwQtFXiTZMDcjZImYQZfDIbyjDR/golf/stream/54/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/golf/54/1",
             "resolved": true
           }
         ],
@@ -19,13 +32,84 @@
     ],
     "soccer": [
       {
-        "title": "Racing Santander vs. Villarreal",
+        "title": "Degerfors IF vs. IFK Göteborg",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb14.strmd.st/secure/FNiJUDflXnBkgqbIFOmiDEXCoHZxCjzE/rtmp/stream/_ahAf0sZnfbtKG_wkrkRPVp5LjK35JFgJu1iWPHoO5oPoZfD26XKA26Ccj6KVG_Yv2AM7s-6yN0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-racing-santander-vs-villarreal/1",
+            "playable_url": "https://lb4.strmd.st/secure/DjnAtnJqKQqYjQpsTloXEoURXtCgavdC/rtmp/stream/OVSBLb46qTcYjfwokHYM5s0D6Z1qL8UjFYYnBcHueiOFM_iM3h7hOnSYdRt_d8BtDoNt3OsiyxKz/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-degerfors-if-vs-ifk-g-teborg/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Djurgården vs. AIK",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb4.strmd.st/secure/IiHcRutBKQjCTSHUZKPGVtxOnXfKHvBN/rtmp/stream/DWMlAFLjnKItFrmrc8qLKiV3fvSsaekhDGPajMzQGXtoj6cd-OcdXz1wjwbJGNyF8pEXCdjPustV/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-djurg-rden-vs-aik/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Portland Timbers vs Tijuana",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb6.strmd.st/secure/duNpsytBAzlgRXBwANpHuqneHsJiSmlX/delta/stream/live_leagues-cup-group-stage_portland-tijuana-live-streaming-538620624/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/delta/live_leagues-cup-group-stage_portland-tijuana-live-streaming-538620624/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "cfl": [
+      {
+        "title": "Calgary Stampeders vs BC Lions",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb2.strmd.st/secure/sPNRwSQRgpBzMxNzUlaRvobTkhlxHmRq/rtmp/stream/G3zn4jsBEQNariSIbM8fwokRFkyfvBKHL2w_Y1vQ_odBydHm8nOEuycDI0tnZ6nbhWPSeT1EuLryG78E4OcSikhQBoMdw7I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-bc-lions-at-calgary-stampeders/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "wnba": [
+      {
+        "title": "Las Vegas Aces vs Washington Mystics",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb7.strmd.st/secure/srkotKqvAaiadsqMPLuyFAXRpGZTqWJm/rtmp/stream/gnqNvis5qYzFY5xsbevhDYC7qFdulEodFSPa3V_eLa6Sk0qDGk0T3OigbS_uHTsdqtqfIIs_jYoj7RHo-V4LUHfU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-washington-mystics-vs-las-vegas-aces/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "mlb": [
+      {
+        "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb9.strmd.st/secure/MsNxJHVVzRLJJHewkAUYsBfdfGVNLHvR/rtmp/stream/2JL1900JVN-5q0HIXP2bG8s8WKESpr9ctpY7mffpfeCtycl7PAarzHYtA3bXaBQPR5jelGmi5QxsM1KP2dEGM12DcQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/1",
             "resolved": true
           }
         ],
