@@ -1,16 +1,44 @@
 {
   "site": "https://mut.st",
-  "scraped_at": "2026-08-14T08:55:02.939791Z",
+  "scraped_at": "2026-08-14T09:55:03.339532Z",
   "categories": {
     "soccer": [
       {
-        "title": "Seattle Sounders FC vs. Vancouver Whitecaps",
+        "title": "Deportivo Alavés vs Getafe",
         "is_live": true,
         "links": [
           {
             "label": "Stream 1",
-            "playable_url": "https://lb12.strmd.st/secure/khaGVVLSrWWIWmhNMICCIjQgHalQdiew/rtmp/stream/v303CYq0SGWvzyZYq5ahm6-DlrSJErAxOv7G1VtLMGEZSxcg7c26xajCl9QDD66GkiEbw3gKshRG/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-vancouver-whitecaps/1",
+            "playable_url": "https://lb12.strmd.st/secure/KVmQLNiICDBjLFPSrqxpDxibJJTZhIHW/rtmp/stream/5whxViYW5iBQslOtuKEwsnAPstcCfmJ5dgpPLPADQ9mn3D-WkZCNUOyVxpAuootwOSOhQFor5ww/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-alav-s-vs-getafe/1",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      },
+      {
+        "title": "Real Salt Lake vs. Minnesota United FC",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb2.strmd.st/secure/gwwJksLOLwunkiLuaxtqXzssSDFVTjIp/rtmp/stream/FSH_dvqhuWYDuR1vGjpjQXwDm6GqCr-M36YzaOUgTWXVrOPPMet5Mt5SQnkHKbpjS7KvDcn8u6FUBQnZSA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-minnesota-united-fc/2",
+            "resolved": true
+          }
+        ],
+        "start_ts": 0
+      }
+    ],
+    "mlb": [
+      {
+        "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Stream 1",
+            "playable_url": "https://lb10.strmd.st/secure/WELmIlDUQWJrOQBdIJOURQGQNVJtOaCS/rtmp/stream/YJz4T25U25D5ILQdeJ2VBVB5M76wxo16H23pewok0KrErwm94mD6hovrLGRZ2j6hwWhwehP5Krkml4hc3DpT7pcHtg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2F&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-los-angeles-dodgers/1",
             "resolved": true
           }
         ],
