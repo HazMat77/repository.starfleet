@@ -43,10 +43,25 @@ $zipStream.Dispose()
 Write-Host "Zip built: $zipPath"
 
 # Update addons.xml version
+if (-not $version) {
+    Write-Error "addon.xml failed to parse (empty version) - aborting before touching addons.xml or committing anything."
+    exit 1
+}
 $addonsXmlPath = "$repoDir\addons.xml"
 $raw = Get-Content $addonsXmlPath -Raw
-# Replace version on the plugin.video.starfleet addon line
-$raw = $raw -replace '(<addon id="plugin\.video\.starfleet"[^>]+version=")[^"]+(")', "`${1}$version`${2}"
+# Replace version on the plugin.video.starfleet addon line.
+# [^"]* (zero-or-more), not [^"]+ (one-or-more): a one-or-more pattern can
+# never match/replace an EMPTY existing value, so if this field was ever
+# left blank by a prior failed run, every subsequent "successful" run
+# would silently no-op on this one substitution forever, even with a
+# perfectly valid $version - confirmed live this is exactly what happened
+# (addons.xml stuck at version="" through 2 later "successful" builds
+# after one build.ps1 run crashed on a malformed addon.xml mid-script
+# without halting). The new hard stop above (never proceed with an empty
+# $version at all) is the real fix; this widened pattern is a second,
+# independent safety net so a similar edge case can self-heal instead of
+# needing another manual repair.
+$raw = $raw -replace '(<addon id="plugin\.video\.starfleet"[^>]+version=")[^"]*(")', "`${1}$version`${2}"
 Set-Content $addonsXmlPath $raw -Encoding UTF8 -NoNewline
 Write-Host "addons.xml updated to v$version"
 
