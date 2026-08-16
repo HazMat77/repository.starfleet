@@ -1,5 +1,618 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-08-16T01:25:02.893215Z",
-  "sports_events": {}
+  "scraped_at": "2026-08-16T01:55:03.101597Z",
+  "sports_events": {
+    "ufc": [
+      {
+        "title": "UFC 330 Makhachev vs Machado Garry",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb12.strmd.st/secure/TYxvTJkphWImhgXBpusopQmnQwxTgCxo/rtmp/stream/4XP8D9FpjwRIRX4Nj1sbwGiGmqBGhRLz38SK23JDwkk8jGa3QQ2FlKjiIk9NSgccOkpeIn4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-ufc-330-makhachev-vs-machado-garry%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-ufc-330-makhachev-vs-machado-garry%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb7.strmd.st/secure/iYuVPtFbOdKghGkLiuneZWxQmSTyLOko/rtmp/stream/NGxyl3pcPCwIJf7YmI3IH-bZy0dcJWe8BVSts5bbzeK83wuGPSYAi5C42rQNIWdH9bqZbUGSJqTn/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-ufc-330-makhachev-vs-machado-garry%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-ufc-330-makhachev-vs-machado-garry%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb2.strmd.st/secure/ITaWnYRNnijVZIrhwZHxbzSRyDkJAZCL/rtmp/stream/VQNAmzpK_XGsOIw80GRr1IBP0DljT-IIq7KxOOjGczjSxR6WL1LZxoUA7VG80VPCWO0H9G9z4OA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-ufc-330-makhachev-vs-machado-garry%2F3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-ufc-330-makhachev-vs-machado-garry%2F3&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "other_events": [
+      {
+        "title": "Claressa Shields vs Kaye Scott",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb12.strmd.st/secure/egUtKRPNbtyPTEkressZmuUEmUeWPTiG/delta/stream/live-event_claressa-shields-vs-kaye-scott-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_claressa-shields-vs-kaye-scott-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive-event_claressa-shields-vs-kaye-scott-live-stream%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.strmd.st/secure/JKWTMYSRjUvUMqJwslYkEJihOFMfNMPH/delta/stream/live-event_claressa-shields-vs-kaye-scott-live-stream/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_claressa-shields-vs-kaye-scott-live-stream%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive-event_claressa-shields-vs-kaye-scott-live-stream%2F2&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "wwe": [
+      {
+        "title": "AEW Saturday Night Collision",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb12.strmd.st/secure/drEPsPKzjFiyKiHwYShsctoEwyepuWqa/rtmp/stream/qzxQTI6-om16PDG6ZKH3LHZiAMBu2JQdkBzl8f6DwpZf_xNX2jXfmsXwo-K7bwoMaLANrz4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-aew-saturday-night-collision%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.strmd.st/secure/LaffGvKyszQEqjUJVFzKEVdZIxhWalxl/rtmp/stream/bWSyQPC1UXORDmevqU2cjZV6cWSen5oYRG1v5nVp4lxntiRXZvT56gQFYc4BnyT93tJZ2l59XE0z/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-aew-saturday-night-collision%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb14.strmd.st/secure/xnvCmeUOaObmOADREJljjzMwehSoJhqD/delta/stream/live-event_aew-collision-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_aew-collision-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive-event_aew-collision-live-stream%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "nba": [
+      {
+        "title": "Las Vegas Aces vs Minnesota Lynx",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb12.strmd.st/secure/UqSJJdqJeRcwoVOLSoenLrpqlOVdngkG/rtmp/stream/vqvG5eD6d90ifNVEm8oVlydr2XqnYI0T3rQX0_yI7wNjNljf1_HsCZYRKjU02HdQINDblGMuGI15izqeQ-0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-minnesota-lynx-vs-las-vegas-aces%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-minnesota-lynx-vs-las-vegas-aces%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb7.strmd.st/secure/sDCrgtyHENaEDSJYaxzSQfuEYsgVaMDT/rtmp/stream/lPwuIm_bi1cJHVwzRPUp2mZwcMqwwjUqSKwu8jENQxvTnscSUsTVC1i3rZe4xZMojEj0xyTL7AP9BEZtovpkU4al/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-minnesota-lynx-vs-las-vegas-aces%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-minnesota-lynx-vs-las-vegas-aces%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb2.strmd.st/secure/jNbMPAmoKrdQLUBtbbjrWOUmReymwqEk/delta/stream/live_wnba_aces-lynx-live-streaming-524081232/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_wnba_aces-lynx-live-streaming-524081232%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_wnba_aces-lynx-live-streaming-524081232%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Washington Mystics vs Los Angeles Sparks",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb9.strmd.st/secure/qkUANDoKUBFeUrzNAgviIfbjcxOaEepU/rtmp/stream/eQqgVPzG7Hpfips6GNtVXjhMCP2mQqBcBdDhVSyM9ygesKFQgVkuJxQg0YiaTEDi_2GM96o_iGVA2-x_76BWP4V9nQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-los-angeles-sparks-vs-washington-mystics%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-los-angeles-sparks-vs-washington-mystics%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb13.strmd.st/secure/gLaZSAxBbUapMXDvJeRtploqOeniWIcp/rtmp/stream/T_YCnrWwZkwXXmz4V68K134RVfDnn1oIaqZ-vGxVDAZ_I08JOfWVZEKxDxLJcZzMm_-QYpB1dG7QqkS2iEiA8ZYbGMp7Oic/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-los-angeles-sparks-vs-washington-mystics%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-los-angeles-sparks-vs-washington-mystics%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb8.strmd.st/secure/BkvPOZDZHbeiFxUsKnDWxiEKEuYjWHRa/delta/stream/live_wnba_mystics-sparks-live-streaming-524080800/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_wnba_mystics-sparks-live-streaming-524080800%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_wnba_mystics-sparks-live-streaming-524080800%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "mlb": [
+      {
+        "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.strmd.st/secure/iFlGxwlFTkGuFoPkZFnfPrWeLeZtvtyD/rtmp/stream/1v-Bi0pjGGYMppaFcmIjU4IxwCkwDy6POa1aaXMRPwKsLrBIb-hnu8m-U8TgvTlghfR9J1NMu6EH5pwDS82ETmX0tw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-milwaukee-brewers-vs-los-angeles-dodgers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-milwaukee-brewers-vs-los-angeles-dodgers%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb7.strmd.st/secure/fZTbCYXwrUevJfbehsCkKzqSqcvPgNPS/rtmp/stream/G7iSPtYf9ePMhQ9p4Bdsx7ZfCyQ6Zs-nNvVB_DFaZRjV1Lu-LRyJ_9UkPFQfBCFj-_sk_QeS6ezJar-_tMSZKYAn84akUC4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-milwaukee-brewers-vs-los-angeles-dodgers%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-milwaukee-brewers-vs-los-angeles-dodgers%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb2.strmd.st/secure/lngZAUGUovNkUWiUzshptpZBgKDVJwAW/delta/stream/live_mlb_dodgers-brewers-live-streaming-593418960/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mlb_dodgers-brewers-live-streaming-593418960%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mlb_dodgers-brewers-live-streaming-593418960%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Pittsburgh Pirates vs Boston Red Sox",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb9.strmd.st/secure/dxifQFnxcWSUFJMFzdxNloFgpWGeUumf/rtmp/stream/wNFGSSIIKwxVKdHHvDzrU78IbPs-NhSwyDF2ETn5ttCETdBXrLYBnIHN0vjGIau0ih5xprU29t370gHauRj2kOwKhg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-boston-red-sox-vs-pittsburgh-pirates%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-boston-red-sox-vs-pittsburgh-pirates%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb13.strmd.st/secure/KMSPeVzmSkfatlRetCgwkkTscotfuTRY/rtmp/stream/OYE7kpSKJ1kvpIOL3RIVZf87RaJ8znYYK6oSGjoPNtomK0M9iDM2A5rKbW3t3_iQY2Y0D76op_I9Jya5HVm8iCp8X9Yr1ks/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-boston-red-sox-vs-pittsburgh-pirates%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-boston-red-sox-vs-pittsburgh-pirates%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb3.strmd.st/secure/QUwRqZWKRGyFonlSXBkyXcPnudgiWPgs/delta/stream/live_mlb_pirates-red-sox-live-streaming-593416800/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mlb_pirates-red-sox-live-streaming-593416800%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mlb_pirates-red-sox-live-streaming-593416800%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Atlanta Braves vs Arizona Diamondbacks",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.strmd.st/secure/SBRTJeDoWpLwaPXEGUSeoVjSzlVzgVIL/rtmp/stream/0rNbmmG6-yLL3OI34bEMBwVq6rhFTxEgnfeUTKrnfRZbVZlvJFahl06V4NMbMJftUWoRj0KcZBbNL5P3ZjaQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-arizona-diamondbacks-vs-atlanta-braves%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-arizona-diamondbacks-vs-atlanta-braves%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb13.strmd.st/secure/apyJaBCtAaxJmjHoXNhRMcxPTvMAlYve/rtmp/stream/he-3tkwAfWEN6R9Iy8EFC89xgfjIugmVXM5WdAivkDsksoiFFMpUH6SmBTdWbiutEOy13DP8UkldQBEYc0xm4-ALvw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-arizona-diamondbacks-vs-atlanta-braves%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-arizona-diamondbacks-vs-atlanta-braves%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb10.strmd.st/secure/aqfvMTuBFIYKBXqoHWaugqOsrJHsGCcc/delta/stream/live_mlb_braves-diamondbacks-live-streaming-593418528/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mlb_braves-diamondbacks-live-streaming-593418528%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mlb_braves-diamondbacks-live-streaming-593418528%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Minnesota Twins vs Philadelphia Phillies",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb15.strmd.st/secure/wzDUqwLGLPdidlfAyiEQnmLUnAoxilRo/rtmp/stream/j2yMlpTvuiWtY85aI3KOpMpdME9MoOzjdIiuXK5BKknlJCYM3gwoL654zu0D3tR65C-LJnSYV2-xGmdo1F7pMg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-philadelphia-phillies-vs-minnesota-twins%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-philadelphia-phillies-vs-minnesota-twins%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.strmd.st/secure/gaNslVpEHyxmbarPheketnLPZftskgOE/rtmp/stream/nLWAI9sSO65qrYYOY49rmNeO-EIVGJBCqi40xvkAklTImuoK8tkoBBASha7iipmr-qw5HGsrdZpjd9devXdvGkphEiU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-philadelphia-phillies-vs-minnesota-twins%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-philadelphia-phillies-vs-minnesota-twins%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb3.strmd.st/secure/OBgwTDfOjDFFtmYfRrYAnRroGCZGnKEd/delta/stream/live_mlb_twins-phillies-live-streaming-593418096/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mlb_twins-phillies-live-streaming-593418096%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mlb_twins-phillies-live-streaming-593418096%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Houston Astros vs Seattle Mariners",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb10.strmd.st/secure/LYmajmTSEKvVKXfpbEwiojFEsBbINcrR/rtmp/stream/p2oUQ9WRK1wFB2acznrrG35f_1Jvb2p3X-NIwsxDQBbMDl_FsuL8jO0LJeD730dAllylLJOFxe37fwleAdN5/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-mariners-vs-houston-astros%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-seattle-mariners-vs-houston-astros%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb4.strmd.st/secure/pUAvivNjXjeNgMaqaTpVwwXWzGEspIhv/rtmp/stream/53tbOo7AgD4ujZT8E0cS-skf58U-oeWJ8cCTZ1UL7f3kfbqJiimfcCYZmzChSZc_Dp-xCPa61GStYO72IJNz5YfdDQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-mariners-vs-houston-astros%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-seattle-mariners-vs-houston-astros%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb7.strmd.st/secure/gQNpPAwKVVJOqffJCaWTjCVUnwQtpjxU/delta/stream/live_mlb_astros-mariners-live-streaming-593417664/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mlb_astros-mariners-live-streaming-593417664%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mlb_astros-mariners-live-streaming-593417664%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Cleveland Guardians vs San Diego Padres",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.strmd.st/secure/XDMdmvdqYnkZVBySGKLaPJoFTfuqxgai/rtmp/stream/jI1Kwo65bRZ1G_UEWcnSTX7r82QohQDp3nIPp010G7HI1xbbtXnv1P6oFJWzXSl3PqGBQNEGOz6qLa3neEJIcGmd8Sg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-san-diego-padres-vs-cleveland-guardians%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-san-diego-padres-vs-cleveland-guardians%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb15.strmd.st/secure/ClgkojCrIahIPuRSbWXXEeLnMDnMUdtv/rtmp/stream/z7sVrUkRDx6vOG78OlpTAfl67RlkaJR9-am1K6ku4NT4QOYnKbeZT5KnXvfu-I-ATri-UU2CgbsyqLi8OLw5HQ-LCuXBMJmk/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-san-diego-padres-vs-cleveland-guardians%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-san-diego-padres-vs-cleveland-guardians%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb12.strmd.st/secure/SkfseLVRBFNXHEyWiWVJcURDeeIZFFFZ/delta/stream/live_mlb_guardians-padres-live-streaming-593417232/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mlb_guardians-padres-live-streaming-593417232%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mlb_guardians-padres-live-streaming-593417232%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Cincinnati Reds vs Miami Marlins",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.strmd.st/secure/AmIuINxEWFiwNMYEFqPsWecYlUYLLIcq/rtmp/stream/97qbMFPcgwfweV2QvFG2Y9AWuCKEqY1-eLkhXlqkrnGNdGlso8r3i8cHz0qo1N0dhwkL0X0NeN4LNKdh7RLjbA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-miami-marlins-vs-cincinnati-reds%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-miami-marlins-vs-cincinnati-reds%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb10.strmd.st/secure/wDBuuFEKUfNwEomcTyaEEVHUoXnfsEUZ/rtmp/stream/RMnEg9Zzj24uqYz4_6ZV9Q4yxryUU9n09LCDjcM8cr6Pgc6BXjVi0SMaZlIyfvkZngYuiTF5Ymd4fsMRGIL0QteFr8k/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-miami-marlins-vs-cincinnati-reds%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-miami-marlins-vs-cincinnati-reds%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb8.strmd.st/secure/wkoNsZWDQLNdvXWRhPIwVDkXSAvEjIbm/delta/stream/live_mlb_reds-marlins-live-streaming-593416368/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mlb_reds-marlins-live-streaming-593416368%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mlb_reds-marlins-live-streaming-593416368%2F2&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Tampa Bay Rays vs Baltimore Orioles",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.strmd.st/secure/dfHxRnXMyIrVxdtHxWHhvhRLQRLwsNxL/admin/stream/ppv-baltimore-orioles-vs-tampa-bay-rays/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-baltimore-orioles-vs-tampa-bay-rays%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-baltimore-orioles-vs-tampa-bay-rays%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb15.strmd.st/secure/XKqRFgREAOwlORKPAHjAnTHANgEhMEFf/admin/stream/ppv-baltimore-orioles-vs-tampa-bay-rays/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-baltimore-orioles-vs-tampa-bay-rays%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-baltimore-orioles-vs-tampa-bay-rays%2F2&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "soccer": [
+      {
+        "title": "Real Salt Lake vs Minnesota United",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb12.strmd.st/secure/IiGkVLKmbuSXTBScAbsrIMpTfERsDsNa/rtmp/stream/CrMXsXPYNv-Ks66EBF6Bmw4a9s9g7KVUtDnv1T-7UN_nE8ZQRIXCXl03cOBNT6QGs-s5dr-XCRBl/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-real-salt-lake-vs-minnesota-united-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-real-salt-lake-vs-minnesota-united-fc%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.strmd.st/secure/JxbdWDefgNwyEbbdqabwHtwzeOiCbyms/rtmp/stream/WGY9OmlLOwYOJTdxaPVeA0esTTXzfEH6KvhaF8FKomcCCFxqpdiaRt5XoKwaSC-2CgraW-sXw7s7sN2ddA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-real-salt-lake-vs-minnesota-united-fc%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-real-salt-lake-vs-minnesota-united-fc%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb14.strmd.st/secure/OvlfTucmMmAHUcZtqnjEVtmGOaUcXxHt/delta/stream/live_mls_salt-lake-minnesota-live-streaming-538646112/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_salt-lake-minnesota-live-streaming-538646112%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mls_salt-lake-minnesota-live-streaming-538646112%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Colorado Rapids vs Sporting Kansas City",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.strmd.st/secure/fsoAVsCRebmXibgRoyfQvlTtepIYNvMr/rtmp/stream/bR7cG6a0zMXWWGLH6wKLLVnEHFqkti2fXNQ6iEBZXwGQFeQyDCCVxO5ASk-zLaEAbdLCHYCeeC0i/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-colorado-rapids-vs-sporting-kansas-city%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-colorado-rapids-vs-sporting-kansas-city%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb11.strmd.st/secure/VzLaKIfnBCXYkhdxklVcMcOUhWFPLYJj/rtmp/stream/0gQUIDU69rjsZgVyAi3vKkQMIr7Epg5LPdmIRIQyrqSSg-a18UAFYS1KKtF6gIdSCGwoPiXu20GuaPIBMg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-colorado-rapids-vs-sporting-kansas-city%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-colorado-rapids-vs-sporting-kansas-city%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb5.strmd.st/secure/ppMZXCRhaOMRSLYjUBByPbVIirbEeyEj/delta/stream/live_mls_colorado-kansas-city-live-streaming-538645680/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_colorado-kansas-city-live-streaming-538645680%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mls_colorado-kansas-city-live-streaming-538645680%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Monterrey vs. FC Juarez",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.strmd.st/secure/ivzgbQvxMqVOoecMoaaIIJAvBLCqvZkL/rtmp/stream/D9ldOEyUIwlld0Y_AJTUW9r1ALPMm7aozwNeVxf1YM-jOhgw6cZ1BR8thv8JSy-J3jJDo_bb_TY/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-monterrey-vs-fc-juarez%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-monterrey-vs-fc-juarez%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.strmd.st/secure/LqZUmjhYhonIkqLeBjVLxeatgsddMHRX/rtmp/stream/IN95JXIgAk8aLpjZjV6J1j8n2M3Pfp3OY5xY9ehCwyBUcBbRwanzI38u9XY3PfvtT4AZI3dnsWVd90rj/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-monterrey-vs-fc-juarez%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-monterrey-vs-fc-juarez%2F2&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Nashville SC vs Inter Miami",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb9.strmd.st/secure/wWoNMXtlwONYgnhOBdsCrvoDCtNnpnhU/rtmp/stream/AVEd5iLN2oCO2M9HYcOpKLDkBhOdNCVfpqi9JJEKBVLh4UIT09XVIr_9yVlnX0TtI_IRMLEJDHxN/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nashville-sc-vs-inter-miami-cf%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-nashville-sc-vs-inter-miami-cf%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.strmd.st/secure/YYkbIUzcmTheSlgLHvlNcrPZnunZJdqt/rtmp/stream/F7KQ1Pvyi1-dslIjQ1jcGdVU88Rv-YxB1aNGGTCYRRgJTMbaZlOYUBsUdlszAj1XVIBHBBq_eq7YSe1Khw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nashville-sc-vs-inter-miami-cf%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-nashville-sc-vs-inter-miami-cf%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb3.strmd.st/secure/KcYSnuPdkSSVxYmiJIQeVYAQiFjsEbWh/delta/stream/live_mls_nashville-inter-miami-live-streaming-538645248/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_nashville-inter-miami-live-streaming-538645248%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mls_nashville-inter-miami-live-streaming-538645248%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Houston Dynamo vs LA Galaxy",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.strmd.st/secure/eaFZJiSJQaQYyWOlWzmLfMSHmoFqftDD/rtmp/stream/_bQXW3ktWbe1gNNane3upe0bnBibKnJOu1MCgpgGunpZtl8aNpnfEdWi0T696Ai7FZkt1-oCg0o3/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-houston-dynamo-fc-vs-la-galaxy%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-houston-dynamo-fc-vs-la-galaxy%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb14.strmd.st/secure/mnbraQJVvQQlletcAyeVbnlsVbJGywnM/rtmp/stream/TQ9vAbR8qatgHFkf0_Af7o2vOCYnmTbZbTK0gCnKB5qTyB0OcMomJo1GxRn3v49f5ufteNiBO08ql18kCA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-houston-dynamo-fc-vs-la-galaxy%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-houston-dynamo-fc-vs-la-galaxy%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb7.strmd.st/secure/IjgwhzRYIByXoIqmCPNAmaQmbyZxZzIM/delta/stream/live_mls_houston-la-galaxy-live-streaming-538644816/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_houston-la-galaxy-live-streaming-538644816%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mls_houston-la-galaxy-live-streaming-538644816%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Seattle Seahawks vs Dallas Cowboys",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.strmd.st/secure/pAQIjKCuANfOITvhuGxpfwPhcALKweRs/rtmp/stream/G1FyTz4sGkp77i40TroIDXAW76kowqdE7nqWDjCN_dJTPDFx21iphbG0FWeNfueD-jD6GJylQmSxzjX9rvjUnbc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dallas-cowboys-at-seattle-seahawks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-dallas-cowboys-at-seattle-seahawks%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb15.strmd.st/secure/bBvwhpNieOwRuzUcfHEhCVBcRzZFzGbT/rtmp/stream/PO-MiZ3OmeMqo9D261yP-zO5hnXCEIZBSh-3qi7YDXLINHhhN_TfheIXwsT95TtRISR8Ye-BYM6DiNGyhC6RvugR-9Dn/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dallas-cowboys-at-seattle-seahawks%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-dallas-cowboys-at-seattle-seahawks%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb2.strmd.st/secure/sgaKTHTxKlHSoniaORsaILRdAvFyAIpt/delta/stream/live_nfl-preseason_seahawks-cowboys-live-streaming-587568816/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_nfl-preseason_seahawks-cowboys-live-streaming-587568816%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_nfl-preseason_seahawks-cowboys-live-streaming-587568816%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Orlando City vs FC Cincinnati",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.strmd.st/secure/LzzJcODMKpnVHxqFhFdwwzVAboOjXaal/rtmp/stream/ilVxgu0U2UbovMxYD6EdlkSn6yoTPM3skUo0BmVQ-IOnvaQZOnrjvcNL4XyB0rVTJtj-0I0slz-t/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-orlando-city-sc-vs-fc-cincinnati%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-orlando-city-sc-vs-fc-cincinnati%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb14.strmd.st/secure/oiYTJEaZXErrBXBMUSoKAqCuibpIeLMt/rtmp/stream/QWhfBl1dCaYZSCyci76NWKJ5M1dWMk4y1CGrJJbHwebjuR7yawlkN26fOiyfBEwPFGoLOt5WLXVVRaAWDQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-orlando-city-sc-vs-fc-cincinnati%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-orlando-city-sc-vs-fc-cincinnati%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb4.strmd.st/secure/nUThWVlOMJyBXsOAJADsGXvbizClcsVC/delta/stream/live_mls_orlando-cincinnati-live-streaming-538643520/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_orlando-cincinnati-live-streaming-538643520%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mls_orlando-cincinnati-live-streaming-538643520%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Atlanta United vs New York Red Bulls",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb8.strmd.st/secure/NqAAITdYgSRTDGXtXFYRLnfDCKhhSqOq/rtmp/stream/Ykv73k8JJPqcUA6XWifBug85PugtU_CIIfSHqndrFhEG8B_juaIoGdXP3LZw8GX3EioI1uJrupRG/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atlanta-united-fc-vs-red-bull-new-york%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-atlanta-united-fc-vs-red-bull-new-york%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb11.strmd.st/secure/YRfPbbnbMRHqYjriaWJExpEApQFWkben/rtmp/stream/RS5W1UEVUJ0Xvyn-ypXnJJ2e3GZe3NojA063I4nIYgbZcSwgdYIHrOavdF87CNCKcCEDEWBYzFUs_CuQGQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atlanta-united-fc-vs-red-bull-new-york%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-atlanta-united-fc-vs-red-bull-new-york%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb13.strmd.st/secure/yXNTgvYwESNXFeOWcTHDBWvDmyWBXrXe/delta/stream/live_mls_atlanta-ny-red-bulls-live-streaming-538642224/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_atlanta-ny-red-bulls-live-streaming-538642224%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mls_atlanta-ny-red-bulls-live-streaming-538642224%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Charlotte FC vs Columbus Crew",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb12.strmd.st/secure/vcTNzIwXMwWAGOjOMFbremaDzPHwkuWS/rtmp/stream/G4wYiqVXHBEd6uANer3YWehdjadfCDSRthxr0fDx7pfPpiKIDO_8WKCW43OO6RXawf0VuHQPfl0c/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-charlotte-fc-vs-columbus-crew%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-charlotte-fc-vs-columbus-crew%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb13.strmd.st/secure/iwWTWQxzhUdnFmOoXYytSRGVQZRXwKEw/rtmp/stream/Jss_D4vJdDVbAKmLqo1YQ4iD-V__FlKYV3ZyNU8WdQ_fyTly6jAsf9tUXv8-G_O0rZvjCVY8J8NC91odvQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-charlotte-fc-vs-columbus-crew%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-charlotte-fc-vs-columbus-crew%2F2&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Toronto FC vs New England Revolution",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb11.strmd.st/secure/ubappmSEgfRJdBtVVxbrxbvUIyuqiBeO/rtmp/stream/SjF_bLfhcAyb8hCVizDc0eZTwAoD2Xv3UA0E54hCKJWMBflkRc790WGejLR4HYK3Der_jFISdUud/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-toronto-fc-vs-new-england-revolution%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-toronto-fc-vs-new-england-revolution%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.strmd.st/secure/aLmhiCPlsiJmYfVdhLUHeZWODzMijXGJ/rtmp/stream/0NI2Xgw6Gzu11qeeJgbgMUbA1N7zrrFDWgi3oy0hN4X9aOcavAVTp6HHOaau8z243GDj1jgj9hbt92DfIQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-toronto-fc-vs-new-england-revolution%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-toronto-fc-vs-new-england-revolution%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb15.strmd.st/secure/LncTzfEXKhglmHggiUlNbYAYgCtHKhrc/delta/stream/live_mls_toronto-new-england-live-streaming-538643952/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_toronto-new-england-live-streaming-538643952%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mls_toronto-new-england-live-streaming-538643952%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "CF Montréal vs DC United",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.strmd.st/secure/aHGTMgDeVBAjpFaubQemDwJNunMrzmTD/rtmp/stream/y7tI3sNqc5ErrB4LimZzs3hGye79AJLM2JuiTgtjZuvRRm9U-Er7ddm9dtAkw8KgLFIl6ZnUILTe/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cf-montr-al-vs-d-c-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-cf-montr-al-vs-d-c-united%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb5.strmd.st/secure/UEXoFJiKbFoDrHYCFBaZtDtfZPAsNXZL/rtmp/stream/op0iv6rgfRhKe4LVwzI-sIKd8Iz2f-ga397ETwzbAbA1gq6bWrf8BFGJbj5cGu0ISM5lFDI4rAqxFaGnrQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cf-montr-al-vs-d-c-united%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-cf-montr-al-vs-d-c-united%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb9.strmd.st/secure/ydLMJicyjkVQTcdVJrpAQuVIcOoJmHqR/delta/stream/live_mls_montreal-dc-united-live-streaming-538642656/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_montreal-dc-united-live-streaming-538642656%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_mls_montreal-dc-united-live-streaming-538642656%2F1&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Hamilton Tiger-Cats vs Saskatchewan Roughriders",
+        "is_live": true,
+        "links": [
+          {
+            "label": "CBS Sports Network USA",
+            "playable_url": "https://xameleon.phantemlis.top/three/secure/c1c814dc9634655b883701471d311971/1786856435/premium308/index.m3u8|Referer=https%3A%2F%2Fhamis.romponalis.st%2Fpremiumtv%2Fdaddy3.php%3Fid%3D308&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=308&player=1&source=tv.json",
+            "resolved": true
+          },
+          {
+            "label": "TSN1",
+            "playable_url": "https://xameleon.phantemlis.top/three/secure/b11980b5b2acaa1988d21d14d536fbea/1786856438/premium111/index.m3u8|Referer=https%3A%2F%2Fhamis.romponalis.st%2Fpremiumtv%2Fdaddy3.php%3Fid%3D111&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=111&player=1&source=tv.json",
+            "resolved": true
+          },
+          {
+            "label": "TSN4",
+            "playable_url": "https://xameleon.phantemlis.top/three/secure/1c020dddd2e128a625c7bed760545167/1786856442/premium114/index.m3u8|Referer=https%3A%2F%2Fhamis.romponalis.st%2Fpremiumtv%2Fdaddy3.php%3Fid%3D114&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=114&player=1&source=tv.json",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Baltimore Ravens vs Philadelphia Eagles",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb11.strmd.st/secure/UnOMfQyQhjrCbmAdfQYrUOZYzEIpvcgc/rtmp/stream/hdKjBVgoY90rLjv7agTh0EdjTt715DA2pf_-QCOwhqKF8Blc4LIHjnU5mf1L2Zoy7heo1MRB5PGGw3IPcH30erw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-philadelphia-eagles-at-baltimore-ravens%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-philadelphia-eagles-at-baltimore-ravens%2F1&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb9.strmd.st/secure/PxGbeWMyJZXREfLGpovXpORBIJeZuxSu/rtmp/stream/4t7tKzBZlhsAIJspMOKxX_4gQZ59lFqbGxqEO3oiquCiqdwv397B1Hpi2iQ1hQKbtSD7JEJ5_M6ydUTJfODLNEJjepmn/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-philadelphia-eagles-at-baltimore-ravens%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=admin%2Fppv-philadelphia-eagles-at-baltimore-ravens%2F2&player=1&source=tv2.json",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb4.strmd.st/secure/czXFqEuHsTokxjNmmLzBHcKjDKUncABK/delta/stream/live_nfl-preseason_ravens-eagles-live-streaming-587568384/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_nfl-preseason_ravens-eagles-live-streaming-587568384%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/embed/embed.php?id=delta%2Flive_nfl-preseason_ravens-eagles-live-streaming-587568384%2F2&player=1&source=tv2.json",
+            "resolved": true
+          }
+        ]
+      }
+    ]
+  }
 }
