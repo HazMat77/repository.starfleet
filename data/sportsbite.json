@@ -1,31 +1,48 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-08-19T22:25:03.708586Z",
+  "scraped_at": "2026-08-19T22:55:02.878892Z",
   "categories": {
+    "soccer": [
+      {
+        "title": "Philadelphia vs Inter Miami CF",
+        "is_live": false,
+        "start_ts": 1787182200,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/tNJQ7yj1DtuOivQHTkr43w/platinum/philadelphia-union-inter-miami-cf/1/761727/1787201728/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/LnqVVOCWAuD1TrQYDJ6IfA/delta/live_mls_philadelphia-inter-miami-live-streaming-538747632/1/761727/1787201731/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
     "mlb": [
       {
         "title": "Baltimore Orioles vs New York Yankees",
-        "is_live": false,
+        "is_live": true,
         "start_ts": 1787178900,
         "links": [
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/YY8v_bEvMUdaTgdG0EyR6g/delta/live_mlb_orioles-yankees-live-streaming-593568864/1/401816589/1787199935/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/_-wBD8HfKL0VqEknSHRq1g/delta/live_mlb_orioles-yankees-live-streaming-593568864/1/401816589/1787201792/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
       {
         "title": "Philadelphia Phillies vs Miami Marlins",
-        "is_live": false,
+        "is_live": true,
         "start_ts": 1787177100,
         "links": [
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/1SJ8QGHb4wVTOG7eTTD18g/delta/live_mlb_phillies-marlins-live-streaming-593568432/1/401816588/1787199995/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/ZMPzm1J2zIR_mn2fv1TJ-g/delta/live_mlb_phillies-marlins-live-streaming-593568432/1/401816588/1787201814/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/lIPJYJikWaUKJ4GyFQ4JXA/delta/live_mlb_phillies-marlins-live-streaming-593568432/2/401816588/1787199998/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/immHtb9eSCJ9zM_Z3ZJKoA/delta/live_mlb_phillies-marlins-live-streaming-593568432/2/401816588/1787201816/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -36,39 +53,39 @@
         "links": [
           {
             "label": "regular (SD)",
-            "playable_url": "https://lb1.wfty.st/secure/IF7qD6_AELVFOA3r4hYEPg/regular/boston-red-sox-arizona-diamondbacks/1/401816586/1787200020/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/GcMJ_afZYG_Fn6MhmwWj6A/regular/boston-red-sox-arizona-diamondbacks/1/401816586/1787201839/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "regular (SD)",
-            "playable_url": "https://lb2.wfty.st/secure/mU6sMqSLWXuAa5BuisBXwA/regular/boston-red-sox-arizona-diamondbacks/2/401816586/1787200022/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/QpihPCNC6kyl2uw_YgMeOw/regular/boston-red-sox-arizona-diamondbacks/2/401816586/1787201841/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "regular (SD)",
-            "playable_url": "https://lb5.wfty.st/secure/GKhQiHyT07VsCwQnuTrPKA/regular/boston-red-sox-arizona-diamondbacks/3/401816586/1787200025/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/lY8nq7epkKqooyCrvw0fjQ/regular/boston-red-sox-arizona-diamondbacks/3/401816586/1787201843/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "regular (SD)",
-            "playable_url": "https://lb5.wfty.st/secure/_EBzTVOD7C1QCCpTs3_dGQ/regular/boston-red-sox-arizona-diamondbacks/4/401816586/1787200027/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/d6aDg6k_Ece7GeYiOs0aNQ/regular/boston-red-sox-arizona-diamondbacks/4/401816586/1787201845/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/f7i4UL31kRv3vCnOQwl7IA/pro/boston-red-sox-arizona-diamondbacks/1/401816586/1787200046/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/Hlh0knnj9mYaafSdfwhuTg/pro/boston-red-sox-arizona-diamondbacks/1/401816586/1787201847/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/4IixFKiTXxHsCjhA_XPlaQ/pro/boston-red-sox-arizona-diamondbacks/2/401816586/1787200048/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/3jVhigddhVvVSBpCsH1Jnw/pro/boston-red-sox-arizona-diamondbacks/2/401816586/1787201849/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/OsbNJt4d46N4c4npL1vGcw/pro/boston-red-sox-arizona-diamondbacks/3/401816586/1787200050/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/Vqu7XOjvURoyccVCgOe4ug/pro/boston-red-sox-arizona-diamondbacks/3/401816586/1787201852/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/ONOE3xKpcEyFewHj-_IRuQ/delta/live_mlb_red-sox-diamondbacks-live-streaming-593568000/1/401816586/1787200052/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/vZlL1XnvogcY_R3YOxudfA/delta/live_mlb_red-sox-diamondbacks-live-streaming-593568000/1/401816586/1787201854/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/_cLdUIYfmGWlOPO4KxF-gQ/delta/live_mlb_red-sox-diamondbacks-live-streaming-593568000/2/401816586/1787200055/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/13stP1ZDxwKAMOrwwpFHlQ/delta/live_mlb_red-sox-diamondbacks-live-streaming-593568000/2/401816586/1787201856/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -79,11 +96,11 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/CJlRBfFgj0_cRcWtt82Iug/platinum/houston-astros-los-angeles-angels/1/401816579/1787200057/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/EsPKg2NWN-rz6IipOcyRdw/platinum/houston-astros-los-angeles-angels/1/401816579/1787201858/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/LVSae5u4ryB0wXsQnD8Z1g/platinum/houston-astros-los-angeles-angels/2/401816579/1787200059/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/HPXalojLQY02jQqTVOZMlQ/platinum/houston-astros-los-angeles-angels/2/401816579/1787201860/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -94,7 +111,7 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/1ohUh7zgXCjLZrOW7yEhSQ/platinum/chicago-cubs-chicago-white-sox/1/401816582/1787200061/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/bTVvDR-luCKekPVICNnwjA/platinum/chicago-cubs-chicago-white-sox/1/401816582/1787201862/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
