@@ -1,5 +1,34 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-08-19T07:25:02.384969Z",
-  "categories": {}
+  "scraped_at": "2026-08-19T07:55:02.515699Z",
+  "categories": {
+    "mlb": [
+      {
+        "title": "Houston Astros vs Los Angeles Angels",
+        "is_live": false,
+        "start_ts": 1787098200,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/7AV-7x5IdicXjc5KMnd7Ug/platinum/houston-astros-los-angeles-angels/1/401816579/1787147710/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/bFgxgaSpErDqFkAt1NG07A/platinum/houston-astros-los-angeles-angels/2/401816579/1787147713/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Chicago Cubs vs Chicago White Sox",
+        "is_live": false,
+        "start_ts": 1787097900,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/8b0G-uj_g5DDAz3BYE33Kg/platinum/chicago-cubs-chicago-white-sox/1/401816582/1787147715/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ]
+  }
 }
