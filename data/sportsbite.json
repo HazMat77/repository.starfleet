@@ -1,57 +1,85 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-08-20T03:55:02.919814Z",
+  "scraped_at": "2026-08-20T04:25:03.272845Z",
   "categories": {
     "soccer": [
       {
-        "title": "Colorado Rapids vs LAFC",
-        "is_live": false,
-        "start_ts": 1787189400,
+        "title": "LA Galaxy vs San Jose Earthquakes",
+        "is_live": true,
+        "start_ts": 1787193000,
         "links": [
           {
+            "label": "regular (SD)",
+            "playable_url": "https://lb1.wfty.st/secure/EecjMyenJV8xmedf59Tf7A/regular/la-galaxy-san-jose-earthquakes/1/761738/1787221533/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "regular (SD)",
+            "playable_url": "https://lb5.wfty.st/secure/s8rtlgvHu32vW12mO5BgjQ/regular/la-galaxy-san-jose-earthquakes/2/761738/1787221535/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "regular (SD)",
+            "playable_url": "https://lb3.wfty.st/secure/nk1rzUhh7aMXMwcjbjcS4Q/regular/la-galaxy-san-jose-earthquakes/3/761738/1787221538/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "regular (SD)",
+            "playable_url": "https://lb1.wfty.st/secure/N9FILRTJNxQ6Qu_OYDQfVw/regular/la-galaxy-san-jose-earthquakes/4/761738/1787221541/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/zt4LeoE5_MZHBzu6H2x9rQ/prime/la-galaxy-san-jose-earthquakes/1/761738/1787221543/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/sd_JvHK6SA2fHD9zL2_dDw/prime/la-galaxy-san-jose-earthquakes/2/761738/1787221545/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/WJ0E8SLbtaUHswY06rK_DQ/pro/la-galaxy-san-jose-earthquakes/1/761738/1787221548/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/NCwiFLWG3_Z9BlXSDg_zTg/pro/la-galaxy-san-jose-earthquakes/2/761738/1787221550/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/IHqc4bpezOY7jx2mPlQy3w/pro/la-galaxy-san-jose-earthquakes/3/761738/1787221552/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
             "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/J4G4_s5Plg0MxVA4iPaBwQ/platinum/colorado-rapids-lafc/1/761734/1787219728/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/rOC5uwsK4oufcP12DfSPog/platinum/la-galaxy-san-jose-earthquakes/1/761738/1787221555/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/zrOZ2UlElfaDMmXou3TYtQ/delta/live_mls_la-galaxy-san-jose-live-streaming-538750656/1/761738/1787221557/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
     ],
     "mlb": [
       {
-        "title": "Colorado Rockies vs Los Angeles Dodgers",
-        "is_live": true,
-        "start_ts": 1787186400,
+        "title": "Houston Astros vs Los Angeles Angels",
+        "is_live": false,
+        "start_ts": 1787184600,
         "links": [
           {
-            "label": "regular (SD)",
-            "playable_url": "https://lb6.wfty.st/secure/wDQyDONufN39g-uymgOt3A/regular/houston-astros-los-angeles-angels/1/401816594/1787219752/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "regular (SD)",
-            "playable_url": "https://lb4.wfty.st/secure/YgM9r2Pen992EsFkyRMNqg/regular/houston-astros-los-angeles-angels/2/401816594/1787219755/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "pro (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/u1cttHIoL5DZbOfJTzjusg/pro/houston-astros-los-angeles-angels/1/401816594/1787221581/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/z2n-2bZgxVrzCJWsATvY8Q/pro/houston-astros-los-angeles-angels/1/401816594/1787219757/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/WLqYwOitqUa1F6I2K4PGdw/pro/houston-astros-los-angeles-angels/2/401816594/1787221583/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/XIxlF68kcn3yzMY1fq9slw/pro/houston-astros-los-angeles-angels/2/401816594/1787219760/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/T3YOlaRWflyocQudrWIaYQ/pro/houston-astros-los-angeles-angels/3/401816594/1787219762/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/kotxXJr8SFmeuxnZR74d4g/pro/houston-astros-los-angeles-angels/3/401816594/1787221586/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/7MLYov_3a8Wu2ERJqtAOqA/platinum/houston-astros-los-angeles-angels/1/401816594/1787219764/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/mao3oevgrSObzfH7uZNHTQ/platinum/houston-astros-los-angeles-angels/1/401816594/1787221589/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/DG6dbvE_7cXcxiOWgHKbKg/platinum/houston-astros-los-angeles-angels/2/401816594/1787219766/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/aKQyhxB3bpizJArQhaoHZg/delta/live_mls_colorado-los-angeles-live-streaming-538749360/1/401816600/1787219768/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/HARg1IWqSsEnGCZgmKT1Xg/platinum/houston-astros-los-angeles-angels/2/401816594/1787221591/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
