@@ -1,5 +1,49 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-08-25T14:25:02.328944Z",
-  "categories": {}
+  "scraped_at": "2026-08-25T14:55:02.245078Z",
+  "categories": {
+    "mlb": [
+      {
+        "title": "San Francisco Giants vs Cincinnati Reds",
+        "is_live": false,
+        "start_ts": 1787622300,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/c2Jc07Dy8pFOoYc3FbYUnA/platinum/san-francisco-giants-cincinnati-reds/1/401816660/1787691311/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Arizona Diamondbacks vs Chicago Cubs",
+        "is_live": false,
+        "start_ts": 1787622000,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/AXmETA5MrdXI2_aeFZH2Aw/platinum/arizona-diamondbacks-chicago-cubs/1/401816659/1787691313/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/dMm3X3nK3TlRvipcklfemA/platinum/arizona-diamondbacks-chicago-cubs/2/401816659/1787691316/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Seattle Mariners vs Philadelphia Phillies",
+        "is_live": false,
+        "start_ts": 1787622000,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/VugSIlgxJ69omXZ-2tDCNA/platinum/seattle-mariners-philadelphia-phillies/1/401816663/1787691319/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/1QjVPZtx7it2cd9f5d_kFQ/platinum/seattle-mariners-philadelphia-phillies/2/401816663/1787691322/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ]
+  }
 }
