@@ -1,7 +1,32 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-08-25T17:25:02.374774Z",
+  "scraped_at": "2026-08-25T17:55:02.340782Z",
   "categories": {
+    "soccer": [
+      {
+        "title": "Southampton vs West Ham United",
+        "is_live": false,
+        "start_ts": 1787683500,
+        "links": [
+          {
+            "label": "sigma (GHD)",
+            "playable_url": "https://lb5.wfty.st/secure/38cH60WWZ1GaexxKRrIj9A/sigma/southampton-west-ham-united/1/401907950/1787702125/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (GHD)",
+            "playable_url": "https://lb2.wfty.st/secure/eaqVRsYtTl-sN9oG--tebg/sigma/southampton-west-ham-united/2/401907950/1787702128/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb4.wfty.st/secure/hJ7sFNDnj8xeSD-C4nzUzA/sigma/southampton-west-ham-united/3/401907950/1787702131/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb6.wfty.st/secure/VPNWeaxKna7ZkCYTWjRizQ/sigma/southampton-west-ham-united/4/401907950/1787702133/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
     "mlb": [
       {
         "title": "San Francisco Giants vs Cincinnati Reds",
@@ -10,7 +35,7 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/UQCJQYZlzHhsK_41wAOjTA/platinum/san-francisco-giants-cincinnati-reds/1/401816660/1787700319/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/pst-tLhDYw90IaJbBwIU8A/platinum/san-francisco-giants-cincinnati-reds/1/401816660/1787702139/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -21,11 +46,11 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/rFOe5HaR1pxY4mqLOU5SPw/platinum/arizona-diamondbacks-chicago-cubs/1/401816659/1787700323/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/NRD-0aIX_YZu5wo-OI-UHg/platinum/arizona-diamondbacks-chicago-cubs/1/401816659/1787702142/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/xJMAljAkB0dNd03Zu0vXhA/platinum/arizona-diamondbacks-chicago-cubs/2/401816659/1787700326/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/zenke0PzcqHt9WOGHsp_qg/platinum/arizona-diamondbacks-chicago-cubs/2/401816659/1787702157/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -36,11 +61,11 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/_KIuzhuKn9GvmnvRlQoP0w/platinum/seattle-mariners-philadelphia-phillies/1/401816663/1787700329/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/xmCMn-WnMXbtAZYdJ9zLSQ/platinum/seattle-mariners-philadelphia-phillies/1/401816663/1787702162/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/mSfHwobBg8EVsAcsd6rEgg/platinum/seattle-mariners-philadelphia-phillies/2/401816663/1787700332/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/CCE30xOaGJDtdkG4GiFu3A/platinum/seattle-mariners-philadelphia-phillies/2/401816663/1787702165/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
