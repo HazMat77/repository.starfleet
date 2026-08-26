@@ -1,5 +1,53 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-08-26T00:25:02.586298Z",
-  "categories": {}
+  "scraped_at": "2026-08-26T00:55:02.600774Z",
+  "categories": {
+    "mlb": [
+      {
+        "title": "Arizona Diamondbacks vs Chicago Cubs",
+        "is_live": false,
+        "start_ts": 1787708400,
+        "links": [
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb3.wfty.st/secure/eyUkQQjbdwRCv5wlJcxVNg/sigma/arizona-diamondbacks-chicago-cubs/1/401816674/1787727329/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb5.wfty.st/secure/MTp1f2oyLj9BD6bfEqldeA/sigma/arizona-diamondbacks-chicago-cubs/2/401816674/1787727332/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Seattle Mariners vs Philadelphia Phillies",
+        "is_live": false,
+        "start_ts": 1787708400,
+        "links": [
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb3.wfty.st/secure/d7L0cqf-NsXO3P7xhe9D2A/sigma/seattle-mariners-philadelphia-phillies/1/401816678/1787727354/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb3.wfty.st/secure/UaQD0BK-0wDfe89d0ZwzHA/sigma/seattle-mariners-philadelphia-phillies/2/401816678/1787727357/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "San Francisco Giants vs Cincinnati Reds",
+        "is_live": false,
+        "start_ts": 1787708700,
+        "links": [
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb1.wfty.st/secure/sTq2TGM_2k3FfgMqFyIKGw/sigma/san-francisco-giants-cincinnati-reds/1/401816675/1787727379/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb1.wfty.st/secure/PhHJz8BJziE3KfYHDjdLWw/sigma/san-francisco-giants-cincinnati-reds/2/401816675/1787727383/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ]
+  }
 }
