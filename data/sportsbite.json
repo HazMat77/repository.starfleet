@@ -1,5 +1,38 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-08-30T00:55:02.819761Z",
-  "categories": {}
+  "scraped_at": "2026-08-30T01:25:02.768469Z",
+  "categories": {
+    "mlb": [
+      {
+        "title": "San Francisco Giants vs Arizona Diamondbacks",
+        "is_live": false,
+        "start_ts": 1788055500,
+        "links": [
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb3.wfty.st/secure/NAa-PBokfuSkHVlCPAJQbA/sigma/san-francisco-giants-arizona-diamondbacks/1/401816729/1788074729/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb2.wfty.st/secure/z4OWIjz50LW-TD2XPSOrZA/sigma/san-francisco-giants-arizona-diamondbacks/2/401816729/1788074732/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Los Angeles Angels vs Philadelphia Phillies",
+        "is_live": false,
+        "start_ts": 1788055620,
+        "links": [
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb6.wfty.st/secure/8zTm7oRxkF_ga7Wd9G1IsQ/sigma/los-angeles-angels-philadelphia-phillies/1/401816731/1788074754/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb2.wfty.st/secure/88lSHlQJkFWQIUDOaMudjw/sigma/los-angeles-angels-philadelphia-phillies/2/401816731/1788074757/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ]
+  }
 }
