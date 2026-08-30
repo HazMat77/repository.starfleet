@@ -1,5 +1,34 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-08-30T06:25:02.806341Z",
-  "categories": {}
+  "scraped_at": "2026-08-30T06:55:02.889349Z",
+  "categories": {
+    "mlb": [
+      {
+        "title": "Los Angeles Angels vs Philadelphia Phillies",
+        "is_live": false,
+        "start_ts": 1788055620,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/cllPR7N94alpaxFIuCo1pw/platinum/los-angeles-angels-philadelphia-phillies/1/401816731/1788094509/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/98PRDnss7vngN1qxPwJigQ/platinum/los-angeles-angels-philadelphia-phillies/2/401816731/1788094511/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "San Francisco Giants vs Arizona Diamondbacks",
+        "is_live": false,
+        "start_ts": 1788055500,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/pQoLi3b1Xoffkf7fzM0wXA/platinum/san-francisco-giants-arizona-diamondbacks/1/401816729/1788094514/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ]
+  }
 }
