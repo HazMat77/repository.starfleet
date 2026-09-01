@@ -1,7 +1,63 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-09-01T17:25:02.941007Z",
+  "scraped_at": "2026-09-01T17:55:02.982500Z",
   "categories": {
+    "soccer": [
+      {
+        "title": "HEBC Hamburg vs Borussia Dortmund",
+        "is_live": false,
+        "start_ts": 1788288300,
+        "links": [
+          {
+            "label": "sigma (GHD)",
+            "playable_url": "https://lb4.wfty.st/secure/GD7x3fG3Fcwo241niWQuFA/sigma/hebc-hamburg-borussia-dortmund/1/401875201/1788306927/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (GHD)",
+            "playable_url": "https://lb1.wfty.st/secure/V76Kf21wYe7ftZQVd5hBiA/sigma/hebc-hamburg-borussia-dortmund/2/401875201/1788306930/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb1.wfty.st/secure/8GUk4zzioqvy9kKrgQi25g/sigma/hebc-hamburg-borussia-dortmund/3/401875201/1788306932/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb1.wfty.st/secure/f95TNtfX-x7rHFmDYLvw5Q/sigma/hebc-hamburg-borussia-dortmund/4/401875201/1788306934/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb1.wfty.st/secure/wS5IkFHzl1yVqXl1_pbhjA/sigma/hebc-hamburg-borussia-dortmund/5/401875201/1788306937/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb4.wfty.st/secure/LXuvO6W7Kbj1PX81__XGfA/sigma/hebc-hamburg-borussia-dortmund/6/401875201/1788306939/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "West Ham United vs Wolverhampton Wanderers",
+        "is_live": false,
+        "start_ts": 1788288300,
+        "links": [
+          {
+            "label": "sigma (GHD)",
+            "playable_url": "https://lb3.wfty.st/secure/5xZEFJviAtXzlyzVtz8wrw/sigma/west-ham-united-wolverhampton-wanderers/1/401880297/1788306961/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (GHD)",
+            "playable_url": "https://lb3.wfty.st/secure/4e40h3ROZddLIcPOJsVOhA/sigma/west-ham-united-wolverhampton-wanderers/2/401880297/1788306964/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb6.wfty.st/secure/CKV8bhK4D6MBmXiRKTV5vQ/sigma/west-ham-united-wolverhampton-wanderers/3/401880297/1788306966/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/-miKfaK4-H4z9wzBhjmvsA/platinum/sheffield-united-bolton-wanderers/1/401880300/1788306990/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
     "mlb": [
       {
         "title": "Arizona Diamondbacks vs Philadelphia Phillies",
@@ -10,11 +66,11 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/s06AS6fj9EcYKPZu29YPJw/platinum/arizona-diamondbacks-philadelphia-phillies/1/401816757/1788305110/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/sFIYBGkizBgOHuhlB1ysBA/platinum/arizona-diamondbacks-philadelphia-phillies/1/401816757/1788306993/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/oKTtLrZSJ-CVyzhn-GRM7w/platinum/arizona-diamondbacks-philadelphia-phillies/2/401816757/1788305113/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/yLW7D6THhd9AYxsYjN_X-g/platinum/arizona-diamondbacks-philadelphia-phillies/2/401816757/1788306995/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -25,11 +81,11 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/gkPzH_Ra2j8KlVLpWbMW_A/platinum/tampa-bay-rays-new-york-mets/1/401816748/1788305115/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/Ph6mzeVR1jSj26dhol914A/platinum/tampa-bay-rays-new-york-mets/1/401816748/1788306997/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/OL2zI8IWVt5G3XXOwe_Kkg/platinum/tampa-bay-rays-new-york-mets/2/401816748/1788305117/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/SGsiwQd484X4xTaE7Kpwrw/platinum/tampa-bay-rays-new-york-mets/2/401816748/1788306999/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -40,11 +96,11 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/NDoPfKUuxaNM---scHdbWw/platinum/houston-astros-chicago-white-sox/1/401816752/1788305120/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/QCfQnXNeMCCUZzzavsPzpw/platinum/houston-astros-chicago-white-sox/1/401816752/1788307001/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/2GWhqDCB_vrf_kVOWBKraw/platinum/houston-astros-chicago-white-sox/2/401816752/1788305122/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/3mPG7uWxwXc0AIKtLgbReg/platinum/houston-astros-chicago-white-sox/2/401816752/1788307003/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
