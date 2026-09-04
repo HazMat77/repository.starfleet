@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="starfleet">
   <channel id="TVA.ca"><display-name>TVA</display-name></channel>
-  <programme start="20260904123000 -0400" stop="20260904130000 -0400" channel="TVA.ca">
-    <title>Le bilan du midi (N)</title>
-  </programme>
   <programme start="20260904130000 -0400" stop="20260904143000 -0400" channel="TVA.ca">
     <title>Cinéma "Famille modèle" (Comédie, 2018) Paul Rudd, Steve Coogan, Alison Pill</title>
   </programme>
@@ -23,10 +20,13 @@
     <title>TVA nouvelles (N)</title>
   </programme>
   <programme start="20260904180000 -0400" stop="20260904183000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
+    <title>TVA nouvelles (N)</title>
   </programme>
   <programme start="20260904183000 -0400" stop="20260904190000 -0400" channel="TVA.ca">
     <title>Le tricheur (N)</title>
+  </programme>
+  <programme start="20260904190000 -0400" stop="20260904193000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20260904190000 -0400" stop="20260904193000 -0400" channel="TVA.ca">
     <title>Sucré salé (N)</title>
@@ -43,8 +43,11 @@
   <programme start="20260904223000 -0400" stop="20260904230000 -0400" channel="TVA.ca">
     <title>Sucré salé</title>
   </programme>
-  <programme start="20260904230000 -0400" stop="20260905003000 -0400" channel="TVA.ca">
-    <title>Cinéma "Mégalodon" (Science fiction, 2018)</title>
+  <programme start="20260904230000 -0400" stop="20260905010000 -0400" channel="TVA.ca">
+    <title>Cinéma "Mégalodon" (Science fiction, 2018) Jason Statham, Li Bingbing, Rainn Wilson</title>
+  </programme>
+  <programme start="20260905010000 -0400" stop="20260905013000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20260905010000 -0400" stop="20260905030000 -0400" channel="TVA.ca">
     <title>Cinéma "Face à la tempête" (Aventure, 2022) Naomi Watts, Billy Howle, Denis O'Hare</title>
@@ -62,12 +65,9 @@
     <title>La victoire de l'amour (N)</title>
   </programme>
   <programme start="20260905060000 -0400" stop="20260905063000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
-  <programme start="20260905060000 -0400" stop="20260905063000 -0400" channel="TVA.ca">
     <title>Les looney tunes</title>
   </programme>
-  <programme start="20260905063000 -0400" stop="20260905103000 -0400" channel="TVA.ca">
+  <programme start="20260905063000 -0400" stop="20260905073000 -0400" channel="TVA.ca">
     <title>Salut bonjour week-end (N)</title>
   </programme>
   <programme start="20260905103000 -0400" stop="20260905113000 -0400" channel="TVA.ca">
@@ -77,13 +77,13 @@
     <title>Dans le feu de l'action (N)</title>
   </programme>
   <programme start="20260905120000 -0400" stop="20260905123000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
-  <programme start="20260905120000 -0400" stop="20260905123000 -0400" channel="TVA.ca">
     <title>TVA Nouvelles (N)</title>
   </programme>
   <programme start="20260905123000 -0400" stop="20260905130000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
+  </programme>
+  <programme start="20260905130000 -0400" stop="20260905133000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20260905130000 -0400" stop="20260905133000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
@@ -98,25 +98,19 @@
     <title>Cinéma "Harold et le crayon violet" (Famille, 2024) Zachary Levi, Zooey Deschanel, Lil Rel Howery</title>
   </programme>
   <programme start="20260905180000 -0400" stop="20260905183000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
-  <programme start="20260905180000 -0400" stop="20260905183000 -0400" channel="TVA.ca">
     <title>TVA Nouvelles (N)</title>
   </programme>
-  <programme start="20260905183000 -0400" stop="20260905220000 -0400" channel="TVA.ca">
-    <title>Cinéma "Horizon: une saga américaine: chapitre 1" (Western, 2024) Kevin Costner, Sienna Miller, Sam Worthington</title>
+  <programme start="20260905183000 -0400" stop="20260905193000 -0400" channel="TVA.ca">
+    <title>Cinéma</title>
   </programme>
   <programme start="20260905220000 -0400" stop="20260906000000 -0400" channel="TVA.ca">
     <title>Cinéma "Armée et dangereuse" (Western, 2016) Natalie Portman, Joel Edgerton, Noah Emmerich</title>
   </programme>
   <programme start="20260906000000 -0400" stop="20260906003000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
-  <programme start="20260906000000 -0400" stop="20260906003000 -0400" channel="TVA.ca">
     <title>TVA Nouvelles (N)</title>
   </programme>
-  <programme start="20260906003000 -0400" stop="20260906023000 -0400" channel="TVA.ca">
-    <title>Cinéma "Dernière fusillade" (Western, 2021) Brock Harris, Skylar Witte, Michael Welch</title>
+  <programme start="20260906003000 -0400" stop="20260906013000 -0400" channel="TVA.ca">
+    <title>Cinéma "Dernière fusillade"</title>
   </programme>
   <programme start="20260906023000 -0400" stop="20260906043000 -0400" channel="TVA.ca">
     <title>Cinéma "Mort pour un dollar" (Western, 2022) Christoph Waltz, Willem Dafoe, Rachel Brosnahan</title>
@@ -131,15 +125,18 @@
     <title>La victoire de l'amour (N)</title>
   </programme>
   <programme start="20260906060000 -0400" stop="20260906063000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
-  <programme start="20260906060000 -0400" stop="20260906063000 -0400" channel="TVA.ca">
     <title>Les looney tunes</title>
   </programme>
-  <programme start="20260906063000 -0400" stop="20260906103000 -0400" channel="TVA.ca">
+  <programme start="20260906063000 -0400" stop="20260906073000 -0400" channel="TVA.ca">
     <title>Salut bonjour week-end (N)</title>
   </programme>
   <programme start="20260906103000 -0400" stop="20260906123000 -0400" channel="TVA.ca">
-    <title>Cinéma "La fête du Travail" (Drame de moeurs, 2013)</title>
+    <title>Cinéma "La fête du Travail" (Drame de moeurs, 2013) Kate Winslet, Josh Brolin, Gattlin Griffith</title>
+  </programme>
+  <programme start="20260906123000 -0400" stop="20260906130000 -0400" channel="TVA.ca">
+    <title>Les aventures de Tom</title>
+  </programme>
+  <programme start="20260906130000 -0400" stop="20260906133000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
 </tv>
