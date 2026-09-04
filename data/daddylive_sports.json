@@ -1,46 +1,79 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-04T22:25:07.869792Z",
+  "scraped_at": "2026-09-04T22:55:03.375590Z",
   "sports_events": {
-    "soccer": [
+    "other_events": [
       {
-        "title": "Club Atlético Platense vs Deportivo Riestra",
+        "title": "Criciúma vs Cuiabá",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/qFJJmEZOZ-aXBEOdEUgnLA/sigma/platense-deportivo-riestra/1/401841547/1788582348/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/M_c6FzGbtycQGsFv6GIglQ/prime/criciuma-cuiaba/1/401860312/1788584114/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401860312%2Fcriciuma-cuiaba%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401860312%2Fcriciuma-cuiaba%2Fprime%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.wfty.st/secure/XeaqCmdLSSUxx2Rzlz0KVQ/prime/criciuma-cuiaba/1/401860312/1788584122/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401860312%2Fcriciuma-cuiaba%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401860312%2Fcriciuma-cuiaba%2Fprime%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb2.wfty.st/secure/6AUA0CN1t2bFIWcvuUe0IQ/prime/criciuma-cuiaba/1/401860312/1788584133/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401860312%2Fcriciuma-cuiaba%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401860312%2Fcriciuma-cuiaba%2Fprime%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "cfb": [],
+    "soccer": [
+      {
+        "title": "Platense vs Riestra",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.wfty.st/secure/Ck-y_L2YmUpaOwMP8DGNdg/sigma/platense-deportivo-riestra/1/401841547/1788584143/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/w_p39WKih5A5ZVzZW2ydvQ/sigma/platense-deportivo-riestra/1/401841547/1788582376/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/wScCYTe1weSOAYPukRV-RA/sigma/platense-deportivo-riestra/1/401841547/1788584152/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841547%2Fplatense-deportivo-riestra%2Fsigma%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb5.wfty.st/secure/f8KivKU-WA68AuLIR3s-Vw/sigma/platense-deportivo-riestra/1/401841547/1788582391/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/axgt386ByOBmEB5HtxxfJw/sigma/platense-deportivo-riestra/1/401841547/1788584161/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841547%2Fplatense-deportivo-riestra%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Belgrano vs Huracan",
+        "title": "Belgrano vs Huracán",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/b4p9ZZQSV7j99S_zrVZYVw/sigma/belgrano-cordoba-huracan/1/401841543/1788582409/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/rH8lfaE0JqcbN9YUVQ-uvQ/sigma/belgrano-cordoba-huracan/1/401841543/1788584171/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/GPJizP71ljP5vuwp9mWbgw/sigma/belgrano-cordoba-huracan/1/401841543/1788582424/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/Pc4UatCzDLFo_vh3rgXKMA/sigma/belgrano-cordoba-huracan/1/401841543/1788584180/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb5.wfty.st/secure/X00mA4PRX-BO-Hb3dtLB5g/sigma/belgrano-cordoba-huracan/1/401841543/1788584190/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
         ]
