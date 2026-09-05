@@ -1,51 +1,193 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-04T22:25:07.869792Z",
+  "scraped_at": "2026-09-04T23:55:04.134627Z",
   "sports_events": {
-    "soccer": [
+    "cfl": [],
+    "other_events": [
       {
-        "title": "Club Atlético Platense vs Deportivo Riestra",
+        "title": "Criciúma vs Cuiabá",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/qFJJmEZOZ-aXBEOdEUgnLA/sigma/platense-deportivo-riestra/1/401841547/1788582348/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/CD5uf1CLz1qh8NnBc0C6Zw/prime/criciuma-cuiaba/1/401860312/1788587764/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401860312%2Fcriciuma-cuiaba%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401860312%2Fcriciuma-cuiaba%2Fprime%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb5.wfty.st/secure/b8qOp0rRHw9iQM8Yhk8aJg/prime/criciuma-cuiaba/1/401860312/1788587773/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401860312%2Fcriciuma-cuiaba%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401860312%2Fcriciuma-cuiaba%2Fprime%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb1.wfty.st/secure/oHCLjbwZZUuaPJRiPoY8CQ/prime/criciuma-cuiaba/1/401860312/1788587783/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401860312%2Fcriciuma-cuiaba%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401860312%2Fcriciuma-cuiaba%2Fprime%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Athletic Club MG vs Vila Nova",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb1.wfty.st/secure/C_mwiyw5kJtsdWiCOAu9GQ/prime/athletic-vila-nova/1/401860320/1788587793/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401860320%2Fathletic-vila-nova%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401860320%2Fathletic-vila-nova%2Fprime%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb3.wfty.st/secure/PJgoPkYBOdcyOznUqjvlIw/prime/athletic-vila-nova/1/401860320/1788587803/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401860320%2Fathletic-vila-nova%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401860320%2Fathletic-vila-nova%2Fprime%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb5.wfty.st/secure/fyxkd2xmn17T4bWJQ4oHtQ/prime/athletic-vila-nova/1/401860320/1788587812/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401860320%2Fathletic-vila-nova%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401860320%2Fathletic-vila-nova%2Fprime%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "cfb": [
+      {
+        "title": "Georgia State vs North Carolina A&T",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb1.wfty.st/secure/d6fYkgE1GIUzNkIdKofRTg/pro/georgia-state-north-carolina-a-t/1/4705959/1788587716/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705959%2Fgeorgia-state-north-carolina-a-t%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4705959%2Fgeorgia-state-north-carolina-a-t%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb3.wfty.st/secure/4SjO2gSlH8x6vebENFFDnA/pro/georgia-state-north-carolina-a-t/1/4705959/1788587726/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705959%2Fgeorgia-state-north-carolina-a-t%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4705959%2Fgeorgia-state-north-carolina-a-t%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb4.wfty.st/secure/CqO4d6u6I19Jz_YPgLF3Jg/pro/georgia-state-north-carolina-a-t/1/4705959/1788587735/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705959%2Fgeorgia-state-north-carolina-a-t%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4705959%2Fgeorgia-state-north-carolina-a-t%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Purdue vs Indiana State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.wfty.st/secure/GUcvfOuUIGGrrPANZmWHHg/pro/purdue-indiana-state/1/4706024/1788587746/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706024%2Fpurdue-indiana-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706024%2Fpurdue-indiana-state%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb5.wfty.st/secure/rAGtXmKNOoI9JAN_iELaQg/pro/purdue-indiana-state/1/4706024/1788587756/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706024%2Fpurdue-indiana-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706024%2Fpurdue-indiana-state%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb1.wfty.st/secure/mHDHV8gZWjCPJEXkX4YaHQ/pro/purdue-indiana-state/1/4706024/1788587765/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706024%2Fpurdue-indiana-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706024%2Fpurdue-indiana-state%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Marist vs Franklin Pierce",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.wfty.st/secure/91maxceM6lBN9c6wwvV5TQ/delta/Marist%20vs%20Franklin%20Pierce/1/4705958/1788587843/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705958%2FMarist%20vs%20Franklin%20Pierce%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4705958%2FMarist%20vs%20Franklin%20Pierce%2Fdelta%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "soccer": [
+      {
+        "title": "Belgrano vs Huracán",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.wfty.st/secure/f-oOpxzLqXOkefp7NtGGYA/sigma/belgrano-cordoba-huracan/1/401841543/1788588130/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/1bOi-Agq-PhhPj580oVTxg/sigma/belgrano-cordoba-huracan/1/401841543/1788588139/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb1.wfty.st/secure/ecYeonE_UJXfa7lpNaaiyg/sigma/belgrano-cordoba-huracan/1/401841543/1788588148/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Platense vs Riestra",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.wfty.st/secure/9_NFGWGKwUjjYSjt49zlcw/sigma/platense-deportivo-riestra/1/401841547/1788588158/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/w_p39WKih5A5ZVzZW2ydvQ/sigma/platense-deportivo-riestra/1/401841547/1788582376/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/xGE6ABiPQC7xx7e1P4v0zQ/sigma/platense-deportivo-riestra/1/401841547/1788588167/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841547%2Fplatense-deportivo-riestra%2Fsigma%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb5.wfty.st/secure/f8KivKU-WA68AuLIR3s-Vw/sigma/platense-deportivo-riestra/1/401841547/1788582391/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/_ZsRKqGy3uaYfrrGzoqWMA/sigma/platense-deportivo-riestra/1/401841547/1788588177/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841547%2Fplatense-deportivo-riestra%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841547%2Fplatense-deportivo-riestra%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Belgrano vs Huracan",
+        "title": "Loudoun United FC vs Colorado Springs Switchbacks",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/b4p9ZZQSV7j99S_zrVZYVw/sigma/belgrano-cordoba-huracan/1/401841543/1788582409/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&source=tv3",
+            "playable_url": "https://lb6.wfty.st/secure/3RUa0KYhs5SGykeL9zYr2Q/sigma/loudoun-united-fc-colorado-springs-switchbacks-fc/1/401842173/1788588187/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401842173%2Floudoun-united-fc-colorado-springs-switchbacks-fc%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401842173%2Floudoun-united-fc-colorado-springs-switchbacks-fc%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/GPJizP71ljP5vuwp9mWbgw/sigma/belgrano-cordoba-huracan/1/401841543/1788582424/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401841543%2Fbelgrano-cordoba-huracan%2Fsigma%2F2&source=tv3",
+            "playable_url": "https://lb3.wfty.st/secure/o-WCXiGOXOOhxwLgrTmEzA/sigma/loudoun-united-fc-colorado-springs-switchbacks-fc/1/401842173/1788588196/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401842173%2Floudoun-united-fc-colorado-springs-switchbacks-fc%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401842173%2Floudoun-united-fc-colorado-springs-switchbacks-fc%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb5.wfty.st/secure/j1L5SJIrKHsOKoNWa-NBvw/sigma/loudoun-united-fc-colorado-springs-switchbacks-fc/1/401842173/1788588206/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401842173%2Floudoun-united-fc-colorado-springs-switchbacks-fc%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401842173%2Floudoun-united-fc-colorado-springs-switchbacks-fc%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
         ]
       }
-    ],
-    "mlb": []
+    ]
   }
 }
