@@ -14,6 +14,17 @@ on:
     paths-ignore:
       - 'data/**'
   workflow_dispatch:
+  # Self-heal, since paths-ignore above means a scraper-only commit (every
+  # one of them, all day) never triggers a rebuild on its own. Confirmed
+  # live 2026-09-05: Pages sat on a stale build for hours (data/*.json kept
+  # updating underneath it every ~30min, Pages itself never rebuilt) simply
+  # because no addon-code push happened to land in that window — MutStreams/
+  # StreamsEast/SportsBite/the Sportsurge cf_clearance cookie all silently
+  # served old data to every user the whole time. Hourly is far below
+  # GitHub's Pages rate limits and guarantees data/** is never more than
+  # ~1h stale even during a long gap between real addon releases.
+  schedule:
+    - cron: '17 * * * *'
 
 permissions:
   contents: read
