@@ -1,45 +1,89 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-06T16:55:03.110941Z",
+  "scraped_at": "2026-09-06T17:25:03.258319Z",
   "sports_events": {
-    "mlb": [],
-    "other_events": [
+    "darts": [
       {
-        "title": "Cook Out Southern 500",
+        "title": "Czech Darts Open | Day 3 - Evening Session",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb13.strmd.st/secure/TaIrHJPjrVkjUlnnZePeVqwIgmzrqfvH/delta/stream/live-event_nascar-cup-series-2026-cook-out-southern-500-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_nascar-cup-series-2026-cook-out-southern-500-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_nascar-cup-series-2026-cook-out-southern-500-live-stream%2F1&source=tv2",
+            "playable_url": "https://lb6.strmd.st/secure/zcPSjskDpjMQLoZSuLNwvAJfFRYHHwSO/rtmp/stream/_tQgAUPEB9IsNAyzJoepyhKVGBXHPj7rfRylYKuqOrsifk-UgYfEsS5G3CFnEgkICVy9CIi0PQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-czech-darts-open-day-3-evening-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-czech-darts-open-day-3-evening-session%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.strmd.st/secure/UKUnQuSIvtXwVUapcvJvNbqHnvQFcHDR/rtmp/stream/_tQgAUPEB9IsNAyzJoepyhKVGBXHPj7rfRylYKuqOrsifk-UgYfEsS5G3CFnEgkICVy9CIi0PQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-czech-darts-open-day-3-evening-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-czech-darts-open-day-3-evening-session%2F2&source=tv2",
             "resolved": true
           }
         ]
-      },
+      }
+    ],
+    "other_events": [
       {
         "title": "Grand Prix of Monterey Race 2 - INDY NXT",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/gNfRDSfKVLv95HWx3GCCDQ/deluxe/pirelli-italian-grand-prix/1/401839102/1788735546/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839102%2Fpirelli-italian-grand-prix%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/UzsD8jsxQz7KN5Kae4hqYA/deluxe/pirelli-italian-grand-prix/1/401839102/1788737335/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839102%2Fpirelli-italian-grand-prix%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401839102%2Fpirelli-italian-grand-prix%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb3.wfty.st/secure/O1c_rVSdOdGSo78arH6X6w/deluxe/pirelli-italian-grand-prix/1/401839102/1788735554/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839102%2Fpirelli-italian-grand-prix%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/BTkaZBeb_79CqTMexLFlcA/deluxe/pirelli-italian-grand-prix/1/401839102/1788737344/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839102%2Fpirelli-italian-grand-prix%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401839102%2Fpirelli-italian-grand-prix%2Fdeluxe%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb5.wfty.st/secure/NS-VNxwLmYDRWjrlhQ8fwA/deluxe/pirelli-italian-grand-prix/1/401839102/1788735566/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839102%2Fpirelli-italian-grand-prix%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/kXha4S7J3rK1PRssyeVSmg/deluxe/pirelli-italian-grand-prix/1/401839102/1788737357/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839102%2Fpirelli-italian-grand-prix%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401839102%2Fpirelli-italian-grand-prix%2Fdeluxe%2F3&source=tv3",
             "resolved": true
           }
         ]
+      },
+      {
+        "title": "Trabzonspor vs Gençlerbirliği",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.wfty.st/secure/iaEjCaENhS9TvKq-A9Z1Mg/sigma/trabzonspor-genclerbirligi/1/401888305/1788737367/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401888305%2Ftrabzonspor-genclerbirligi%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401888305%2Ftrabzonspor-genclerbirligi%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb3.wfty.st/secure/D4iCGb2hEKV1i8b7P_AcKw/sigma/trabzonspor-genclerbirligi/1/401888305/1788737380/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401888305%2Ftrabzonspor-genclerbirligi%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401888305%2Ftrabzonspor-genclerbirligi%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Kocaelispor vs Samsunspor",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.wfty.st/secure/N7aUOHa_85LkMFspARuZ2g/sigma/kocaelispor-samsunspor/1/401888300/1788737389/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401888300%2Fkocaelispor-samsunspor%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401888300%2Fkocaelispor-samsunspor%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb3.wfty.st/secure/VdZKI28pgehIknxVZFnVzA/sigma/kocaelispor-samsunspor/1/401888300/1788737400/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401888300%2Fkocaelispor-samsunspor%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401888300%2Fkocaelispor-samsunspor%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
       }
-    ]
+    ],
+    "mlb": []
   }
 }
