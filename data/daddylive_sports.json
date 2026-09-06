@@ -1,75 +1,42 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-06T06:25:03.050969Z",
+  "scraped_at": "2026-09-06T06:55:03.125298Z",
   "sports_events": {
-    "mlb": [],
-    "wwe": [
-      {
-        "title": "AEW Saturday Night Collision",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb3.strmd.st/secure/IjZqsIMyflaMXYTZXXDfdysBOZoKsHQj/rtmp/stream/3WoAsaWkmBV6Z6VWCCGJ6eocuI4QJpPCE3ABBYZkS5qsQ1YV-GpaKpRNM561IYncCCPRO0I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-aew-saturday-night-collision%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "cfb": [
-      {
-        "title": "California vs UCLA",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/cvUtudZ4AcrUMNwxgBdTpA/pro/california-ucla/1/4706048/1788697527/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706048%2Fcalifornia-ucla%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706048%2Fcalifornia-ucla%2Fpro%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/i2IoXLz-z4pAdAnqnaSdHA/pro/california-ucla/1/4706048/1788697547/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706048%2Fcalifornia-ucla%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706048%2Fcalifornia-ucla%2Fpro%2F3&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 4",
-            "playable_url": "https://lb1.wfty.st/secure/Ri_-mYwjLGLToyAhspAoPA/pro/california-ucla/1/4706048/1788697559/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706048%2Fcalifornia-ucla%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706048%2FCalifornia%20vs%20UCLA%2Fdelta%2F1&source=tv3",
-            "resolved": true
-          }
-        ]
-      }
-    ],
     "rugby": [
       {
         "title": "Penrith Panthers vs Wests Tigers",
         "is_live": true,
         "links": [
           {
-            "label": "Link - 2",
-            "playable_url": "https://lb3.strmd.st/secure/kolHVKeTxBsYecKuhpDJePBMmlqiwfaN/rtmp/stream/uvR6T3uVcY5MRugOSd2qDT4nk3XxvmXY6TMnagTosv9zn2KBReO5msXu_Py_QTbyJxJxsO7NLVRTeXw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-panthers-vs-wests-tigers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-panthers-vs-wests-tigers%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "St. George Illawara Dragons vs Parramatta Eels",
-        "is_live": true,
-        "links": [
-          {
             "label": "Link - 1",
-            "playable_url": "https://lb6.strmd.st/secure/aaHpPYBIzRJsbPXvBghKPHuvIAJxYyTg/rtmp/stream/em7Si27N12rcCxal-sn28AzNUWIjgl79psPJbEx8YOZCEUCeIL6KCkULw8dYf-PatBL2V7Mr1hPmllg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dragons-vs-eels%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-dragons-vs-eels%2F1&source=tv2",
+            "playable_url": "https://lb8.strmd.st/secure/UGXmwDLbbwPtLAoUbhflURHYfArAvLkZ/rtmp/stream/P3Ejmiuck8JRD7i8bLyqjr6x4UsAvDEEIr5tCe62nh6GsARTrftMnxrN0tsvNyjRGu4yMM4_Ougx_lM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-panthers-vs-wests-tigers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-panthers-vs-wests-tigers%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb9.strmd.st/secure/YpNslZBfdYtguWVQuNVgqTyQltlKSorT/rtmp/stream/em7Si27N12rcCxal-sn28AzNUWIjgl79psPJbEx8YOZCEUCeIL6KCkULw8dYf-PatBL2V7Mr1hPmllg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dragons-vs-eels%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-dragons-vs-eels%2F2&source=tv2",
+            "playable_url": "https://lb4.strmd.st/secure/lQLmmMiGJFPrWPxuqvRpqaVeqxDOVNTZ/rtmp/stream/P3Ejmiuck8JRD7i8bLyqjr6x4UsAvDEEIr5tCe62nh6GsARTrftMnxrN0tsvNyjRGu4yMM4_Ougx_lM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-panthers-vs-wests-tigers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-panthers-vs-wests-tigers%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "wwe": [
+      {
+        "title": "AEW Saturday Night Collision",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb8.strmd.st/secure/wYpCNSVsBaUODQaJvrwBTUJuYHREOLjf/rtmp/stream/3WoAsaWkmBV6Z6VWCCGJ6eocuI4QJpPCE3ABBYZkS5qsQ1YV-GpaKpRNM561IYncCCPRO0I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-aew-saturday-night-collision%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb4.strmd.st/secure/rcFsnPPbLQpDYzfLXfbPKCKwgZIQFKAF/rtmp/stream/3WoAsaWkmBV6Z6VWCCGJ6eocuI4QJpPCE3ABBYZkS5qsQ1YV-GpaKpRNM561IYncCCPRO0I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-aew-saturday-night-collision%2F2&source=tv2",
             "resolved": true
           }
         ]
@@ -77,12 +44,24 @@
     ],
     "soccer": [
       {
+        "title": "California vs UCLA",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb4.strmd.st/secure/ECZaLitMCyzcKvPEagyebYzsZTLkTWLb/delta/stream/live_cfb_california-ucla-live-streaming-587682000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_california-ucla-live-streaming-587682000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_california-ucla-live-streaming-587682000%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
         "title": "Montana State vs Butler",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb13.strmd.st/secure/eOaZwNqHSYHkGkHoxfYEybfQhFIeDWXh/delta/stream/live_cfb_montana-state-bobcats-butler-bulldogs-live-streaming-621162000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_montana-state-bobcats-butler-bulldogs-live-streaming-621162000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb14.strmd.st/secure/QfleEvRxyoyPEMFXxLKTmiwdeCmofCvO/delta/stream/live_cfb_montana-state-bobcats-butler-bulldogs-live-streaming-621162000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_montana-state-bobcats-butler-bulldogs-live-streaming-621162000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_montana-state-bobcats-butler-bulldogs-live-streaming-621162000%2F1&source=tv2",
             "resolved": true
           }
@@ -94,20 +73,8 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.strmd.st/secure/xeTrhQhgGtHRYSbEqvMXSVUPqWPwFYMQ/delta/stream/live_cfb_northern-colorado-bears-south-dakota-live-streaming-621161136/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_northern-colorado-bears-south-dakota-live-streaming-621161136%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/mthNbnjhqDvGJapPwpxoJFismzrxfFlF/delta/stream/live_cfb_northern-colorado-bears-south-dakota-live-streaming-621161136/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_northern-colorado-bears-south-dakota-live-streaming-621161136%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_northern-colorado-bears-south-dakota-live-streaming-621161136%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Middle Tennessee vs Murray State",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb13.strmd.st/secure/hBTlWGWOcYUoJnwqmdrnuIqRlUjwwNVJ/delta/stream/live_cfb_middle-tennessee-st-murray-state-live-streaming-587690640/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_middle-tennessee-st-murray-state-live-streaming-587690640%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_middle-tennessee-st-murray-state-live-streaming-587690640%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -118,7 +85,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb9.strmd.st/secure/sVObLApGfxCqgUuYNbbtTYRICfnoJSja/delta/stream/live_cfb_jackson-state-edward-waters-tigers-live-streaming-621154224/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_jackson-state-edward-waters-tigers-live-streaming-621154224%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/vmTrRqNhsmDZvKsoqzdQopOeAJJBCdix/delta/stream/live_cfb_jackson-state-edward-waters-tigers-live-streaming-621154224/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_jackson-state-edward-waters-tigers-live-streaming-621154224%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_jackson-state-edward-waters-tigers-live-streaming-621154224%2F1&source=tv2",
             "resolved": true
           }
