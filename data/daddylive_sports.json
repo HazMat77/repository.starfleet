@@ -1,7 +1,27 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-06T03:55:03.074572Z",
+  "scraped_at": "2026-09-06T04:25:05.965975Z",
   "sports_events": {
+    "rugby": [
+      {
+        "title": "St. George Illawara Dragons vs Parramatta Eels",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb13.strmd.st/secure/pcssizNpGYhHNsiIoesPRyFiEOyvkctk/rtmp/stream/9MKKvY5Gnng_AXBuz5QSnKw2pyRxEBdgaJ84kHBbRcEEYviUjXMOBn2RcGeUMGubzjybpobs-McKiGA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dragons-vs-eels%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-dragons-vs-eels%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.strmd.st/secure/OxUZyacsrRfMlWWaEzWVgWtsoTDTNoZP/rtmp/stream/9MKKvY5Gnng_AXBuz5QSnKw2pyRxEBdgaJ84kHBbRcEEYviUjXMOBn2RcGeUMGubzjybpobs-McKiGA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dragons-vs-eels%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-dragons-vs-eels%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "wwe": [
       {
         "title": "AEW Saturday Night Collision",
@@ -9,40 +29,41 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.strmd.st/secure/xfrCdzbkogHHaNCdkgCILPyDIMlnKpGm/rtmp/stream/3WoAsaWkmBV6Z6VWCCGJ6eocuI4QJpPCE3ABBYZkS5qsQ1YV-GpaKpRNM561IYncCCPRO0I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/OUHEpnECkcqDBjUHYTbtMRvOQivhpogF/rtmp/stream/3WoAsaWkmBV6Z6VWCCGJ6eocuI4QJpPCE3ABBYZkS5qsQ1YV-GpaKpRNM561IYncCCPRO0I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-aew-saturday-night-collision%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.strmd.st/secure/HWXQlKvvzxTXOhRDLOGjbUZtGJMUhPEI/rtmp/stream/3WoAsaWkmBV6Z6VWCCGJ6eocuI4QJpPCE3ABBYZkS5qsQ1YV-GpaKpRNM561IYncCCPRO0I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/QJLCorkJKyAqOlDpwMJNkWOjYIrbjGdH/rtmp/stream/3WoAsaWkmBV6Z6VWCCGJ6eocuI4QJpPCE3ABBYZkS5qsQ1YV-GpaKpRNM561IYncCCPRO0I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-aew-saturday-night-collision%2F2&source=tv2",
             "resolved": true
           }
         ]
       }
     ],
+    "mlb": [],
     "cfb": [
       {
         "title": "Arizona State vs Morgan State",
         "is_live": true,
         "links": [
           {
-            "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/zbGIdSkVaaUc1GJ3LHO_5A/pro/arizona-state-morgan-state/1/4705962/1788688515/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705962%2Farizona-state-morgan-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4705962%2Farizona-state-morgan-state%2Fpro%2F1&source=tv3",
-            "resolved": true
-          },
-          {
             "label": "Link - 2",
-            "playable_url": "https://lb6.wfty.st/secure/gWH_4FOeSosLBF1KF8QzhA/pro/arizona-state-morgan-state/1/4705962/1788688524/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705962%2Farizona-state-morgan-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/mwVGKoE3u-dibwMS-ZP41Q/pro/arizona-state-morgan-state/1/4705962/1788690332/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705962%2Farizona-state-morgan-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4705962%2Farizona-state-morgan-state%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/wrqluLDh0Ul5SOP0StBSwQ/pro/arizona-state-morgan-state/1/4705962/1788688535/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705962%2Farizona-state-morgan-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/1WvyHNsleK_pk0NNQE-zug/pro/arizona-state-morgan-state/1/4705962/1788690342/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705962%2Farizona-state-morgan-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4705962%2Farizona-state-morgan-state%2Fpro%2F3&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb1.wfty.st/secure/Gn-FGLiaCM7j3ROVTOA3Kw/pro/arizona-state-morgan-state/1/4705962/1788690366/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705962%2Farizona-state-morgan-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4705962%2Farizona-state-morgan-state%2Fpro%2F4&source=tv3",
             "resolved": true
           }
         ]
@@ -53,20 +74,20 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/PDKmwWkKFIzLlEl5Xc-jFw/pro/new-mexico-state-mercyhurst/1/4706051/1788688545/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706051%2Fnew-mexico-state-mercyhurst%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/MIWQOaThxQLvXy-Lin3wtg/pro/new-mexico-state-mercyhurst/1/4706051/1788690376/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706051%2Fnew-mexico-state-mercyhurst%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706051%2Fnew-mexico-state-mercyhurst%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/qsmT2QkcHlWl7RFuM6SJcQ/pro/new-mexico-state-mercyhurst/1/4706051/1788688554/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706051%2Fnew-mexico-state-mercyhurst%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/Toypshbzsv4ezS7Y5_LmWg/pro/new-mexico-state-mercyhurst/1/4706051/1788690386/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706051%2Fnew-mexico-state-mercyhurst%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706051%2Fnew-mexico-state-mercyhurst%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
-            "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/EQ9LaO9S8Be8CKWoPIsHYA/pro/new-mexico-state-mercyhurst/1/4706051/1788688563/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706051%2Fnew-mexico-state-mercyhurst%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706051%2Fnew-mexico-state-mercyhurst%2Fpro%2F3&source=tv3",
+            "label": "Link - 4",
+            "playable_url": "https://lb2.wfty.st/secure/uPVbpCgeWJTdUHLzD5cMEQ/pro/new-mexico-state-mercyhurst/1/4706051/1788690414/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706051%2Fnew-mexico-state-mercyhurst%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706051%2FNew%20Mexico%20State%20vs%20Mercyhurst%2Fdelta%2F1&source=tv3",
             "resolved": true
           }
         ]
@@ -77,19 +98,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/O0G1jjDXcQ-LtfQes6u70w/pro/arizona-northern-arizona/1/4706014/1788688573/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706014%2Farizona-northern-arizona%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/uoHiupTku_93luhsUXFG3g/pro/arizona-northern-arizona/1/4706014/1788690423/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706014%2Farizona-northern-arizona%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706014%2Farizona-northern-arizona%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/o5RgvP2ckTuVZPJ1LVhqEA/pro/arizona-northern-arizona/1/4706014/1788688583/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706014%2Farizona-northern-arizona%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/Tob-uUBNaHk6iaTaNYIsYA/pro/arizona-northern-arizona/1/4706014/1788690432/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706014%2Farizona-northern-arizona%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706014%2Farizona-northern-arizona%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb2.wfty.st/secure/-Gbn8a-Yt56CBcR5Wp2Nfw/pro/arizona-northern-arizona/1/4706014/1788688592/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706014%2Farizona-northern-arizona%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/kkygflK4JWJ-_DUKSRj5HQ/pro/arizona-northern-arizona/1/4706014/1788690441/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706014%2Farizona-northern-arizona%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706014%2Farizona-northern-arizona%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -101,19 +122,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/euhu04qYg92GAhkpyDCZ6Q/pro/san-diego-state-portland-state/1/4706050/1788688602/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706050%2Fsan-diego-state-portland-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/5Q8ZJ4a5P5FuxDyFJIALFA/pro/san-diego-state-portland-state/1/4706050/1788690466/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706050%2Fsan-diego-state-portland-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706050%2Fsan-diego-state-portland-state%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb1.wfty.st/secure/jnOPaAPotf0WOtAHHRlE2g/pro/san-diego-state-portland-state/1/4706050/1788688612/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706050%2Fsan-diego-state-portland-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/YfA-_g5SjSN5GIrmkGdVOQ/pro/san-diego-state-portland-state/1/4706050/1788690474/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706050%2Fsan-diego-state-portland-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706050%2Fsan-diego-state-portland-state%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb3.wfty.st/secure/sTpDl8IxyBgDWNyXeY0xxg/pro/san-diego-state-portland-state/1/4706050/1788688621/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706050%2Fsan-diego-state-portland-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/l956o-DxSGgrbMyBjFzgCw/pro/san-diego-state-portland-state/1/4706050/1788690483/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706050%2Fsan-diego-state-portland-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706050%2Fsan-diego-state-portland-state%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -125,19 +146,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/PpbzFmXM8Lf_TN6qzzgsFw/pro/sacramento-state-mississippi-valley-state/1/4706006/1788688630/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706006%2Fsacramento-state-mississippi-valley-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/FWOrQwItL5nZdVXnriM0JA/pro/sacramento-state-mississippi-valley-state/1/4706006/1788690492/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706006%2Fsacramento-state-mississippi-valley-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706006%2Fsacramento-state-mississippi-valley-state%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/MxO8jyw_GiAgP8MzPsnMGw/pro/sacramento-state-mississippi-valley-state/1/4706006/1788688640/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706006%2Fsacramento-state-mississippi-valley-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/BoK_HW-01XySWZHjRprzjA/pro/sacramento-state-mississippi-valley-state/1/4706006/1788690502/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706006%2Fsacramento-state-mississippi-valley-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706006%2Fsacramento-state-mississippi-valley-state%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb2.wfty.st/secure/Y_gG0Sb5uDNc42wXMc667Q/pro/sacramento-state-mississippi-valley-state/1/4706006/1788688649/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706006%2Fsacramento-state-mississippi-valley-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/QLRqGvizmMpg0rfMPE7fmA/pro/sacramento-state-mississippi-valley-state/1/4706006/1788690511/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706006%2Fsacramento-state-mississippi-valley-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706006%2Fsacramento-state-mississippi-valley-state%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -149,44 +170,20 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/0AnS1IdvM96dlA5zMG5aww/pro/hawaii-unlv/1/4706047/1788688658/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706047%2Fhawaii-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/41pBf_aZ9m5ziqPuM6ZNWw/pro/hawaii-unlv/1/4706047/1788690523/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706047%2Fhawaii-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706047%2Fhawaii-unlv%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb1.wfty.st/secure/rPhHmVhjHeRb6naVmrqcLA/pro/hawaii-unlv/1/4706047/1788688667/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706047%2Fhawaii-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/XbxLVrJfGEg7YfGRgA1xuQ/pro/hawaii-unlv/1/4706047/1788690532/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706047%2Fhawaii-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706047%2Fhawaii-unlv%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb3.wfty.st/secure/jkZzhiDlcaf1X6HywqeQAA/pro/hawaii-unlv/1/4706047/1788688676/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706047%2Fhawaii-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/5OQONBKL7vEOFBpY3ggOnQ/pro/hawaii-unlv/1/4706047/1788690542/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706047%2Fhawaii-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706047%2Fhawaii-unlv%2Fpro%2F3&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Nevada vs Western Kentucky",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/5DvUBDDicX_kpt6pehNcPA/pro/nevada-western-kentucky/1/4706041/1788688711/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706041%2Fnevada-western-kentucky%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706041%2Fnevada-western-kentucky%2Fpro%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/5Ms4mnzeaHNf8pJ6TmK34w/pro/nevada-western-kentucky/1/4706041/1788688719/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706041%2Fnevada-western-kentucky%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706041%2Fnevada-western-kentucky%2Fpro%2F3&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 4",
-            "playable_url": "https://lb1.wfty.st/secure/RNz27NNsdosiH6GzOn7rLA/pro/nevada-western-kentucky/1/4706041/1788688728/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706041%2Fnevada-western-kentucky%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706041%2FNevada%20vs%20Western%20Kentucky%2Fdelta%2F1&source=tv3",
             "resolved": true
           }
         ]
@@ -197,154 +194,56 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/uxzZUYq95jRkFy6hgTuh9w/pro/california-ucla/1/4706048/1788688737/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706048%2Fcalifornia-ucla%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/gsFui77_zzKTF5mnMMS3fw/pro/california-ucla/1/4706048/1788690550/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706048%2Fcalifornia-ucla%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706048%2Fcalifornia-ucla%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb3.wfty.st/secure/4tWNrRKCgOJQwMf6e0MvCg/pro/california-ucla/1/4706048/1788688746/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706048%2Fcalifornia-ucla%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/YYrl9Y158aLdq2srXwPY8A/pro/california-ucla/1/4706048/1788690559/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706048%2Fcalifornia-ucla%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706048%2Fcalifornia-ucla%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb3.wfty.st/secure/_Fm8moRfz1Ada5KJDSG4dA/pro/california-ucla/1/4706048/1788688755/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706048%2Fcalifornia-ucla%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/kNSNoeXo0xUY7-dTyBdRMQ/pro/california-ucla/1/4706048/1788690568/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706048%2Fcalifornia-ucla%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706048%2Fcalifornia-ucla%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
-      }
-    ],
-    "mlb": [
+      },
       {
-        "title": "Los Angeles Dodgers vs Washington Nationals",
+        "title": "Nevada vs Western Kentucky",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/J9W2SWUaTfoFJSqRrTGCZA/pro/los-angeles-dodgers-washington-nationals/1/401816826/1788688515/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F1&source=tv3",
+            "playable_url": "https://lb3.wfty.st/secure/gfcEmRLlXbACPGxJKRl_CQ/pro/nevada-western-kentucky/1/4706041/1788690577/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706041%2Fnevada-western-kentucky%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706041%2Fnevada-western-kentucky%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/tWcszGkPF0-b4yAVvnWx6g/pro/los-angeles-dodgers-washington-nationals/1/401816826/1788688524/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F2&source=tv3",
+            "playable_url": "https://lb5.wfty.st/secure/ciL8gi0YKfrGwrX-wRhbug/pro/nevada-western-kentucky/1/4706041/1788690585/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706041%2Fnevada-western-kentucky%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706041%2Fnevada-western-kentucky%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb1.wfty.st/secure/eM36nQf8cF6FfG1VFE90Dg/pro/los-angeles-dodgers-washington-nationals/1/401816826/1788688535/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F3&source=tv3",
+            "playable_url": "https://lb3.wfty.st/secure/t6LY6WarUNF0J5NHrkFkJQ/pro/nevada-western-kentucky/1/4706041/1788690609/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706041%2Fnevada-western-kentucky%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706041%2Fnevada-western-kentucky%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Colorado Rockies vs St. Louis Cardinals",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb2.strmd.st/secure/eAccmBYvjYGqycizLlZyAHytewOhovgY/admin/stream/ppv-st-louis-cardinals-vs-colorado-rockies/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-st-louis-cardinals-vs-colorado-rockies%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-st-louis-cardinals-vs-colorado-rockies%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb6.strmd.st/secure/EClrWiekjqnoabaytZVErILGBeCwERig/admin/stream/ppv-st-louis-cardinals-vs-colorado-rockies/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-st-louis-cardinals-vs-colorado-rockies%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-st-louis-cardinals-vs-colorado-rockies%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Cincinnati Reds vs Milwaukee Brewers",
+        "title": "New Mexico vs Central Michigan",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.strmd.st/secure/wSGRJYhTutnOHqdfBoAKbDNnqUQUHidH/delta/stream/live_mlb_reds-brewers-live-streaming-594143424/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mlb_reds-brewers-live-streaming-594143424%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_mlb_reds-brewers-live-streaming-594143424%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb14.strmd.st/secure/fKtWiOmjeiUXXOsQiPakCyeHCPYZWJqe/delta/stream/live_mlb_reds-brewers-live-streaming-594143424/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mlb_reds-brewers-live-streaming-594143424%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_mlb_reds-brewers-live-streaming-594143424%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Kansas City Royals vs Toronto Blue Jays",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/xcTQxemHDPKpsLlSrtqjTgVABjpMhXJe/golf/stream/973/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F973%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F973%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Chicago White Sox vs Minnesota Twins",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb9.strmd.st/secure/lrECuOxALrbgKgFwJuuvWNaMMMzQezAH/golf/stream/974/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F974%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F974%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Texas Rangers vs Tampa Bay Rays",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/ehKQlSaEIUEpFoSsXPUtDCmDsULCQwzE/golf/stream/971/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F971%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F971%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Baltimore Orioles vs Boston Red Sox",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb7.strmd.st/secure/pXDtZRYLjuBTQJnmglDIegZCjBldhSNy/golf/stream/972/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F972%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F972%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Los Angeles Dodgers vs Washington Nationals",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/3lhClGlQL1fmbgwJu6MiDw/pro/los-angeles-dodgers-washington-nationals/1/401816826/1788688838/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/G93kXIhoAK4eMl6xUTV3Bw/pro/los-angeles-dodgers-washington-nationals/1/401816826/1788688845/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb3.wfty.st/secure/bnKjfDGPy_9g7kNVrKh-tA/pro/los-angeles-dodgers-washington-nationals/1/401816826/1788688854/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401816826%2Flos-angeles-dodgers-washington-nationals%2Fpro%2F3&source=tv3",
+            "playable_url": "https://lb3.wfty.st/secure/OSLiK0e91dlK5_J1HEn-Bw/delta/New%20Mexico%20vs%20Central%20Michigan/1/4705997/1788690639/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4705997%2FNew%20Mexico%20vs%20Central%20Michigan%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4705997%2FNew%20Mexico%20vs%20Central%20Michigan%2Fdelta%2F1&source=tv3",
             "resolved": true
           }
         ]
@@ -352,48 +251,24 @@
     ],
     "soccer": [
       {
-        "title": "LSU vs Clemson",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb4.strmd.st/secure/tJcYfLfVflhJuAdSdyUmDRUgYgvVlsMf/rtmp/stream/6bVi9rP8wc-s5A5ufQMFC0y_uMGLzOQFA-3ZTCiuCptHC8HBefW1-ayGr9KhiKhTDcAy8s4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-clemson-tigers-at-lsu-tigers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-clemson-tigers-at-lsu-tigers%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb5.strmd.st/secure/IrIeZdZDiGZmyArFMpNmpaPbhlcYLXJw/rtmp/stream/6bVi9rP8wc-s5A5ufQMFC0y_uMGLzOQFA-3ZTCiuCptHC8HBefW1-ayGr9KhiKhTDcAy8s4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-clemson-tigers-at-lsu-tigers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-clemson-tigers-at-lsu-tigers%2F2&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 4",
-            "playable_url": "https://lb15.strmd.st/secure/oBcEgOYaHgyFpkgBvoYHzegIOVVXwKwJ/rtmp/stream/UsblPYrICEdy4I6ld4XRWLWRRxuUx-wRmy2IoYlfrEG4PU23NrnG_Lh9-IQqWWc9sBMhHAM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-clemson-tigers-at-lsu-tigers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_lsu-tigers-clemson-live-streaming-587679408%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
         "title": "Portland Timbers vs Minnesota United",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.strmd.st/secure/BMLaiuCUENDbfytzIxexdXtENstXoTHB/rtmp/stream/Xq_u_8zKjE8DA_FfADy7f492KJWW3hfzQCdc44hvs05m4dv1mqLSRrvmb4cUtKEKn-B_WPI57663/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-timbers-vs-minnesota-united-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/VOOOjhSaNUZZaNbURKyKnLkiQxSQgRqJ/rtmp/stream/7rrmfX65hI7svKWK87ECUEsvsHPePg4VktHzadqnkrAc98o5PTIu762HddMralAGCNKRuTTNiwZK/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-timbers-vs-minnesota-united-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-timbers-vs-minnesota-united-fc%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.strmd.st/secure/qOhNUfCJneDjKcQPAflskfDJXoivRgIU/rtmp/stream/Xq_u_8zKjE8DA_FfADy7f492KJWW3hfzQCdc44hvs05m4dv1mqLSRrvmb4cUtKEKn-B_WPI57663/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-timbers-vs-minnesota-united-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/BuakXZzypuAjbCrjRiWlAxdPLRNhpGzW/rtmp/stream/7rrmfX65hI7svKWK87ECUEsvsHPePg4VktHzadqnkrAc98o5PTIu762HddMralAGCNKRuTTNiwZK/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-timbers-vs-minnesota-united-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-timbers-vs-minnesota-united-fc%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb14.strmd.st/secure/LhscePyONDrxuvEWHrCcscdrNRbwIeVG/rtmp/stream/Xq_u_8zKjE8DA_FfADy7f492KJWW3hfzQCdc44hvs05m4dv1mqLSRrvmb4cUtKEKn-B_WPI57663/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-timbers-vs-minnesota-united-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb9.strmd.st/secure/tjZNYoGDpPaHugBRddjCLkpwxUrUOHTw/rtmp/stream/7rrmfX65hI7svKWK87ECUEsvsHPePg4VktHzadqnkrAc98o5PTIu762HddMralAGCNKRuTTNiwZK/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-timbers-vs-minnesota-united-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_mls_portland-minnesota-live-streaming-539041392%2F1&source=tv2",
             "resolved": true
           }
@@ -405,20 +280,32 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.strmd.st/secure/WSdAtkfHBioUbsxRYROgeqArULIhYsfn/rtmp/stream/3O6IDshD2cbXC9cx5N08yBg4HG2vX-xDvzc-e1BSxAKeFlHkcvtzXoH9wjmQWTxJxey1ehiNQ7xK/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-real-salt-lake-vs-lafc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/dvdvmiLENYtQfsBZQoMiDyPaFBehBZHy/rtmp/stream/slCesdZylRlV7FwOUgQZ-Dv1MY3q6SBaxLCHkRI_sdRM44PiqECfni-0pK5cCf1k0Ogksz4euMo5/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-real-salt-lake-vs-lafc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-real-salt-lake-vs-lafc%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb10.strmd.st/secure/aBUetRnLfgyQYWcqmuAYBTZvvnCzWHqC/rtmp/stream/3O6IDshD2cbXC9cx5N08yBg4HG2vX-xDvzc-e1BSxAKeFlHkcvtzXoH9wjmQWTxJxey1ehiNQ7xK/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-real-salt-lake-vs-lafc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/tqJEuieQLviDiPTYHxRMkQmUkaatJqwu/rtmp/stream/slCesdZylRlV7FwOUgQZ-Dv1MY3q6SBaxLCHkRI_sdRM44PiqECfni-0pK5cCf1k0Ogksz4euMo5/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-real-salt-lake-vs-lafc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-real-salt-lake-vs-lafc%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "LA Galaxy vs New England Revolution",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb13.strmd.st/secure/VIIVdveOnCwVlFhgcxGbRwLAnzKSFIXy/rtmp/stream/tkIa_8rpYJu3gEC4A6QmkKt2sDEp0_s-LNrp0S0J--AuC0zLyj16x3ny6Q9o9Ox2ZNAMYzwMKd0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-la-galaxy-vs-new-england-revolution%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-la-galaxy-vs-new-england-revolution%2F1&source=tv2",
             "resolved": true
           },
           {
-            "label": "Link - 3",
-            "playable_url": "https://lb11.strmd.st/secure/puFPIJwseDDicBaouasAxiQEMxRAynkO/delta/stream/live_mls_salt-lake-los-angeles-live-streaming-539040960/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_salt-lake-los-angeles-live-streaming-539040960%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_mls_salt-lake-los-angeles-live-streaming-539040960%2F1&source=tv2",
+            "label": "Link - 2",
+            "playable_url": "https://lb3.strmd.st/secure/WQNvvBjiJBkfjZrMppgaDghLBSnsVqTE/rtmp/stream/tkIa_8rpYJu3gEC4A6QmkKt2sDEp0_s-LNrp0S0J--AuC0zLyj16x3ny6Q9o9Ox2ZNAMYzwMKd0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-la-galaxy-vs-new-england-revolution%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-la-galaxy-vs-new-england-revolution%2F2&source=tv2",
             "resolved": true
           }
         ]
@@ -429,7 +316,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb12.strmd.st/secure/sphwuiPonzKDaqVBZntHCqrLLsieLBgW/delta/stream/live_cfb_california-ucla-live-streaming-587682000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_california-ucla-live-streaming-587682000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.strmd.st/secure/BthRdYJxZDpFvPuXOGKVWodwPaprOfvE/delta/stream/live_cfb_california-ucla-live-streaming-587682000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_california-ucla-live-streaming-587682000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_california-ucla-live-streaming-587682000%2F1&source=tv2",
             "resolved": true
           }
@@ -441,7 +328,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb8.strmd.st/secure/FVEFtBErgPgcxdQqvSmPTWVYxJXyigfS/delta/stream/live_cfb_nevada-western-kentucky-live-streaming-587682432/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_nevada-western-kentucky-live-streaming-587682432%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/EAJFDQMRzsymvcYdYijwkHfabPNlmpZL/delta/stream/live_cfb_nevada-western-kentucky-live-streaming-587682432/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_nevada-western-kentucky-live-streaming-587682432%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_nevada-western-kentucky-live-streaming-587682432%2F1&source=tv2",
             "resolved": true
           }
@@ -453,32 +340,8 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.strmd.st/secure/imlvORLBAYsZpgifBGapxdrUijUuNFMM/delta/stream/live_cfb_arizona-st-morgan-state-live-streaming-587697120/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_arizona-st-morgan-state-live-streaming-587697120%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb14.strmd.st/secure/HEDGlqNGfHPLspHrKqQeySSoxQCsEGSI/delta/stream/live_cfb_arizona-st-morgan-state-live-streaming-587697120/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_arizona-st-morgan-state-live-streaming-587697120%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_arizona-st-morgan-state-live-streaming-587697120%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Hawaii vs UNLV",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb4.strmd.st/secure/RAukOXKZyMzCwsZjgGQuIZEwdiFmaZQk/delta/stream/live_cfb_hawaii-unlv-live-streaming-587681136/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_hawaii-unlv-live-streaming-587681136%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_hawaii-unlv-live-streaming-587681136%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "New Mexico vs Central Michigan",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/RQIAKCaiOzGZyshiZnCFfCaxChWEHiZP/delta/stream/live_cfb_new-mexico-central-michigan-live-streaming-587681568/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_new-mexico-central-michigan-live-streaming-587681568%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_new-mexico-central-michigan-live-streaming-587681568%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -489,7 +352,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.strmd.st/secure/LNvcywyzkrpVsLwsEhWYOKBOcZvkLuxI/delta/stream/live_cfb_sacramento-state-mississippi-valley-state-delta-devils-live-streaming-587697552/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_sacramento-state-mississippi-valley-state-delta-devils-live-streaming-587697552%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/EuEdDhtMdZIMjZoMhqcMaVvlxbBJpOcR/delta/stream/live_cfb_sacramento-state-mississippi-valley-state-delta-devils-live-streaming-587697552/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_sacramento-state-mississippi-valley-state-delta-devils-live-streaming-587697552%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_sacramento-state-mississippi-valley-state-delta-devils-live-streaming-587697552%2F1&source=tv2",
             "resolved": true
           }
@@ -501,7 +364,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb12.strmd.st/secure/uJtuwWiWDRNoLnUksnIcCRAIRFWexzES/delta/stream/live_cfb_arizona-northern-arizona-live-streaming-587696256/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_arizona-northern-arizona-live-streaming-587696256%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.strmd.st/secure/TsusIItcneLYGpLrSvsdRzDDeOpqPtCy/delta/stream/live_cfb_arizona-northern-arizona-live-streaming-587696256/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_arizona-northern-arizona-live-streaming-587696256%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_arizona-northern-arizona-live-streaming-587696256%2F1&source=tv2",
             "resolved": true
           }
@@ -513,7 +376,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.strmd.st/secure/ZzKWLKscRSjwFNrutXACgJHkrGmXWzqd/delta/stream/live_cfb_san-diego-st-portland-state-live-streaming-587696688/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_san-diego-st-portland-state-live-streaming-587696688%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.strmd.st/secure/QgkNIVOfGcnhsNDiHfQBPkehKxkGpMYK/delta/stream/live_cfb_san-diego-st-portland-state-live-streaming-587696688/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_san-diego-st-portland-state-live-streaming-587696688%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_san-diego-st-portland-state-live-streaming-587696688%2F1&source=tv2",
             "resolved": true
           }
@@ -525,7 +388,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/FnGMnlhaTEMkXGuAFCLMKwdGLxJVCdcP/delta/stream/live_cfb_new-mexico-st-mercyhurst-lakers-live-streaming-587695824/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_new-mexico-st-mercyhurst-lakers-live-streaming-587695824%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/oHNyNASpVvwOWcVZuiGZHipqZyRUsyMO/delta/stream/live_cfb_new-mexico-st-mercyhurst-lakers-live-streaming-587695824/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_new-mexico-st-mercyhurst-lakers-live-streaming-587695824%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_new-mexico-st-mercyhurst-lakers-live-streaming-587695824%2F1&source=tv2",
             "resolved": true
           }
@@ -537,20 +400,8 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.strmd.st/secure/msDMzNSrVaJUGMTVYiXGnSxWoFTKrvnx/delta/stream/live_cfb_montana-state-bobcats-butler-bulldogs-live-streaming-621162000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_montana-state-bobcats-butler-bulldogs-live-streaming-621162000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/FTnPNQWDEWjMXNInPFlDXHYyfrGfSnhK/delta/stream/live_cfb_montana-state-bobcats-butler-bulldogs-live-streaming-621162000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_montana-state-bobcats-butler-bulldogs-live-streaming-621162000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_montana-state-bobcats-butler-bulldogs-live-streaming-621162000%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Western Illinois vs Illinois State",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb8.strmd.st/secure/yaybtKsxAgSvCxtzRdcqrNSbWJapcsMi/delta/stream/live_cfb_western-illinois-illinois-st-live-streaming-587699712/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_western-illinois-illinois-st-live-streaming-587699712%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_western-illinois-illinois-st-live-streaming-587699712%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -561,7 +412,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb10.strmd.st/secure/qDfagFTilkcmhJCgQYABVfQKEmaZxSTi/delta/stream/live_cfb_northern-colorado-bears-south-dakota-live-streaming-621161136/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_northern-colorado-bears-south-dakota-live-streaming-621161136%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.strmd.st/secure/uPYlNervMIXkROofOLCHMjVwDJlZCiGc/delta/stream/live_cfb_northern-colorado-bears-south-dakota-live-streaming-621161136/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_northern-colorado-bears-south-dakota-live-streaming-621161136%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_northern-colorado-bears-south-dakota-live-streaming-621161136%2F1&source=tv2",
             "resolved": true
           }
@@ -573,7 +424,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/AMGSAoSICDurunYJLGpzXAIWjSDvWJHz/delta/stream/live_cfb_middle-tennessee-st-murray-state-live-streaming-587690640/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_middle-tennessee-st-murray-state-live-streaming-587690640%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.strmd.st/secure/DAMxHoetIDtICFdTpNPQoGTTvcnLQaOK/delta/stream/live_cfb_middle-tennessee-st-murray-state-live-streaming-587690640/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_middle-tennessee-st-murray-state-live-streaming-587690640%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_middle-tennessee-st-murray-state-live-streaming-587690640%2F1&source=tv2",
             "resolved": true
           }
@@ -585,7 +436,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.strmd.st/secure/NVKUiGVNkvIhbajkGCMcYHgGgTvofXpK/delta/stream/live_cfb_jackson-state-edward-waters-tigers-live-streaming-621154224/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_jackson-state-edward-waters-tigers-live-streaming-621154224%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.strmd.st/secure/zICvebWMuoMbCHBAnlvekKmzCxRNwKzh/delta/stream/live_cfb_jackson-state-edward-waters-tigers-live-streaming-621154224/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_jackson-state-edward-waters-tigers-live-streaming-621154224%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_jackson-state-edward-waters-tigers-live-streaming-621154224%2F1&source=tv2",
             "resolved": true
           }
@@ -597,19 +448,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/jnizvInO1oPSpPkO9CnzCQ/deluxe/atlas-atlante/1/401876985/1788689355/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401876985%2Fatlas-atlante%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/ZEIXOqFjba2-Sae17g_xyA/deluxe/atlas-atlante/1/401876985/1788691037/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401876985%2Fatlas-atlante%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401876985%2Fatlas-atlante%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/OJmNG_wHUZojEqsJOcTrnQ/deluxe/atlas-atlante/1/401876985/1788689363/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401876985%2Fatlas-atlante%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/pazGb_D7KmL9T2wgJP4Q-g/deluxe/atlas-atlante/1/401876985/1788691044/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401876985%2Fatlas-atlante%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401876985%2Fatlas-atlante%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/deBiJdg_vW0Hvyxw-pLPbA/deluxe/atlas-atlante/1/401876985/1788689372/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401876985%2Fatlas-atlante%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/uP4SHpE9r4rCHMPoCFV5Tg/deluxe/atlas-atlante/1/401876985/1788691053/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401876985%2Fatlas-atlante%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401876985%2Fatlas-atlante%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
@@ -621,19 +472,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/ysk_cqz6YP_RqZizkApI6Q/sigma/las-vegas-lights-new-mexico/1/4634100/1788689419/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634100%2Flas-vegas-lights-new-mexico%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/ggucLcijHQOKdjFVh7xKJA/sigma/las-vegas-lights-new-mexico/1/4634100/1788691061/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634100%2Flas-vegas-lights-new-mexico%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4634100%2Flas-vegas-lights-new-mexico%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb1.wfty.st/secure/qlTSaaYB7AOYFJf1PytQxA/sigma/las-vegas-lights-new-mexico/1/4634100/1788689429/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634100%2Flas-vegas-lights-new-mexico%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/XfC8FFIP0EMxpSgaSucnjg/sigma/las-vegas-lights-new-mexico/1/4634100/1788691085/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634100%2Flas-vegas-lights-new-mexico%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4634100%2Flas-vegas-lights-new-mexico%2Fsigma%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/Hktt-yBOHwRMiGWGVSoh_A/sigma/las-vegas-lights-new-mexico/1/4634100/1788689438/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634100%2Flas-vegas-lights-new-mexico%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/C3YwTxhIlJdOQrxzqEyk9A/sigma/las-vegas-lights-new-mexico/1/4634100/1788691094/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634100%2Flas-vegas-lights-new-mexico%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4634100%2Flas-vegas-lights-new-mexico%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
