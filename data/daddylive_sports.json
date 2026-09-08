@@ -1,6 +1,6 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-08T04:25:04.510761Z",
+  "scraped_at": "2026-09-08T04:55:03.572089Z",
   "sports_events": {
     "wwe": [],
     "soccer": [
@@ -10,13 +10,44 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb9.strmd.st/secure/EYzguHBDfifUmkAPnpXaOnHquJgFbCkz/delta/stream/live_cfb_florida-state-smu-live-streaming-587704464/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_florida-state-smu-live-streaming-587704464%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/zytaBGGIjkgFKKyfYphnPhAUpaRIXhVk/delta/stream/live_cfb_florida-state-smu-live-streaming-587704464/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_florida-state-smu-live-streaming-587704464%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_florida-state-smu-live-streaming-587704464%2F1&source=tv2",
             "resolved": true
           }
         ]
       }
     ],
-    "mlb": []
+    "mlb": [
+      {
+        "title": "Los Angeles Dodgers vs Cincinnati Reds",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb12.strmd.st/secure/PRryzfWIZQBYRmFqyRXgqkderyypwCsp/rtmp/stream/Nji5ADI55uXQ7nSfQQ1MNZYk9OECaiBHdwWADwIHujApRiIo9UMMJ-QxHnA0MhV7R2ZhwQuk4dN6XAf4gygUkzprTg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cincinnati-reds-vs-los-angeles-dodgers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-cincinnati-reds-vs-los-angeles-dodgers%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb14.strmd.st/secure/fJYhktpfqTZDnvRiVIGhXjIaVrsqYIZi/rtmp/stream/-ZyXurXzF3S9TFD43o5KujMF__2eRFGF1gSxXwSu2Eg8-0KQPn-vQmiSp5tia8M2AmmuNa00QlsetE95v3XywN-fHFPVDSw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cincinnati-reds-vs-los-angeles-dodgers%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-cincinnati-reds-vs-los-angeles-dodgers%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "San Francisco Giants vs St. Louis Cardinals",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.strmd.st/secure/TesFqnrpKDVdecldQWTqNjlCEtYSdTTM/golf/stream/1014/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1014%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1014%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ]
   }
 }
