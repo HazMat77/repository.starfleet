@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="starfleet">
   <channel id="TVA.ca"><display-name>TVA</display-name></channel>
-  <programme start="20260909150000 -0400" stop="20260909153000 -0400" channel="TVA.ca">
-    <title>Infopublicit</title>
-  </programme>
-  <programme start="20260909153000 -0400" stop="20260909163000 -0400" channel="TVA.ca">
-    <title>Les feux de l'amour</title>
-  </programme>
   <programme start="20260909163000 -0400" stop="20260909170000 -0400" channel="TVA.ca">
     <title>Top modèles (N)</title>
   </programme>
@@ -28,11 +22,11 @@
   <programme start="20260909200000 -0400" stop="20260909210000 -0400" channel="TVA.ca">
     <title>Indomptables (N)</title>
   </programme>
-  <programme start="20260909210000 -0400" stop="20260909213000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
   <programme start="20260909210000 -0400" stop="20260909220000 -0400" channel="TVA.ca">
     <title>Dre Amy (N) "D'une vie à l'autre" (P)</title>
+  </programme>
+  <programme start="20260909220000 -0400" stop="20260909223000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20260909220000 -0400" stop="20260909223000 -0400" channel="TVA.ca">
     <title>TVA nouvelles (N)</title>
@@ -52,6 +46,9 @@
   <programme start="20260910033000 -0400" stop="20260910040000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
   </programme>
+  <programme start="20260910040000 -0400" stop="20260910043000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
+  </programme>
   <programme start="20260910040000 -0400" stop="20260910050000 -0400" channel="TVA.ca">
     <title>TVA nouvelles (N)</title>
   </programme>
@@ -64,7 +61,7 @@
   <programme start="20260910060000 -0400" stop="20260910063000 -0400" channel="TVA.ca">
     <title>Le Québec matin (N)</title>
   </programme>
-  <programme start="20260910063000 -0400" stop="20260910093000 -0400" channel="TVA.ca">
+  <programme start="20260910063000 -0400" stop="20260910103000 -0400" channel="TVA.ca">
     <title>Salut bonjour (N)</title>
   </programme>
   <programme start="20260910103000 -0400" stop="20260910110000 -0400" channel="TVA.ca">
@@ -84,9 +81,6 @@
   </programme>
   <programme start="20260910143000 -0400" stop="20260910150000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
-  </programme>
-  <programme start="20260910150000 -0400" stop="20260910153000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20260910150000 -0400" stop="20260910153000 -0400" channel="TVA.ca">
     <title>Histoire de succès (N)</title>
@@ -115,11 +109,11 @@
   <programme start="20260910200000 -0400" stop="20260910210000 -0400" channel="TVA.ca">
     <title>Médecin malgré tout (N) (P)</title>
   </programme>
-  <programme start="20260910210000 -0400" stop="20260910213000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
   <programme start="20260910210000 -0400" stop="20260910220000 -0400" channel="TVA.ca">
     <title>Daniel Lemire: nouveau spectacle 40 ans de carrière (N)</title>
+  </programme>
+  <programme start="20260910220000 -0400" stop="20260910223000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20260910220000 -0400" stop="20260910223000 -0400" channel="TVA.ca">
     <title>TVA nouvelles (N)</title>
@@ -133,11 +127,11 @@
   <programme start="20260911013000 -0400" stop="20260911030000 -0400" channel="TVA.ca">
     <title>Cinéma "Unfriended: Dark Web" (Drame d'horreur, 2018)</title>
   </programme>
-  <programme start="20260911030000 -0400" stop="20260911033000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
   <programme start="20260911030000 -0400" stop="20260911040000 -0400" channel="TVA.ca">
     <title>Les armes "Expiation"</title>
+  </programme>
+  <programme start="20260911040000 -0400" stop="20260911043000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20260911040000 -0400" stop="20260911050000 -0400" channel="TVA.ca">
     <title>TVA nouvelles (N)</title>
@@ -151,7 +145,7 @@
   <programme start="20260911060000 -0400" stop="20260911063000 -0400" channel="TVA.ca">
     <title>Le Québec matin (N)</title>
   </programme>
-  <programme start="20260911063000 -0400" stop="20260911093000 -0400" channel="TVA.ca">
+  <programme start="20260911063000 -0400" stop="20260911103000 -0400" channel="TVA.ca">
     <title>Salut bonjour (N)</title>
   </programme>
   <programme start="20260911103000 -0400" stop="20260911110000 -0400" channel="TVA.ca">
@@ -173,6 +167,9 @@
     <title>Les aventures de Tom</title>
   </programme>
   <programme start="20260911150000 -0400" stop="20260911153000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
+    <title>Histoire de succès (N)</title>
+  </programme>
+  <programme start="20260911153000 -0400" stop="20260911163000 -0400" channel="TVA.ca">
+    <title>Les feux de l'amour</title>
   </programme>
 </tv>
