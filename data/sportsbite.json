@@ -1,5 +1,69 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-09-10T06:55:03.429213Z",
-  "categories": {}
+  "scraped_at": "2026-09-10T07:25:02.280973Z",
+  "categories": {
+    "soccer": [
+      {
+        "title": "Chicago Fire FC vs Inter Miami CF",
+        "is_live": true,
+        "start_ts": 1789000200,
+        "links": [
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/auvTvLvdWDKzudJud7QGHA/deluxe/chicago-fire-fc-inter-miami-cf/1/761792/1789046711/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
+    "mlb": [
+      {
+        "title": "Los Angeles Dodgers vs Cincinnati Reds",
+        "is_live": false,
+        "start_ts": 1789006200,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/_2rjNkRqpsdTBteUbtGSDg/platinum/los-angeles-dodgers-cincinnati-reds/1/401816878/1789046720/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/pBN5DwPRpjVt_gz2H7xXYw/platinum/los-angeles-dodgers-cincinnati-reds/2/401816878/1789046723/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
+    "nfl": [
+      {
+        "title": "Seattle Seahawks vs New England Patriots",
+        "is_live": false,
+        "start_ts": 1788999600,
+        "links": [
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/-YaxOXDF-lTqHXYr3bnFcQ/deluxe/seattle-seahawks-new-england-patriots/1/4714818/1789046737/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/w9ojuTGaMR6Y196RP2jpOg/deluxe/seattle-seahawks-new-england-patriots/2/4714818/1789046741/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/-zcQplls-uWsDF_7Num1Xw/platinum/seattle-seahawks-new-england-patriots/1/4714818/1789046754/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/mKNNEkMGFpc3RJL_pZB4Ig/platinum/seattle-seahawks-new-england-patriots/2/4714818/1789046760/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/prBs4GE4R3Kwk-rsVf8Pwg/platinum/seattle-seahawks-new-england-patriots/3/4714818/1789046773/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/tR1-PKCriHDS_B-PpfCeew/platinum/seattle-seahawks-new-england-patriots/4/4714818/1789046777/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ]
+  }
 }
