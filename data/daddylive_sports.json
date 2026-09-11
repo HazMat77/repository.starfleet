@@ -1,5 +1,26 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-11T08:55:02.886999Z",
-  "sports_events": {}
+  "scraped_at": "2026-09-11T09:25:03.010468Z",
+  "sports_events": {
+    "soccer": [
+      {
+        "title": "Garudayaksa FC vs Persik",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.wfty.st/secure/Ir5JKVe2jUBdVXiy0VYQHw/sigma/garudayaksa-persik-kediri/1/4806795/1789140311/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806795%2Fgarudayaksa-persik-kediri%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4806795%2Fgarudayaksa-persik-kediri%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb4.wfty.st/secure/09loJrjgdFjdR0TQ_btr1Q/sigma/garudayaksa-persik-kediri/1/4806795/1789140319/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806795%2Fgarudayaksa-persik-kediri%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4806795%2Fgarudayaksa-persik-kediri%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ]
+  }
 }
