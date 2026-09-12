@@ -1,27 +1,85 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-11T23:25:03.104010Z",
+  "scraped_at": "2026-09-11T23:55:02.910781Z",
   "sports_events": {
-    "other_events": [
+    "nhl": [
       {
-        "title": "Racing Louisville FC vs NJ/NY Gotham FC",
+        "title": "Bílí Tygři Liberec vs Herning Blue Fox",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/UyVv0cEK_CK0Q9EKcl0G9A/sigma/racing-louisville-fc-gotham-fc/1/401853996/1789190713/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401853996%2Fracing-louisville-fc-gotham-fc%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/eJqUSEiXSwsvKbYItLdFrBdNIgsdegcC/rtmp/stream/fSABP3xUsJ3s84M4BOxFF_M9pFtfr7n7LXZFvk5BVkBdlmPXsQ34symgMp6UDDcwZC8AwJxBXLyS/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-b-l-tyg-i-liberec-vs-herning-blue-fox%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-b-l-tyg-i-liberec-vs-herning-blue-fox%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb5.strmd.st/secure/BfBxwUmCqADVVakdlOuTRbqaGRKcvnGI/rtmp/stream/fSABP3xUsJ3s84M4BOxFF_M9pFtfr7n7LXZFvk5BVkBdlmPXsQ34symgMp6UDDcwZC8AwJxBXLyS/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-b-l-tyg-i-liberec-vs-herning-blue-fox%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-b-l-tyg-i-liberec-vs-herning-blue-fox%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "cfb": [
+      {
+        "title": "NC State vs Richmond",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.wfty.st/secure/ydAsHfxDPZKJtNkhU5dOZw/delta/North%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders/1/4706162/1789192561/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706162%2FNorth%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706162%2FNorth%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders%2Fdelta%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.wfty.st/secure/IqCpEioeBnmKm4d7dhSuVQ/delta/North%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders/1/4706162/1789192578/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706162%2FNorth%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706162%2Fnc-state-richmond%2Fplatinum%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Virginia vs Norfolk State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.wfty.st/secure/WwwAeNeP1NXV2eQGMk958g/delta/Virginia%20vs%20Norfolk%20State/1/4706094/1789192591/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706094%2FVirginia%20vs%20Norfolk%20State%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706094%2FVirginia%20vs%20Norfolk%20State%2Fdelta%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.wfty.st/secure/ENJdKAY9O_-DlUjri-4x3g/delta/Virginia%20vs%20Norfolk%20State/1/4706094/1789192605/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706094%2FVirginia%20vs%20Norfolk%20State%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706094%2Fvirginia-norfolk-state%2Fplatinum%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "other_events": [
+      {
+        "title": "Racing Louisville (W) vs Gotham FC (W)",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.wfty.st/secure/iPCZhjzvvLJ6wIA8HgmIyA/sigma/racing-louisville-fc-gotham-fc/1/401853996/1789192600/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401853996%2Fracing-louisville-fc-gotham-fc%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401853996%2Fracing-louisville-fc-gotham-fc%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/4QurFVi4kQvG5hpu1M2RMg/sigma/racing-louisville-fc-gotham-fc/1/401853996/1789190724/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401853996%2Fracing-louisville-fc-gotham-fc%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/kqG7CMQ7NWUu_-0q-WiQ5g/sigma/racing-louisville-fc-gotham-fc/1/401853996/1789192615/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401853996%2Fracing-louisville-fc-gotham-fc%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401853996%2Fracing-louisville-fc-gotham-fc%2Fsigma%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/VQP7QiEMUrZSeY-7bVawfw/sigma/racing-louisville-fc-gotham-fc/1/401853996/1789190739/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401853996%2Fracing-louisville-fc-gotham-fc%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/CYME0K1KCtgrD-HDZ8owCA/sigma/racing-louisville-fc-gotham-fc/1/401853996/1789192628/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401853996%2Fracing-louisville-fc-gotham-fc%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401853996%2Fracing-louisville-fc-gotham-fc%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
@@ -33,52 +91,14 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/agtGEr54t1fHaQu1GNX03A/sigma/sunshine-tour-sunbet-challenge-sun-sibaya-south-africa/1/23_Q9DZxOfT/1789190752/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_Q9DZxOfT%2Fsunshine-tour-sunbet-challenge-sun-sibaya-south-africa%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/sN7cZeCEaqFaxjN5yp2JoA/sigma/sunshine-tour-sunbet-challenge-sun-sibaya-south-africa/1/23_Q9DZxOfT/1789192640/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_Q9DZxOfT%2Fsunshine-tour-sunbet-challenge-sun-sibaya-south-africa%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=23_Q9DZxOfT%2Fsunshine-tour-sunbet-challenge-sun-sibaya-south-africa%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/N0rdnTAL81D0Jg8ZaKMJQg/sigma/sunshine-tour-sunbet-challenge-sun-sibaya-south-africa/1/23_Q9DZxOfT/1789190768/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_Q9DZxOfT%2Fsunshine-tour-sunbet-challenge-sun-sibaya-south-africa%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/BN8Nm0l4KcdpZS8gY_mPSw/sigma/sunshine-tour-sunbet-challenge-sun-sibaya-south-africa/1/23_Q9DZxOfT/1789192651/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_Q9DZxOfT%2Fsunshine-tour-sunbet-challenge-sun-sibaya-south-africa%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=23_Q9DZxOfT%2Fsunshine-tour-sunbet-challenge-sun-sibaya-south-africa%2Fsigma%2F2&source=tv3",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "cfb": [
-      {
-        "title": "Virginia vs Norfolk State",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/oQAZs5gyz42YNyadL6PRYg/delta/Virginia%20vs%20Norfolk%20State/1/4706094/1789190764/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706094%2FVirginia%20vs%20Norfolk%20State%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706094%2FVirginia%20vs%20Norfolk%20State%2Fdelta%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/nR4G2-cusgG7rNVNWNzmkg/delta/Virginia%20vs%20Norfolk%20State/1/4706094/1789190783/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706094%2FVirginia%20vs%20Norfolk%20State%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706094%2Fvirginia-norfolk-state%2Fplatinum%2F1&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "NC State vs Richmond",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/vb7tTECpFBwPHDNDm_ckUw/delta/North%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders/1/4706162/1789190795/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706162%2FNorth%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706162%2FNorth%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders%2Fdelta%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb6.wfty.st/secure/VpQAw5D8BQhq2aTMSoF8ow/delta/North%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders/1/4706162/1789190808/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706162%2FNorth%20Carolina%20State%20Wolfpack%20vs%20Richmond%20Spiders%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706162%2Fnc-state-richmond%2Fplatinum%2F1&source=tv3",
             "resolved": true
           }
         ]
@@ -91,7 +111,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.strmd.st/secure/HNYISWFSEvKgiZlqRePPhbKhRhmFfxWb/delta/stream/live_cfb_virginia-norfolk-st-live-streaming-587710080/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_virginia-norfolk-st-live-streaming-587710080%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/AFOZocAEYXgjyEwfuozFCaaZuvviqBat/delta/stream/live_cfb_virginia-norfolk-st-live-streaming-587710080/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_virginia-norfolk-st-live-streaming-587710080%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_virginia-norfolk-st-live-streaming-587710080%2F1&source=tv2",
             "resolved": true
           }
@@ -103,8 +123,20 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.strmd.st/secure/xJraAhyHrsQZjTQJExHIhaDqkRbhwQKt/delta/stream/live_cfb_nc-state-richmond-live-streaming-587709648/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_nc-state-richmond-live-streaming-587709648%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb8.strmd.st/secure/nJyvOnBupPMWqfvJbLAPeUFZQCgHsLHP/delta/stream/live_cfb_nc-state-richmond-live-streaming-587709648/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_nc-state-richmond-live-streaming-587709648%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_nc-state-richmond-live-streaming-587709648%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Sevilla vs Valencia",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb12.strmd.st/secure/hOaFaeqMqJcQlhYFUuZSYupDFhbHdNfn/delta/stream/live_laliga_sevilla-valencia-live-streaming-615784032/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_laliga_sevilla-valencia-live-streaming-615784032%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_laliga_sevilla-valencia-live-streaming-615784032%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -115,19 +147,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/djCSvBZ1SfFTdMo6uSwsww/deluxe/defensa-y-justicia-gimnasia-mendoza/1/401841556/1789190783/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841556%2Fdefensa-y-justicia-gimnasia-mendoza%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/YcpkcJMbm71bZopmAHF7mg/deluxe/defensa-y-justicia-gimnasia-mendoza/1/401841556/1789192701/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841556%2Fdefensa-y-justicia-gimnasia-mendoza%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841556%2Fdefensa-y-justicia-gimnasia-mendoza%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/P9i0o87lqn11VvWXShrrbA/deluxe/defensa-y-justicia-gimnasia-mendoza/1/401841556/1789190795/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841556%2Fdefensa-y-justicia-gimnasia-mendoza%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/vzO-ThVutocM4qEKzZuntg/deluxe/defensa-y-justicia-gimnasia-mendoza/1/401841556/1789192710/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841556%2Fdefensa-y-justicia-gimnasia-mendoza%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841556%2Fdefensa-y-justicia-gimnasia-mendoza%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb3.wfty.st/secure/dQooG9wIBSR7diRT6mRBIA/deluxe/defensa-y-justicia-gimnasia-mendoza/1/401841556/1789190810/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841556%2Fdefensa-y-justicia-gimnasia-mendoza%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/HnUI5Pw_OHcA7eWePYlIpg/deluxe/defensa-y-justicia-gimnasia-mendoza/1/401841556/1789192719/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841556%2Fdefensa-y-justicia-gimnasia-mendoza%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841556%2Fdefensa-y-justicia-gimnasia-mendoza%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
