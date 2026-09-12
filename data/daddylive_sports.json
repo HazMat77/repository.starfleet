@@ -1,27 +1,66 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-12T21:25:02.472903Z",
+  "scraped_at": "2026-09-12T21:55:02.558510Z",
   "sports_events": {
+    "nhl": [
+      {
+        "title": "Brandon Daord vs Ndabezinhle Phiri",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb7.strmd.st/secure/GlbiSZrxEbnvpNjqhiVecWJAWDVYNgzL/delta/stream/live-event_brandon-daord-vs-ndabezinhle-phiri-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_brandon-daord-vs-ndabezinhle-phiri-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_brandon-daord-vs-ndabezinhle-phiri-live-stream%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "cfl": [],
     "ufc": [
+      {
+        "title": "UFC Fight Night 288 Silva vs Delgado",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.strmd.st/secure/FpTGMtoLEkvWyQaklaXRMVaIWJbwluYK/rtmp/stream/D0BoeVbk6oTNfktxwUVRbAE13_556MU9lbPTZyIUyYRmPhVGwuI4e-dO53_Lkj2jSdgpGq0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-noche-ufc-silva-vs-delgado%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-noche-ufc-silva-vs-delgado%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb13.strmd.st/secure/tOtUlbWhJMiFoYcQKdSRxNzHjfbKpXFM/rtmp/stream/G54BIJcyZI9zOe_19X4a12dVmEzKu--tXcaaXP3VuPLRQpAZj0HFhcpQF-9PH8cyP3whnG7GzVj7/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-noche-ufc-silva-vs-delgado%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-noche-ufc-silva-vs-delgado%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb9.strmd.st/secure/hxStvrFrcJARDEMYcFAaJqPqdMqJDUvG/rtmp/stream/puUnIqV9NZY-HxmoNJi_3LwcNSViYRJ9qjqTUolY_8tXRjJqTM1TodweTtaowULTc7eFZLgaGFc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-noche-ufc-silva-vs-delgado%2F3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-noche-ufc-silva-vs-delgado%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "Noche UFC: Silva vs. Delgado",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/kBflYXRIskAveZslhl0DaA/pro/noche-ufc-silva-vs-delgado/1/600060772/1789269912/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F600060772%2Fnoche-ufc-silva-vs-delgado%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/6YdHwWzSZ1ictOH5no7FqQ/pro/noche-ufc-silva-vs-delgado/1/600060772/1789271768/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F600060772%2Fnoche-ufc-silva-vs-delgado%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=600060772%2Fnoche-ufc-silva-vs-delgado%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/YYSoSMTvzzkyT9WeV4WEdQ/pro/noche-ufc-silva-vs-delgado/1/600060772/1789269927/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F600060772%2Fnoche-ufc-silva-vs-delgado%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/N4uV0e1Vc6Aqa74l33wldA/pro/noche-ufc-silva-vs-delgado/1/600060772/1789271782/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F600060772%2Fnoche-ufc-silva-vs-delgado%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=600060772%2Fnoche-ufc-silva-vs-delgado%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb2.wfty.st/secure/OoU8XW8SiWRKm8fh_gojuA/pro/noche-ufc-silva-vs-delgado/1/600060772/1789269944/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F600060772%2Fnoche-ufc-silva-vs-delgado%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/H-ya8xWP5q8mhtyXmyYKUA/pro/noche-ufc-silva-vs-delgado/1/600060772/1789271802/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F600060772%2Fnoche-ufc-silva-vs-delgado%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=600060772%2Fnoche-ufc-silva-vs-delgado%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -30,52 +69,109 @@
     ],
     "other_events": [
       {
+        "title": "Jordan McCann vs. Big Stacks",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb20.strmd.st/secure/qcGEOrSlYLYihvjwxtsrpRLSTdgKYCoS/rtmp/stream/oc_BGH05D7ecn1sYLu7hjJyOMoH-VBLxOmiPrSsyPdRF0DXK6dfnW929E55vFvsAh0JdYUl2dR0v/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-jordan-mc-cann-vs-big-stacks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-jordan-mc-cann-vs-big-stacks%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb1.strmd.st/secure/oqVFQbdVOLnvPKYeInCmoshJCWaAhlTd/rtmp/stream/JaG-1VMi_g9uK0GnzSvl4MLCQ8wLskJhEnH12cbjSyxflPL9_FcUu8xOrd7vwt0n5u3Dgt_AZzm8DxuFfg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-jordan-mc-cann-vs-big-stacks%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-jordan-mc-cann-vs-big-stacks%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 5",
+            "playable_url": "https://lb19.strmd.st/secure/UxLCaVtUphvfYXOPiJedFsrpyiluBasA/delta/stream/live-event_mccann-vs-big-stacks-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_mccann-vs-big-stacks-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_mccann-vs-big-stacks-live-stream%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Ryan Garcia vs Conor Benn",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.strmd.st/secure/HYbkbeHwYFyBoJhVrZyWHIHoPvmKqXmG/delta/stream/live-event_ryan-garcia-vs-conor-benn-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_ryan-garcia-vs-conor-benn-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_ryan-garcia-vs-conor-benn-live-stream%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.strmd.st/secure/NWvkgsiuWsANNCmpdnLnglXcmRPxDkky/delta/stream/live-event_ryan-garcia-vs-conor-benn-live-stream/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_ryan-garcia-vs-conor-benn-live-stream%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_ryan-garcia-vs-conor-benn-live-stream%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.strmd.st/secure/dKjJMjFvbVIOlQaHCDLfZgYayrXHQQSs/delta/stream/live-event_ryan-garcia-vs-conor-benn-live-stream/3/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_ryan-garcia-vs-conor-benn-live-stream%2F3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_ryan-garcia-vs-conor-benn-live-stream%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Toman vs Dilshad",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb18.strmd.st/secure/VKdeylXaNaWiOdlcRyhNiwvgVazSVMVZ/delta/stream/live-event_toman-vs-dilshad-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_toman-vs-dilshad-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_toman-vs-dilshad-live-stream%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
         "title": "Chapecoense vs Internacional",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/I6Q42BcMxhDOqAx1boY2jA/sigma/chapecoense-internacional/1/401841228/1789269912/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841228%2Fchapecoense-internacional%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/RxlPicD1nKKswYAaW4GGyw/sigma/chapecoense-internacional/1/401841228/1789271891/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841228%2Fchapecoense-internacional%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841228%2Fchapecoense-internacional%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/i3On5ETLz_KoJVEoFdABqQ/sigma/chapecoense-internacional/1/401841228/1789269927/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841228%2Fchapecoense-internacional%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/ajCSHjC0-sKEm2Jwivy2nQ/sigma/chapecoense-internacional/1/401841228/1789271901/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841228%2Fchapecoense-internacional%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841228%2Fchapecoense-internacional%2Fsigma%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb1.wfty.st/secure/p22NegwuayPsg-oULl_evg/sigma/chapecoense-internacional/1/401841228/1789269945/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841228%2Fchapecoense-internacional%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/he5u9LJkMClTZ4NKK3Ojvg/sigma/chapecoense-internacional/1/401841228/1789271910/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841228%2Fchapecoense-internacional%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841228%2Fchapecoense-internacional%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
         ]
-      }
-    ],
-    "cfl": [],
-    "soccer": [
+      },
       {
-        "title": "Viseu vs Guimarães",
+        "title": "Palmeiras vs São Paulo",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/M6EvwRiMddVZwC7NyovSbQ/sigma/academico-viseu-vitoria-de-guimaraes/1/5887627/1789270037/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F5887627%2Facademico-viseu-vitoria-de-guimaraes%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=5887627%2Facademico-viseu-vitoria-de-guimaraes%2Fsigma%2F1&source=tv3",
+            "playable_url": "https://lb1.wfty.st/secure/LSZIKutJUZ29jqVQ4lxcxg/sigma/palmeiras-sao-paulo/1/401841234/1789271919/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841234%2Fpalmeiras-sao-paulo%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841234%2Fpalmeiras-sao-paulo%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/atzXbrY7GEI6DQP1Qw8wmg/sigma/academico-viseu-vitoria-de-guimaraes/1/5887627/1789270046/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F5887627%2Facademico-viseu-vitoria-de-guimaraes%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=5887627%2Facademico-viseu-vitoria-de-guimaraes%2Fsigma%2F2&source=tv3",
+            "playable_url": "https://lb4.wfty.st/secure/-pOgyS5XeZUGzDIFd-QW0w/sigma/palmeiras-sao-paulo/1/401841234/1789271929/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841234%2Fpalmeiras-sao-paulo%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841234%2Fpalmeiras-sao-paulo%2Fsigma%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb1.wfty.st/secure/wgTKF-MpIvaIfXB40nOx_w/sigma/academico-viseu-vitoria-de-guimaraes/1/5887627/1789270056/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F5887627%2Facademico-viseu-vitoria-de-guimaraes%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=5887627%2Facademico-viseu-vitoria-de-guimaraes%2Fsigma%2F3&source=tv3",
+            "playable_url": "https://lb2.wfty.st/secure/OFV8m3tpVziNjgKr_IOeCA/sigma/palmeiras-sao-paulo/1/401841234/1789271938/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841234%2Fpalmeiras-sao-paulo%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841234%2Fpalmeiras-sao-paulo%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -88,19 +184,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/755rlZLyGe9IyOxtD_rCXQ/pro/minnesota-mississippi-state/1/4706105/1789270124/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706105%2Fminnesota-mississippi-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/g3LPJnpaPzIi27zccKoSzA/pro/minnesota-mississippi-state/1/4706105/1789271940/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706105%2Fminnesota-mississippi-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706105%2Fminnesota-mississippi-state%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/BcvmQuzp8WwdoYGLeNt0qg/pro/minnesota-mississippi-state/1/4706105/1789270133/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706105%2Fminnesota-mississippi-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/mboWZbX54aI7m6i-D-phpw/pro/minnesota-mississippi-state/1/4706105/1789271949/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706105%2Fminnesota-mississippi-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706105%2Fminnesota-mississippi-state%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/mP5xdbythLezolCEippz9g/pro/minnesota-mississippi-state/1/4706105/1789270142/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706105%2Fminnesota-mississippi-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/MTXZLDfgnESv-ddEF7W9xA/pro/minnesota-mississippi-state/1/4706105/1789271959/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706105%2Fminnesota-mississippi-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706105%2Fminnesota-mississippi-state%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -112,19 +208,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/IAau-QiEVHxhedKlTMipZA/pro/illinois-duke/1/4706121/1789270151/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706121%2Fillinois-duke%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/3nHrsrylBWt2jWeV0vDTBw/pro/illinois-duke/1/4706121/1789271968/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706121%2Fillinois-duke%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706121%2Fillinois-duke%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/sGlwXh2xPXk2j1GgHruTFQ/pro/illinois-duke/1/4706121/1789270160/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706121%2Fillinois-duke%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/pMFK_yTaW0uhniKPFsn6dA/pro/illinois-duke/1/4706121/1789271977/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706121%2Fillinois-duke%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706121%2Fillinois-duke%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb2.wfty.st/secure/9jCcfMxVlIx1vzeEHb3sPg/pro/illinois-duke/1/4706121/1789270170/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706121%2Fillinois-duke%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/kSMb04TbI_aFfqRwCmeZSw/pro/illinois-duke/1/4706121/1789271987/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706121%2Fillinois-duke%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706121%2Fillinois-duke%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -136,44 +232,44 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/RE7SEwZqadRWNHqw4erC6Q/pro/michigan-state-eastern-michigan/1/4706093/1789270179/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706093%2Fmichigan-state-eastern-michigan%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/2MlShfdqg59p5-JXKrQThA/pro/michigan-state-eastern-michigan/1/4706093/1789271996/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706093%2Fmichigan-state-eastern-michigan%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706093%2Fmichigan-state-eastern-michigan%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/tWw5ZEUF6Tbm6plbIAGOFQ/pro/michigan-state-eastern-michigan/1/4706093/1789270188/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706093%2Fmichigan-state-eastern-michigan%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/KvIHwYyNWVpFlptrVQGtXQ/pro/michigan-state-eastern-michigan/1/4706093/1789272006/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706093%2Fmichigan-state-eastern-michigan%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706093%2Fmichigan-state-eastern-michigan%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb1.wfty.st/secure/RROHCRZB7-NpWRmOewwfRg/pro/michigan-state-eastern-michigan/1/4706093/1789270197/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706093%2Fmichigan-state-eastern-michigan%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/eAyFC6U_wgUGnfAxPAINFg/pro/michigan-state-eastern-michigan/1/4706093/1789272016/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706093%2Fmichigan-state-eastern-michigan%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706093%2Fmichigan-state-eastern-michigan%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Texas State vs UTSA",
+        "title": "UAB vs UL Monroe",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/2GHy-xOEF8SMybDhiL45lg/pro/texas-state-utsa/1/4706076/1789270277/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706076%2Ftexas-state-utsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706076%2Ftexas-state-utsa%2Fpro%2F1&source=tv3",
+            "playable_url": "https://lb4.wfty.st/secure/RSJX-UpXJXZ1GZpzLVbeCw/pro/uab-ul-monroe/1/4706166/1789272026/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706166%2Fuab-ul-monroe%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706166%2Fuab-ul-monroe%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb6.wfty.st/secure/Du0RTsFakm61arAhivZndw/pro/texas-state-utsa/1/4706076/1789270286/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706076%2Ftexas-state-utsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706076%2Ftexas-state-utsa%2Fpro%2F2&source=tv3",
+            "playable_url": "https://lb4.wfty.st/secure/f3tvZM7obTuFhJ5jNd69oQ/pro/uab-ul-monroe/1/4706166/1789272035/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706166%2Fuab-ul-monroe%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706166%2Fuab-ul-monroe%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb3.wfty.st/secure/9Ye0OAskH7n4p7O6-VVk0Q/pro/texas-state-utsa/1/4706076/1789270295/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706076%2Ftexas-state-utsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706076%2Ftexas-state-utsa%2Fpro%2F3&source=tv3",
+            "playable_url": "https://lb4.wfty.st/secure/fXMr4ngqcaiklXNpnC5Isg/pro/uab-ul-monroe/1/4706166/1789272044/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706166%2Fuab-ul-monroe%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706166%2Fuab-ul-monroe%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -184,20 +280,44 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/AnQXeemghbZdhD6rywkIOw/pro/colorado-weber-state/1/4706083/1789270304/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706083%2Fcolorado-weber-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/RlCrg3QoqfQxNgSOjbjEkw/pro/colorado-weber-state/1/4706083/1789272053/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706083%2Fcolorado-weber-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706083%2Fcolorado-weber-state%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb1.wfty.st/secure/FOiwox9Bqa8GgOy2BMxy7A/pro/colorado-weber-state/1/4706083/1789270317/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706083%2Fcolorado-weber-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/cBO6dTH1Us0zxGW2LxG8BA/pro/colorado-weber-state/1/4706083/1789272063/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706083%2Fcolorado-weber-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706083%2Fcolorado-weber-state%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb3.wfty.st/secure/4g2Q13NAOd2K7JO3-m2_lA/pro/colorado-weber-state/1/4706083/1789270326/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706083%2Fcolorado-weber-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/myu1fltPKwQqA0UGBV4WkQ/pro/colorado-weber-state/1/4706083/1789272072/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706083%2Fcolorado-weber-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706083%2Fcolorado-weber-state%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Texas State vs UTSA",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.wfty.st/secure/tKEP4Mqo4b3dhpWFcAOt4Q/pro/texas-state-utsa/1/4706076/1789272081/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706076%2Ftexas-state-utsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706076%2Ftexas-state-utsa%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb5.wfty.st/secure/BBfEG7rXAvxyxOylUofdoA/pro/texas-state-utsa/1/4706076/1789272091/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706076%2Ftexas-state-utsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706076%2Ftexas-state-utsa%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.wfty.st/secure/3XVRIGvenaY3PyqAryi_7Q/pro/texas-state-utsa/1/4706076/1789272100/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706076%2Ftexas-state-utsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706076%2Ftexas-state-utsa%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -208,19 +328,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/cAGqdZPlzo1oupmphgmLuw/pro/pittsburgh-ucf/1/4706109/1789270335/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706109%2Fpittsburgh-ucf%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/XUo3duDR53Bsa84X_dANOw/pro/pittsburgh-ucf/1/4706109/1789272109/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706109%2Fpittsburgh-ucf%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706109%2Fpittsburgh-ucf%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/vt14OrikobU9A1Kpvllywg/pro/pittsburgh-ucf/1/4706109/1789270344/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706109%2Fpittsburgh-ucf%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/UujFCLzOu3Q193cTXxnBdA/pro/pittsburgh-ucf/1/4706109/1789272118/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706109%2Fpittsburgh-ucf%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706109%2Fpittsburgh-ucf%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/MCpoH1b8ixWmE_HasZOkug/pro/pittsburgh-ucf/1/4706109/1789270353/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706109%2Fpittsburgh-ucf%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/IaDsiA52UKDQaMPsMvOKBA/pro/pittsburgh-ucf/1/4706109/1789272127/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706109%2Fpittsburgh-ucf%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706109%2Fpittsburgh-ucf%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -232,19 +352,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/4vinfcO2tiQYlkRf_yvZ_A/pro/massachusetts-sacred-heart/1/4706114/1789270362/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706114%2Fmassachusetts-sacred-heart%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/-6R9nMqMrf5WxLmJ3DRLlA/pro/massachusetts-sacred-heart/1/4706114/1789272136/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706114%2Fmassachusetts-sacred-heart%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706114%2Fmassachusetts-sacred-heart%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb1.wfty.st/secure/J1_Wp5Pz2z-8GljenfqQ4w/pro/massachusetts-sacred-heart/1/4706114/1789270371/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706114%2Fmassachusetts-sacred-heart%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/Rsuh1FxudAx2pFTavaIhAg/pro/massachusetts-sacred-heart/1/4706114/1789272145/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706114%2Fmassachusetts-sacred-heart%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706114%2Fmassachusetts-sacred-heart%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/qS6K89kei2gpepEEwnhuYw/pro/massachusetts-sacred-heart/1/4706114/1789270380/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706114%2Fmassachusetts-sacred-heart%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/bMdiAcQsDyY_p5kYen9LnQ/pro/massachusetts-sacred-heart/1/4706114/1789272154/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706114%2Fmassachusetts-sacred-heart%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706114%2Fmassachusetts-sacred-heart%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -256,19 +376,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/sz387u8wKk5J8kMPkylK5g/pro/toledo-central-connecticut/1/4706118/1789270389/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706118%2Ftoledo-central-connecticut%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/OfNUHze2AsAWXI-0_1vaZA/pro/toledo-central-connecticut/1/4706118/1789272163/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706118%2Ftoledo-central-connecticut%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706118%2Ftoledo-central-connecticut%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb3.wfty.st/secure/rk8_2K8Xb6J1mOQeB4IMtw/pro/toledo-central-connecticut/1/4706118/1789270398/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706118%2Ftoledo-central-connecticut%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/j2PDj8ugUvqiwYorZqEDZA/pro/toledo-central-connecticut/1/4706118/1789272173/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706118%2Ftoledo-central-connecticut%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706118%2Ftoledo-central-connecticut%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/MY4wtoiNw7_Lb6-3qz7Abw/pro/toledo-central-connecticut/1/4706118/1789270408/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706118%2Ftoledo-central-connecticut%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/-L0DoT3LWFoSvao-jE5Jaw/pro/toledo-central-connecticut/1/4706118/1789272181/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706118%2Ftoledo-central-connecticut%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706118%2Ftoledo-central-connecticut%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -280,44 +400,20 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/G-U2f15YsG7Yn92FCLp9NA/pro/syracuse-california/1/4706122/1789270416/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706122%2Fsyracuse-california%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/XbCQcXDIAGAiHY08AauK9Q/pro/syracuse-california/1/4706122/1789272190/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706122%2Fsyracuse-california%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706122%2Fsyracuse-california%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/ErrD18guUzBGpQiAA4zxcg/pro/syracuse-california/1/4706122/1789270426/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706122%2Fsyracuse-california%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/I3VKdvXX8IeADUB-zeV_kw/pro/syracuse-california/1/4706122/1789272199/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706122%2Fsyracuse-california%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706122%2Fsyracuse-california%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb5.wfty.st/secure/CgcA1x_k8gVQTst5m1tBkg/pro/syracuse-california/1/4706122/1789270435/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706122%2Fsyracuse-california%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/w8D-lc5JpGqB6MkOvG7A8Q/pro/syracuse-california/1/4706122/1789272210/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706122%2Fsyracuse-california%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706122%2Fsyracuse-california%2Fpro%2F3&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "UAB vs UL Monroe",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/fq3vUfry6mjpeKlcOLjHEA/pro/uab-ul-monroe/1/4706166/1789270444/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706166%2Fuab-ul-monroe%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706166%2Fuab-ul-monroe%2Fpro%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/lsIyac0lsgw2gS2BVoQ7ig/pro/uab-ul-monroe/1/4706166/1789270453/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706166%2Fuab-ul-monroe%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706166%2Fuab-ul-monroe%2Fpro%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb2.wfty.st/secure/xgcS6Z4CtVVJImEpWfLLmA/pro/uab-ul-monroe/1/4706166/1789270462/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706166%2Fuab-ul-monroe%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706166%2Fuab-ul-monroe%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -328,19 +424,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/GyUyYF1tGLp4vkiJOC_c4A/pro/akron-robert-morris/1/4706136/1789270470/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706136%2Fakron-robert-morris%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/NgsWmu-iFvhzMxgKHzdTGQ/pro/akron-robert-morris/1/4706136/1789272220/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706136%2Fakron-robert-morris%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706136%2Fakron-robert-morris%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/mfRNHLRu2lkW0uDbi8qp8A/pro/akron-robert-morris/1/4706136/1789270479/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706136%2Fakron-robert-morris%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/JGUFg-4LHESVHH4vK2jv5g/pro/akron-robert-morris/1/4706136/1789272229/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706136%2Fakron-robert-morris%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706136%2Fakron-robert-morris%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb3.wfty.st/secure/y-W9hS9MosTR_065drg44w/pro/akron-robert-morris/1/4706136/1789270489/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706136%2Fakron-robert-morris%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/zrv00GqOXY9ZLPVyhn-Ehw/pro/akron-robert-morris/1/4706136/1789272238/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706136%2Fakron-robert-morris%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706136%2Fakron-robert-morris%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -352,19 +448,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/apiSC-b99u_zIQlInqRL8A/pro/north-texas-unlv/1/4706175/1789270497/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706175%2Fnorth-texas-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/qIXfLoyqjk_viBQUPZx-5w/pro/north-texas-unlv/1/4706175/1789272247/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706175%2Fnorth-texas-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706175%2Fnorth-texas-unlv%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/V5veUERz395NzhYSGe1S2A/pro/north-texas-unlv/1/4706175/1789270506/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706175%2Fnorth-texas-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/R6mObFCIu_3PHSm_xcO6kQ/pro/north-texas-unlv/1/4706175/1789272256/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706175%2Fnorth-texas-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706175%2Fnorth-texas-unlv%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb3.wfty.st/secure/JqWQ3E52GFC3arqE951fZA/pro/north-texas-unlv/1/4706175/1789270516/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706175%2Fnorth-texas-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/EkPkCP8boXeSfgdcBIzNgA/pro/north-texas-unlv/1/4706175/1789272265/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706175%2Fnorth-texas-unlv%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706175%2Fnorth-texas-unlv%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -376,19 +472,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/G4EK0CJ_EFK_C7o8fTMn8A/pro/troy-alabama-state/1/4706145/1789270524/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706145%2Ftroy-alabama-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/gwGXT_E-cmC9vMsBVaXj3Q/pro/troy-alabama-state/1/4706145/1789272274/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706145%2Ftroy-alabama-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706145%2Ftroy-alabama-state%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/8ZoD_7w3fGqPC60x28Jd_A/pro/troy-alabama-state/1/4706145/1789270533/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706145%2Ftroy-alabama-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/eqw3m7lguRU5HvjxgrhjAw/pro/troy-alabama-state/1/4706145/1789272283/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706145%2Ftroy-alabama-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706145%2Ftroy-alabama-state%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/mDnfFDnuMKcPZ-4vkKXHgw/pro/troy-alabama-state/1/4706145/1789270543/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706145%2Ftroy-alabama-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/lL7Kz0_QvGfxvmHFlXgv_Q/pro/troy-alabama-state/1/4706145/1789272292/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706145%2Ftroy-alabama-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706145%2Ftroy-alabama-state%2Fpro%2F3&source=tv3",
             "resolved": true
           }
@@ -400,20 +496,44 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/A0jDITNn4OBQU7QOsvtPhQ/pro/vanderbilt-delaware/1/4706134/1789270552/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706134%2Fvanderbilt-delaware%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/yZICSX8zytt2lLc7s_MOow/pro/vanderbilt-delaware/1/4706134/1789272301/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706134%2Fvanderbilt-delaware%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706134%2Fvanderbilt-delaware%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb6.wfty.st/secure/pMBHDv-_K-0qpsPkPrZJpw/pro/vanderbilt-delaware/1/4706134/1789270561/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706134%2Fvanderbilt-delaware%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/tqSZRGaOuqumCe-LJj9KZQ/pro/vanderbilt-delaware/1/4706134/1789272309/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706134%2Fvanderbilt-delaware%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706134%2Fvanderbilt-delaware%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/O8xe2PZdP3vgKao3W4p6fQ/pro/vanderbilt-delaware/1/4706134/1789270570/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706134%2Fvanderbilt-delaware%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/ab7W8r3kcurHVs8nphk81A/pro/vanderbilt-delaware/1/4706134/1789272319/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706134%2Fvanderbilt-delaware%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706134%2Fvanderbilt-delaware%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Florida vs Campbell",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.wfty.st/secure/xa8t2UlTbQ1vDwF5b5xx9g/pro/florida-campbell/1/4706143/1789272328/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706143%2Fflorida-campbell%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706143%2Fflorida-campbell%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/iQUwuxFWi2tLaHZf-vlApw/pro/florida-campbell/1/4706143/1789272337/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706143%2Fflorida-campbell%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706143%2Fflorida-campbell%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb5.wfty.st/secure/gAVQTAgbM5UxFpPmctYF8Q/pro/florida-campbell/1/4706143/1789272346/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706143%2Fflorida-campbell%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706143%2Fflorida-campbell%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -424,20 +544,8 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/JjVCETExLay5N7SNICIesQ/delta/Connecticut%20Huskies%20vs%20Maryland%20Terrapins/1/4706103/1789270635/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706103%2FConnecticut%20Huskies%20vs%20Maryland%20Terrapins%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/Hyy1BdzamDXa4kIjG7Ea9g/delta/Connecticut%20Huskies%20vs%20Maryland%20Terrapins/1/4706103/1789272404/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706103%2FConnecticut%20Huskies%20vs%20Maryland%20Terrapins%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706103%2FConnecticut%20Huskies%20vs%20Maryland%20Terrapins%2Fdelta%2F1&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "New Mexico vs Mercyhurst",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/B_UslJFfLeHeq_v8UV5HuA/delta/New%20Mexico%20vs%20Mercyhurst/1/4706098/1789270654/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706098%2FNew%20Mexico%20vs%20Mercyhurst%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706098%2FNew%20Mexico%20vs%20Mercyhurst%2Fdelta%2F1&source=tv3",
             "resolved": true
           }
         ]
@@ -448,13 +556,392 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/a4uBmENtKmIEEKewRHxDyw/delta/Wyoming%20vs%20Northern%20Colorado/1/4706185/1789270663/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706185%2FWyoming%20vs%20Northern%20Colorado%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/CqSCp9276Yi-hFc1ETw2MQ/delta/Wyoming%20vs%20Northern%20Colorado/1/4706185/1789272423/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706185%2FWyoming%20vs%20Northern%20Colorado%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706185%2FWyoming%20vs%20Northern%20Colorado%2Fdelta%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "New Mexico vs Mercyhurst",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.wfty.st/secure/U5ONGU4xnVBdoi_6MnAdzg/delta/New%20Mexico%20vs%20Mercyhurst/1/4706098/1789272432/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706098%2FNew%20Mexico%20vs%20Mercyhurst%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706098%2FNew%20Mexico%20vs%20Mercyhurst%2Fdelta%2F1&source=tv3",
             "resolved": true
           }
         ]
       }
     ],
-    "mlb": []
+    "soccer": [
+      {
+        "title": "Kentucky vs Alabama",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb20.strmd.st/secure/FsGGuWEefZHuwGDjgCbwegliMcvjzYaE/rtmp/stream/opbTFKrp9BHKHKOH2ehGY19kOPxcuird9TJqdxRgFjNX2nS6sQ1qn7KXNlKBDsNfMqNvV2o/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-alabama-crimson-tide-at-kentucky-wildcats%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-alabama-crimson-tide-at-kentucky-wildcats%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb1.strmd.st/secure/KqeBtSXCYbyqQOvxfuGhmFAQAxlMqGYv/rtmp/stream/ahkAOyL_4cyHqp7k47IEh2E5T3QNTi1vBLgkmGsNeguddAQd2TCfDEDuEgCkQr7Wn4e6TJvs5qJS/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-alabama-crimson-tide-at-kentucky-wildcats%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-alabama-crimson-tide-at-kentucky-wildcats%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 5",
+            "playable_url": "https://lb19.strmd.st/secure/UjbzbWASpvNqLgxRqbfbJmPyNzkhntcX/rtmp/stream/Zk_Q9twn34jOEhwweyFxzAu1M_CKI2_m4UTrNJle95t6dKXUFO_d3unwxshPdF2x3mqhioicVjHDX8UJ9Z8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-alabama-crimson-tide-at-kentucky-wildcats%2F3&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-alabama-crimson-tide-at-kentucky-wildcats%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Notre Dame vs Rice",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.strmd.st/secure/SjGdOchjtHgboaDjvmsnwkHkbAcHwEIh/rtmp/stream/wG9zwA_iKmu66NZYW5XzmTiylPN8BnPeFrb2hyK_yPZ7ZU69VpQChACP6IO8SFjbqL_fZ3s/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-rice-owls-at-notre-dame-fighting-irish%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-rice-owls-at-notre-dame-fighting-irish%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb1.strmd.st/secure/ioOKoSrRRbRUQBXDRoEHBdOEdWGDGkrg/rtmp/stream/P2Nf0l68VnrpmiqPMsvVZakNCq65leLMXrBKxIkDTD86JxK7AM1PcUNHxl2IMB0ADLdHSQvIKVI6/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-rice-owls-at-notre-dame-fighting-irish%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-rice-owls-at-notre-dame-fighting-irish%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 5",
+            "playable_url": "https://lb4.strmd.st/secure/jThFJJkmMTHAVZevDwicxlPFgjdNdaPg/delta/stream/live_cfb_notre-dame-rice-live-streaming-587747232/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_notre-dame-rice-live-streaming-587747232%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_notre-dame-rice-live-streaming-587747232%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Utah State Aggies at Washington Huskies",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb7.strmd.st/secure/trrTkFWBYYJCVTMCKfVrxkvqiaZvlSOD/rtmp/stream/L-k4oL_AZvwj7jov-pVd8-r1ySOFUk60imlJuY5BELOx90CSCCf1tAN6gZE86svXaiDaVCo/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-utah-state-aggies-at-washington-huskies%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-utah-state-aggies-at-washington-huskies%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb11.strmd.st/secure/vZeGRBvtLbSInFxHPTPyNXGZQYHkmPEv/rtmp/stream/w7PMD79er0ATOM2_N9kaoYF4PnbOOgVf0xdpauwQdGuPXbVETAS8Zs71TqTgKZDZtfoVxsjbjwmp/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-utah-state-aggies-at-washington-huskies%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-utah-state-aggies-at-washington-huskies%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 5",
+            "playable_url": "https://lb13.strmd.st/secure/ZopsIngfDInaHJZletfjfrVrracIsgZN/delta/stream/live_cfb_washington-utah-state-live-streaming-587749392/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_washington-utah-state-live-streaming-587749392%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_washington-utah-state-live-streaming-587749392%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "BYU vs Arizona",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb16.strmd.st/secure/aXUTlqFzoHPRCZuHBKiNqtkpNtxwgXYK/rtmp/stream/OYcGaAY5tapuCmyJlQl4BEL9C06Q5YSKu_4i4DbnixtNaRj6qNdWpLgRYYuvY6ESByrj3yU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-arizona-wildcats-at-byu-cougars%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-arizona-wildcats-at-byu-cougars%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb3.strmd.st/secure/boTaLaQlkCQaGFOkssetbHjygJqFvmoE/rtmp/stream/EdEO2rO4Judt6IBy4N21T968qkJPgwDfZANZVfSFSAJDr3Xe8R3OihNIsYpHOE7ujnKSpZ_Kh-Eb/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-arizona-wildcats-at-byu-cougars%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-arizona-wildcats-at-byu-cougars%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Minnesota vs Mississippi State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb8.strmd.st/secure/qGqEqdwPSmPRwChtPUdethuFjsDGToJS/delta/stream/live_cfb_minnesota-mississippi-st-live-streaming-587746800/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_minnesota-mississippi-st-live-streaming-587746800%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_minnesota-mississippi-st-live-streaming-587746800%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Pittsburgh vs UCF",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb18.strmd.st/secure/otVbCNtxMILpZrcfVTtScYXaIATksziS/delta/stream/live_cfb_pittsburgh-ucf-live-streaming-587747664/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_pittsburgh-ucf-live-streaming-587747664%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_pittsburgh-ucf-live-streaming-587747664%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Syracuse vs California",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb4.strmd.st/secure/iBbLSxyCkZnPNMISDxBLLJaCacPJfHPG/delta/stream/live_cfb_syracuse-california-live-streaming-587748096/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_syracuse-california-live-streaming-587748096%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_syracuse-california-live-streaming-587748096%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Winnipeg Blue Bombers vs Saskatchewan Roughriders",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb10.strmd.st/secure/ZQPMOCQsajWMjYdZrvXKrZUtsxLZJESJ/rtmp/stream/SmT1vcoK-p1oeF4gcLz2iqRPmRyv3dp2rQ3t1je57Y1NYJSGkELDI6umwITbCdAqW_i9-SVgpyZAjvaTqjRrHWvTmL4pUP_OSA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-saskatchewan-roughriders-at-winnipeg-blue-bombers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-saskatchewan-roughriders-at-winnipeg-blue-bombers%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.strmd.st/secure/IvLCiaFcnciqyEgdmgvsgfROLVfJZvnj/rtmp/stream/SmT1vcoK-p1oeF4gcLz2iqRPmRyv3dp2rQ3t1je57Y1NYJSGkELDI6umwITbCdAqW_i9-SVgpyZAjvaTqjRrHWvTmL4pUP_OSA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-saskatchewan-roughriders-at-winnipeg-blue-bombers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-saskatchewan-roughriders-at-winnipeg-blue-bombers%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "SMU vs UC Davis",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.strmd.st/secure/TCeXfiHstkWtQIlPAZMmsGLFJpTpYTro/rtmp/stream/5V1zymHeYmzkahxWtApkIIhusATfCyHrQvubfgUhKB__ROu1oOnW7P4xk4zTA8z5wBqs_60xfFKs/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-uc-davis-aggies-at-smu-mustangs%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-uc-davis-aggies-at-smu-mustangs%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb9.strmd.st/secure/yJxvynVQmWOAoLlyYjeopheYHpnrCetz/rtmp/stream/9wZvSLOfZr-tJ7Mpj0-TvY4iN0GkFTDHJy4JkizEpAONX00AkYnM8Lh3sUGByxPlQl_yR3EgVQX-6IJZQQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-uc-davis-aggies-at-smu-mustangs%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-uc-davis-aggies-at-smu-mustangs%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Sunderland vs Arsenal",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb1.strmd.st/secure/QGMMbeUPGmwfBMMlOoOHTEuhRbQQPfDU/golf/stream/1144/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1144%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1144%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb15.strmd.st/secure/YDBLGJLaxNczMJddntQPqIwBXwFtxmZa/golf/stream/1144/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1144%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1144%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Real Madrid vs Rayo Vallecano",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb11.strmd.st/secure/XvaPKxsZWWEzSNJAPLKuqaHbjLFrmzzg/golf/stream/1145/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1145%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1145%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb10.strmd.st/secure/FapIVwepJhrpjZAKmIiiDuZvAEAghxxp/golf/stream/1145/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1145%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1145%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Florida vs Campbell",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb8.strmd.st/secure/iurmkKkoWvvykDsfvjWFyiVzFqTlKaXa/delta/stream/live_cfb_florida-campbell-live-streaming-587764944/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_florida-campbell-live-streaming-587764944%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_florida-campbell-live-streaming-587764944%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Vanderbilt vs Delaware",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb9.strmd.st/secure/efwqCkFDJbBPObdbmNudhIVytGWpktHX/delta/stream/live_cfb_vanderbilt-delaware-live-streaming-587750256/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_vanderbilt-delaware-live-streaming-587750256%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_vanderbilt-delaware-live-streaming-587750256%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Wyoming vs Northern Colorado",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb1.strmd.st/secure/URGXDfiIBGDTDaikYujGQhGmcDhLVZEG/delta/stream/live_cfb_wyoming-northern-colorado-bears-live-streaming-587764512/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_wyoming-northern-colorado-bears-live-streaming-587764512%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_wyoming-northern-colorado-bears-live-streaming-587764512%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Troy vs Alabama State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.strmd.st/secure/PPozUQuNZLsotMlrEIznyxzqWKDFeCur/delta/stream/live_cfb_troy-alabama-state-live-streaming-587764080/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_troy-alabama-state-live-streaming-587764080%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_troy-alabama-state-live-streaming-587764080%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "New Mexico vs Mercyhurst",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb18.strmd.st/secure/lJdCgzayjipeTYUFtJdfblhbknVIIQsD/delta/stream/live_cfb_new-mexico-mercyhurst-lakers-live-streaming-623787264/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_new-mexico-mercyhurst-lakers-live-streaming-623787264%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_new-mexico-mercyhurst-lakers-live-streaming-623787264%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Southern Methodist Mustangs vs California-Davis Aggies",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb11.strmd.st/secure/BOVcOXwZlVWgmdMQTfrloXrVJDpUrjvt/delta/stream/live_cfb_smu-california-davis-live-streaming-587763648/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_smu-california-davis-live-streaming-587763648%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_smu-california-davis-live-streaming-587763648%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "North Texas vs UNLV",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb16.strmd.st/secure/XfwFtkvYnuVNTIcKcHziftjNaiBhTBGz/delta/stream/live_cfb_north-texas-unlv-live-streaming-587749824/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_north-texas-unlv-live-streaming-587749824%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_north-texas-unlv-live-streaming-587749824%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Colorado vs Weber State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb7.strmd.st/secure/FdMEUHhjFJnWRTjPnKGrfkhdlzRtZYvm/delta/stream/live_cfb_colorado-weber-state-live-streaming-587761920/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_colorado-weber-state-live-streaming-587761920%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_colorado-weber-state-live-streaming-587761920%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "UAB vs Louisiana-Monroe",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.strmd.st/secure/nMnbFEGPjnhlYunCJbkSkUNeZjSqLhPW/delta/stream/live_cfb_uab-ulm-live-streaming-587748960/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_uab-ulm-live-streaming-587748960%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_uab-ulm-live-streaming-587748960%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Akron vs Robert Morris",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb20.strmd.st/secure/XVnXOcxTwjtxnGfxtwtPNMdFtBmwTjXB/delta/stream/live_cfb_akron-robert-morris-colonials-live-streaming-587761488/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_akron-robert-morris-colonials-live-streaming-587761488%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_akron-robert-morris-colonials-live-streaming-587761488%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Toledo vs Central Connecticut",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb8.strmd.st/secure/ivDIPMDjQHkwajOqyOqOnLNtGlsapZWt/delta/stream/live_cfb_toledo-central-connecticut-st-live-streaming-587763216/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_toledo-central-connecticut-st-live-streaming-587763216%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_toledo-central-connecticut-st-live-streaming-587763216%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Brigham Young Cougars vs Arizona Wildcats",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb1.strmd.st/secure/zwvNbpwOeSurDTbaCuoUWtfYksMsyfTt/delta/stream/live_cfb_byu-arizona-live-streaming-587744640/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_byu-arizona-live-streaming-587744640%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_byu-arizona-live-streaming-587744640%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Connecticut Huskies vs Maryland Terrapins",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb11.strmd.st/secure/pnFthzhhCpbyZqZoifQQBEUQEXfenBfA/delta/stream/live_cfb_connecticut-maryland-live-streaming-587745072/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_connecticut-maryland-live-streaming-587745072%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_connecticut-maryland-live-streaming-587745072%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Massachusetts Minutemen vs Sacred Heart Pioneers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb18.strmd.st/secure/UiZIyjqUlRcUAErZYSUrHlKkgUaRAqtP/delta/stream/live_cfb_umass-sacred-heart-pioneers-live-streaming-587762784/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_umass-sacred-heart-pioneers-live-streaming-587762784%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_umass-sacred-heart-pioneers-live-streaming-587762784%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ]
   }
 }
