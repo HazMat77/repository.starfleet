@@ -1,7 +1,47 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-12T09:55:03.618290Z",
+  "scraped_at": "2026-09-12T10:25:03.578308Z",
   "sports_events": {
+    "ufc": [
+      {
+        "title": "Eternal MMA 110: Gold Coast",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb11.strmd.st/secure/vYTNHbOFArjemBEDxMqygFJhkEDmqekA/rtmp/stream/qCS52aee99OFaBy0k8QBEv0PekSC4GIUVxhlmvRpp4Fl4ATAtQ84mUQITKHRqimPQq1jtccCdf26lxpp/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-eternal-mma-110-gold-coast%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-eternal-mma-110-gold-coast%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb10.strmd.st/secure/LWXmxpaYmPaXzzSOheYRAqvmzxeAwcos/rtmp/stream/qCS52aee99OFaBy0k8QBEv0PekSC4GIUVxhlmvRpp4Fl4ATAtQ84mUQITKHRqimPQq1jtccCdf26lxpp/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-eternal-mma-110-gold-coast%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-eternal-mma-110-gold-coast%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "rugby": [
+      {
+        "title": "Cronulla Sharks vs North Queensland Cowboys",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb11.strmd.st/secure/SohcPgUEqljNvGumYzlNBmiEvxEoXpaF/rtmp/stream/tifR4NiDkxsaYoGXHq0bL1hjy0GaIg2b-Z5TbYRwFGVXmEXiepKtrVT7m6X-BeelnyxMZ6PJJ7TapsM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-sharks-vs-cowboys%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-sharks-vs-cowboys%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb10.strmd.st/secure/XgMtAXPCzFJEETIckxQPPjUCcpvhrvBU/rtmp/stream/tifR4NiDkxsaYoGXHq0bL1hjy0GaIg2b-Z5TbYRwFGVXmEXiepKtrVT7m6X-BeelnyxMZ6PJJ7TapsM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-sharks-vs-cowboys%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-sharks-vs-cowboys%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "cricket": [
       {
         "title": "3rd Test: England vs. Pakistan",
@@ -9,13 +49,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.strmd.st/secure/AkNxVMpUxXMGvrexWSJeTOBSFFdKFGDk/rtmp/stream/iWoH3ga8liQ9Rdq4Trp9EisirgaZCZGMi5qM4nfGRaMgM5bHckUt0gmcLr7Ml3cM5PtTcA2fg1qaoBWF2Q0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-3-rd-test-england-vs-pakistan%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb11.strmd.st/secure/srOcCMhlsRvPbFgqDMxDCqKrwlpARuMp/rtmp/stream/xURMA3Dg3JSfYA3SrTmLny8IvjjiZB8XVZnNjXuhdLo8YbYdVDy0xUz4GQN8hEuwOU8U_DTzZL-fY1LmWgY/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-3-rd-test-england-vs-pakistan%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-3-rd-test-england-vs-pakistan%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb8.strmd.st/secure/UjslfaNsIyxYdVcwEwKrUWZcAIAMuFCB/rtmp/stream/iWoH3ga8liQ9Rdq4Trp9EisirgaZCZGMi5qM4nfGRaMgM5bHckUt0gmcLr7Ml3cM5PtTcA2fg1qaoBWF2Q0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-3-rd-test-england-vs-pakistan%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/dErbvQKFZALiWyOXRCGyVUWYjrziUjKs/rtmp/stream/xURMA3Dg3JSfYA3SrTmLny8IvjjiZB8XVZnNjXuhdLo8YbYdVDy0xUz4GQN8hEuwOU8U_DTzZL-fY1LmWgY/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-3-rd-test-england-vs-pakistan%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-3-rd-test-england-vs-pakistan%2F2&source=tv2",
             "resolved": true
           }
@@ -29,19 +69,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.strmd.st/secure/LnjGXrAsIJbWjJKRUuWibXjVlyXAXoIY/rtmp/stream/wr7RLhW7CIeEv57S0OVHcKI1YSDtwN7DGDWndnb7_xN5nXz0wHLF2QXaVP_WLUMT9sxzaYZM4lEvGFYPovM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-2026-adcc-world-championships-day-1%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb11.strmd.st/secure/PUnjtGtupMGMbBlTRvPGsTUjQNLOGvZy/rtmp/stream/kM0AB8ttJ8E-T0uWMQWyaKwDS3ZxKtO7dit0Wrgdhf5SF1ttJhXjpodrK0odnry9z8_Zg1JFmvmajtfSQiA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-2026-adcc-world-championships-day-1%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-2026-adcc-world-championships-day-1%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb8.strmd.st/secure/BVxAaIADfeJzuMQXxZWtFoakVOhgvBzo/rtmp/stream/wr7RLhW7CIeEv57S0OVHcKI1YSDtwN7DGDWndnb7_xN5nXz0wHLF2QXaVP_WLUMT9sxzaYZM4lEvGFYPovM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-2026-adcc-world-championships-day-1%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/QBaoXNQUYwAOhptORwLekEUQgASmlnHU/rtmp/stream/kM0AB8ttJ8E-T0uWMQWyaKwDS3ZxKtO7dit0Wrgdhf5SF1ttJhXjpodrK0odnry9z8_Zg1JFmvmajtfSQiA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-2026-adcc-world-championships-day-1%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-2026-adcc-world-championships-day-1%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb6.strmd.st/secure/OaEPPMXQfqfXkKIcirnDIdVWAMSUDAyi/rtmp/stream/wr7RLhW7CIeEv57S0OVHcKI1YSDtwN7DGDWndnb7_xN5nXz0wHLF2QXaVP_WLUMT9sxzaYZM4lEvGFYPovM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-2026-adcc-world-championships-day-1%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb15.strmd.st/secure/EhKhIWAcUjbqkgAsVqdfZDbifCqneodR/rtmp/stream/kM0AB8ttJ8E-T0uWMQWyaKwDS3ZxKtO7dit0Wrgdhf5SF1ttJhXjpodrK0odnry9z8_Zg1JFmvmajtfSQiA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-2026-adcc-world-championships-day-1%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-2026-adcc-world-championships-day-1%2F3&source=tv2",
             "resolved": true
           }
@@ -53,13 +93,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb15.strmd.st/secure/ottDkGSBCuVMjCIUUBbsGOIprOgodWIU/rtmp/stream/rvozgqCF73MXENsH77gmbRy8bBrIJwly8e_v2VsbZbOY12hFaaTeRnjLzuIoUG3PX5dyYlKRmWHD/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-one-samurai-3%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/AYotftyXSssqvwvWoodOVyclWKJTZaFx/rtmp/stream/LfDxJJh2jOEOpOQ5nwuEpK7_OtH1C9B2QjLdTST15Dsz03SI6UDsOofC3WU7NM5IDC4ROlZugvN0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-one-samurai-3%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-one-samurai-3%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb14.strmd.st/secure/FifTgIqsNKNONHAsZIfPAnEEdedNXsjh/rtmp/stream/rvozgqCF73MXENsH77gmbRy8bBrIJwly8e_v2VsbZbOY12hFaaTeRnjLzuIoUG3PX5dyYlKRmWHD/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-one-samurai-3%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/wJjVrazwVVkIVTqULkWOLpfusLKPhZgD/rtmp/stream/LfDxJJh2jOEOpOQ5nwuEpK7_OtH1C9B2QjLdTST15Dsz03SI6UDsOofC3WU7NM5IDC4ROlZugvN0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-one-samurai-3%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-one-samurai-3%2F2&source=tv2",
             "resolved": true
           }
@@ -68,24 +108,48 @@
     ],
     "soccer": [
       {
+        "title": "Gamba Osaka vs FC Tokyo",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.wfty.st/secure/Wwp73sWa90t3al_qIGXc4Q/sigma/gamba-osaka-fc-tokyo/1/4739644/1789230313/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739644%2Fgamba-osaka-fc-tokyo%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739644%2Fgamba-osaka-fc-tokyo%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.wfty.st/secure/pcx2piN739s9XYbPdnp2RA/sigma/gamba-osaka-fc-tokyo/1/4739644/1789230323/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739644%2Fgamba-osaka-fc-tokyo%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739644%2Fgamba-osaka-fc-tokyo%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.wfty.st/secure/OnquCPXiSqdpxdOZgsYzBA/sigma/gamba-osaka-fc-tokyo/1/4739644/1789230338/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739644%2Fgamba-osaka-fc-tokyo%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739644%2Fgamba-osaka-fc-tokyo%2Fsigma%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
         "title": "PSS Sleman vs Madura United",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/OOtvCjq_B9NzZ1zUC1wyiw/sigma/pss-sleman-madura-united/1/4806653/1789228515/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806653%2Fpss-sleman-madura-united%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/w6KK3vLwx88tm84QQaA7kg/sigma/pss-sleman-madura-united/1/4806653/1789230350/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806653%2Fpss-sleman-madura-united%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4806653%2Fpss-sleman-madura-united%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/AqaCDIz2DX_5qxahcDUrYQ/sigma/pss-sleman-madura-united/1/4806653/1789228528/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806653%2Fpss-sleman-madura-united%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/OukNPUKZvrW6z4bXt-uNOg/sigma/pss-sleman-madura-united/1/4806653/1789230363/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806653%2Fpss-sleman-madura-united%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4806653%2Fpss-sleman-madura-united%2Fsigma%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb1.wfty.st/secure/6KDDc88EPaPche0tNRzrKA/sigma/pss-sleman-madura-united/1/4806653/1789228539/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806653%2Fpss-sleman-madura-united%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/dk7DbkbV_3iKOfWah3SFgg/sigma/pss-sleman-madura-united/1/4806653/1789230373/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806653%2Fpss-sleman-madura-united%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4806653%2Fpss-sleman-madura-united%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
@@ -97,44 +161,134 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/Sg9m43urTzIqkV0LCkhojQ/sigma/mito-hollyhock-kawasaki-frontale/1/4739649/1789228550/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739649%2Fmito-hollyhock-kawasaki-frontale%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/RGVye_-U7dhtHJXvnZ9Vig/sigma/mito-hollyhock-kawasaki-frontale/1/4739649/1789230383/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739649%2Fmito-hollyhock-kawasaki-frontale%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4739649%2Fmito-hollyhock-kawasaki-frontale%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/sla_Lpbh6q0WbOlhfFKguQ/sigma/mito-hollyhock-kawasaki-frontale/1/4739649/1789228562/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739649%2Fmito-hollyhock-kawasaki-frontale%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/s09l9kgz2FZtpC6KPylOlQ/sigma/mito-hollyhock-kawasaki-frontale/1/4739649/1789230395/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739649%2Fmito-hollyhock-kawasaki-frontale%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4739649%2Fmito-hollyhock-kawasaki-frontale%2Fsigma%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/B5nAqHhp7LCF0_VpUU0H3A/sigma/mito-hollyhock-kawasaki-frontale/1/4739649/1789228574/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739649%2Fmito-hollyhock-kawasaki-frontale%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/Zk64q-H5kKyw5fK7PCcwIQ/sigma/mito-hollyhock-kawasaki-frontale/1/4739649/1789230404/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739649%2Fmito-hollyhock-kawasaki-frontale%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4739649%2Fmito-hollyhock-kawasaki-frontale%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Shimizu S-Pulse vs Fukuoka",
+        "title": "Shimizu S-Pulse vs Avispa Fukuoka",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/XBMJcCtBxHaIIyROtmPh6g/sigma/shimizu-s-pulse-fukuoka/1/4739646/1789228585/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739646%2Fshimizu-s-pulse-fukuoka%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/7WjFMBQVMewWtq9E5Pj1Xg/sigma/shimizu-s-pulse-fukuoka/1/4739646/1789230414/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739646%2Fshimizu-s-pulse-fukuoka%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4739646%2Fshimizu-s-pulse-fukuoka%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb6.wfty.st/secure/bmx9g8d1hz1ZkmuzI20Jlg/sigma/shimizu-s-pulse-fukuoka/1/4739646/1789228595/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739646%2Fshimizu-s-pulse-fukuoka%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/22Mm4d3wxfiSqY0P4VK7sQ/sigma/shimizu-s-pulse-fukuoka/1/4739646/1789230424/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739646%2Fshimizu-s-pulse-fukuoka%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4739646%2Fshimizu-s-pulse-fukuoka%2Fsigma%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/G6VlryTVDCZWO7OxJoZUWA/sigma/shimizu-s-pulse-fukuoka/1/4739646/1789228606/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739646%2Fshimizu-s-pulse-fukuoka%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/rBf_OxNNVRIjmXYLlh_DXQ/sigma/shimizu-s-pulse-fukuoka/1/4739646/1789230433/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739646%2Fshimizu-s-pulse-fukuoka%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4739646%2Fshimizu-s-pulse-fukuoka%2Fsigma%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Daejeon Hana Citizen vs Pohang Steelers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.wfty.st/secure/WTmsvitHtjpQdlK4hVb4uA/sigma/daejeon-hana-citizen-pohang-steelers/1/4652590/1789230442/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4652590%2Fdaejeon-hana-citizen-pohang-steelers%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4652590%2Fdaejeon-hana-citizen-pohang-steelers%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.wfty.st/secure/iy_osh7oMPFUd5-KzjaZ5w/sigma/daejeon-hana-citizen-pohang-steelers/1/4652590/1789230460/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4652590%2Fdaejeon-hana-citizen-pohang-steelers%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4652590%2Fdaejeon-hana-citizen-pohang-steelers%2Fsigma%2F3&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb1.wfty.st/secure/oNfUhY6-m-211snWcNIOSw/sigma/daejeon-hana-citizen-pohang-steelers/1/4652590/1789230469/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4652590%2Fdaejeon-hana-citizen-pohang-steelers%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4652590%2Fdaejeon-hana-citizen-pohang-steelers%2Fsigma%2F4&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "V-Varen Nagasaki vs Nagoya Grampus",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.wfty.st/secure/AejIO0wJBP9MqdrY7SLSiw/sigma/v-varen-nagasaki-nagoya-grampus/1/4739641/1789230478/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739641%2Fv-varen-nagasaki-nagoya-grampus%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739641%2Fv-varen-nagasaki-nagoya-grampus%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb5.wfty.st/secure/NaieWhHJcEq0bSlnkrSYPA/sigma/v-varen-nagasaki-nagoya-grampus/1/4739641/1789230486/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739641%2Fv-varen-nagasaki-nagoya-grampus%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739641%2Fv-varen-nagasaki-nagoya-grampus%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb4.wfty.st/secure/PXJIdDJNxenNtJN9RI740w/sigma/v-varen-nagasaki-nagoya-grampus/1/4739641/1789230495/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739641%2Fv-varen-nagasaki-nagoya-grampus%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739641%2Fv-varen-nagasaki-nagoya-grampus%2Fsigma%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Hiroshima Sanfrecce vs Cerezo Osaka",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.wfty.st/secure/l58VB_P_hmXNA4dyPYtG4w/sigma/hiroshima-sanfrecce-cerezo-osaka/1/4739642/1789230504/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739642%2Fhiroshima-sanfrecce-cerezo-osaka%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739642%2Fhiroshima-sanfrecce-cerezo-osaka%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb3.wfty.st/secure/gyqNxDT_-eGw32Q9cw71KA/sigma/hiroshima-sanfrecce-cerezo-osaka/1/4739642/1789230513/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739642%2Fhiroshima-sanfrecce-cerezo-osaka%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739642%2Fhiroshima-sanfrecce-cerezo-osaka%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Machida Zelvia vs Yokohama F.Marinos",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.wfty.st/secure/CPHc9Rd0-OxQ7CQdnoy9OA/sigma/machida-zelvia-yokohama-f-marinos/1/4739650/1789230540/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739650%2Fmachida-zelvia-yokohama-f-marinos%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739650%2Fmachida-zelvia-yokohama-f-marinos%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.wfty.st/secure/Z9uOcul0yLiQUVsW9IvEYw/sigma/machida-zelvia-yokohama-f-marinos/1/4739650/1789230549/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739650%2Fmachida-zelvia-yokohama-f-marinos%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739650%2Fmachida-zelvia-yokohama-f-marinos%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb5.wfty.st/secure/ifjWSwhblBuqxo3DpGhpqA/sigma/machida-zelvia-yokohama-f-marinos/1/4739650/1789230558/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4739650%2Fmachida-zelvia-yokohama-f-marinos%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4739650%2Fmachida-zelvia-yokohama-f-marinos%2Fsigma%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -145,13 +299,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/nVqOTsZg6Zm0_2Cn6lnfPg/sigma/persija-jakarta-persib-bandung/1/4806656/1789228616/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806656%2Fpersija-jakarta-persib-bandung%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/UOcwijHM_fjGYOuJRkXG6A/sigma/persija-jakarta-persib-bandung/1/4806656/1789230567/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806656%2Fpersija-jakarta-persib-bandung%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4806656%2Fpersija-jakarta-persib-bandung%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/Pp6oaBda9JnQeEs4InfHVA/sigma/persija-jakarta-persib-bandung/1/4806656/1789228625/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806656%2Fpersija-jakarta-persib-bandung%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/Mky8XFi4x7YxO5DTR6YRAA/sigma/persija-jakarta-persib-bandung/1/4806656/1789230575/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4806656%2Fpersija-jakarta-persib-bandung%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4806656%2Fpersija-jakarta-persib-bandung%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
