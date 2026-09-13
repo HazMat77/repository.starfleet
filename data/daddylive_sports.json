@@ -1,7 +1,8 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-13T00:25:02.669793Z",
+  "scraped_at": "2026-09-13T00:55:02.016959Z",
   "sports_events": {
+    "wwe": [],
     "other_events": [
       {
         "title": "Santos vs Cruzeiro",
@@ -9,40 +10,95 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/LSs_N5Yz_OlXm6uY-6jTuQ/deluxe/santos-cruzeiro/1/401841233/1789280715/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841233%2Fsantos-cruzeiro%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/8uVegqXkj1GKaB7S3AqWlQ/deluxe/santos-cruzeiro/1/401841233/1789282513/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841233%2Fsantos-cruzeiro%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841233%2Fsantos-cruzeiro%2Fdeluxe%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb5.wfty.st/secure/YU8BYsmXXZBBRS_fhofukA/deluxe/santos-cruzeiro/1/401841233/1789282528/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841233%2Fsantos-cruzeiro%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841233%2Fsantos-cruzeiro%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb5.wfty.st/secure/RyOBg16dj0lMr575Z8XehA/deluxe/santos-cruzeiro/1/401841233/1789282543/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841233%2Fsantos-cruzeiro%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841233%2Fsantos-cruzeiro%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
         ]
       }
     ],
-    "wwe": [],
     "cfb": [
-      {
-        "title": "TCU vs Grambling State",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/15v7wCYe2kZXg-fjK9DDRQ/delta/TCU%20vs%20Grambling%20State/1/4706148/1789280715/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706148%2FTCU%20vs%20Grambling%20State%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706148%2FTCU%20vs%20Grambling%20State%2Fdelta%2F1&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
       {
         "title": "Baylor vs Prairie View A&M",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/Q_gcY6iCYxemSinKl3bz6A/delta/Baylor%20vs%20Prairie%20View%20A%20and%20M/1/4706104/1789280729/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706104%2FBaylor%20vs%20Prairie%20View%20A%20and%20M%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706104%2FBaylor%20vs%20Prairie%20View%20A%20and%20M%2Fdelta%2F1&source=tv3",
+            "playable_url": "https://lb3.wfty.st/secure/nONszaqIaWiZQe0NdZ9QrA/pro/baylor-prairie-view-a-m/1/4706104/1789282513/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706104%2Fbaylor-prairie-view-a-m%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706104%2Fbaylor-prairie-view-a-m%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/yrvQuY479N0l4T_pziILxA/pro/baylor-prairie-view-a-m/1/4706104/1789282528/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706104%2Fbaylor-prairie-view-a-m%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706104%2Fbaylor-prairie-view-a-m%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb1.wfty.st/secure/N2JZDFOy6PW6kvIn2Pxpxw/pro/baylor-prairie-view-a-m/1/4706104/1789282542/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706104%2Fbaylor-prairie-view-a-m%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706104%2Fbaylor-prairie-view-a-m%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "TCU vs Grambling State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.wfty.st/secure/riisfIN9vELwmaujvVwvFA/pro/tcu-grambling-state/1/4706148/1789282553/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706148%2Ftcu-grambling-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706148%2Ftcu-grambling-state%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/_GqbJL4S4ftG6SEmX6SWyQ/pro/tcu-grambling-state/1/4706148/1789282565/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706148%2Ftcu-grambling-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706148%2Ftcu-grambling-state%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb3.wfty.st/secure/qzT7Tzs9JCddqhwEVt9y5w/pro/tcu-grambling-state/1/4706148/1789282576/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706148%2Ftcu-grambling-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706148%2Ftcu-grambling-state%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
       }
     ],
-    "mlb": []
+    "mlb": [],
+    "soccer": [
+      {
+        "title": "Tridents vs Warriors",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.wfty.st/secure/Ze6rSj5bSmVIIxvbyeguHQ/sigma/tridents-warriors/1/1540218/1789282513/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F1540218%2Ftridents-warriors%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=1540218%2Ftridents-warriors%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.wfty.st/secure/pOG3Q6oRrpv3Ct3nzGzQmw/sigma/tridents-warriors/1/1540218/1789282528/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F1540218%2Ftridents-warriors%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=1540218%2Ftridents-warriors%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ]
   }
 }
