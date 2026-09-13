@@ -1,18 +1,888 @@
 {
   "site": "https://streameasti.is",
-  "scraped_at": "2026-09-13T20:25:13.477684Z",
+  "scraped_at": "2026-09-13T20:55:02.428766Z",
   "categories": {
-    "nfl": [],
+    "nfl": [
+      {
+        "title": "Nfl Redzone Live",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": "https://lb17.strmd.st/secure/FFaqvtgjatrGbNDWGcCeFcOecFkhqxys/rtmp/stream/REVultrsX01S8ShyBmS0Qxp9QOtRVnXmTU7X8p4E-LK6OLDmKfE2ZianafVAWfnKecKaFGY3NnLHiQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-nfl-red-zone/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb9.strmd.st/secure/HLHKpCjcijJqgszzsqNiuIdzddwrTbRM/rtmp/stream/tqEi_qLyB9gVVH2quAjlWK6fA0DZVbaYZpB_SNGLuNExutq_SUmkbKxwX6_a6ocFFvcdVbwj0SrsoD8PR4U/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-nfl-red-zone/2",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb9.strmd.st/secure/GLcbquuJTXKnoQeoiZqhqhTWVDzRGrqx/ingest/stream/nnflredzone/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/-20260913/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Cincinnati Bengals Vs Tampa Bay Buccaneers",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/tb-cin",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb12.strmd.st/secure/saPImPZmrMhLfucIAuGZrwfVvCmYOdyg/rtmp/stream/wNOPVds7rVgJCSarH2lWvRZhPDrTKzc6HjCWXtJZqhnKwxR7Zw-ewdmGSHuUV51VTbcGZby2ki6H1Hs4qF2BTHGkQg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-tampa-bay-buccaneers-at-cincinnati-bengals/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb10.strmd.st/secure/oVSiaENzOXGCGnBqeVtKAqUrBYQEdPHj/ingest/stream/mcincinnatibengals/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1097/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb15.strmd.st/secure/VuLyMhSKEvtONaMeHYNWsuTuehnloyfe/delta/stream/live_nfl_bengals-buccaneers-live-streaming-587779200/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl_bengals-buccaneers-live-streaming-587779200/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Detroit Lions Vs New Orleans Saints",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/no-det",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb17.strmd.st/secure/pbFdjdEeTsFAcDAGVfDRSevJoAjoLJku/rtmp/stream/WpVQDoElwQ1LNrtEHwKIMKTVImnxtOig3PMsbkdiyXoAlRkNifFzLGzP0_NHO3cOZc7bzbHqkq1DHOCLU6Q/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-new-orleans-saints-at-detroit-lions/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb3.strmd.st/secure/gvtiMpfGIMZOlAObvKfnVMSLOwQzizqu/ingest/stream/mdetroitlions/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1098/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb11.strmd.st/secure/tkJIumBppsrxXOeIQUITZWDITdGIgfMv/delta/stream/live_nfl_lions-saints-live-streaming-587779632/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl_lions-saints-live-streaming-587779632/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Tennessee Titans Vs New York Jets",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/nyj-ten",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb6.strmd.st/secure/PZcVqhWNUHTrsAowwPYIQVNYkDsNUJSV/rtmp/stream/r5d59sUJSC3vSlRuCWIxF0fpOlzvEYQj3_YlHi6wxsTmqB5QNchmRYwjxK2ASGLVf6QKQvXN-oG4jFnEKSKXKVI/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-new-york-jets-at-tennessee-titans/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb1.strmd.st/secure/rvgkZuJkXRrQguKscrUqzcgYzhCwQAzs/ingest/stream/mtennesseetitans/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1099/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb12.strmd.st/secure/tmYRiVIOYvdSUxLvqzLmQRSaWBAweXBF/delta/stream/live_nfl_titans-jets-live-streaming-587781792/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl_titans-jets-live-streaming-587781792/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Indianapolis Colts Vs Baltimore Ravens",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/bal-ind",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb4.strmd.st/secure/TEhvrPGJZpqeIWthOOgPiHlqJAMyDGnw/rtmp/stream/CpQWyOG0tjqXS85SIX1HBSW_Dsgmi9pHwXL9wojCRU2qqxCBwyw61xal3guJgEfO4hvWk1rniIuxVNB-F07ePixanQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-baltimore-ravens-at-indianapolis-colts/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb15.strmd.st/secure/LXGlBDhHfBDNNJXKevVwPIyymHvRnoDK/ingest/stream/mindianapoliscolts/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1100/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb5.strmd.st/secure/PzwAgLisUqAiDoywIDzgLNJjtPgYxmsT/delta/stream/live_nfl_colts-ravens-live-streaming-587780496/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl_colts-ravens-live-streaming-587780496/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Pittsburgh Steelers Vs Atlanta Falcons",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/atl-pit",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb2.strmd.st/secure/eAnXJxUmzvxKqBqVYqfUMbirOXQBBhWN/rtmp/stream/r7Bgp1L7Ntoi47x3pG3hPaNxGpBkRD9qclI0EVUQgX-Bf6onM-Pdr43968zR6wfx2YMod1eB4dmbd508sR6WHb2JWwc/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-atlanta-falcons-at-pittsburgh-steelers/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb2.strmd.st/secure/tMNxyGChPqhfGlBZzfkbEJAFWSeZIcGl/ingest/stream/mpittsburghsteelers/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1101/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb17.strmd.st/secure/TlNeaFQwzcBmTdSnIhOmxeiEAVbwxxLk/delta/stream/live_nfl_steelers-falcons-live-streaming-587781360/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl_steelers-falcons-live-streaming-587781360/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Carolina Panthers Vs Chicago Bears",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/chi-car",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb9.strmd.st/secure/jzLqduDOcCDnVIZzhJQanWonHoufmDep/rtmp/stream/0Gg4-yR5mwTn1Zhm2I4rBohcj4fUiSz4RMNVvoipg7YrD4TxwF6JXA4KJbZH9WNMPd7SYwM1ORuRJ1iZ4FeOKcEv/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-chicago-bears-at-carolina-panthers/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb6.strmd.st/secure/mXgeRUeDFfDtSqhiRSOEmFTVYxHJwHMd/ingest/stream/mcarolinapanthers/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1102/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb14.strmd.st/secure/FPNaQJOqjKUQTivPeaVHalAiOCUclzAa/delta/stream/live_nfl_panthers-bears-live-streaming-587778768/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl_panthers-bears-live-streaming-587778768/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Jacksonville Jaguars Vs Cleveland Browns",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/cle-jax",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb18.strmd.st/secure/AEIaWzyZysRafHPhrjbGCZJNRhMPdEfh/rtmp/stream/s3nD5m1SLmZiICSjQXmeaPYDYjJckL2A08WonzCVwK0O29Xs0qA4JGzZmb-vD4RheT6fei3eQVAGhXh8u5qAlaIu2KAN/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-cleveland-browns-at-jacksonville-jaguars/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb15.strmd.st/secure/aprLfrLSHGOSaLusRTBxZBlGtPvOSQhP/ingest/stream/mjacksonvillejaguars/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1103/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb15.strmd.st/secure/JtVUHpEslbEknDAVdcxyINGiPSsMUHlr/delta/stream/live_nfl_jaguars-browns-live-streaming-587780928/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl_jaguars-browns-live-streaming-587780928/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Houston Texans Vs Buffalo Bills",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/buf-hou",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb10.strmd.st/secure/AvyzjJZVdTdudwBRGXwsZirCfmjdTKAV/rtmp/stream/l3hfVKTr_Ip-LKJuJXuLHwWemXDZW8ykCxp7LT5lX3HVsXdDst2ROPFRqz0RvcddXGGnez4QvS1ywOqi_9Xm/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-buffalo-bills-at-houston-texans/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb10.strmd.st/secure/xUthlBnFoyHlusYKasufMYlMXBUIfBsN/ingest/stream/mhoustontexans/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1104/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb14.strmd.st/secure/YYpyGWaJXaQrmNnhoDkRfZaCAJokRORj/delta/stream/live_nfl_texans-bills-live-streaming-587780064/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl_texans-bills-live-streaming-587780064/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Las Vegas Raiders Vs Miami Dolphins",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/mia-lv",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb11.strmd.st/secure/rprhHNLAikheXlAXDqKZmQIzoGSbYCUc/rtmp/stream/DTnOi8kvP2MneELQ5MJ9ZFMD26h09RQToee1hmqSLfMyKFbJ4vQZDavD-_ch9rk8AjhGTQkLL1hvEjoxojSSuNE/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-miami-dolphins-at-las-vegas-raiders/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb1.strmd.st/secure/AKvCppsBooggbnVrtPjxIJaBfBbyffpo/ingest/stream/mlasvegasraiders/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1105/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Minnesota Vikings Vs Green Bay Packers",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/gb-min",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb2.strmd.st/secure/RhYJecjkneFvHbAYrAyYeXmzrlhZONre/rtmp/stream/stxkMY3gXpMCZsrlpH-4lYbes6zbIbLU2Pg1cLDF6hXSnmZ5XQVc6DtUX7bNKRXcDMm30BWOAqac6kex1wG6hPZq/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-green-bay-packers-at-minnesota-vikings/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb4.strmd.st/secure/VBddHfSrmsxHlUnDjbWcOsmOPPaOShpv/ingest/stream/mminnesotavikings/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1106/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb10.strmd.st/secure/icScHFtncKEeaCGYNmfGuHkqNxavOoIf/delta/stream/live_nfl_vikings-packers-live-streaming-587783088/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl_vikings-packers-live-streaming-587783088/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Philadelphia Eagles Vs Washington Commanders",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/wsh-phi",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb18.strmd.st/secure/wzxNaUpGXcEfWRDZutEdgWanhKMYJvGB/rtmp/stream/ew2EB_U5p7hQAOMdJf6PVZYt_6OA7qyod8VNOCRsOffMob2o0ZmIeh4R19kM8h7wzPw1hcVqXS2WeT7vsUoZHAFuwZo/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-washington-commanders-at-philadelphia-eagles/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb16.strmd.st/secure/NQXihUaOmjKBbuLPvsubakAmQtCRprZw/ingest/stream/mphiladelphiaeagles/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1107/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb16.strmd.st/secure/hkxEkgeYyNqEAgXgZwZUkCGTqLQUXqwc/delta/stream/live_nfl_eagles-commanders-live-streaming-587783520/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_nfl_eagles-commanders-live-streaming-587783520/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Los Angeles Chargers Vs Arizona Cardinals",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/ari-lac",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb3.strmd.st/secure/ZjAqJqSeIKNINLgDpVDQqPnHZbpWijVv/rtmp/stream/LkMMrs8DHQ_djqIQV92Zn8EmcU1wg2Qo5awVkrXhgK6JP3BT7to2UYkJn6eqIouiGkAs9VKog4bEmbNfFtv9VcY8ekc/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-arizona-cardinals-at-los-angeles-chargers/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb3.strmd.st/secure/PrMmgnaOXwpokIyIKtYYoeyLNxEOTuTy/ingest/stream/mlosangeleschargers/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1108/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "New York Giants Vs Dallas Cowboys",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-13/dal-nyg",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb20.strmd.st/secure/CxGZZWpxDIEJvvbweLcncmonuNCvDgaa/rtmp/stream/9vhEBoVXmAsFZbECexT75X3xNkrsexvZFsrH11znKuTghhGpUIPFRTd_6vKu9-8lfKqtRgPK96HAT4hHj9U2/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-dallas-cowboys-at-new-york-giants/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb20.strmd.st/secure/mIEVGPLMhfgJGOCTKnQAOwvXoHCyIysf/ingest/stream/mnewyorkgiants/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1109/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Kansas City Chiefs Vs Denver Broncos",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-14/den-kc",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb1.strmd.st/secure/MonEqWjaPulVkXhISDBHOjfeYTcFmYnY/rtmp/stream/nzqEFyZPgAd6y4aTtxzkjohpZ_BsY0PMnFKOhD4X30hqXfjfQqhGyANpWER9aGkfXCUnLmnb/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-denver-broncos-at-kansas-city-chiefs/1",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "nba": [],
-    "mlb": [],
+    "mlb": [
+      {
+        "title": "Athletics Vs Seattle Mariners",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-13/sea-ath",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb8.strmd.st/secure/nxhDEEBkFUpVHnHsyOpkdCyBORNiHHEa/rtmp/stream/KB_pO3zwWRPMDQWB7FKnWCtkPFZNEp1Sgo-BdA1NMK5aif96jG-8WHyScEIUJ1D1xDuVPISMARTBwTc/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-athletics/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb8.strmd.st/secure/cQXZefNUmpOBVDvrywqxdIorcutVNfSE/ingest/stream/moaklandathletics/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1194/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb8.strmd.st/secure/KaKnKYwLBvIZbZbicqtZxzCIlDJxfQCv/delta/stream/live_mlb_athletics-mariners-live-streaming-594346032/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_mlb_athletics-mariners-live-streaming-594346032/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Arizona Diamondbacks Vs Texas Rangers",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-13/tex-ari",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb1.strmd.st/secure/huwqfTlhJwEgrlHWyaFhHLmJWhfjvoML/rtmp/stream/Ij6Z7J7KRLadZOf6wZRacCSI8vSkVCNzHuI4kWpFNQ3q_JTM1mCZzpmwc5vb-j62_lIexO7KWl-9WNJpqp-FGvbZA261/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-texas-rangers-vs-arizona-diamondbacks/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb7.strmd.st/secure/CFPXtwJaHkATiqpcvOupOdeFcUfKEKnI/ingest/stream/marizonadiamondbacks/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1195/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb7.strmd.st/secure/wyTeUuLYmLnEqrskFOmnWYRURcRaHYZj/delta/stream/live_mlb_diamondbacks-rangers-live-streaming-594346464/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_mlb_diamondbacks-rangers-live-streaming-594346464/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Cincinnati Reds Vs Los Angeles Dodgers",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-13/lad-mia",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb11.strmd.st/secure/REPdSxXusjHffWZqRTcCZfjkQTKitNVM/ingest/stream/mcincinnatireds/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1323/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Cleveland Guardians Vs Chicago White Sox",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-13/cle-min",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb2.strmd.st/secure/ibQOdJcTELQZZxvoijHdWLsHcccohuux/ingest/stream/mclevelandguardians/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1324/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Toronto Blue Jays Vs Detroit Tigers",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-13/bal-tor",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb10.strmd.st/secure/chOABLXgwamkGmKLworCMwUkmetTrPtH/ingest/stream/mtorontobluejays/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1325/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "New York Mets Vs Baltimore Orioles",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-13/nym-nyy",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb6.strmd.st/secure/RaABzAXqMjOUiQgQPdPLDyKfZeDjodLt/ingest/stream/mnewyorkmets/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1326/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Chicago Cubs Vs Atlanta Braves",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-13/phi-atl",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb12.strmd.st/secure/asCepdoCcvzWvNFYSsnxLaSMvsjxzgzo/ingest/stream/mchicagocubs/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1327/1",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "nhl": [],
     "ufc": [],
     "boxing": [],
-    "soccer": [],
+    "soccer": [
+      {
+        "title": "Neom Vs Al Fateh",
+        "is_live": false,
+        "links": []
+      },
+      {
+        "title": "Getafe Vs Deportivo De A Coruna",
+        "is_live": false,
+        "links": []
+      },
+      {
+        "title": "Benfica Vs Gil Vicente",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": "https://lb1.strmd.st/secure/ywCKCEyRasVEnDpXfVygKAvVOJLmOIun/admin/stream/ppv-benfica-vs-gil-vicente/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-benfica-vs-gil-vicente/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Arouca Vs Santa Clara",
+        "is_live": false,
+        "links": []
+      },
+      {
+        "title": "Psv Eindhoven Vs Sparta Rotterdam",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/eredivisie/2026-09-13/psv-spa",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb18.strmd.st/secure/sihUxyInxGnhAbHzwGzKXRtgaNdNLvAN/admin/stream/ppv-psv-eindhoven-vs-sparta-rotterdam/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-psv-eindhoven-vs-sparta-rotterdam/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Al Riyadh Vs Al Kholood",
+        "is_live": false,
+        "links": []
+      },
+      {
+        "title": "Al Diriyah Vs Abha",
+        "is_live": false,
+        "links": []
+      },
+      {
+        "title": "Sassuolo Vs Juventus",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/seriea/2026-09-13/sas-juv",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb10.strmd.st/secure/zOpbpwpLAnVkFRacNrsoBRPUigmKVHKF/rtmp/stream/zy-74Dxxbil5TMV3b4So52FaxXDh5R6K2ofNcVuAmFG5F1XzyqqNLS3cO6zTjvWwVQbLyHwm-wg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-sassuolo-vs-juventus/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Brest Vs Paris Saint Germain",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/ligue1/2026-09-13/bre-psg",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb6.strmd.st/secure/fPnvRGCDuTJmqZQxpWmeYwWtqKMtZhDW/rtmp/stream/gfbL3QJM_Yd0xCPeGcfKJDiCUIiltNIBld19h-ic-y5_yr5t3Ke4WkHsL2_-Ts2H_Is82r4vRJs/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-brest-vs-paris-saint-germain/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Real Sociedad Vs Atletico Madrid",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/laliga/2026-09-13/rso-atm",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb15.strmd.st/secure/JNpWliRVPpXJIlLNritpHOtvQOmOWllz/rtmp/stream/xCwbrFRQE5PNU5X56f0Y7SkZ4F6jWIuXe5pyVirzkjqEpnQPYxhDSJRYVrZTGN4nkrNYMgmWjSA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-real-sociedad-vs-atl-tico-madrid/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Famalicao Vs Sporting Cp",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/portuguese-liga/2026-09-13/fcf-scp",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb17.strmd.st/secure/MJpTwvKGgqHrtxBASlgQSlGkMxYCnuyv/rtmp/stream/Oz12KJHZO7AUm71og-2XguxReWx61uxNdSDZtAwpGIYTSQwmxHtjjrkgbX83SLSEUEdjL8SpCvln/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-fc-famalicao-vs-sporting-cp/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Chicago Fire Vs New England Revolution",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mls/2026-09-13/chi-ne",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb14.strmd.st/secure/wwUSgOjQTRgyteLtEzQoiJngssfjjvCK/rtmp/stream/PJnkvpqdcuLQtrci_MwLfB1bJbUOKNQX-NIxI-bM0ROu13AszzYQb6QtqMNrpPa4L1Yet41bhWAe/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-new-england-revolution/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Vancouver Whitecaps Vs Austin Fc",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mls/2026-09-13/van-atx",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb20.strmd.st/secure/VvNFkHatTPlmRyajFEohNnKRWUXvIdpu/rtmp/stream/H9WKa3MHSRjUWAYcWj_5edLazgQHsf-mK_dkXS0emSblOxaj6dtidcOtKF0h6kWK6jH4Pi3L9bfv/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-austin-fc/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "San Diego Fc Vs Philadelphia Union",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mls/2026-09-13/sd-phi",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb16.strmd.st/secure/LOmoPcfTvgFDuyOwUXwmdNoJMjoRmaQa/rtmp/stream/LmpjVjs-Z1NNGL_TkCKcJz1I8w1kuxX9cLYuu_bv9Wm7ILuzDABOKkbJcFARFYy43QktjjcUaOc/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-san-diego-fc-vs-philadelphia-union/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Torino Vs Roma",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/seriea/2026-09-14/tor-roma",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb15.strmd.st/secure/QiOboprIkEcbTDQYUrOuzCyyARubBiDK/rtmp/stream/CEmOF19YA3yIATQru1NHZqzPXofXwA3d7qbtuX4QcXQ9a3mFNjlA6BsdsjysLjjcR7vKLWNFrN0/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-torino-vs-as-roma/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Como Vs Parma",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/seriea/2026-09-14/como-par",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb4.strmd.st/secure/PvRNCOESLoBDSBnTgibrWtAHODGxjmXt/rtmp/stream/z2w00gRFCQ470hxk9duMCMco55EQx_PMTdCJ-HxEhmX3wTw42lGqKVH-bviaj0-Zs2hHerzvppF9/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-como-vs-parma/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Rio Ave Vs Estrela Amadora",
+        "is_live": false,
+        "links": []
+      },
+      {
+        "title": "Inter Milan Vs Udinese",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/seriea/2026-09-14/int-udi",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb13.strmd.st/secure/sgQznlfbzYikhniLFRIKWQOERBgJnyLF/rtmp/stream/N1rLT5_gbvp6Om1sqkTrFnM4rHsEMR0zGC8rxJMq48eYT-xafct_Af8vQKUYhHTo7TneBWbsozM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-inter-milan-vs-udinese/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Leeds United Vs Newcastle United",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/pl/2026-09-14/lee-new",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb20.strmd.st/secure/bYGNdUuvTlSboFPaGTZaOpoxTNQlIdnx/rtmp/stream/nkOq9lLOSLtd-R9Gg9C1s9CGGsVVsdBTXmjIxEB31aB_2k0H0YgCQx6sKU-OP7XKFkzjFvYl6YQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-leeds-united-vs-newcastle-united/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb3.strmd.st/secure/EKOTwyKBbeCxKtsxadjeoyBPEnjxhFfz/ingest/stream/nleedsunited/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1197/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Villarreal Vs Real Betis",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/laliga/2026-09-14/vil-bet",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb4.strmd.st/secure/NDnqbrFBtvuqYRYXstwYNwYGNiehqWWi/rtmp/stream/pSTa5OSvu_5yCP_VX_Oh-iNq18NFVdVnuNf-LyWO7A8zw2TN784lSigxQAvfquffDVekyiDMAOs/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-villarreal-vs-real-betis/1",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Moreirense Vs Maritimo",
+        "is_live": false,
+        "links": []
+      },
+      {
+        "title": "Braga Vs Estoril Praia",
+        "is_live": false,
+        "links": []
+      }
+    ],
     "cfb": [],
     "cfl": [],
     "ncaab": [],
-    "wwe": []
+    "wwe": [
+      {
+        "title": "Raw 1738",
+        "is_live": false,
+        "links": []
+      },
+      {
+        "title": "Nxt 855",
+        "is_live": false,
+        "links": []
+      }
+    ]
   },
   "truncated": false
 }
