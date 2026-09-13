@@ -1,24 +1,65 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-09-13T00:55:02.015711Z",
+  "scraped_at": "2026-09-13T01:25:02.118904Z",
   "categories": {
     "soccer": [
       {
         "title": "Sporting Kansas City vs LAFC",
-        "is_live": false,
+        "is_live": true,
         "start_ts": 1789259400,
         "links": [
           {
-            "label": "sigma (WHD)",
-            "playable_url": "https://lb1.wfty.st/secure/46SmxdmgBxKlZESicWKBTw/sigma/sporting-kansas-city-lafc/1/761806/1789282531/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "sigma (GHD)",
+            "playable_url": "https://lb5.wfty.st/secure/AnOFvCQ4m4BOue-W2Ck8mA/sigma/sporting-kansas-city-lafc/1/761806/1789284328/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (GHD)",
+            "playable_url": "https://lb1.wfty.st/secure/ssfcc1N0oDc2SyWazfO__g/sigma/sporting-kansas-city-lafc/2/761806/1789284330/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb4.wfty.st/secure/QB_AxWEf19G6lTwj_tW4zg/sigma/sporting-kansas-city-lafc/3/761806/1789284333/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb3.wfty.st/secure/Mo16d5dX9fp_UaS4LYBnRg/sigma/sporting-kansas-city-lafc/4/761806/1789284336/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "sigma (WHD)",
-            "playable_url": "https://lb3.wfty.st/secure/nTXs6ydD94qtoMRXOFTw_g/sigma/sporting-kansas-city-lafc/2/761806/1789282534/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/OueVQ-QkMm6jdtzgh2B0UA/sigma/sporting-kansas-city-lafc/5/761806/1789284339/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb5.wfty.st/secure/rGSA_Qc_qWXgxM0nfqfFFg/sigma/sporting-kansas-city-lafc/6/761806/1789284341/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/AClU-QxjCjU_8RSNKLxW5w/platinum/sporting-kansas-city-lafc/1/761806/1789284344/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/EcPgfMm5J94w4NzKu_RNlw/delta/live_mls_kansas-city-los-angeles-live-streaming-539174448/1/761806/1789282537/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/gP7KrONeXB751i8uGgULYA/delta/live_mls_kansas-city-los-angeles-live-streaming-539174448/1/761806/1789284347/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
+    "nfl": [
+      {
+        "title": "BC Lions vs Montreal Alouettes",
+        "is_live": false,
+        "start_ts": 1789264800,
+        "links": [
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/q0uzMGrFz0hrm26kG5TYDg/prime/bc-lions-montreal-alouettes/1/4776347/1789284381/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/nJjbTksJBEMgg-wYPmVhmA/prime/bc-lions-montreal-alouettes/2/4776347/1789284384/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/xUzjvUbOThS4ZDDr0oP7xg/prime/bc-lions-montreal-alouettes/3/4776347/1789284388/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
