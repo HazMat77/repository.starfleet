@@ -1,60 +1,29 @@
 {
   "site": "https://streameasti.is",
-  "scraped_at": "2026-09-15T02:55:02.682835Z",
+  "scraped_at": "2026-09-15T22:00:23.804688Z",
   "categories": {
-    "nfl": [
-      {
-        "title": "Kansas City Chiefs Vs Denver Broncos",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embedindia.st/embed/nfl/2026-09-14/den-kc",
-            "resolved": false
-          },
-          {
-            "label": "Source 2",
-            "playable_url": "https://lb5.strmd.st/secure/NqspQzJdvrfouGIfebNUuxdYIcXxyNfe/rtmp/stream/FQLm4_9f6X1kqw1rOywT2vvWEEVSu3yxY0wA6J8_26jKOPmhv4fiyPNK3h46roMCh6Lkz_hF/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-denver-broncos-at-kansas-city-chiefs/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb5.strmd.st/secure/wEGBQWCljhVPKRWOSnOlVMzZfFBSZCId/ingest/stream/mkansascitychiefs/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1346/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 4",
-            "playable_url": "https://lb2.strmd.st/secure/AdcBUnzscbLseXGsQqiRfBvxHvtQakka/delta/stream/live_nfl_chiefs-broncos-live-streaming-587785680/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_nfl_chiefs-broncos-live-streaming-587785680/1",
-            "resolved": true
-          }
-        ]
-      }
-    ],
+    "nfl": [],
     "nba": [],
     "mlb": [
-      {
-        "title": "Cincinnati Reds Vs Los Angeles Dodgers",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb16.strmd.st/secure/YGRpRXVZPPusUBfIOqvhpWfdpLMinIWm/ingest/stream/mcincinnatireds/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1323/1",
-            "resolved": true
-          }
-        ]
-      },
       {
         "title": "Pittsburgh Pirates Vs Milwaukee Brewers",
         "is_live": false,
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb20.strmd.st/secure/UYiNLeveaODHMUFccCNvHkdWFRFMiMWO/ingest/stream/mpittsburghpirates/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-15/mil-pit",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb18.strmd.st/secure/OhtGYzNqNhVhgvIadobXGvgCNKpMoUfY/rtmp/stream/ikgU7bTe197ibbZq8rQfQdhOq25Wi6JrRkemoBhjGZ1skeENyvZeHIaElWyKT5rG2tXW3EqUDwKfaLd7I6EvFabAPA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-pittsburgh-pirates/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb4.strmd.st/secure/jFAiwteIoHkDkEAksEvziKnwDLxHrWwF/ingest/stream/mpittsburghpirates/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1335/1",
             "resolved": true
           }
@@ -66,7 +35,19 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb15.strmd.st/secure/ssfyxyXzSxXDrRltzpVvnXbNiPppvAHB/ingest/stream/mtampabayrays/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-15/ath-tb",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb15.strmd.st/secure/BpxcjIFCwfcxlZcYXjlrkoewqQFEnrLh/rtmp/stream/b80MFN1YYdZx3T9BBqSEW65VevmnpQ9j_2rYLpgI_WbiYa_nMB-RCNabES7ydfdAsvXDe244z2FrruZ0BAg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-athletics-vs-tampa-bay-rays/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb10.strmd.st/secure/UbznmgRuBEePTkqYHntUeWIVohgkhHhD/ingest/stream/mtampabayrays/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1336/1",
             "resolved": true
           }
@@ -78,122 +59,20 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb15.strmd.st/secure/HFJJcrzZDelsWMHgTWOThPxdritSeFzl/ingest/stream/mwashingtonnationals/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-15/phi-wsh",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb18.strmd.st/secure/hgKajMyBBAhZSItKAhxefgJumBWYoYOY/rtmp/stream/Ukh2lXmVMrVl627iEmfDX6lnPlw2XG76yegt-7R4duX76i5E6TfNLcjPtG0vtgDfsioCjDE6macQWHpAAU0wTSIm1Olt/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-washington-nationals/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb2.strmd.st/secure/obqydDNbtYhJdbkyJSxFXDCTogdRsosR/ingest/stream/mwashingtonnationals/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1339/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Toronto Blue Jays Vs Detroit Tigers",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embedindia.st/embed/mlb/2026-09-14/det-tor",
-            "resolved": false
-          },
-          {
-            "label": "Source 2",
-            "playable_url": "https://lb3.strmd.st/secure/PudoGogsdIJQHkBzuJSmvzDnOJmEjExc/admin/stream/ppv-detroit-tigers-vs-toronto-blue-jays/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-detroit-tigers-vs-toronto-blue-jays/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb7.strmd.st/secure/lvgGNIvoTVyYfPhtBGSEoKwJsEmJEEii/ingest/stream/mtorontobluejays/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1325/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 4",
-            "playable_url": "https://lb7.strmd.st/secure/sCoNwSukWuxVRwEecbzTMdJRokkfdukj/delta/stream/live_mlb_blue-jays-tigers-live-streaming-594367200/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_blue-jays-tigers-live-streaming-594367200/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "New York Mets Vs Baltimore Orioles",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embedindia.st/embed/mlb/2026-09-14/bal-nym",
-            "resolved": false
-          },
-          {
-            "label": "Source 2",
-            "playable_url": "https://lb13.strmd.st/secure/iHCJMidLuiyCXOpHSXWoxbNZFQeiIOwf/admin/stream/ppv-baltimore-orioles-vs-new-york-mets/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-baltimore-orioles-vs-new-york-mets/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb13.strmd.st/secure/xbVYUKICeLvFJYQngOWDPRqmIuhGuMvS/ingest/stream/mnewyorkmets/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1326/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Chicago Cubs Vs Atlanta Braves",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embedindia.st/embed/mlb/2026-09-14/atl-chc",
-            "resolved": false
-          },
-          {
-            "label": "Source 2",
-            "playable_url": "https://lb6.strmd.st/secure/taZjnWDNhwfRhAyWwgdqzHCiHSNPNvZT/rtmp/stream/Z9ag1nVrrph2tfpC_A_cEWs1ARhiimjPcSb4IRyTOYTwwitGHI1g7nvHtLAtm2s3G_4mU6xVKw7ygec_QQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-atlanta-braves-vs-chicago-cubs/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb6.strmd.st/secure/EICyChYSlfXjJpoHkaAkzdiycsGdaqYj/ingest/stream/mchicagocubs/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1327/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 4",
-            "playable_url": "https://lb19.strmd.st/secure/vxJXsdcxRrUJhIJNIxFcIsgKomTyoDzA/delta/stream/live_mlb_cubs-braves-live-streaming-594368064/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_cubs-braves-live-streaming-594368064/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Minnesota Twins Vs New York Yankees",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embedindia.st/embed/mlb/2026-09-14/nyy-min",
-            "resolved": false
-          },
-          {
-            "label": "Source 2",
-            "playable_url": "https://lb17.strmd.st/secure/aeExwrrDXSivfjKQkLvAeNLbwirJeykV/rtmp/stream/OiYRxoL2J8Sn0U6Dig86ceToAeJVizS3lp3IDvHaEU0NxQY3-Tv8FHSJ8Y-hzZ6lmTolI5f8LDFoTOhUov_S0Q/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-new-york-yankees-vs-minnesota-twins/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb1.strmd.st/secure/avrWUZKopJFJnGmGOXrMJrgyBaFNNRHW/ingest/stream/mminnesotatwins/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1328/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 4",
-            "playable_url": "https://lb6.strmd.st/secure/jaXTCNyQAkDHjdLYRZbolsYjfFqPDiol/delta/stream/live_mlb_twins-yankees-live-streaming-594368496/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_twins-yankees-live-streaming-594368496/1",
             "resolved": true
           }
         ]
@@ -204,7 +83,19 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb6.strmd.st/secure/PngtChlVYbSthRVbOaaqufyICXmphmrh/ingest/stream/mtexasrangers/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-15/bos-tex",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb15.strmd.st/secure/UxeZQSTTfqygKhKRorBcrsmEomFqathL/rtmp/stream/uZX45lTdmoYFS5Mh4f376m1luVVtyJNh23qWuCZjgMnyihD29sY_xP8vhjljaoWN7LQCmHZiMEi5JzRz7og/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-texas-rangers/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb4.strmd.st/secure/DImZiuUIgtOridcYKoWTrzaBNOBlGTOC/ingest/stream/mtexasrangers/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1347/1",
             "resolved": true
           }
@@ -216,7 +107,19 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb10.strmd.st/secure/GUEznGFMFvgaytUWzUUAszJVfmgrMWTA/ingest/stream/mhoustonastros/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-15/kc-hou",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb17.strmd.st/secure/ZLuSrLDTlAtDmPvbBXDnDiuCHSHfTdYO/rtmp/stream/sWjvukL1s8k57I2TdpkO5NeNK_eyvK_UbyZs7E1NNkeidIJGXX_AnSwf7OwuadQacLMM42blj6UhbseS87Em/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-houston-astros/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb6.strmd.st/secure/ADuziyXEoTERiJOuGbPySIMWtFTUqQZQ/ingest/stream/mhoustonastros/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1348/1",
             "resolved": true
           }
@@ -229,25 +132,19 @@
           {
             "label": "Source 1",
             "playable_url": null,
-            "source_url": "https://embedindia.st/embed/mlb/2026-09-14/sd-col",
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-15/sd-col",
             "resolved": false
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb20.strmd.st/secure/GnpCBOKDmTehoNIRXkjAnXMUudQghOSQ/rtmp/stream/_-BRabQVLwJ2slPQHZieGYJ2gAuZLGlAo95ZCaMSb9p90pLCdm-Te8zq-1s1c_G3leqVGgJFWAeSdMz_wv4Ktww/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb16.strmd.st/secure/tAMOzxXGyGIPdgBQqeJSOyzUXnkPVrbV/rtmp/stream/2HoLNl_yr1gxoGALj-T3KzW_Nc6UKPLiX4P_FNrJedUcNRBAu_9BxQu_cX9HF7meeKJprq8j2QbFBIfPrhn6YM8/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-colorado-rockies/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb12.strmd.st/secure/OivjZnMUbRckXAqltXNRcgMtUcTaTcqe/ingest/stream/mcoloradorockies/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1332/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 4",
-            "playable_url": "https://lb9.strmd.st/secure/hDodxpwPxFFnFRRmAyNuSDiVClbtnYwL/delta/stream/live_mlb_rockies-padres-live-streaming-594369360/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_rockies-padres-live-streaming-594369360/1",
+            "playable_url": "https://lb16.strmd.st/secure/TofuGmOMzOrHntpdFrAafFZyVNcxVnaU/ingest/stream/mcoloradorockies/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1349/1",
             "resolved": true
           }
         ]
@@ -259,25 +156,19 @@
           {
             "label": "Source 1",
             "playable_url": null,
-            "source_url": "https://embedindia.st/embed/mlb/2026-09-14/sea-laa",
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-15/sea-laa",
             "resolved": false
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb1.strmd.st/secure/TZjQTdljxvsuyamXrPkhyYLVBhIiEDLB/rtmp/stream/n3CJZIYB9WM7-jreeNsijdUJ2mFKfMqDsNRn1F-AcqUHLuNofuafNZNYRMszY_tkQauspFwPPPsEzekxAx1dsBUx/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb18.strmd.st/secure/fBOcbrACIakGGxaPLTWaJcaZxJayiRPk/rtmp/stream/_gn8_OKEWqedUNNaBjXgg79svXWH78z6Y8H_4_jDM0U8VGbt7jWIL4kvSGLi1xC_VuTMP1NRVp1e4Q3r1J6krsck/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-seattle-mariners-vs-los-angeles-angels/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb4.strmd.st/secure/jpBwvlvTqHHmgBqSpDcZRqxNRnDRlicp/ingest/stream/mlosangelesangels/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1333/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 4",
-            "playable_url": "https://lb4.strmd.st/secure/ZLEKWuiSpMOkLnZOESDSlKZZyEswAwmA/delta/stream/live_mlb_angels-mariners-live-streaming-594369792/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_angels-mariners-live-streaming-594369792/1",
+            "playable_url": "https://lb2.strmd.st/secure/JsNrlQkyPRoWJfpdPxTlZstoNUWWYeRj/ingest/stream/mlosangelesangels/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1350/1",
             "resolved": true
           }
         ]
@@ -289,67 +180,19 @@
           {
             "label": "Source 1",
             "playable_url": null,
-            "source_url": "https://embedindia.st/embed/mlb/2026-09-14/mia-ari",
+            "source_url": "https://embedindia.st/embed/mlb/2026-09-15/mia-ari",
             "resolved": false
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb6.strmd.st/secure/nZrJmyestvfDALmcksBKgPkgpwAjlkyS/rtmp/stream/OWhPI4pSIB1FFgFpHHDOHd_uVtw_IQiKij0tIc0OzSR77gInSF-HBBGNflN1WAWbxoD9Weq5QyMu96q4dhWtpVpgaUid/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb2.strmd.st/secure/LkgFmaAUkMDwvCyowtQLngErJKGqDefw/rtmp/stream/_iUbn8L3lmoB72Z8xeL5IhKwOOIt-r5NpOMdFL1hBk1IQJUpIilmjyzs5gjtJYrQ17Fy7KdVtDMPzZgT2RRni4b-j-gO/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-miami-marlins-vs-arizona-diamondbacks/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb6.strmd.st/secure/ZiYEEfwwcgnHrtoTwuaIFJfCTdzLoCkd/ingest/stream/marizonadiamondbacks/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1334/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 4",
-            "playable_url": null,
-            "source_url": "https://embed.st/embed/delta/live_mlb_diamondbacks-marlins-live-streaming-594370224/1",
-            "resolved": false
-          }
-        ]
-      },
-      {
-        "title": "Cleveland Guardians Vs Chicago White Sox",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": "https://lb3.strmd.st/secure/QUnOMfJhxAeZVNeRJUeqoPWhAPopPOpI/ingest/stream/mclevelandguardians/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1324/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "St Louis Cardinals Vs San Francisco Giants",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embedindia.st/embed/mlb/2026-09-14/sf-stl",
-            "resolved": false
-          },
-          {
-            "label": "Source 2",
-            "playable_url": "https://lb16.strmd.st/secure/hdvuyItzFImXeaxquAeRYJaVTmmkjFan/rtmp/stream/vzTgrO5KCWu8aFSBxmSjF-SX5f9SukjWRyKSl5qPq70Xuo-QL2-E6mbrDlIUDblaElhEhE657gFqx9cOLQntz9mt/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-san-francisco-giants-vs-st-louis-cardinals/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 3",
-            "playable_url": "https://lb18.strmd.st/secure/UZILMcPwOTKPjQuuvFLbuDtWEOykIVfa/ingest/stream/mstlouiscardinals/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1329/1",
-            "resolved": true
-          },
-          {
-            "label": "Source 4",
-            "playable_url": "https://lb19.strmd.st/secure/pHfbInWgKwNXpqAEWYKtoMgpYtNcqLTa/delta/stream/live_mlb_cardinals-giants-live-streaming-594368928/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/delta/live_mlb_cardinals-giants-live-streaming-594368928/1",
+            "playable_url": "https://lb15.strmd.st/secure/BWUcTaAmPZhBxjWGmzOspEySkqEAKCaQ/ingest/stream/marizonadiamondbacks/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1351/1",
             "resolved": true
           }
         ]
@@ -363,7 +206,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb17.strmd.st/secure/eCcCkdeZSxdryPVkvfklVgPYpBtDDMRh/ingest/stream/mevent1/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb6.strmd.st/secure/MiHKwCQVDnPAROYzwZVOSVBsecQGKGfj/ingest/stream/mevent1/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1363/1",
             "resolved": true
           }
@@ -372,72 +215,6 @@
     ],
     "boxing": [],
     "soccer": [
-      {
-        "title": "Genoa Vs Sudtirol",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embedindia.st/embed/seriea/2026-09-20/par-gen",
-            "resolved": false
-          }
-        ]
-      },
-      {
-        "title": "Rayo Vallecano Vs Espanyol",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embedindia.st/embed/laliga/2026-09-15/ray-esp",
-            "resolved": false
-          },
-          {
-            "label": "Source 2",
-            "playable_url": "https://lb4.strmd.st/secure/xFSFZdXlbmHbsiAufChPKVpqgvMaLUmL/rtmp/stream/iaTS3FQNUO41ZIWm1xRWN-_zU1yEN_bTb3PNw9EF7x83RufRlbfIRdeIqbZQkdX2T9qAzCBKmeI/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-rayo-vallecano-vs-espanyol/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Deportivo Alaves Vs Valencia",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embedindia.st/embed/laliga/2026-09-15/ala-val",
-            "resolved": false
-          },
-          {
-            "label": "Source 2",
-            "playable_url": "https://lb20.strmd.st/secure/JbsPesPoIXfqPNsYPvFgEFIgqnYZjnHN/rtmp/stream/NqmHtxrKpmYHtrGzoAD4eqtPZmg7K9SL1BpGpXAJnnH4tDp_MFf-fh0jPiE6xRqtipnfuFiH-fE/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-alav-s-vs-valencia/1",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Ajax Vs Willem Ii",
-        "is_live": false,
-        "links": [
-          {
-            "label": "Source 1",
-            "playable_url": null,
-            "source_url": "https://embedindia.st/embed/eredivisie/2026-09-15/aja-wil",
-            "resolved": false
-          },
-          {
-            "label": "Source 2",
-            "playable_url": "https://lb11.strmd.st/secure/HYCysQhQUSEkRwDxjpXVoxNueHEXfuLH/rtmp/stream/ib9f-E-AweFXrDMGJ433USLTjRz8iujWxw2GWx2v0gPQTACa3XrNyJlFQIjw9DdDPgb6tgvdWFg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/admin/ppv-ajax-amsterdam-vs-willem-ii/1",
-            "resolved": true
-          }
-        ]
-      },
       {
         "title": "Jersey Bulls Vs Burgess Hill Town",
         "is_live": false,
@@ -450,8 +227,14 @@
           {
             "label": "Source 1",
             "playable_url": null,
-            "source_url": "https://embedindia.st/embed/seriea/2026-09-20/fio-nap",
+            "source_url": "https://embedindia.st/embed/coppa-italia/2026-09-15/fio-pis",
             "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb17.strmd.st/secure/qhdlMVMbvkWEIrbvFmFQnCDMdwVlPCzy/admin/stream/ppv-fiorentina-vs-pisa/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-fiorentina-vs-pisa/1",
+            "resolved": true
           }
         ]
       },
@@ -467,14 +250,20 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb2.strmd.st/secure/EptPgqjtoYzIqLbDlPLcvBUuolCtdcMp/rtmp/stream/wba6dE33ES4BDbMsONityGIu6jPgT-Tyi9PuXai4PGKOTsvwpyihKvFSr7E0ubGsjOmEoLTXzsA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb15.strmd.st/secure/VonJOvPOWZZPIGEalfBtzTSbXzmgVUkS/admin/stream/ppv-elche-vs-real-madrid/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-elche-vs-real-madrid/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb2.strmd.st/secure/UGnladmHonJuWXjLbMehrfNlCVrtmBpY/ingest/stream/nrealmadrid/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb18.strmd.st/secure/kyDLkDKJqXWmvnBZrOdEeLgaIlKPIbeK/ingest/stream/nrealmadrid/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1330/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 4",
+            "playable_url": "https://lb18.strmd.st/secure/bZUURKGeuZxvOEdkQNsDqrtHtIErgigA/delta/stream/live_laliga_elche-real-madrid-live-streaming-616682160/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/delta/live_laliga_elche-real-madrid-live-streaming-616682160/1",
             "resolved": true
           }
         ]
@@ -491,7 +280,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb3.strmd.st/secure/GvTwMfWMSDXnihaBueNHFwUYtjGlVjFa/rtmp/stream/UEPjZaUyMb-uMUFauNAWot4ac2sxH3NWQsBG39FDvR3yQe48rcn8uC7rU7LQviBYbnR5bNLlwGMvVg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/AHUbljoLWicrhfoJLhtqxGnExtkgdpSe/rtmp/stream/_NQ9-DXF1YQUn-sRm3TvVowgoaKbS7kzdNyBdU00orZ2DFH-Bs3L8SaH998Gd4BrlmrEKyWnaGJfZQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-omonia-nicosia-vs-celta-vigo/1",
             "resolved": true
           }
@@ -533,7 +322,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb5.strmd.st/secure/VdCeLmsWYjwwHyJQbePPFPCMSjAQRQDi/rtmp/stream/V19OCfn4Zd_ZkcfeSUP_cnRJ6YI8koAcE4DHFG5l2f5rcOk9n-KVsI5DbmFnOHyMgkro-LNJqV0/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/KvXmDiXbCMRlRWBUXiBNBkQvYNKLRsfE/rtmp/stream/gyKr2K7xQjVVMN3Y13wf4YfFLiQoTuTG7ehNfDRh8dq3xj61JtT7MmtfTDFDabcS1RSRXHlKTuY/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-deportivo-vs-sevilla/1",
             "resolved": true
           }
@@ -551,8 +340,14 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb19.strmd.st/secure/ZjOzyYoprHAIUypNvsDcXcfQEnMHNTTJ/rtmp/stream/rr16wx-hNajPPeyrflhhdzqd7_moRKoc9qIb6ifc-FOOC3ABVPN0Gr_FO0mTX7YxSKszzEcl8aQX/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb15.strmd.st/secure/pnnBocbYzqQkCuWUFFXaonUdAUUVRGMi/rtmp/stream/TuLUrLBN5NMNxAncMdEHh3BxVguDSEIvBRnfRrOS6tcvR_5L_9ZxKlhnpykTEN5QRmuLYrl8ufAB/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-nk-celje/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb17.strmd.st/secure/dNDtKCfPVZkCeEcSMqUEghpYgfzqsgQj/ingest/stream/mevent2/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1392/1",
             "resolved": true
           }
         ]
@@ -569,8 +364,14 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb8.strmd.st/secure/ixuuBZKVgyEdKebaKwAgOePTrtBBQpbC/rtmp/stream/QMKBa_Dmu1EBRBjwEKPajYKO-qUYPxUPn6-RJdr9_fmyiR8PHcT2OajRezxfNm1blkgrnZI6iA7H/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb19.strmd.st/secure/EJMxXDIYiiyzGKiXgZwXhfdfziiujLDZ/rtmp/stream/amtzBVgBu63BLy7M-oFUy6x7VVP2JR5Dpds2eW-1YAL-6bQk3X3p_6w17sEmMwtYRvCH18mzZWqP/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-ac-milan-vs-benfica/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb18.strmd.st/secure/DQSLesneXsuwCDffwvaXzoNNzCweQXDY/ingest/stream/mevent3/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1393/1",
             "resolved": true
           }
         ]
@@ -587,8 +388,14 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb10.strmd.st/secure/hCiiShAffFwDMhRoihYXNuSOrrDwmjuu/rtmp/stream/E5qCKwIiU0oaxRVmxB2bZqScspwZjwv9xeMwa3RAA_e1xkEd221beWDVCi3Z6cvG49zMbgvLWU2Q/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb2.strmd.st/secure/HgmKrkOscXXURQvmHQorHnultcDsvwuw/rtmp/stream/IYDoit-X4hWR69qOypn74Bx5ViSX7nwl95tsmg_A2hSQL-kaLmANv5jZKzi7tag2U1z9FsmkaXpW/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-olympiacos-vs-jagiellonia-bialystok/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb2.strmd.st/secure/WqUCDFzsJJNCqQDGSAwvOSxijdDjPdWg/ingest/stream/mevent4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1396/1",
             "resolved": true
           }
         ]
@@ -605,8 +412,14 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb14.strmd.st/secure/hJSFLjeQDyMoifXNtIUxolhMlLMHQcaB/rtmp/stream/GTHMNL0l_FnoXi0A4aiM09fyCvn71aP80OugWzzfrzYX7pKAZZE5wgaIfDigcMHL2RGaYAPGZG66/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb6.strmd.st/secure/DPlRCfWJSXaKphslZvqPnwkUONsEzKXV/rtmp/stream/zf_1QxHzViF7O90n2pGvwNKmG4hKyhmlcjMBjyv78JQsva_3qoVnTn5tyLSvsZg3xjb5mFaUYEA9/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-anderlecht-vs-lyon/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb6.strmd.st/secure/OuflPbnDMWqXfgsFvLlaXxmghTWusxrc/ingest/stream/mevent5/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1397/1",
             "resolved": true
           }
         ]
@@ -623,7 +436,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb5.strmd.st/secure/GmblNZaRcFFeogRWcmcRntVFxXxMrvpi/rtmp/stream/OVsMc2utS-ZO0CTSdZWNX1-kxj9fSSTvRtzy92IX1JExmLRrvRH355m71zjcmfPslBj9Lim2k1ro/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb17.strmd.st/secure/PGwZqYMPUOCuFJfaTriIyucOBeNMlIVm/rtmp/stream/fZNkRGFBwbTBJsxuttDlvO7dsSheAhtmPtD727y-dfMAshnKeArx1YaH8JD_DaHmRrq-iJF9cvZY/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-hapoel-be-er-vs-dinamo-zagreb/1",
             "resolved": true
           }
@@ -638,6 +451,12 @@
             "playable_url": null,
             "source_url": "https://embedindia.st/embed/uel/2026-09-16/stg-ren",
             "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb18.strmd.st/secure/uJMOYeSFHrgkFpNlYTRuPQgniMYLuXHF/ingest/stream/mevent6/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1399/1",
+            "resolved": true
           }
         ]
       },
@@ -653,8 +472,14 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb6.strmd.st/secure/mSczfCpgsbKphQsQKoYpNHcRGyJqrHKK/rtmp/stream/P8Ub6Oy6JJRK4X01G5TsrD8_OVu2jeQOTCnJ0_QHDFAgaD4YTUyIzTah2kxpTQ--DupRPMwmk1uA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb6.strmd.st/secure/YvbLnBNINiPVlXyOEFauqGcoYcPZugxR/rtmp/stream/09rDnJ0V9PJFZmjbbA1PCTuNuouiYjRMNw9JCvALlsa9I6dmLs0fCoHbUc2RbSsZLm0iNS3Xn76T/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-sunderland-vs-az-alkmaar/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb18.strmd.st/secure/LQsYimEksURmQRZHqdVIyirUVBfFRkVz/ingest/stream/mevent7/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1400/1",
             "resolved": true
           }
         ]
@@ -671,13 +496,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb5.strmd.st/secure/whCbWeJwQOLeNMVZLcUEKvAoMRCQvgZO/rtmp/stream/ZV25x2kmO_Vn5ceOnh02SWg7jmz0dDkOKL6gzZFTAMiD6A8vHj48Vd2-xUNdBScMqL_hXlOLtdY/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb16.strmd.st/secure/qJFOuzkJSkRRZkATygKpejvqKEZFOGfB/rtmp/stream/sKtjXpH4pps-Z7fklpJ7jPDUX-uSg_ZVHXJKRWmwWtKne82PIlVjx8DrmRAKlxBPwx2SPvDJtiM/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-barcelona-vs-racing-santander/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb3.strmd.st/secure/tbePUWIIgVOprlFrxtmvzWUwgBulJNCU/ingest/stream/nbarcelona/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb2.strmd.st/secure/lJkCmHSZEHJXzMlyCrYJYTbjdwbYlurI/ingest/stream/nbarcelona/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1345/1",
             "resolved": true
           }
@@ -695,7 +520,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb16.strmd.st/secure/HVZQHGcFIgFVimwkcJiKZZBtkTtciabN/rtmp/stream/dn3G10hFmdcyx6FtTthod_IRNNEGMU8ZIxRz9tG7Qnkoh_43HAyjKG9z4ChMGbvaB8B5lGk1NK8/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb17.strmd.st/secure/FaaiAihvhmeIFsbNXVbZXLGXTKdzEHeU/rtmp/stream/oK9NaNGw6FRCei_Tgms3Vtl_r_qA_DfqraogrcxZlsQfozB7ho2LdL49OqrXKtuUqX8XbN4PI0Y/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-levante-vs-athletic-club/1",
             "resolved": true
           }
@@ -707,13 +532,8 @@
     "ncaab": [],
     "wwe": [
       {
-        "title": "Raw 1738",
-        "is_live": true,
-        "links": []
-      },
-      {
         "title": "Nxt 855",
-        "is_live": true,
+        "is_live": false,
         "links": []
       }
     ]
