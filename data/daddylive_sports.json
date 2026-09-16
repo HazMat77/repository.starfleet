@@ -1,23 +1,49 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-16T21:55:02.377064Z",
+  "scraped_at": "2026-09-16T22:25:02.255132Z",
   "sports_events": {
-    "mlb": [],
-    "soccer": [
+    "other_events": [
       {
-        "title": "Levante vs Athletic Bilbao",
+        "title": "Atlético Mineiro vs Santos",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb8.strmd.st/secure/xoBUsAQYTSoLkLLRnWwcmuOoQOXHOynL/rtmp/stream/YTA3gqe1X8q7HF7hTC2TzHMKtjbEslPGPMz_7S-KS62seatY_2Wr0irUW6ODgwLo7vRmq-upPuo/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-levante-vs-athletic-club%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-levante-vs-athletic-club%2F1&source=tv2",
+            "playable_url": "https://lb2.wfty.st/secure/zTTfL1XVJ_GqsgW0FfJoQg/deluxe/atletico-mg-santos/1/401913071/1789619110/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401913071%2Fatletico-mg-santos%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401913071%2Fatletico-mg-santos%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb6.strmd.st/secure/CQJPRWZGmpaXGvAcNsYZYYrIeMCFkYsc/rtmp/stream/YTA3gqe1X8q7HF7hTC2TzHMKtjbEslPGPMz_7S-KS62seatY_2Wr0irUW6ODgwLo7vRmq-upPuo/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-levante-vs-athletic-club%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-levante-vs-athletic-club%2F2&source=tv2",
+            "playable_url": "https://lb1.wfty.st/secure/GSkceZq1gB2vdxCKUSCn4w/deluxe/atletico-mg-santos/1/401913071/1789619126/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401913071%2Fatletico-mg-santos%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401913071%2Fatletico-mg-santos%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb4.wfty.st/secure/D2RfzTPw8H8xAlxjCaRQnw/deluxe/atletico-mg-santos/1/401913071/1789619145/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401913071%2Fatletico-mg-santos%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401913071%2Fatletico-mg-santos%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "mlb": [],
+    "soccer": [
+      {
+        "title": "Barcelona vs Racing de Santander",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb1.strmd.st/secure/xbzZxlpxrfDGsYmvsOwyEmKLXfVFTpDW/golf/stream/1345/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1345%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1345%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.strmd.st/secure/CxvLFQRvliexfHDwoqZcBswcvcRhLetu/golf/stream/1345/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1345%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1345%2F2&source=tv2",
             "resolved": true
           }
         ]
@@ -28,32 +54,62 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/svWZWtQZKriXkVjqRTYpHFsCWkJBurgz/delta/stream/live_laliga_barcelona-r-racing-club-live-streaming-616682592/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_laliga_barcelona-r-racing-club-live-streaming-616682592%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.strmd.st/secure/RtjtVaQilkjbjIzqqWLHxOXyWHmSsHZE/delta/stream/live_laliga_barcelona-r-racing-club-live-streaming-616682592/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_laliga_barcelona-r-racing-club-live-streaming-616682592%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_laliga_barcelona-r-racing-club-live-streaming-616682592%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb14.strmd.st/secure/JvKYbcwODhuzYEvvARXvMJjTCKVSeUsi/delta/stream/live_laliga_barcelona-r-racing-club-live-streaming-616682592/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_laliga_barcelona-r-racing-club-live-streaming-616682592%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/bvtvdeXInYpwvsHtQuQbllPMEjZMiTLK/delta/stream/live_laliga_barcelona-r-racing-club-live-streaming-616682592/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_laliga_barcelona-r-racing-club-live-streaming-616682592%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_laliga_barcelona-r-racing-club-live-streaming-616682592%2F2&source=tv2",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Everton vs Wolverhampton Wanderers",
+        "title": "Liga de Quito vs Palmeiras",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb12.strmd.st/secure/GrIaopbfBGYpHxdqOvqsQkilgldmWirT/golf/stream/1369/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1369%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1369%2F1&source=tv2",
+            "playable_url": "https://lb6.wfty.st/secure/b85U1risVcZuOmxXL3V88A/deluxe/liga-de-quito-palmeiras/1/401912525/1789619181/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401912525%2Fliga-de-quito-palmeiras%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401912525%2Fliga-de-quito-palmeiras%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb15.strmd.st/secure/JELizFuRoYPEYvwhEbiGthfrIzKXSXRm/golf/stream/1369/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1369%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1369%2F2&source=tv2",
+            "playable_url": "https://lb1.wfty.st/secure/ZT44cVsL4BrVHnaeby-Fww/deluxe/liga-de-quito-palmeiras/1/401912525/1789619191/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401912525%2Fliga-de-quito-palmeiras%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401912525%2Fliga-de-quito-palmeiras%2Fdeluxe%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb1.wfty.st/secure/QFXXKNsJvSLFsUYWrUAhjQ/deluxe/liga-de-quito-palmeiras/1/401912525/1789619204/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401912525%2Fliga-de-quito-palmeiras%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401912525%2Fliga-de-quito-palmeiras%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Independiente Rivadavia vs Atlético Tucumán",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.wfty.st/secure/p-e0JfLAzDsTezbpt4LmqQ/prime/independiente-rivadavia-atletico-tucuman/1/401912727/1789619214/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401912727%2Findependiente-rivadavia-atletico-tucuman%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401912727%2Findependiente-rivadavia-atletico-tucuman%2Fprime%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb3.wfty.st/secure/IvqiDy8HLBMp5OPsDjBKqA/prime/independiente-rivadavia-atletico-tucuman/1/401912727/1789619223/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401912727%2Findependiente-rivadavia-atletico-tucuman%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401912727%2Findependiente-rivadavia-atletico-tucuman%2Fprime%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb1.wfty.st/secure/fykHIKbT4z386RqKiLbnIQ/prime/independiente-rivadavia-atletico-tucuman/1/401912727/1789619233/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401912727%2Findependiente-rivadavia-atletico-tucuman%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401912727%2Findependiente-rivadavia-atletico-tucuman%2Fsigma%2F1&source=tv3",
             "resolved": true
           }
         ]
