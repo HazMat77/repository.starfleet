@@ -1,7 +1,32 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-16T20:25:02.395153Z",
+  "scraped_at": "2026-09-16T20:55:02.125230Z",
   "sports_events": {
-    "mlb": []
+    "mlb": [
+      {
+        "title": "St. Louis Cardinals vs San Francisco Giants",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb16.strmd.st/secure/zHAAZlzGoMuILFhfbvCVfmEKzfGUOawG/admin/stream/ppv-san-francisco-giants-vs-st-louis-cardinals/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-san-francisco-giants-vs-st-louis-cardinals%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-san-francisco-giants-vs-st-louis-cardinals%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 4",
+            "playable_url": "https://lb2.strmd.st/secure/HrvOlnXdZQdrawHhYxyaNBEmZgKlxdex/admin/stream/ppv-san-francisco-giants-vs-st-louis-cardinals/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-san-francisco-giants-vs-st-louis-cardinals%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-san-francisco-giants-vs-st-louis-cardinals%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 5",
+            "playable_url": "https://lb10.strmd.st/secure/MSSzpnbeDwBCsNZNijFLisZmmfQEYsMM/delta/stream/live_mlb_cardinals-giants-live-streaming-594387936/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mlb_cardinals-giants-live-streaming-594387936%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_mlb_cardinals-giants-live-streaming-594387936%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ]
   }
 }
