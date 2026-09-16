@@ -1,8 +1,33 @@
 {
   "site": "https://streameasti.is",
-  "scraped_at": "2026-09-16T06:25:02.940451Z",
+  "scraped_at": "2026-09-16T06:55:02.751426Z",
   "categories": {
-    "nfl": [],
+    "nfl": [
+      {
+        "title": "Buffalo Bills Vs Detroit Lions",
+        "is_live": false,
+        "links": [
+          {
+            "label": "Source 1",
+            "playable_url": null,
+            "source_url": "https://embedindia.st/embed/nfl/2026-09-17/det-buf",
+            "resolved": false
+          },
+          {
+            "label": "Source 2",
+            "playable_url": "https://lb19.strmd.st/secure/sRfFNfoxWdjBMofyHQilhXUVioUUpFmR/rtmp/stream/ml6sGK-ch8yJHOZ9FPkTYLfq2CQLPvvmaBOcFNQhUf1H1RS3o-PoRpozM-3LcItsZLIdEJuvfx-j60JsCIQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-detroit-lions-at-buffalo-bills/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb9.strmd.st/secure/qUhuneCedvAzZMnIcvuBMriefiuvSIcG/ingest/stream/mbuffalobills/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1375/1",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "nba": [],
     "mlb": [
       {
@@ -17,13 +42,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb1.strmd.st/secure/AqnWkxnQRLVXITbHUziuemcgMcsPXpBS/rtmp/stream/EA-RV0DFtSlTeXUjEGiljWgZMM8L4tWnnIHqRVCzLC2N6inyTC1vDm-vBuUZ8y0XViKAq3yksm4w5pNmXSE/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb9.strmd.st/secure/yWjRXkuHIPJHHnIiGkkYsBcHUZjGcKXh/rtmp/stream/O7bpENiDI67zeyhfWiMmDUgQukVw34eJ7Fn5-wgN_lj_usUYdRvk7QtHI2rECY8pIGNC8ejx9M2qnrDIzYk/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-boston-red-sox-vs-texas-rangers/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb19.strmd.st/secure/QGzJBJSXOYFRKXIDeRODZkApFMrmWCec/ingest/stream/mtexasrangers/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb19.strmd.st/secure/qMtsYDArIPjmdzELaLuVQOzYRWxBkRpF/ingest/stream/mtexasrangers/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1377/1",
             "resolved": true
           }
@@ -41,7 +66,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb18.strmd.st/secure/PByxPLhrklsbQrfSWHDVHnXFwSUlvBJO/ingest/stream/mlosangelesangels/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb19.strmd.st/secure/jrrRgcCMUvgHhMBGlJdzHbwKYOMWNQvX/golf/stream/1350/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1350/1",
             "resolved": true
           }
@@ -59,7 +84,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb19.strmd.st/secure/bYIoGZqsWpxHPznNpHtBeSCWeRthnwAv/ingest/stream/marizonadiamondbacks/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb19.strmd.st/secure/vTEGXdfoEezZBOzMvWPviQdMFLsCCrSe/golf/stream/1351/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1351/1",
             "resolved": true
           }
@@ -77,13 +102,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb20.strmd.st/secure/NwRLRNeCfrDFcDYmVcODjRXlLjbfRARa/rtmp/stream/L4Sgi6cX4PYKN3gKlLptz94RvYp5s3cSrRve8fpDsTXP9_BdOrqR-SzyyMYrYXdfvTtRDNkncDxs5p0Zyuio4jw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb19.strmd.st/secure/XwJFFxtFKOKLHDaeoYZhySrjAcnPsNjm/rtmp/stream/dg0Cod6dG1y1KafGKvIAlKdLsVxozP0DtQANS5lS4Ia5RZtDmCkPD74bT2FddUwQGBU_RiLHLa8bF0SY--xJ2aA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-san-diego-padres-vs-colorado-rockies/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb20.strmd.st/secure/xJXSsqHDcCGYjfnRqPTfBshmlgraLbVz/ingest/stream/mcoloradorockies/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb6.strmd.st/secure/RLxOtkQyJzTWLEjeJmlraQMzRxwvyzLZ/ingest/stream/mcoloradorockies/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1379/1",
             "resolved": true
           }
@@ -101,8 +126,14 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb19.strmd.st/secure/NXPGZFUsfAnkGqIBbwHqfFMKMmeSHzpR/golf/stream/1348/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "source_url": "https://embed.st/embed/golf/1348/1",
+            "playable_url": "https://lb1.strmd.st/secure/apjAkwmnHccNXIAzPhWTtaHXEPOBSwOC/rtmp/stream/RjEG11kRLrCwSvGbTlx06ovL7SkS-VIbGzjT6mezt2BUrxr8bLVVfOj2CYINXTrYVwb_BCaTOGIog7iDQv54/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/admin/ppv-kansas-city-royals-vs-houston-astros/1",
+            "resolved": true
+          },
+          {
+            "label": "Source 3",
+            "playable_url": "https://lb9.strmd.st/secure/YpgGPCeDQrTBpdkuuBBbrRSyfNEYSVnI/ingest/stream/mhoustonastros/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "source_url": "https://embed.st/embed/golf/1378/1",
             "resolved": true
           }
         ]
@@ -116,7 +147,7 @@
         "links": [
           {
             "label": "Source 1",
-            "playable_url": "https://lb9.strmd.st/secure/tcYWocOZnZtSAISwInQNnAIFbwzvmnNb/ingest/stream/mevent1/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb6.strmd.st/secure/OfmetZgHjmEnotSSeFSoUSngmyjfkdWZ/ingest/stream/mevent1/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1363/1",
             "resolved": true
           }
@@ -137,7 +168,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb19.strmd.st/secure/MANYaGRlgDNYRXcbzPDeDbagWZRPbgXK/rtmp/stream/md4tmCex7_czDwjBhjheoaw1G0MgDviMeyvKMVx4OmSXxPUWnLthJ5Cd_zIYUTnPspZ0oUiL4x6Dfw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb20.strmd.st/secure/uhFcqozeKIHEnHVjIFeBdAEERYKpiCyp/rtmp/stream/-oTB5tjjFlHxtphAJSuw0dWrwI8XMyYWFkO62jioS5ykjrgIK4-I-be8_6GXr3QUAw3vUT5tJSLRVw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-omonia-nicosia-vs-celta-vigo/1",
             "resolved": true
           }
@@ -179,7 +210,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb3.strmd.st/secure/fwIvchZSDghHyIYLBKYtSAYsvjVyxqMN/rtmp/stream/1VEfXlxpppAGY181DH3kIcOq0fgujZECClKrEYj3rfjcEIedvkIuXXG0peegUmC4F9MTPZihJso/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb9.strmd.st/secure/YwAQjbqKLgsakXswWJOvpZkMotnZREbJ/rtmp/stream/pLcB8BblQYC24jzrcVzPP0FWgZ670N9hrr5oKxxCSswLvchFFyTsh9E10Yo33XFF-7NehBr9auA/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-deportivo-vs-sevilla/1",
             "resolved": true
           }
@@ -197,13 +228,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb19.strmd.st/secure/uoiOyWhpLkROYhnmEHvgSPDgBgzKPLgn/rtmp/stream/wosbDRBb3MXoFG5ezlSOklHZeYNGA8dovtSRj_y85vxZeSb5jfreq4-mVYIGKiuitHx27JJQYQyh/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb6.strmd.st/secure/RqABRuAHlGYyspPqXmOsBlMLPvmLXtRh/rtmp/stream/K1_lD2mh6acPLPy7IBgg0P5rX9EpFKGozIr5a8iq1dOI8MOBASSD8EDrwl_DhVOfzeU8h_UWbEkl/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-bayer-leverkusen-vs-nk-celje/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb18.strmd.st/secure/araPBKrOmhPMDNONtFhilLpVVRhvTXjl/ingest/stream/mevent2/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb9.strmd.st/secure/qcDBplQjUEOdLGHocpbrETvLlyOELUny/ingest/stream/mevent2/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1392/1",
             "resolved": true
           }
@@ -221,13 +252,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb9.strmd.st/secure/qEmszGHOoyoabhLpglANLxyfUxOFhjOE/rtmp/stream/mEr5Os9t2dFX4DIMYhtwv7W6iuk0YOfGczsalwVfjLT_h6zDtYb2mdvGNUKirEe9xcbVHQ6hVuNH/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb9.strmd.st/secure/FIsDWyqsWUqzdWUWXkFKUlMDROyjuxGV/rtmp/stream/WOn4l7X9pOcJb7iwE7lkOSzOyNtr6kFvz4YGzz3qx6pleuRffy43UkpFScauPgM30Gh5-phY9WF5/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-ac-milan-vs-benfica/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb18.strmd.st/secure/gClxvrxPMnkcMByVWItFkdIhDHsVBzwU/ingest/stream/mevent3/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb19.strmd.st/secure/waCilmEGJoueeeqIQWJaVVyOpRjQxSma/ingest/stream/mevent3/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1393/1",
             "resolved": true
           }
@@ -245,13 +276,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb9.strmd.st/secure/qFzPPFOcrzigPJmWsTxPICDJlytUEHbp/rtmp/stream/BoBxCDFS0v6Pni78vTxJDqp65i_do_Nkmtc-GJMtin4883-GIim5BE9JpgWFuZ43AopmSXR9xO6B/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb1.strmd.st/secure/TiZyVbnVfOJFCjgPwJmcxCmWOsKheHcK/rtmp/stream/k1VuIvv2iWWn33qlsnx1pWmAhFfC1WPXkSd5l6lLtX17vjNp2tcmrk9WclNouaaxE0_wFjLALAHS/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-olympiacos-vs-jagiellonia-bialystok/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb19.strmd.st/secure/lMHUYyBgZOJEhfUHnjKYNVdmwwlOqRDn/ingest/stream/mevent4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb19.strmd.st/secure/zNwhTJthrFmzPdaEkxuyobjPdHbUrAFb/ingest/stream/mevent4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1396/1",
             "resolved": true
           }
@@ -269,13 +300,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb19.strmd.st/secure/cjiGuXBEXtxQRMhErmZdAYNeWetiptyl/rtmp/stream/5RODkNpY0ZyYv2FjY0NHShF5InQlmloklvZNIj0nQ6Z_KZiYdbF3QhDiEoiOALPzsoNfGpS8Go64/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb5.strmd.st/secure/JRPMEVMApTHkcEkdJNLBBbIiWNDysaZk/rtmp/stream/TPNltoZVR9N7AZx4sRxVy-FCVIzG_vKNdj0nsopoAu2fzXNipkMnrcoCc0skVDK6iQhRHofwAVX9/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-anderlecht-vs-lyon/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb1.strmd.st/secure/DwXBfAqQBmxaLkEqzervGjsTToRdcVoN/ingest/stream/mevent5/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb5.strmd.st/secure/oFjmtqzplbUCUyMKMdkCCBQIwJwBjpvf/ingest/stream/mevent5/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1397/1",
             "resolved": true
           }
@@ -293,7 +324,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb9.strmd.st/secure/NjteSLaTPvKmbutPSJOQpykeqffZBkoW/rtmp/stream/YgrRPmJ8SzJojyW_cl7Xef_wgm_2ytncW2S_3HoBKwSKYcnFFXoOUgeUj16MbMwzgb_kY4yuarHT/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb9.strmd.st/secure/IRTNtBpsUbBhVjJxvRDvQkFIlHJbiHIJ/rtmp/stream/MzI0cZukDE1qB_lW1bUJWo5A3H-quGsHN3vbMnpH_HnxvoS4gdKhB1CBj0R_j6s_ZrOmOICQ3_JP/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-hapoel-be-er-vs-dinamo-zagreb/1",
             "resolved": true
           }
@@ -311,7 +342,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb1.strmd.st/secure/igxOuSVyEVwrHuZUiUGhBMZhiFhVJrjM/ingest/stream/mevent6/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb5.strmd.st/secure/aZthWrxPTEDSdcCHAheOFgIoHxKVXwcD/ingest/stream/mevent6/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1399/1",
             "resolved": true
           }
@@ -329,13 +360,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb3.strmd.st/secure/umiJEAXZvVcUExDapUElALGcntVjmpXI/rtmp/stream/qHgv7NraarB4LGNR_rHPhG3Hg3zoMHw7BA11zTwKwzDcUu6VEybtn3pW2dgvJoeGj6_slle0AUXr/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb9.strmd.st/secure/dJDSeHtWqPFXVFehYQjlnIMAjfayzHKI/rtmp/stream/Q4yMNXC1Hp_F_wuhws4PqyOv--qKNgAzyhg5AoUxvJDpgVUBwEmLJovtUSP0Ih74HqrPEzP4Vpzw/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-sunderland-vs-az-alkmaar/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb19.strmd.st/secure/pCFnFCyjQjBdPtxWwbZtcyYSoeWTDmhh/ingest/stream/mevent7/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb9.strmd.st/secure/CcUfYhWmsSTcqsUspyyeWeHVvIAtoaIK/ingest/stream/mevent7/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1400/1",
             "resolved": true
           }
@@ -353,13 +384,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb20.strmd.st/secure/RyykicVzazYYNnRIkvmAxDgextjOnmiO/rtmp/stream/GuOMDmzVS-YCQ5bTgkL-h87vDiJjtAbr7lEQJvgAobYTKvkdehta_jGtx9QJhVgLgCMdt42hYOs/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb1.strmd.st/secure/WoIJTSHverItDErYwIzPLJRvxdwWxtzr/rtmp/stream/T9Zyc1t2bwcQpYw-y-M7kl-BVMQ6UGCajer-KUu_wo7Vlf2r-rgC6uHiLwem7z4ACIxxWAM95p8/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-barcelona-vs-racing-santander/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb20.strmd.st/secure/juheaxwdpxJqaiwAvjmjiiLzmAWLCPFD/ingest/stream/nbarcelona/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb1.strmd.st/secure/gryvnnDMbWfnehFEflamUXLyTpPeTyGK/ingest/stream/nbarcelona/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1345/1",
             "resolved": true
           }
@@ -377,7 +408,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb10.strmd.st/secure/ARkMyJfvhpgHHJwBMIkpTHOqbeBwUpCj/rtmp/stream/YUGZDfjSSxwNAQBEmSpo1HobuHIpqNWWDPZ9wyTt-X-P1sQ9xaQKTLXZStFQ8e3Gg4F1Wf-_7h4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb9.strmd.st/secure/TojUcVMGLOazgiuootgNStSkImkTSynn/rtmp/stream/4p2hvCXvMNOHQesbu1mFOb0lNL1zJVA0MVKYuKD-kLpDXpyUf9QZyKd78n-fGkW1CYs7iMS6K5I/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-levante-vs-athletic-club/1",
             "resolved": true
           }
@@ -395,7 +426,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb1.strmd.st/secure/otXjlbFaIdfYsXmETndWvnZZfrMhUVWD/rtmp/stream/VDPxW0-puR4thNLMLP9SR4uAdqEm1G9rni4TAEWN7umgNNpQPH0dmmQm4flxsOmlsQ89j2xgWbf1IQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb17.strmd.st/secure/BlBvlYOVWEzaCFWugrptRmzETdohxwao/rtmp/stream/N-UROE5B_O8epneeLKIpSl426N7R8-aRSjnpKUIcoRnlJYcczFftqkGPoO7z0-m6urgh5VWCB5QVSg/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-levski-sofia-vs-rb-salzburg/1",
             "resolved": true
           }
@@ -413,7 +444,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb10.strmd.st/secure/iCIHLnQBxPqkwcljLQCFMvbJKtTMvrdN/rtmp/stream/BPlWHvVZDgJRDNNVjSyJPNS92cJXklKEF4P61aRtP5s7onhwpfzfXaz923ZIuIhYnxCqgg4BiP0s/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb17.strmd.st/secure/UVCBUYiYjqKkibyZLhWbXtFyCoEECDcC/rtmp/stream/lUP-vkqPNhnDde9MJHD-owG28iCLd2Dtd5l4NAZVP6XLUXCtb1dgprGVQ3KxduKBD91EMLTUdyhY/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-ofi-crete-vs-tsg-hoffenheim/1",
             "resolved": true
           }
@@ -431,7 +462,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb1.strmd.st/secure/VQEOVMCdjlToVgoWJWBXSyezwiAuZngY/rtmp/stream/PL2ZsKijFFhoFqewmCxG6XYCflAcXC2uQIT8WRhzxGvvPrwkExWxfw5Kswh2ukkD47-E78awr2g/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb17.strmd.st/secure/RgFDDNxARvWNXUJLOJtNnKYCxuuIoxJf/rtmp/stream/rUpQCSQGw7duifMdNyGs_QqVGOOLIghKz3SWVtuzu2tDbRrfEp4lIiuPyltwxeW30td5ONhH_is/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-real-betis-vs-getafe/1",
             "resolved": true
           }
@@ -449,13 +480,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb6.strmd.st/secure/rdvEMuRhZaFXJzAdfBTmpjYVrRSCVJau/rtmp/stream/A-pzyalTdhptsNt9lLw8a36-SXLnyrj2TIXy0tWTWr-691WuD8_LZZLmqAMycx56N11pwdleVfGZ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/HqRVzPdJZAFUyQMxczarudRYkTPZhpUT/rtmp/stream/h-KN7aZC-Iex6D9gOK6xWYaM1h4XWZOJEbaak55SK1bABeIaVPXbPKHnbLLLXeKmhJyRrN_Tu6KQ/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-crystal-palace-vs-lech-poznan/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb19.strmd.st/secure/zQcXgauDUeekqdIPIculmmSSFXUwyMuE/ingest/stream/mevent2/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb17.strmd.st/secure/MPMPEqEXfwDncjJthvFnKexuDNxsOHhb/ingest/stream/mevent2/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1403/1",
             "resolved": true
           }
@@ -473,13 +504,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb4.strmd.st/secure/jEHqFsJlgdZcNtuhoSlWglenbvHkrsFC/rtmp/stream/i85Bq6FYBnQz_ZaRveCcSrbKbug94nMDjFJZiPRZrPgUaAd__doJo1JZXSQkFKMRe9QFmgqlM7p6/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb17.strmd.st/secure/idFykfzwuWirTCAOXCrvwqefrhidRhtT/rtmp/stream/gT0050ksbUIGRI_eS79M2PDqNDJCVWaD9BFCt-TCA-yQggPzYyzqkUKfE_tNs9KxvFxV4MvXbPwF/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-celtic-vs-ferencvaros/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb9.strmd.st/secure/TzNEHBBVKbgZxicKoqYkgXgeJGLyOSqg/ingest/stream/mevent3/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb17.strmd.st/secure/xxeQxkEXoDgUFiUGOhhoGTHGzKqPvrhQ/ingest/stream/mevent3/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1404/1",
             "resolved": true
           }
@@ -497,7 +528,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb3.strmd.st/secure/lOzOCOxgxwlAvXcawfRpUUMhWQRTZhCK/rtmp/stream/0VrXK37Jykf2Ikb5kUinvzwmdS9THcRI9fGfsjOxC_0AcMPh_qNHX9TcTQb-Hz4kEpnYBKou_W3V/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/TFJaGIPmBfdYHZZrmekGIADaarGNSKbZ/rtmp/stream/97aFHWcZ7TPzVi3-gLyoDAdWj-2xPJT_2b2HfUkr1uCqjNqSF4LUsKdKTveR0MbQT-Uas6a50FrL/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-lillestrom-vs-torreense/1",
             "resolved": true
           }
@@ -515,13 +546,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb20.strmd.st/secure/pkRzkGmVZgxZYuGMaGxEzApBVOYbOwZR/rtmp/stream/KEs2Qn7Z44dI2aUoebqMPXoTVg1Qfluf-i9DJd2bB4OJQT2SMh0FKUoDEef26_BdpFesjIfuWWlb/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb5.strmd.st/secure/gWvrlCrXZWlXUqLiDBWzrJsNdisIxpRF/rtmp/stream/0NEVEEJZ4cmv4KBDsFIaeESI-CQAaHfdxKRbejtr3B1UzZVZIkXcwVRjs_hcs_OOXZ6UM5ZTLNsY/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-juventus-vs-nec-nijmegen/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb20.strmd.st/secure/SbwvLyochcfIxyfvVEuMTkMnkgBwPFto/ingest/stream/mevent4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb9.strmd.st/secure/njTWQBfjfWrkHpBzOlzYoVDyOmjAkMkn/ingest/stream/mevent4/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1406/1",
             "resolved": true
           }
@@ -539,13 +570,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb19.strmd.st/secure/jIzMsEmtYGzXkYngKLcVjbWxrJewxIJr/rtmp/stream/Ye4x46-tTXG-r2f31Thinu1cGl8QVB5g7rQvINXB4mFvbNRc6j1p8sIrv8fr2PYX6zTjrATAsZbd/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/ahtuqvCxqjoPAQLJnSbLTanaUKURzAHi/rtmp/stream/_FbmqdjyMYlWpbdjyRiAfWXTNwSlbhRT55H5yzWYxAXdd2nRZwJeUuJrC7PYH7lGbz8k8GXXTBXd/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-real-sociedad-vs-afc-bournemouth/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb19.strmd.st/secure/SYMXKXSPLVZjwgCeLfVUQLFrXlZAXcey/ingest/stream/nrealsociedad/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb5.strmd.st/secure/GDLiKQLyuTRgWAYaGAFiujhctxwXiwxd/ingest/stream/nrealsociedad/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1407/1",
             "resolved": true
           }
@@ -575,13 +606,13 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb4.strmd.st/secure/gyNzEVXlPbLYLHscqQsvxliIhsEYkwkN/rtmp/stream/YaXcK0K2YTvInh7k3Ma9-aub9rT0J60dFAou3g7nZadZ18cmrTcCl2E_uY6-RGb2kaPPmFc9BupH/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb19.strmd.st/secure/XkMauPGDEvbdrDNCaVpBzPOgPNuFyKZl/rtmp/stream/o8b91OO12IOTfV9ur1Jnhl3OcbedHGILWK5om3md23Lb5YKjVWuumGwKwCSib1Ms1XdVC_Xsoo6R/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/admin/ppv-viktoria-plzen-vs-union-st-gilloise/1",
             "resolved": true
           },
           {
             "label": "Source 3",
-            "playable_url": "https://lb9.strmd.st/secure/WaJSariBSTNMsEOyYaEFrmLKmykmaixK/ingest/stream/mevent6/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb1.strmd.st/secure/XoBSegssLTZsJLJqovWYgHkVbANrphMF/ingest/stream/mevent6/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1409/1",
             "resolved": true
           }
@@ -613,7 +644,7 @@
           },
           {
             "label": "Source 2",
-            "playable_url": "https://lb4.strmd.st/secure/DoDNRGHCyPfLCqqfitKfkHzrCJLGIoyB/ingest/stream/nespnhd/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "playable_url": "https://lb4.strmd.st/secure/pLpesUMnPDyYmhDQmsGmLnPoiUjKVNsu/ingest/stream/nespnhd/1/playlist.m3u8|Referer=https://embed.st/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "source_url": "https://embed.st/embed/golf/1374/1",
             "resolved": true
           }
