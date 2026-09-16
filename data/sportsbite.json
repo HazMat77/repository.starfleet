@@ -1,5 +1,38 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-09-16T06:55:02.745569Z",
-  "categories": {}
+  "scraped_at": "2026-09-16T07:25:02.696612Z",
+  "categories": {
+    "mlb": [
+      {
+        "title": "Houston Astros vs Kansas City Royals",
+        "is_live": false,
+        "start_ts": 1789517400,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/Wjk-zgfEfeHaV7Kh4CP6Iw/platinum/houston-astros-kansas-city-royals/1/401816952/1789565110/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/hZtdgneKjpTHKFjduD00tw/platinum/houston-astros-kansas-city-royals/2/401816952/1789565113/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Texas Rangers vs Boston Red Sox",
+        "is_live": false,
+        "start_ts": 1789517100,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/uvn1bVBD6Xuv6NvqDVWg3w/platinum/texas-rangers-boston-red-sox/1/401816951/1789565115/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/M0R05rtjW-b8RXfl7p95CQ/platinum/texas-rangers-boston-red-sox/2/401816951/1789565118/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ]
+  }
 }
