@@ -1,420 +1,112 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-09-16T23:55:02.235586Z",
+  "scraped_at": "2026-09-17T00:25:02.098592Z",
   "categories": {
     "soccer": [
-      {
-        "title": "Anderlecht vs Lyon",
-        "is_live": true,
-        "start_ts": 1789585200,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/3W3FnEMdvTf8PZ9DpIdW0A/deluxe/anderlecht-lyon/1/401915590/1789624506/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/uBuvlinwxtLtO4V3UMS6HA/deluxe/anderlecht-lyon/2/401915590/1789624508/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Milan vs Benfica",
-        "is_live": true,
-        "start_ts": 1789585200,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/MvBBAmjefRQ8swMnF5S4UQ/deluxe/ac-milan-benfica/1/401915586/1789624510/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/By4pErIjVAlts7CjXdRmoA/deluxe/ac-milan-benfica/2/401915586/1789624513/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Sunderland vs AZ Alkmaar",
-        "is_live": true,
-        "start_ts": 1789585200,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/OT804IC4mEmmW9XG1WO55g/deluxe/sunderland-az-alkmaar/1/401915592/1789624515/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
       {
         "title": "Inter Miami CF vs Cruz Azul",
         "is_live": false,
         "start_ts": 1789603200,
         "links": [
           {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/9TsaHBjZccZaDdowKL4Cvw/deluxe/inter-miami-cf-cruz-azul/1/401901377/1789626326/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
             "label": "platinum (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/xKXC3q6SuNbxmNlNp3lz6Q/platinum/inter-miami-cf-cruz-azul/1/401901377/1789624537/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/GhXJY4ZjzWseuNv2vTREgQ/platinum/inter-miami-cf-cruz-azul/1/401901377/1789626329/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/MKsr5NV99m-C_9U8s_XgmA/delta/live_campeones-cup_inter-miami-cruz-azul-live-streaming-616500720/1/401901377/1789624539/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Barcelona vs Racing Santander",
-        "is_live": true,
-        "start_ts": 1789587000,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/15oaH7KhZfPHPpSMfaftwA/deluxe/barcelona-racing-santander/1/401882871/1789624545/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/NmnEjj2au-kVdIoVHBogHw/deluxe/barcelona-racing-santander/2/401882871/1789624549/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Manchester United vs Brighton & Hove Albion",
-        "is_live": true,
-        "start_ts": 1789585200,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/yldQQlRizZKaaL4mvtZ_PA/deluxe/manchester-united-brighton-hove-albion/1/401914261/1789624552/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/tWdwfKuS-ZX8_P2N3GGjWw/deluxe/manchester-united-brighton-hove-albion/2/401914261/1789624557/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Coventry City vs Aston Villa",
-        "is_live": true,
-        "start_ts": 1789585200,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/oJyay_1O835oK-_MARRupg/deluxe/coventry-city-aston-villa/1/401914258/1789624559/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Deportivo A Coruña vs Sevilla",
-        "is_live": true,
-        "start_ts": 1789578000,
-        "links": [
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/G00TtXx6cKPmhGMmLYBoyw/platinum/deportivo-sevilla/1/401882873/1789624561/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Atlético Madrid vs Osasuna",
-        "is_live": true,
-        "start_ts": 1789578000,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/FRBKrvdZWm2F61gKAVn33g/deluxe/atletico-de-madrid-osasuna/1/401882875/1789624563/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/Y15rydHERWeB5QiYlvlo-g/deluxe/atletico-de-madrid-osasuna/2/401882875/1789624566/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/b-nPc5ZVFB1XTIUiy-jnyg/delta/live_campeones-cup_inter-miami-cruz-azul-live-streaming-616500720/1/401901377/1789626333/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
     ],
     "mlb": [
       {
-        "title": "Chicago Cubs vs Atlanta Braves",
-        "is_live": true,
-        "start_ts": 1789602000,
-        "links": [
-          {
-            "label": "sigma (FHD)",
-            "playable_url": "https://lb5.wfty.st/secure/zHCHxRs9MogiCKK7Pbni8w/sigma/chicago-cubs-atlanta-braves/1/401816965/1789624591/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (FHD)",
-            "playable_url": "https://lb4.wfty.st/secure/uaZpJdlKwEWENK2ApvLbuQ/sigma/chicago-cubs-atlanta-braves/2/401816965/1789624593/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/3yj8PP0UCa8d3oBSgey7zA/pro/chicago-cubs-atlanta-braves/1/401816965/1789624596/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/rtcp8eHl8HOnFfCjz0rH8A/pro/chicago-cubs-atlanta-braves/2/401816965/1789624598/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/tHqQRDkWNkO3FlV2lf_lRA/pro/chicago-cubs-atlanta-braves/3/401816965/1789624600/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/bD26-EHUmn0jao-caZPXzQ/deluxe/chicago-cubs-atlanta-braves/1/401816965/1789624603/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/ANLr_NRFuW5V4uFd40YSHQ/platinum/chicago-cubs-atlanta-braves/1/401816965/1789624605/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/9q7CUjY9J5Vil1VLvpZDIg/platinum/chicago-cubs-atlanta-braves/2/401816965/1789624607/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/cYgW9JclxmtOWaRBQdp-dw/delta/live_mlb_cubs-braves-live-streaming-594391392/1/401816965/1789624610/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/dQgJpcQxaTEfw3ALj-nYHg/delta/live_mlb_cubs-braves-live-streaming-594391392/2/401816965/1789624612/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Texas Rangers vs Boston Red Sox",
-        "is_live": false,
-        "start_ts": 1789603500,
-        "links": [
-          {
-            "label": "sigma (FHD)",
-            "playable_url": "https://lb3.wfty.st/secure/wiZ9Y_VAx9VvfJBrWNcpCg/sigma/texas-rangers-boston-red-sox/1/401816966/1789624633/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (FHD)",
-            "playable_url": "https://lb3.wfty.st/secure/onRUaJ9GR22GaZB96TTXTQ/sigma/texas-rangers-boston-red-sox/2/401816966/1789624636/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/aanx9UH69LdynikPwwS6AA/pro/texas-rangers-boston-red-sox/1/401816966/1789624638/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/FWnjH8dJ1xBHKsRFMO9lLQ/pro/texas-rangers-boston-red-sox/2/401816966/1789624640/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/uwtJrbpNWGp__FLh959RiA/pro/texas-rangers-boston-red-sox/3/401816966/1789624642/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/fsCXBUpMxQ8X1CuabHAMMA/deluxe/texas-rangers-boston-red-sox/1/401816966/1789624644/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/CNnRKinwrm4zYdq8T1hQRg/platinum/texas-rangers-boston-red-sox/1/401816966/1789624646/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/IlDYvWPelFSBaKgEd3VImQ/platinum/texas-rangers-boston-red-sox/2/401816966/1789624648/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/UO7yIqZfxL0NGX-LOIIxBw/delta/live_mlb_rangers-red-sox-live-streaming-594391824/1/401816966/1789624650/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/n_hePukcwVWCmeJripeN6A/delta/live_mlb_rangers-red-sox-live-streaming-594391824/2/401816966/1789624652/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
         "title": "Houston Astros vs Kansas City Royals",
-        "is_live": false,
+        "is_live": true,
         "start_ts": 1789603800,
         "links": [
           {
             "label": "sigma (FHD)",
-            "playable_url": "https://lb4.wfty.st/secure/EP9Iqzf_GAXYC5btQWYl4A/sigma/houston-astros-kansas-city-royals/1/401816967/1789624673/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/qRY_4TT5pKD156T3n6s2mg/sigma/houston-astros-kansas-city-royals/1/401816967/1789626359/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "sigma (FHD)",
-            "playable_url": "https://lb4.wfty.st/secure/WNrB0ROpjZYHDZe231Iq1w/sigma/houston-astros-kansas-city-royals/2/401816967/1789624676/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/6u8fBMCkhmDLQskwFFgIJA/sigma/houston-astros-kansas-city-royals/2/401816967/1789626361/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/xM25QUQE14nDm4OQUJgTcg/pro/houston-astros-kansas-city-royals/1/401816967/1789624678/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/UgNGdAE1Me3CdpDxp13Slg/pro/houston-astros-kansas-city-royals/1/401816967/1789626364/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/ZWhqN6Y7xcEjiuegGov__Q/pro/houston-astros-kansas-city-royals/2/401816967/1789624680/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/vKvBB8P7SM6uDKecP_eYdQ/pro/houston-astros-kansas-city-royals/2/401816967/1789626366/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/mkpiRfkU3F46ns7vGdSqFw/pro/houston-astros-kansas-city-royals/3/401816967/1789624683/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/QIvSEfCxTssUNo1TFoL69g/pro/houston-astros-kansas-city-royals/3/401816967/1789626369/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/uB5qG_V8NSUtpZOduy4XCg/deluxe/houston-astros-kansas-city-royals/1/401816967/1789624685/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/AqLtnLzzFAkHfyD6FQFeSQ/platinum/houston-astros-kansas-city-royals/1/401816967/1789624687/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/AKnhQj6_HkEHQdRR6308TQ/platinum/houston-astros-kansas-city-royals/2/401816967/1789624689/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/RdLK9xNHLuxHHthFX8xN3w/deluxe/houston-astros-kansas-city-royals/1/401816967/1789626371/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/2MzqIPlr37BUGAe8gAJLTQ/delta/live_mlb_astros-royals-live-streaming-594392256/1/401816967/1789624691/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/cxBKu5d1Y2SqsDLZBKNNNw/delta/live_mlb_astros-royals-live-streaming-594392256/1/401816967/1789626374/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/qOXRkvYtwSaz5vRVEFuGbQ/delta/live_mlb_astros-royals-live-streaming-594392256/2/401816967/1789624693/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Washington Nationals vs Philadelphia Phillies",
-        "is_live": true,
-        "start_ts": 1789598700,
-        "links": [
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/OjrKbPfkgTzd5F6T5jxJPA/pro/washington-nationals-philadelphia-phillies/1/401816964/1789624714/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/q8h6AaT8wnYsXj2AEmeWrw/pro/washington-nationals-philadelphia-phillies/2/401816964/1789624717/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/xdave6UHawbsXR3zfwldow/pro/washington-nationals-philadelphia-phillies/3/401816964/1789624720/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/aBSs7s1AhJ0r-N8NhkJoIQ/deluxe/washington-nationals-philadelphia-phillies/1/401816964/1789624722/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/uXZJrexH6u8Xt0JzVr9P0w/platinum/washington-nationals-philadelphia-phillies/1/401816964/1789624724/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/J18dxIT0buHtNe45qrq9bg/platinum/washington-nationals-philadelphia-phillies/2/401816964/1789624726/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/h3INjTj_3Epuj25ZFmiZcQ/delta/live_mlb_nationals-phillies-live-streaming-594390528/1/401816964/1789624728/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/dFqRBz1qtIrQ0a8PIh9Zqw/delta/live_mlb_nationals-phillies-live-streaming-594390528/2/401816964/1789624730/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Cincinnati Reds vs Los Angeles Dodgers",
-        "is_live": true,
-        "start_ts": 1789598400,
-        "links": [
-          {
-            "label": "sigma (FHD)",
-            "playable_url": "https://lb6.wfty.st/secure/nXlQTSsf6daylYR4_h5lkw/sigma/cincinnati-reds-los-angeles-dodgers/1/401816962/1789624752/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (FHD)",
-            "playable_url": "https://lb5.wfty.st/secure/M9LHPUz607H6dZFIyd4WNw/sigma/cincinnati-reds-los-angeles-dodgers/2/401816962/1789624754/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/2yGFpmJ7wDiqPBf4BdOi8w/pro/cincinnati-reds-los-angeles-dodgers/1/401816962/1789624757/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/VnST7emFf01o0zRe4zXb1Q/pro/cincinnati-reds-los-angeles-dodgers/2/401816962/1789624758/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/UYr3dhCp32XkwRDcX5Ct1w/pro/cincinnati-reds-los-angeles-dodgers/3/401816962/1789624761/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/gA4C9xyk36hcUimZ1Er2ew/deluxe/cincinnati-reds-los-angeles-dodgers/1/401816962/1789624763/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/bLMEooMRTDm6yhmHsGexUw/platinum/cincinnati-reds-los-angeles-dodgers/1/401816962/1789624765/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/6CC_xrRARDpEp5Gv0asUxg/platinum/cincinnati-reds-los-angeles-dodgers/2/401816962/1789624767/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/ilMVEKMTnY2m5Ys78XtvOg/delta/live_mlb_reds-dodgers-live-streaming-594389232/1/401816962/1789624769/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/ke2tnJ_KYt5poAUAOypwcw/delta/live_mlb_reds-dodgers-live-streaming-594389232/2/401816962/1789624771/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Toronto Blue Jays vs Detroit Tigers",
-        "is_live": false,
-        "start_ts": 1789585620,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/d6Z5PcJCf24a2SZCLkWVvg/deluxe/toronto-blue-jays-detroit-tigers/1/401816961/1789624773/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Minnesota Twins vs New York Yankees",
-        "is_live": true,
-        "start_ts": 1789580400,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/yTb0aIi7KBkydgaVkMtHlA/deluxe/minnesota-twins-new-york-yankees/1/401816968/1789624775/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "St. Louis Cardinals vs San Francisco Giants",
-        "is_live": false,
-        "start_ts": 1789578900,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/Fm1LaoEyfT1lW40Ivt6HPQ/deluxe/st-louis-cardinals-san-francisco-giants/1/401816969/1789624780/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Houston Astros vs Kansas City Royals",
-        "is_live": false,
-        "start_ts": 1789517400,
-        "links": [
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/QuYEnd9h-j2SbBqSnFbbmg/platinum/houston-astros-kansas-city-royals/1/401816952/1789624783/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/4vDNZb0uMgZmR-XKv8wDnw/platinum/houston-astros-kansas-city-royals/2/401816952/1789624785/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/8n7q-TVbEkusdUXPnoawwQ/delta/live_mlb_astros-royals-live-streaming-594392256/2/401816967/1789626377/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
       {
         "title": "Texas Rangers vs Boston Red Sox",
-        "is_live": false,
-        "start_ts": 1789517100,
+        "is_live": true,
+        "start_ts": 1789603500,
         "links": [
           {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/lKarS9rweQCHdBQJiiVnug/platinum/texas-rangers-boston-red-sox/1/401816951/1789624787/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb3.wfty.st/secure/xFyG_rU_BCvumNsgMYRn_w/sigma/texas-rangers-boston-red-sox/1/401816966/1789626398/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb3.wfty.st/secure/P8nf2WPRcS7Qh41M7J-eNA/sigma/texas-rangers-boston-red-sox/2/401816966/1789626401/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/TqjQh7DfGz9ZnIR9z8G6jQ/pro/texas-rangers-boston-red-sox/1/401816966/1789626404/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/iGAf9dhEF3eFiV1Fr7yNRw/pro/texas-rangers-boston-red-sox/2/401816966/1789626407/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/yL2ecIg6wh8wDiADHPdjRQ/pro/texas-rangers-boston-red-sox/3/401816966/1789626410/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/E5dpapkH3v9U0V0T342XGw/deluxe/texas-rangers-boston-red-sox/1/401816966/1789626412/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/NNMBLhsXttFir8No8uY_IA/platinum/texas-rangers-boston-red-sox/2/401816951/1789624789/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/MsA2RlvX_YZhrd-gOeURfw/platinum/texas-rangers-boston-red-sox/1/401816966/1789626415/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/1Vp8yu-jg3X9haF4bLu5XQ/platinum/texas-rangers-boston-red-sox/2/401816966/1789626418/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/lMoTH0DvHQ1HMU1FzZCXJA/delta/live_mlb_rangers-red-sox-live-streaming-594391824/1/401816966/1789626421/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/69GrQdNe-TcodJwcZp9uDw/delta/live_mlb_rangers-red-sox-live-streaming-594391824/2/401816966/1789626423/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
