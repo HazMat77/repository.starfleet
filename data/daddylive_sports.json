@@ -1,7 +1,27 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-19T03:55:02.985955Z",
+  "scraped_at": "2026-09-19T04:25:03.032148Z",
   "sports_events": {
+    "nba": [
+      {
+        "title": "Golden State Valkyries vs Portland Fire",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb16.strmd.st/secure/XUgcKoUEJWMXlPwawZxlQXNUkvhYtYNl/rtmp/stream/9MsoHUj0D8ANIjbfY-LigByg8epN_k3eVmPZurWuoyfIJRplCYGIuKAxzCrXsHwCPG_oqdgORg5C_jxJU9O5fTrSVsIXzw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-fire-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-fire-vs-golden-state-valkyries%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb19.strmd.st/secure/GAkHYtModkTAJiAjIShbYGvurcyrKeGW/rtmp/stream/9MsoHUj0D8ANIjbfY-LigByg8epN_k3eVmPZurWuoyfIJRplCYGIuKAxzCrXsHwCPG_oqdgORg5C_jxJU9O5fTrSVsIXzw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-fire-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-fire-vs-golden-state-valkyries%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "golf": [],
     "ufc": [
       {
@@ -10,47 +30,22 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/yrDGaoukHFiTWgnxLHCeXdFlzYpvEHEC/foxtrot/stream/raf13-covington-vs-muhammad/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fraf13-covington-vs-muhammad%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb15.strmd.st/secure/zIcZIrfDfsKBosEHtVicUbHxmxbYukKQ/foxtrot/stream/raf13-covington-vs-muhammad/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fraf13-covington-vs-muhammad%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fraf13-covington-vs-muhammad%2F1&source=tv2",
             "resolved": true
           }
         ]
       }
     ],
-    "wwe": [],
     "other_events": [
-      {
-        "title": "Friday Night SmackDown",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/DywDOevseyPGtlbFccOdyCRcfxlqEsGl/delta/stream/live-event_friday-night-smackdown-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_friday-night-smackdown-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_friday-night-smackdown-live-stream%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
       {
         "title": "Pink Lady Classic at Meridian Speedway",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb20.strmd.st/secure/FAHmFefgUEtZPVwzvtlxukHlGXlBWWxL/foxtrot/stream/pink-lady-classic-at-meridian-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fpink-lady-classic-at-meridian-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb16.strmd.st/secure/TcTeISpzjIVzdvacTSHGmRIwWQCtwkqD/foxtrot/stream/pink-lady-classic-at-meridian-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fpink-lady-classic-at-meridian-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fpink-lady-classic-at-meridian-speedway%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "STSS Fonda 200 Fonda",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/txvzGEhSHcoCUErrDhcZsNMPRVyjuPWa/foxtrot/stream/stss-fonda-200-at-fonda-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fstss-fonda-200-at-fonda-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fstss-fonda-200-at-fonda-speedway%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -61,7 +56,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.strmd.st/secure/IWxvBHHFwFhkrdPTRvaGxNCAieGieydp/foxtrot/stream/hlr-hockettmcmillin-memorial-at-lucas-oil-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fhlr-hockettmcmillin-memorial-at-lucas-oil-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb19.strmd.st/secure/FcQaFsQZNSxwfkDHETQLLHYLDwGWLIhT/foxtrot/stream/hlr-hockettmcmillin-memorial-at-lucas-oil-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fhlr-hockettmcmillin-memorial-at-lucas-oil-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fhlr-hockettmcmillin-memorial-at-lucas-oil-speedway%2F1&source=tv2",
             "resolved": true
           }
@@ -73,7 +68,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/ITdghSQdIuaYakvnEXdwqHNhwMPTlxsK/foxtrot/stream/napa-all-star-circuit-of-champions-at-fremont-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fnapa-all-star-circuit-of-champions-at-fremont-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb15.strmd.st/secure/BFtaTZuTRWvRlSZHIJawOCcZDBAuHmQx/foxtrot/stream/napa-all-star-circuit-of-champions-at-fremont-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fnapa-all-star-circuit-of-champions-at-fremont-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fnapa-all-star-circuit-of-champions-at-fremont-speedway%2F1&source=tv2",
             "resolved": true
           }
@@ -85,8 +80,20 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.strmd.st/secure/CnrMRlSObJQoCXsiwdxLSmfNsrwvlTLR/foxtrot/stream/usac-amsoil-national-sprint-cars-at-circle-city-raceway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fusac-amsoil-national-sprint-cars-at-circle-city-raceway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/UdSlnKAIbRyWyhuStqmefoWAwjsvDujf/foxtrot/stream/usac-amsoil-national-sprint-cars-at-circle-city-raceway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fusac-amsoil-national-sprint-cars-at-circle-city-raceway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fusac-amsoil-national-sprint-cars-at-circle-city-raceway%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "STSS Fonda 200 at Fonda Speedway",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.strmd.st/secure/BRMficlXgFpQkQdMzFVIFRkGKUhTSBVC/foxtrot/stream/stss-fonda-200-at-fonda-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fstss-fonda-200-at-fonda-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fstss-fonda-200-at-fonda-speedway%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -97,13 +104,26 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb20.strmd.st/secure/yWpKHAeGCsuPKbOsCmCEpmBHzsSthkJO/foxtrot/stream/maxxis-midwest-max-daddy-race-at-fairbury-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fmaxxis-midwest-max-daddy-race-at-fairbury-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb19.strmd.st/secure/yTmVAdVDCNmulAhuXvRwwUsvzfpYGUxK/foxtrot/stream/maxxis-midwest-max-daddy-race-at-fairbury-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fmaxxis-midwest-max-daddy-race-at-fairbury-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fmaxxis-midwest-max-daddy-race-at-fairbury-speedway%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "ATB Classic (Canada) : PGA TOUR AMERICAS: ATB Classic (Canada)",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb5.wfty.st/secure/KgueushxxZGSTaY7sAsHgA/sigma/pga-tour-americas-atb-classic-canada/1/23_h6pCCByn/1789813663/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_h6pCCByn%2Fpga-tour-americas-atb-classic-canada%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=23_h6pCCByn%2Fpga-tour-americas-atb-classic-canada%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
         ]
       }
     ],
+    "cfb": [],
     "soccer": [
       {
         "title": "Oregon vs Portland State",
@@ -111,19 +131,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/JsgxheLIcYRxcqUCXPyFuForDFIwXeIE/rtmp/stream/iFbS6cgDso1WPRUnvSgRrYvgHCFl0gWyCyJCz2-WozT5kz5N7Mv-fd7n9_v5kJy78ZOGk9s/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb16.strmd.st/secure/aaZOpDImajIGcIoCyhHJuAIDIYEiuDZC/rtmp/stream/K2rSeuqMzZj5dYEgrZYo_GwpuKxOrwBi4YVUKD2T0Ly_Lwcl2oJ8IwDIGd0mYggiGoAT0A4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb3.strmd.st/secure/cwaUVtNwuhyQQtLILydbZcEnuXSogklM/rtmp/stream/iFbS6cgDso1WPRUnvSgRrYvgHCFl0gWyCyJCz2-WozT5kz5N7Mv-fd7n9_v5kJy78ZOGk9s/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb19.strmd.st/secure/WHWGXWMUkYplfuYnGiodWsTfBbQwAwFd/rtmp/stream/K2rSeuqMzZj5dYEgrZYo_GwpuKxOrwBi4YVUKD2T0Ly_Lwcl2oJ8IwDIGd0mYggiGoAT0A4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-state-vikings-at-oregon-ducks%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb14.strmd.st/secure/OtGsieiCEBKuCcVsOmEykTuyjNRHxnNK/rtmp/stream/iFbS6cgDso1WPRUnvSgRrYvgHCFl0gWyCyJCz2-WozT5kz5N7Mv-fd7n9_v5kJy78ZOGk9s/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb15.strmd.st/secure/RtHNzIIuobjbogOiwpxZwMEjLChHBvHt/rtmp/stream/K2rSeuqMzZj5dYEgrZYo_GwpuKxOrwBi4YVUKD2T0Ly_Lwcl2oJ8IwDIGd0mYggiGoAT0A4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_oregon-portland-state-live-streaming-587790432%2F1&source=tv2",
             "resolved": true
           }
@@ -135,13 +155,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb7.strmd.st/secure/JNLFJgDxHCokKEDNQxjBncWdpGWWdiBK/rtmp/stream/mljn_Id_x7e6-SSoI9vNFKPLpGCzp4tJpIxb5XTEVOTT_Fond--8jB4t6DuOgPE8-UeBhqla8Ig/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-fc-juarez-vs-tigres-uanl%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/DziojCRtztlhsykzjhyzAbbQxdsohjys/rtmp/stream/08VCpxv7IgLfN_XQmp6QfwM825dqP6uFvmlBUAYFXPkwU5uUqWk98AQ4sOQUDkeEtbVgBFXX08c/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-fc-juarez-vs-tigres-uanl%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-fc-juarez-vs-tigres-uanl%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb8.strmd.st/secure/bSlLGJitWuhKvjTmdeFxPMUsZYebOlkQ/rtmp/stream/mljn_Id_x7e6-SSoI9vNFKPLpGCzp4tJpIxb5XTEVOTT_Fond--8jB4t6DuOgPE8-UeBhqla8Ig/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-fc-juarez-vs-tigres-uanl%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/uNxcAbRZriPuwYPNDSDGMrMMbsnluxXr/rtmp/stream/08VCpxv7IgLfN_XQmp6QfwM825dqP6uFvmlBUAYFXPkwU5uUqWk98AQ4sOQUDkeEtbVgBFXX08c/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-fc-juarez-vs-tigres-uanl%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-fc-juarez-vs-tigres-uanl%2F2&source=tv2",
             "resolved": true
           }
@@ -153,14 +173,128 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb13.strmd.st/secure/VtKwkSyfEQfbghcZdxnDAgCXshlaWPQR/foxtrot/stream/red-bull-new-york-v-new-york-city-fc-761815/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fred-bull-new-york-v-new-york-city-fc-761815%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/dEaDsOkMxdtCRERaFvPnNSjwATgyKILA/foxtrot/stream/red-bull-new-york-v-new-york-city-fc-761815/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fred-bull-new-york-v-new-york-city-fc-761815%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fred-bull-new-york-v-new-york-city-fc-761815%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Monterrey (W) vs Necaxa (W)",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.wfty.st/secure/m8zWOAop83D5vMPKT79DtA/sigma/monterrey-w-necaxa-w/1/4789122/1789813726/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4789122%2Fmonterrey-w-necaxa-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4789122%2Fmonterrey-w-necaxa-w%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/-YUGuyhEgj_igExfaSqsYg/sigma/monterrey-w-necaxa-w/1/4789122/1789813735/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4789122%2Fmonterrey-w-necaxa-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4789122%2Fmonterrey-w-necaxa-w%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
         ]
       }
     ],
-    "cfb": [],
-    "nba": []
+    "mlb": [
+      {
+        "title": "Chicago White Sox vs Detroit Tigers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb7.strmd.st/secure/rSSatFrFAogeBdYWTFDWQbemCzUHOyZK/golf/stream/1418/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1418%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1418%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb4.strmd.st/secure/vOoBInJGrNUKtSgjihsMMLMoaAlnNlXO/golf/stream/1418/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F1418%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1418%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb15.strmd.st/secure/NtcnKfFkOArUgqmAEVZhmdyPqVGYKiiP/foxtrot/stream/tigers-v-white-sox-401816989/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Ftigers-v-white-sox-401816989%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Ftigers-v-white-sox-401816989%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "New York Mets vs Philadelphia Phillies",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb12.strmd.st/secure/FmGDfBbESPvJuMdozKNKkulHswtldQhi/foxtrot/stream/phillies-v-mets-401816987/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fphillies-v-mets-401816987%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fphillies-v-mets-401816987%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Cleveland Guardians vs Athletics",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.strmd.st/secure/LKaFBHIGQyrVcQnYmAtPNaonakOWnWuQ/foxtrot/stream/athletics-v-guardians-401816982/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fathletics-v-guardians-401816982%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fathletics-v-guardians-401816982%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Tampa Bay Rays vs Boston Red Sox",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.strmd.st/secure/brurlKlDafeNVZVbBiEiKeZtmMJFTpwy/foxtrot/stream/red-sox-v-rays-401816983/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fred-sox-v-rays-401816983%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fred-sox-v-rays-401816983%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Baltimore Orioles vs Milwaukee Brewers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb17.strmd.st/secure/yCWEdqzYtraQgJLgNktIVcfIBfEuIkYg/foxtrot/stream/brewers-v-orioles-401816986/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fbrewers-v-orioles-401816986%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fbrewers-v-orioles-401816986%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Cincinnati Reds vs Chicago Cubs",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb1.strmd.st/secure/EFPvYfvmdcrHCavckIRpIhfRoguNazWe/foxtrot/stream/cubs-v-reds-401816984/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fcubs-v-reds-401816984%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fcubs-v-reds-401816984%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Pittsburgh Pirates vs Kansas City Royals",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb19.strmd.st/secure/SiXPblkqKRzQLlmLfPgvmgGBWiblJpgx/foxtrot/stream/royals-v-pirates-401816985/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Froyals-v-pirates-401816985%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Froyals-v-pirates-401816985%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ]
   }
 }
