@@ -1,32 +1,94 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-09-19T03:55:03.004433Z",
+  "scraped_at": "2026-09-19T04:25:03.064956Z",
   "categories": {
     "mlb": [
       {
-        "title": "Texas Rangers vs Toronto Blue Jays",
-        "is_live": true,
-        "start_ts": 1789776300,
+        "title": "Houston Astros vs Atlanta Braves",
+        "is_live": false,
+        "start_ts": 1789776600,
         "links": [
           {
-            "label": "pro (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/OxTEZSWrcROb4hFMq0VuzA/pro/texas-rangers-toronto-blue-jays/3/401816990/1789812553/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/PX5_1Veo-sxQfPk6-fvdwQ/deluxe/texas-rangers-toronto-blue-jays/1/401816990/1789812555/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "platinum (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/wQuiRFdcEcfqIf6FOH-y3A/platinum/houston-astros-atlanta-braves/1/401816988/1789813670/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/2ttzxOjLIR7YNQcigFr3iA/platinum/texas-rangers-toronto-blue-jays/1/401816990/1789812558/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/QGkHEmHHy2UhDnmfoxj6AQ/delta/live_mlb_rangers-blue-jays-live-streaming-594419040/1/401816990/1789812560/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/zmKSRPC3GRflIexm8lgbjw/platinum/houston-astros-atlanta-braves/2/401816988/1789813672/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "foxtrot (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/KOrYFzI5iuoYqCh_JOnlCA/foxtrot/blue-jays-v-rangers-401816990/1/401816990/1789812562/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/QtwWBLBtYnJY0LcfTuFSSg/foxtrot/braves-v-astros-401816988/1/401816988/1789813675/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Arizona Diamondbacks vs New York Yankees",
+        "is_live": true,
+        "start_ts": 1789782000,
+        "links": [
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb6.wfty.st/secure/5KNZu6-DjYBS0T25yXHkVg/sigma/arizona-diamondbacks-new-york-yankees/1/4627366/1789813696/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb5.wfty.st/secure/vAzGUeySIF1Ug5G6CcdzDw/sigma/arizona-diamondbacks-new-york-yankees/2/4627366/1789813698/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/gwzETDtAGPTxQ_bNUTtaLg/pro/arizona-diamondbacks-new-york-yankees/1/4627366/1789813700/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/tD_iali1hlSuEzFbAytvPQ/pro/arizona-diamondbacks-new-york-yankees/2/4627366/1789813702/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/fjSD-0Ey2ZhAbCmKv2uAJA/pro/arizona-diamondbacks-new-york-yankees/3/4627366/1789813704/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/JUqc_hagHkdshmAKSzGa4w/deluxe/arizona-diamondbacks-new-york-yankees/1/4627366/1789813707/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/ZeapvObfi0PGLuMv4AFv0Q/platinum/arizona-diamondbacks-new-york-yankees/1/4627366/1789813709/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/psgbyrBo9nBKeKr9w_1C_w/platinum/arizona-diamondbacks-new-york-yankees/2/4627366/1789813711/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/boRJHfCZwMxnCCpB0jWCLw/delta/live_mlb_diamondbacks-yankees-live-streaming-594421200/1/4627366/1789813713/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/9yoEnTCRBms9HRLD3Qverg/delta/live_mlb_diamondbacks-yankees-live-streaming-594421200/2/4627366/1789813715/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/2SJ9DGZ8xdlCHzVzgURjEg/foxtrot/yankees-v-diamondbacks-401816995/1/4627366/1789813718/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Texas Rangers vs Toronto Blue Jays",
+        "is_live": false,
+        "start_ts": 1789776300,
+        "links": [
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/1yy0yZ0L2IyvHdyyhpPkqw/deluxe/texas-rangers-toronto-blue-jays/1/401816990/1789813720/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/jvZVu5xChBF5rWIeDzxl3w/platinum/texas-rangers-toronto-blue-jays/1/401816990/1789813723/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/_yPYWPK4Olitoo-XloYd-g/foxtrot/blue-jays-v-rangers-401816990/1/401816990/1789813725/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
