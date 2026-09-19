@@ -1,288 +1,38 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-19T02:25:02.956278Z",
+  "scraped_at": "2026-09-19T02:55:03.011965Z",
   "sports_events": {
-    "ufc": [
-      {
-        "title": "RAF13: Covington vs Muhammad",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb7.strmd.st/secure/XkzzTDpeoOMDUqxCljUrMFgHPjtHcIoX/foxtrot/stream/raf13-covington-vs-muhammad/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fraf13-covington-vs-muhammad%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fraf13-covington-vs-muhammad%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
+    "ufc": [],
     "golf": [],
-    "nba": [
+    "wwe": [],
+    "other_events": [],
+    "soccer": [
       {
-        "title": "Golden State Valkyries vs Portland Fire",
+        "title": "Oregon vs Portland State",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb18.strmd.st/secure/oSRIgEVJeJHEyOEzHTuxSkGdPnRAhhgq/rtmp/stream/r-yv9oY0sxBG7x2DcYwJyUNA87WBu5XVXNkNOzTYu7aWmIvAUQ4nico4PK3oqQUOUDKMgYl8rHLL_eFi6oqp9eQZWzWx6g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-fire-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-fire-vs-golden-state-valkyries%2F1&source=tv2",
+            "playable_url": "https://lb7.strmd.st/secure/oxOIPwxuExgjZhvqkgVXsbDfAZwTlLLd/rtmp/stream/oOLvy5bDxI8OzGCWHUp7PSS-EHXj6OY0PCrahUg_kn_Dl4J8GBQRz_xkrKuVje02xLCA7GM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb17.strmd.st/secure/wjgSUKwLtJBuUyrBmMcswvdrJMenTUVm/rtmp/stream/r-yv9oY0sxBG7x2DcYwJyUNA87WBu5XVXNkNOzTYu7aWmIvAUQ4nico4PK3oqQUOUDKMgYl8rHLL_eFi6oqp9eQZWzWx6g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-fire-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-fire-vs-golden-state-valkyries%2F2&source=tv2",
+            "playable_url": "https://lb20.strmd.st/secure/tBcKMAQYSdyTpTFbgYpQFoHMcPbahsPj/rtmp/stream/oOLvy5bDxI8OzGCWHUp7PSS-EHXj6OY0PCrahUg_kn_Dl4J8GBQRz_xkrKuVje02xLCA7GM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-state-vikings-at-oregon-ducks%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb8.strmd.st/secure/UZncGrRnYLvkpvXRJUvUEcpZOEbTfniC/rtmp/stream/r-yv9oY0sxBG7x2DcYwJyUNA87WBu5XVXNkNOzTYu7aWmIvAUQ4nico4PK3oqQUOUDKMgYl8rHLL_eFi6oqp9eQZWzWx6g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-fire-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_wnba_valkyries-fire-live-streaming-524103264%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Minnesota Lynx vs New York Liberty",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/plaJmMPdJzCXuxbtllwCMMAFONfFwbhG/rtmp/stream/12M3O0vOctTgrIw-Zc5uCj-aJ5WSd9Zzj_xk9dIm061XslhMCd2ZBC6UAdkb84oWP5Aj0p-CmN7u2GMm-zL3/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-new-york-liberty-vs-minnesota-lynx%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-new-york-liberty-vs-minnesota-lynx%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb4.strmd.st/secure/kaECvCocfylsoyOepgPJisFcKouBGDyJ/rtmp/stream/12M3O0vOctTgrIw-Zc5uCj-aJ5WSd9Zzj_xk9dIm061XslhMCd2ZBC6UAdkb84oWP5Aj0p-CmN7u2GMm-zL3/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-new-york-liberty-vs-minnesota-lynx%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-new-york-liberty-vs-minnesota-lynx%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Toronto Tempo vs Indiana Fever",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb1.strmd.st/secure/iWdlilIkTBDSDeQccmEqUeLbMJTbgJkK/rtmp/stream/pc7VykJRJAIKOs9rqqBgmIMC10Fklr9dU2r593ipcCxtFP9fY8n12mIVt5OgnzSySqSSvsUoffnki4n-kMM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-indiana-fever-vs-toronto-tempo%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-indiana-fever-vs-toronto-tempo%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb6.strmd.st/secure/YdnKVNXZDzmKWSzLhnmeABXzZWdMPBGs/rtmp/stream/pc7VykJRJAIKOs9rqqBgmIMC10Fklr9dU2r593ipcCxtFP9fY8n12mIVt5OgnzSySqSSvsUoffnki4n-kMM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-indiana-fever-vs-toronto-tempo%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-indiana-fever-vs-toronto-tempo%2F2&source=tv2",
+            "playable_url": "https://lb11.strmd.st/secure/qaOOqsURwPOkDaCnBalFUCWLqbOLHECy/rtmp/stream/oOLvy5bDxI8OzGCWHUp7PSS-EHXj6OY0PCrahUg_kn_Dl4J8GBQRz_xkrKuVje02xLCA7GM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-state-vikings-at-oregon-ducks%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_oregon-portland-state-live-streaming-587790432%2F1&source=tv2",
             "resolved": true
           }
         ]
       }
     ],
     "cfb": [],
-    "wwe": [
-      {
-        "title": "WWE: Friday Night Smackdown",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/TDQjKiZTHFwAsLIQf_y37g/deluxe/wwe-friday-night-smackdown/1/ccf6c7d4/1789806393/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2Fccf6c7d4%2Fwwe-friday-night-smackdown%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=ccf6c7d4%2Fwwe-friday-night-smackdown%2Fdeluxe%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/WCkNlU2euMp3T78MWVdYyQ/deluxe/wwe-friday-night-smackdown/1/ccf6c7d4/1789806401/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2Fccf6c7d4%2Fwwe-friday-night-smackdown%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=ccf6c7d4%2Fwwe-friday-night-smackdown%2Fdeluxe%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/5cA4HGuFjR5fuatqfRFGkA/deluxe/wwe-friday-night-smackdown/1/ccf6c7d4/1789806428/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2Fccf6c7d4%2Fwwe-friday-night-smackdown%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=ccf6c7d4%2Fwwe-friday-night-smackdown%2Fhd%2F1&source=tv3",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "other_events": [
-      {
-        "title": "Bristol Motor Speedway - Food City 300",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb18.strmd.st/secure/wTPTSYAYmIQsDdXTdhphresUsNTEVyzJ/rtmp/stream/tbZvpXVKdArzyF6xx8RhuvqlMAmX_qjcsuFtCH-P-utxgB3e3omhz7JEfuGnN1Oh9a0zi_AF0GuFqg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-bristol-motor-speedway-food-city-300%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-bristol-motor-speedway-food-city-300%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb17.strmd.st/secure/lAptbfeHrnLoMftzPGTnXnSosrQAAVmo/rtmp/stream/tbZvpXVKdArzyF6xx8RhuvqlMAmX_qjcsuFtCH-P-utxgB3e3omhz7JEfuGnN1Oh9a0zi_AF0GuFqg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-bristol-motor-speedway-food-city-300%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-bristol-motor-speedway-food-city-300%2F2&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb7.strmd.st/secure/cNIFiHtmipCybqcqfNsiCeRfTjEKaRjQ/rtmp/stream/tbZvpXVKdArzyF6xx8RhuvqlMAmX_qjcsuFtCH-P-utxgB3e3omhz7JEfuGnN1Oh9a0zi_AF0GuFqg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-bristol-motor-speedway-food-city-300%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fbristol-motor-speedway-the-chase-race-food-city-300-nascar-oreilly-auto-parts-series-1789774200%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Pink Lady Classic at Meridian Speedway",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/TypOCebCJXDgTWDQxoewevePtEhtrmSy/foxtrot/stream/pink-lady-classic-at-meridian-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fpink-lady-classic-at-meridian-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fpink-lady-classic-at-meridian-speedway%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "STSS Fonda 200 Fonda",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb4.strmd.st/secure/CMcooOSFjxEwFrBfRoiHWHPyHsrKvoEy/foxtrot/stream/stss-fonda-200-at-fonda-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fstss-fonda-200-at-fonda-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fstss-fonda-200-at-fonda-speedway%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "HLR Hockett/McMillin Memorial at Lucas Oil Speedway",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb1.strmd.st/secure/nGZxmGGpVLfmHZZuAxcdzuGESSIRIxyS/foxtrot/stream/hlr-hockettmcmillin-memorial-at-lucas-oil-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fhlr-hockettmcmillin-memorial-at-lucas-oil-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fhlr-hockettmcmillin-memorial-at-lucas-oil-speedway%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "NAPA All Star Circuit of Champions at Fremont Speedway",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb6.strmd.st/secure/mgtOQxtklyHQLOZYZZLJzdLMuUqBfZmq/foxtrot/stream/napa-all-star-circuit-of-champions-at-fremont-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fnapa-all-star-circuit-of-champions-at-fremont-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fnapa-all-star-circuit-of-champions-at-fremont-speedway%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "USAC AMSOIL National Sprint Cars at Circle City Raceway",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb10.strmd.st/secure/ulmhobESiKwAhHWlqsdSDAMEeidMZnSV/foxtrot/stream/usac-amsoil-national-sprint-cars-at-circle-city-raceway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fusac-amsoil-national-sprint-cars-at-circle-city-raceway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fusac-amsoil-national-sprint-cars-at-circle-city-raceway%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Maxxis Midwest Max Daddy Race at Fairbury Speedway",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb19.strmd.st/secure/DEaTlkESysnjtEXfuFEOmTLJVZEQHUBT/foxtrot/stream/maxxis-midwest-max-daddy-race-at-fairbury-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fmaxxis-midwest-max-daddy-race-at-fairbury-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fmaxxis-midwest-max-daddy-race-at-fairbury-speedway%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "ATB Classic (Canada) : PGA TOUR AMERICAS: ATB Classic (Canada)",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/9kgYgd7GBSOB3klfpdzKdA/sigma/pga-tour-americas-atb-classic-canada/1/23_h6pCCByn/1789806407/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_h6pCCByn%2Fpga-tour-americas-atb-classic-canada%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=23_h6pCCByn%2Fpga-tour-americas-atb-classic-canada%2Fsigma%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb3.wfty.st/secure/jG98XL1ZM1TtrnsWqEmY5Q/sigma/pga-tour-americas-atb-classic-canada/1/23_h6pCCByn/1789806416/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_h6pCCByn%2Fpga-tour-americas-atb-classic-canada%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=23_h6pCCByn%2Fpga-tour-americas-atb-classic-canada%2Fsigma%2F2&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "PURE Insurance Championship (USA) : CHAMPIONS TOUR: PURE Insurance Championship (USA)",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/PYBScI5axHmLGfRSDr-BLQ/sigma/pga-tour-biltmore-championship-usa/1/23_4SjOp2XH/1789806425/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_4SjOp2XH%2Fpga-tour-biltmore-championship-usa%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=23_4SjOp2XH%2Fpga-tour-biltmore-championship-usa%2Fsigma%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/GDZOUzi2K1pbicDVucf_aQ/sigma/pga-tour-biltmore-championship-usa/1/23_4SjOp2XH/1789806436/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_4SjOp2XH%2Fpga-tour-biltmore-championship-usa%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=23_4SjOp2XH%2Fpga-tour-biltmore-championship-usa%2Fsigma%2F2&source=tv3",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "soccer": [
-      {
-        "title": "New York City FC vs New York Red Bulls",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb8.strmd.st/secure/mGBkIpGLWLTYganrzWWpGzpzHCWbEefn/rtmp/stream/G626UpjSxZ0ZvA2aEWE2oQAe5uUNUidS3HDzfrS11vEexkRhyYUKHkiCASLl96LS6CdMmkcm1aii/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-new-york-city-fc-vs-red-bull-new-york%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-new-york-city-fc-vs-red-bull-new-york%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb14.strmd.st/secure/zctSjWilHFVUntsZDfvYfAVBmvYxZPwK/rtmp/stream/G626UpjSxZ0ZvA2aEWE2oQAe5uUNUidS3HDzfrS11vEexkRhyYUKHkiCASLl96LS6CdMmkcm1aii/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-new-york-city-fc-vs-red-bull-new-york%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-new-york-city-fc-vs-red-bull-new-york%2F2&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb16.strmd.st/secure/amnhqZsqmSHrVkDxYAAOnzETEMPQJBQV/rtmp/stream/G626UpjSxZ0ZvA2aEWE2oQAe5uUNUidS3HDzfrS11vEexkRhyYUKHkiCASLl96LS6CdMmkcm1aii/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-new-york-city-fc-vs-red-bull-new-york%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fred-bull-new-york-v-new-york-city-fc-761815%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Hamilton Tiger-Cats vs Montreal Alouettes",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/AcKbBdyJpQdmQOqLkfwbHZQmDxntuzdq/rtmp/stream/16Tx29hl9cCRkSRD6B9xX0beDc8uowjeInNiCzMXwHexjvPTOZC23AxlaXWnPlxQz1f7QNdl/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-montreal-alouettes-at-hamilton-tiger-cats%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-montreal-alouettes-at-hamilton-tiger-cats%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb15.strmd.st/secure/WEChVSzQJLEjJcmynglzgedJjZkYTHaa/rtmp/stream/16Tx29hl9cCRkSRD6B9xX0beDc8uowjeInNiCzMXwHexjvPTOZC23AxlaXWnPlxQz1f7QNdl/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-montreal-alouettes-at-hamilton-tiger-cats%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-montreal-alouettes-at-hamilton-tiger-cats%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ]
+    "nba": []
   }
 }
