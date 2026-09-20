@@ -1,42 +1,122 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-20T20:25:02.973332Z",
+  "scraped_at": "2026-09-20T20:55:02.800795Z",
   "sports_events": {
-    "nhl": [],
-    "nba": [],
-    "other_events": [
+    "darts": [
       {
-        "title": "Goias vs Avai",
+        "title": "World Series of Darts Finals | Day 4 - Evening Session",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/L54B34L6u8amVGSvY7qJpw/prime/goias-avai/1/4669128/1789957610/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4669128%2Fgoias-avai%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4669128%2Fgoias-avai%2Fprime%2F1&source=tv3",
+            "playable_url": "https://lb7.strmd.st/secure/zvcLnDGygJigbofsaVLhqZTeOBcnKexS/rtmp/stream/FAAd37fxGKqcQvT3_ru28SuTTaOnI77Qh1uDtPZD2UsaMjB37E6fQITVBHxtP-r62ZVHPUwHog/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-world-series-of-darts-finals-day-4-evening-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-world-series-of-darts-finals-day-4-evening-session%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/OqRPOEXa0Zzp8MOyW0kglQ/prime/goias-avai/1/4669128/1789957620/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4669128%2Fgoias-avai%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4669128%2Fgoias-avai%2Fprime%2F2&source=tv3",
+            "playable_url": "https://lb8.strmd.st/secure/OszEfhPXasVoUhMjkpOVihKrwCvmByzC/rtmp/stream/3onLz-8ry1h4fZNWXXTInxvKEoN6SnhgUSe9-09THAOgMWsSy2sa9EpdCxxAYiUPzL3cYKWd6UGV7-0/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-world-series-of-darts-finals-day-4-evening-session%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-world-series-of-darts-finals-day-4-evening-session%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "nhl": [
+      {
+        "title": "Anaheim Ducks vs San Jose Sharks",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/mmanheimducks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D219%26id%3D1599%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1599%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/mmanheimducks/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D219%26id%3D1599%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1599%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb5.wfty.st/secure/pDWvs-Sb1XKNU_U8AsaFiQ/prime/goias-avai/1/4669128/1789957629/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4669128%2Fgoias-avai%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4669128%2Fgoias-avai%2Fprime%2F3&source=tv3",
+            "playable_url": "https://lb10.strmd.st/secure/laOLBQiBZpzJOsNkXazSDKYJUaQgrtdh/foxtrot/stream/sharks-v-ducks-401879368/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fsharks-v-ducks-401879368%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fsharks-v-ducks-401879368%2F1&source=tv2",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Vitória vs Cruzeiro",
+        "title": "Anaheim Ducks vs San Jose Sharks",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/xCFAv8PeXq2s_Cm3zui7Hw/deluxe/vitoria-cruzeiro/1/401841242/1789957639/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841242%2Fvitoria-cruzeiro%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401841242%2Fvitoria-cruzeiro%2Fdeluxe%2F1&source=tv3",
+            "playable_url": "https://embed.st/embed/ingest/mmanheimducks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D219%26id%3D1599%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1599%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/mmanheimducks/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D219%26id%3D1599%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1599%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb4.strmd.st/secure/OOYtbNjmMDAoJCFXzKCczRgorQKAXIeU/foxtrot/stream/sharks-v-ducks-401879368/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fsharks-v-ducks-401879368%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fsharks-v-ducks-401879368%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "other_events": [
+      {
+        "title": "TireRack.com Battle On The Bricks",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb7.strmd.st/secure/dXVIiExjvfQSyXcxuScjKqQXmRZBSQeY/hotel/stream/indianapolis-road-course-race-tirerack-com-battle-on-the-bricks-imsa-weathertech-sportscar-championship-1789931400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Findianapolis-road-course-race-tirerack-com-battle-on-the-bricks-imsa-weathertech-sportscar-championship-1789931400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Findianapolis-road-course-race-tirerack-com-battle-on-the-bricks-imsa-weathertech-sportscar-championship-1789931400%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "PDRA Brian Olson World Finals 🔥",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb8.strmd.st/secure/LauSUQZgNqbeVOpaYxMsmufISyPSnhOh/foxtrot/stream/pdra-brian-olson-memorial-world-finals/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fpdra-brian-olson-memorial-world-finals%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fpdra-brian-olson-memorial-world-finals%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Goiás vs Avaí",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.wfty.st/secure/jdcxr7xv7GbuC9W0QF6NeA/prime/goias-avai/1/4669128/1789959419/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4669128%2Fgoias-avai%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4669128%2Fgoias-avai%2Fprime%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb4.wfty.st/secure/AQQmPOjXZ_h40grrJl0jhQ/prime/goias-avai/1/4669128/1789959429/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4669128%2Fgoias-avai%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4669128%2Fgoias-avai%2Fprime%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb3.wfty.st/secure/I8bPEg8MkIR7mQQIMheLZg/prime/goias-avai/1/4669128/1789959439/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4669128%2Fgoias-avai%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4669128%2Fgoias-avai%2Fprime%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -47,14 +127,26 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/tMUUz4fYXDw0cmmyw3Izew/deluxe/corinthians-fluminense/1/401841240/1789957648/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841240%2Fcorinthians-fluminense%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/RBmq86zx6Hmk9bNvW9Zabg/deluxe/corinthians-fluminense/1/401841240/1789959449/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841240%2Fcorinthians-fluminense%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401841240%2Fcorinthians-fluminense%2Fdeluxe%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Vitória vs Cruzeiro",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.wfty.st/secure/x1xmU6qwuNQJ-6CvHtnC0Q/deluxe/vitoria-cruzeiro/1/401841242/1789959458/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841242%2Fvitoria-cruzeiro%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841242%2Fvitoria-cruzeiro%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           }
         ]
       }
     ],
-    "soccer": [],
+    "nba": [],
     "nfl": []
   }
 }
