@@ -1,48 +1,61 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-09-20T03:55:02.469087Z",
+  "scraped_at": "2026-09-20T04:25:02.470594Z",
   "categories": {
+    "soccer": [
+      {
+        "title": "Minnesota United FC vs LA Galaxy",
+        "is_live": true,
+        "start_ts": 1789864200,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/axBx2MP5yb78xYDo8Gnf_A/platinum/minnesota-united-fc-la-galaxy/1/761821/1789899909/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
     "mlb": [
       {
         "title": "Los Angeles Dodgers vs San Francisco Giants",
-        "is_live": true,
+        "is_live": false,
         "start_ts": 1789866600,
         "links": [
           {
             "label": "sigma (FHD)",
-            "playable_url": "https://lb4.wfty.st/secure/khhkYGIiykWvkMNs5NxMCQ/sigma/los-angeles-dodgers-san-francisco-giants/1/401817011/1789898129/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/Hnf-139NAxDM0wvodS-Cug/sigma/los-angeles-dodgers-san-francisco-giants/1/401817011/1789899933/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "sigma (FHD)",
-            "playable_url": "https://lb3.wfty.st/secure/S36cYLUIXwYImhAQUskTEg/sigma/los-angeles-dodgers-san-francisco-giants/2/401817011/1789898131/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/dWv0p5T1Dw7Yb0mk54J-Kw/sigma/los-angeles-dodgers-san-francisco-giants/2/401817011/1789899935/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "prime (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/wmAnVzlL9e9UuQm4XMi-dg/prime/los-angeles-dodgers-san-francisco-giants/1/401817011/1789898133/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/zeYNQbFuFDgJM3LbWjdMFA/prime/los-angeles-dodgers-san-francisco-giants/1/401817011/1789899937/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "prime (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/-ZEjZiayTC8JO9TWRj-X9w/prime/los-angeles-dodgers-san-francisco-giants/2/401817011/1789898135/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/exAowiZgxCR4QKmxsmv2vA/prime/los-angeles-dodgers-san-francisco-giants/2/401817011/1789899939/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/4LirAlYynHrw8-Uo7tw5rg/prime/los-angeles-dodgers-san-francisco-giants/3/401817011/1789899941/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/j1oJNs17TJXuU_avnC0JdA/deluxe/los-angeles-dodgers-san-francisco-giants/1/401817011/1789898138/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/q1RNVxbHyOsZo4BU4x8cWA/deluxe/los-angeles-dodgers-san-francisco-giants/1/401817011/1789899943/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/Q3qNPG35jM1VUV6Fkbft8A/platinum/los-angeles-dodgers-san-francisco-giants/1/401817011/1789898140/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/-VzSLgWEEe0mefNtg9n88A/platinum/los-angeles-dodgers-san-francisco-giants/1/401817011/1789899945/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/Hxemgw85aDnnz_qgJ1Z1cw/platinum/los-angeles-dodgers-san-francisco-giants/2/401817011/1789898142/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/4cXmsHMaIH3INy5cn4lakQ/delta/live_mlb_dodgers-giants-live-streaming-594438912/1/401817011/1789898145/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/3RG772gRy8ce9Hl4834pgA/platinum/los-angeles-dodgers-san-francisco-giants/2/401817011/1789899947/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "foxtrot (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/A3r16dgfteFIB4oqc86oPQ/foxtrot/giants-v-dodgers-401817011/1/401817011/1789898147/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/17xmE2aAn0Fa7RsWp7yzmg/foxtrot/giants-v-dodgers-401817011/1/401817011/1789899949/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -52,57 +65,28 @@
         "start_ts": 1789863000,
         "links": [
           {
-            "label": "sigma (FHD)",
-            "playable_url": "https://lb4.wfty.st/secure/vkC1P_v72S4_biiimaIzRg/sigma/arizona-diamondbacks-new-york-yankees/1/401817010/1789898149/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (FHD)",
-            "playable_url": "https://lb4.wfty.st/secure/jNz4rUtuVckZd6IAELyM1g/sigma/arizona-diamondbacks-new-york-yankees/2/401817010/1789898152/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "prime (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/XZVc7aMfek_QezTMp7ZHmg/prime/arizona-diamondbacks-new-york-yankees/1/401817010/1789899951/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "prime (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/dEqYe4zrzbKwUhcraSW7UA/prime/arizona-diamondbacks-new-york-yankees/1/401817010/1789898154/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/ZCfkv2goFZx8c0VElyU2TQ/prime/arizona-diamondbacks-new-york-yankees/2/401817010/1789899954/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "prime (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/Q6Bp9gfzCLfv_tnCWepHtA/prime/arizona-diamondbacks-new-york-yankees/2/401817010/1789898157/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "prime (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/XjukHT9_3NZhRH5arVkKHQ/prime/arizona-diamondbacks-new-york-yankees/3/401817010/1789898159/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "foxtrot (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/tNGxyuSWMrdyEEHjNPAnpA/foxtrot/yankees-v-diamondbacks-401817010/1/401817010/1789898161/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      }
-    ],
-    "nhl": [
-      {
-        "title": "Seattle Kraken vs Vancouver Canucks",
-        "is_live": false,
-        "start_ts": 1789866000,
-        "links": [
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/xcmDBaJy2_14i7B6WDxFoQ/pro/seattle-kraken-vancouver-canucks/1/401879652/1789898184/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/ramLkp2z-XZN44GbWahcrw/pro/seattle-kraken-vancouver-canucks/2/401879652/1789898186/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/9_TQ6Ced5iKE-D2nWaRvzQ/pro/seattle-kraken-vancouver-canucks/3/401879652/1789898188/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/_HxJ_qXsvSFcNmTe22woQA/prime/arizona-diamondbacks-new-york-yankees/3/401817010/1789899956/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/GA9KjUxDl6D0x8UxOXr7qQ/platinum/seattle-kraken-vancouver-canucks/1/401879652/1789898190/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/2YaDSycBuBzRoe06i7ev7A/platinum/arizona-diamondbacks-new-york-yankees/1/401817010/1789899958/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
-            "label": "delta (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/-slRPHK_n4GJr-v0T_C9gQ/delta/live_nhl-preseason_kraken-canucks-live-streaming-610737840/1/401879652/1789898193/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "platinum (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/JuAbtzHy4UBHdiKG_ZuSGg/platinum/arizona-diamondbacks-new-york-yankees/2/401817010/1789899961/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/pMBX5Zi9aQvfvLmCp3CBHg/foxtrot/yankees-v-diamondbacks-401817010/1/401817010/1789899963/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
