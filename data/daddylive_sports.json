@@ -1,8 +1,51 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-21T03:25:02.830517Z",
+  "scraped_at": "2026-09-21T03:55:02.789326Z",
   "sports_events": {
-    "other_events": [],
+    "soccer": [
+      {
+        "title": "Kansas City Chiefs vs Indianapolis Colts",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/mkansascitychiefs/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D266%26id%3D1496%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1496%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/mkansascitychiefs/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D266%26id%3D1496%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1496%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/mkansascitychiefs/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D266%26id%3D1496%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-indianapolis-colts-at-kansas-city-chiefs%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Pachuca vs Tijuana",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb15.strmd.st/secure/sFmvfvvkkpyxeHHgVoQgzhSHPCwWXKTi/rtmp/stream/W9t6nM19ilj96lJ0vc9fp61HH_-VX0K3XjGzS7j-wv5836a-T4znX0mXgsar4SWAEs9SH1iPGac/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-pachuca-vs-tijuana%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-pachuca-vs-tijuana%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb10.strmd.st/secure/jzhLAyMnRruwbVZDSzlNLEDtNVODvuud/rtmp/stream/W9t6nM19ilj96lJ0vc9fp61HH_-VX0K3XjGzS7j-wv5836a-T4znX0mXgsar4SWAEs9SH1iPGac/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-pachuca-vs-tijuana%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-pachuca-vs-tijuana%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "nba": [
       {
         "title": "Las Vegas Aces vs Seattle Storm",
@@ -10,40 +53,14 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.strmd.st/secure/ygDRnFUlsVTsciakbIraHTzOjkVGcWwS/rtmp/stream/O1pNy0UnBqLUjD6RmzYGPHMF8UjfotRHaqTAYD5wklLUl7px6wxFA4VkV5iJeHH8MsS-PXbebnYXtqSQum8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-storm-vs-las-vegas-aces%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/YaqnQiFLzPSXWcbtmjIxEpnYdddeuvNR/rtmp/stream/Bju6g7CfC2W5r5ryabhyuiXyPH-gDrkd4vNIBBMITbu4McvTwOHUf7xc5T-sKmaG8z0xybIfOZ0rVsHij3g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-storm-vs-las-vegas-aces%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-seattle-storm-vs-las-vegas-aces%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb16.strmd.st/secure/cdgEQAhpCIOyxkmcUojmblEKvgdKuGXw/rtmp/stream/O1pNy0UnBqLUjD6RmzYGPHMF8UjfotRHaqTAYD5wklLUl7px6wxFA4VkV5iJeHH8MsS-PXbebnYXtqSQum8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-storm-vs-las-vegas-aces%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb11.strmd.st/secure/RXugFpRANkwwzBhkrDWAGKyvgRQkVNRa/rtmp/stream/Bju6g7CfC2W5r5ryabhyuiXyPH-gDrkd4vNIBBMITbu4McvTwOHUf7xc5T-sKmaG8z0xybIfOZ0rVsHij3g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-storm-vs-las-vegas-aces%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-seattle-storm-vs-las-vegas-aces%2F2&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb2.strmd.st/secure/CQeTVwTuWyoGolLAaNZMQfnffHquiLST/rtmp/stream/O1pNy0UnBqLUjD6RmzYGPHMF8UjfotRHaqTAYD5wklLUl7px6wxFA4VkV5iJeHH8MsS-PXbebnYXtqSQum8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-storm-vs-las-vegas-aces%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_wnba_aces-storm-live-streaming-589238064%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "soccer": [
-      {
-        "title": "Pachuca vs Tijuana",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb15.strmd.st/secure/gaomZdWLZdlxuZMOJpdBHqNmTzBrdHij/rtmp/stream/W9t6nM19ilj96lJ0vc9fp61HH_-VX0K3XjGzS7j-wv5836a-T4znX0mXgsar4SWAEs9SH1iPGac/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-pachuca-vs-tijuana%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-pachuca-vs-tijuana%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb13.strmd.st/secure/arXbQJPhhuKiDwIODOmEtITbWRCbAchQ/rtmp/stream/W9t6nM19ilj96lJ0vc9fp61HH_-VX0K3XjGzS7j-wv5836a-T4znX0mXgsar4SWAEs9SH1iPGac/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-pachuca-vs-tijuana%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-pachuca-vs-tijuana%2F2&source=tv2",
             "resolved": true
           }
         ]
@@ -56,24 +73,25 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://embed.st/embed/ingest/mcalgaryflames/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D223%26id%3D1524%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1524%2F1&source=tv2",
+            "playable_url": "https://lb2.strmd.st/secure/iAqYYmKFrocGiBbZJQWCNbhvwsEkdiZY/rtmp/stream/xinB9tvrsrjoro25Krv3wNneNK8fpY4mTj5ZHPBr-_-tIswikKDqH2UUzPcvJYf-WbX9FvO1/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-kraken-vs-calgary-flames%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-seattle-kraken-vs-calgary-flames%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://embed.st/embed/ingest/mcalgaryflames/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D223%26id%3D1524%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1524%2F2&source=tv2",
+            "playable_url": "https://lb11.strmd.st/secure/IJiUEhJmtKqOnbkThffTtZdWGtdZHsIw/rtmp/stream/xinB9tvrsrjoro25Krv3wNneNK8fpY4mTj5ZHPBr-_-tIswikKDqH2UUzPcvJYf-WbX9FvO1/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-kraken-vs-calgary-flames%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-seattle-kraken-vs-calgary-flames%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://embed.st/embed/ingest/mcalgaryflames/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D223%26id%3D1524%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-seattle-kraken-vs-calgary-flames%2F1&source=tv2",
+            "playable_url": "https://lb1.strmd.st/secure/wBWNtXIBAvaLvgRyddrwfWatMQijoysM/rtmp/stream/xinB9tvrsrjoro25Krv3wNneNK8fpY4mTj5ZHPBr-_-tIswikKDqH2UUzPcvJYf-WbX9FvO1/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-kraken-vs-calgary-flames%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fkraken-v-flames-401879309%2F1&source=tv2",
             "resolved": true
           }
         ]
       }
-    ]
+    ],
+    "other_events": []
   }
 }
