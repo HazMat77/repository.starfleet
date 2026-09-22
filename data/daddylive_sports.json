@@ -1,6 +1,6 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-22T09:25:02.616664Z",
+  "scraped_at": "2026-09-22T09:55:02.485838Z",
   "sports_events": {
     "wwe": [
       {
@@ -22,15 +22,21 @@
         ]
       }
     ],
-    "mlb": [
+    "nba": [
       {
-        "title": "San Francisco Giants vs Minnesota Twins",
+        "title": "Brisbane Bullets vs New Zealand Breakers",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/oXVTMtwvzlSYkkMwBqYuMAsTeKTYitpQ/foxtrot/stream/twins-v-giants-401817029/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Ftwins-v-giants-401817029%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Ftwins-v-giants-401817029%2F1&source=tv2",
+            "playable_url": "https://lb7.strmd.st/secure/xRjQCwVfiJRvRVGHzGphYcsxvbiAtbUo/rtmp/stream/lpt_2P4okqry4vgMTB0WsJpYoWgQX8DnyGgnTk4Br4e9UyCv5r6Pr66o72Q_gojT35QEVseIgO3OCb4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-brisbane-bullets-vs-new-zealand-breakers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-brisbane-bullets-vs-new-zealand-breakers%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb19.strmd.st/secure/oMgLRJLdPLDufytivgPJhEnEsTjMBJWg/rtmp/stream/n41f2uwKdHKmg_OJJvbE9vFFBHRqXWvjYI-w7WBecdHJo-76LKfXD-keViHhLM6TErKzb-tGuYThQ0k/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-brisbane-bullets-vs-new-zealand-breakers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-brisbane-bullets-vs-new-zealand-breakers%2F2&source=tv2",
             "resolved": true
           }
         ]
