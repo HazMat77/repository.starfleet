@@ -1,7 +1,67 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-09-23T00:25:02.585674Z",
+  "scraped_at": "2026-09-23T00:55:02.534447Z",
   "categories": {
+    "mlb": [
+      {
+        "title": "Seattle Mariners vs Houston Astros",
+        "is_live": false,
+        "start_ts": 1790127600,
+        "links": [
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb1.wfty.st/secure/vNwV71vVZY-Ob5QXcCHdwg/sigma/seattle-mariners-houston-astros/1/401817042/1790146527/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb2.wfty.st/secure/DzRoj9bt71cX76Cc_6ur7A/sigma/seattle-mariners-houston-astros/2/401817042/1790146530/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/HZIjWKNvDFQb3kciChXt5g/prime/seattle-mariners-houston-astros/1/401817042/1790146532/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/GRW3eL-CIpVXkl_GhhMlnw/prime/seattle-mariners-houston-astros/2/401817042/1790146535/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/n1T_pSx5Fvw3YIBqU6mFHg/prime/seattle-mariners-houston-astros/3/401817042/1790146537/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/IT6vLMgcCxEBC-84d4TpNw/deluxe/seattle-mariners-houston-astros/1/401817042/1790146539/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "San Francisco Giants vs Minnesota Twins",
+        "is_live": false,
+        "start_ts": 1790127900,
+        "links": [
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb6.wfty.st/secure/9whZSw8_-q1OXKHL6qiTiQ/sigma/san-francisco-giants-minnesota-twins/1/401817043/1790146561/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb1.wfty.st/secure/ikVEMHaBg4yQ_AZBaUQLFA/sigma/san-francisco-giants-minnesota-twins/2/401817043/1790146564/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/nYdvKlftETBbXbwebjDnLg/prime/san-francisco-giants-minnesota-twins/1/401817043/1790146566/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/OhcXnQ8AJ8UPltkbNhUtpA/prime/san-francisco-giants-minnesota-twins/2/401817043/1790146569/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/C_wGnXftoFJo_QhlM9UUlQ/deluxe/san-francisco-giants-minnesota-twins/1/401817043/1790146571/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
     "nhl": [
       {
         "title": "Winnipeg Jets vs Edmonton Oilers",
@@ -10,19 +70,19 @@
         "links": [
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/3ITzVLmnemlHuJ-iDJybGQ/pro/winnipeg-jets-edmonton-oilers/1/401878101/1790144731/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/i0eubRwcbuOZxoQ61l20Ng/pro/winnipeg-jets-edmonton-oilers/1/401878101/1790146615/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/lK61U-0yDP-FGnxpk0bGXQ/pro/winnipeg-jets-edmonton-oilers/2/401878101/1790144734/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/B4Cndvt5X316AcmKH_6xBQ/pro/winnipeg-jets-edmonton-oilers/2/401878101/1790146618/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/PAlAOXtNLrZV1m7LTUz96g/pro/winnipeg-jets-edmonton-oilers/3/401878101/1790144736/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/Qf5wDzXQa1dMAMJIePS2Iw/pro/winnipeg-jets-edmonton-oilers/3/401878101/1790146620/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/Ja5a6hCyrnWpCR-NncSaCQ/delta/live_nhl-preseason_jets-oilers-live-streaming-623916000/1/401878101/1790144739/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/eQHFjGojbHLEfk41yEFuLg/delta/live_nhl-preseason_jets-oilers-live-streaming-623916000/1/401878101/1790146622/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
