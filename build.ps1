@@ -15,6 +15,14 @@ $version  = $addonXml.addon.version
 $zipName  = "plugin.video.starfleet-$version.zip"
 $zipPath  = "$repoDir\plugin.video.starfleet\$zipName"
 
+# Guard: resources\settings.xml must be Starfleet's own. A test run once let ResolveURL
+# overwrite it with its own settings and five releases shipped that way.
+$settingsText = Get-Content "$pluginSrc\resources\settings.xml" -Raw
+if (($settingsText -notmatch 'src_torrentio') -or ($settingsText -match 'allow_universal')) {
+    Write-Host "ABORT: resources\settings.xml is not Starfleet's settings file (missing src_torrentio or contains ResolveURL settings)." -ForegroundColor Red
+    exit 1
+}
+
 Write-Host "Building v$version -> $zipName"
 
 # Remove any existing zip for this version
