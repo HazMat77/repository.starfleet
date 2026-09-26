@@ -1,7 +1,27 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-26T15:25:02.951562Z",
+  "scraped_at": "2026-09-26T15:55:02.919378Z",
   "sports_events": {
+    "boxing": [
+      {
+        "title": "Zuffa Boxing 11: Fisher vs. Pirotton",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb14.strmd.st/secure/VNIQlxmpGCywxrIPrDljyuOKVtZneRLw/rtmp/stream/w1eGQgo0yl8lk1mFYLl09VczOxGPB4kAcZPjaUdKiHZ6-e5dp_O5LgZWJOuiEb4LVWQ9FNcd1Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-zuffa-boxing-11-fisher-vs-pirotton%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-zuffa-boxing-11-fisher-vs-pirotton%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb9.strmd.st/secure/zbdJMljJbnLyhHUqkMVNAqFxkoEWsaru/rtmp/stream/w1eGQgo0yl8lk1mFYLl09VczOxGPB4kAcZPjaUdKiHZ6-e5dp_O5LgZWJOuiEb4LVWQ9FNcd1Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-zuffa-boxing-11-fisher-vs-pirotton%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-zuffa-boxing-11-fisher-vs-pirotton%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [
       {
         "title": "Azerbaijan Grand Prix",
@@ -28,12 +48,24 @@
         ]
       },
       {
+        "title": "Kansas Speedway — Qualifying",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb8.strmd.st/secure/eWibBMnrWCOLowUStBWIuJSOouxWxHpe/hotel/stream/kansas-speedway-qualifying-nascar-cup-series-1790435400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fkansas-speedway-qualifying-nascar-cup-series-1790435400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fkansas-speedway-qualifying-nascar-cup-series-1790435400%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
         "title": "NASCAR Youth Series at Keystone",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.strmd.st/secure/evRcHkmUkknnpQHKgtlEMvmsnJyhOKRC/foxtrot/stream/nascar-youth-series-at-keystone/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fnascar-youth-series-at-keystone%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/NrdhPpCSKgkILXOHJeYpjnSFTOQQNvlN/foxtrot/stream/nascar-youth-series-at-keystone/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fnascar-youth-series-at-keystone%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fnascar-youth-series-at-keystone%2F1&source=tv2",
             "resolved": true
           }
@@ -45,7 +77,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb13.strmd.st/secure/FQHVUwOogbJGRdNYjxJnjgehdMdMiWZN/hotel/stream/baku-city-circuit-race-azerbaijan-grand-prix-formula-1-1790428544/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fbaku-city-circuit-race-azerbaijan-grand-prix-formula-1-1790428544%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb11.strmd.st/secure/uKlvbnaMUkjTfsLSZEkESUgaLvCjmKfG/hotel/stream/baku-city-circuit-race-azerbaijan-grand-prix-formula-1-1790428544/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fbaku-city-circuit-race-azerbaijan-grand-prix-formula-1-1790428544%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fbaku-city-circuit-race-azerbaijan-grand-prix-formula-1-1790428544%2F1&source=tv2",
             "resolved": true
           }
@@ -57,8 +89,26 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.strmd.st/secure/WiOXuoBsEnepiIjECiyRKHsbGXlVtBqx/delta/stream/live-event_thanongsak-simsri-vs-mark-vicelles-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_thanongsak-simsri-vs-mark-vicelles-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb12.strmd.st/secure/NXuqUzJMBtNfDVbRtbUMWCDUlpeDtdMI/delta/stream/live-event_thanongsak-simsri-vs-mark-vicelles-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_thanongsak-simsri-vs-mark-vicelles-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_thanongsak-simsri-vs-mark-vicelles-live-stream%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Pogon Szczecin vs Udinese",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.wfty.st/secure/4aKw6E_D2-W2B8sIZkiSPg/sigma/pogon-szczecin-udinese/1/401923501/1790459754/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401923501%2Fpogon-szczecin-udinese%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401923501%2Fpogon-szczecin-udinese%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/heoghgKn_CZwY04Qx50ssw/sigma/pogon-szczecin-udinese/1/401923501/1790459763/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401923501%2Fpogon-szczecin-udinese%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401923501%2Fpogon-szczecin-udinese%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
         ]
@@ -69,7 +119,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/hRAC0kmqKTo71EzpwLT0Vg/prime/croatia-u21-hungary-u21/1/4785773/1790457945/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4785773%2Fcroatia-u21-hungary-u21%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/pYQdMfV7JCUsHwFO_Wywrw/prime/croatia-u21-hungary-u21/1/4785773/1790459772/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4785773%2Fcroatia-u21-hungary-u21%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4785773%2Fcroatia-u21-hungary-u21%2Fprime%2F1&source=tv3",
             "resolved": true
           }
@@ -78,42 +128,18 @@
     ],
     "soccer": [
       {
-        "title": "Slovenia vs Scotland",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/pKjVjzFCddshdnGzZVrjKRucwAxGKHot/rtmp/stream/ENN7WIYAGROcVt40Tz4cRNxLfsSu_Pm3SCL_duSAG8HGeefr4w3YP-v6Ww7tDELLMFmYsQk/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-slovenia-vs-scotland%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-slovenia-vs-scotland%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb18.strmd.st/secure/UfNCuQCmqSSDnPTypegoHoylCFEznBxP/rtmp/stream/ENN7WIYAGROcVt40Tz4cRNxLfsSu_Pm3SCL_duSAG8HGeefr4w3YP-v6Ww7tDELLMFmYsQk/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-slovenia-vs-scotland%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-slovenia-vs-scotland%2F2&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb13.strmd.st/secure/GGMsJuJeHraPbLPdfikISUdQTlxrtpWV/foxtrot/stream/scotland-v-slovenia-unl-401861057/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fscotland-v-slovenia-unl-401861057%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fscotland-v-slovenia-unl-401861057%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
         "title": "Plymouth Argyle vs Burton Albion",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb19.strmd.st/secure/olbhVOpHOAJvHbrQeWmWVFFvSjspRqVJ/rtmp/stream/WTggtiFetGrlYbNVZTpFt03JHiG-t3DMbPEcC6CN4bR-ZGG7-xw963yc2xsdY4pAECMvPxPKInyu/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-plymouth-argyle-vs-burton-albion%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.strmd.st/secure/vjiFIitnosZdkrwISmcbCxHoRHIzfCIS/rtmp/stream/TWjYSnp73Hg4Upu_FcOr4Ug_MkofJzHjaY3QzWOGhxjoU35xa6xI0kh9JNUV65_Kj9wPXXbcvooz/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-plymouth-argyle-vs-burton-albion%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-plymouth-argyle-vs-burton-albion%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb11.strmd.st/secure/pgSdSSrOvlCQudxShcgqjrchsZxKiPqM/rtmp/stream/WTggtiFetGrlYbNVZTpFt03JHiG-t3DMbPEcC6CN4bR-ZGG7-xw963yc2xsdY4pAECMvPxPKInyu/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-plymouth-argyle-vs-burton-albion%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb18.strmd.st/secure/nVmjxKqjGSiAbqqNyxmNzYfEcFINvUHS/rtmp/stream/TWjYSnp73Hg4Upu_FcOr4Ug_MkofJzHjaY3QzWOGhxjoU35xa6xI0kh9JNUV65_Kj9wPXXbcvooz/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-plymouth-argyle-vs-burton-albion%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-plymouth-argyle-vs-burton-albion%2F2&source=tv2",
             "resolved": true
           }
@@ -125,13 +151,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.strmd.st/secure/qCELteIzlDxjNYhFTQDRhztPDInxqkGw/rtmp/stream/wD_LM5oRSJlk303StdQJsas4sDe2LPvk7i5EMOiB4HCD9eX4Pqq_xpTZxyKpOBRDtmjCZBdIOyNy/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.strmd.st/secure/SiZScoKNTvNREVqjKEkOZZlgJWEImkPR/rtmp/stream/t7T90qp2DCly6Zje0JpumxUmt4YGRD7iooNG3FEiqMzkE5uTCUQpMQPQ7j02x0-Ull_V9fRdJLls/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb12.strmd.st/secure/LHAZXkrtZceaLPSaUwutLioEBDGaGzXt/rtmp/stream/wD_LM5oRSJlk303StdQJsas4sDe2LPvk7i5EMOiB4HCD9eX4Pqq_xpTZxyKpOBRDtmjCZBdIOyNy/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb16.strmd.st/secure/hzQxaQMJHTSLMgkBbtBYGixFXHrkamIo/rtmp/stream/t7T90qp2DCly6Zje0JpumxUmt4YGRD7iooNG3FEiqMzkE5uTCUQpMQPQ7j02x0-Ull_V9fRdJLls/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F2&source=tv2",
             "resolved": true
           }
@@ -143,38 +169,14 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb8.strmd.st/secure/azHvRrhBvWWVCWZsyKwUPfXrBLxlkPYf/rtmp/stream/S0z3wHj3GDyMGrBML1g75Ec56Ibz709x0jaMZoDz-1briRfSBkhLJPXWZgDARBYliGUIJIQ4HNUF/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-kidderminster-harriers-vs-yeovil-town%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/cLzjFEVMVwijBommgNbVgKnQkdlqFDdA/rtmp/stream/MeI8JobPplmVVwXeZaylk-3NS-vAW6XUGcKKa5FFh1n24mj0KzpV006zKx1rnA_6QGWoaWJfqZVm/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-kidderminster-harriers-vs-yeovil-town%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-kidderminster-harriers-vs-yeovil-town%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb6.strmd.st/secure/fnDEdTTgSOytiLcnZydXFCARzCIiiOHM/rtmp/stream/S0z3wHj3GDyMGrBML1g75Ec56Ibz709x0jaMZoDz-1briRfSBkhLJPXWZgDARBYliGUIJIQ4HNUF/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-kidderminster-harriers-vs-yeovil-town%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb8.strmd.st/secure/wBaSnXMQzJqpabNljjTmWxsioagWMwrw/rtmp/stream/MeI8JobPplmVVwXeZaylk-3NS-vAW6XUGcKKa5FFh1n24mj0KzpV006zKx1rnA_6QGWoaWJfqZVm/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-kidderminster-harriers-vs-yeovil-town%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-kidderminster-harriers-vs-yeovil-town%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Kenya vs Eritrea",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb16.strmd.st/secure/cTtVpJfRgJqbtzqRHqevbkYafSSbqueE/foxtrot/stream/eritrea-v-kenya-afcon-401920035/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Feritrea-v-kenya-afcon-401920035%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Feritrea-v-kenya-afcon-401920035%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "South Africa vs Guinea",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb5.strmd.st/secure/dAFfyqYKATGAaizhGpqzmBOaaPnFyqfV/foxtrot/stream/guinea-v-south-africa-afcon-401920034/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fguinea-v-south-africa-afcon-401920034%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fguinea-v-south-africa-afcon-401920034%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -185,7 +187,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb8.strmd.st/secure/UhULcpZHsKxaunZmWUIfHRBsQUvXZnMc/delta/stream/live-event_college-gameday-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_college-gameday-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb12.strmd.st/secure/LPpOKORYHKWvGOPceghdHEFGfoYsbpoj/delta/stream/live-event_college-gameday-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_college-gameday-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_college-gameday-live-stream%2F1&source=tv2",
             "resolved": true
           }
@@ -197,38 +199,20 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/2L_eAVnNUD4LkoGSrFNlUA/deluxe/york-gillingham/1/4747328/1790458129/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747328%2Fyork-gillingham%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/rzIvv1Nvfauw9P_yw7v3SQ/deluxe/york-gillingham/1/4747328/1790459884/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747328%2Fyork-gillingham%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4747328%2Fyork-gillingham%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb3.wfty.st/secure/Rmk59nEDvuW2CxHJ_9-EiA/deluxe/york-gillingham/1/4747328/1790458137/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747328%2Fyork-gillingham%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/jUtJQVN189tVrCNdTuIW5A/deluxe/york-gillingham/1/4747328/1790459888/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747328%2Fyork-gillingham%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4747328%2Fyork-gillingham%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/61un8NBkXSBHnOFk7IoZ8g/deluxe/york-gillingham/1/4747328/1790458146/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747328%2Fyork-gillingham%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/5HGMjfda2TIAqUm6NoJ73A/deluxe/york-gillingham/1/4747328/1790459897/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747328%2Fyork-gillingham%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4747328%2Fyork-gillingham%2Fsigma%2F2&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Presidents Cup (World) : PGA TOUR: Presidents Cup (World)",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/_j3kwEeu4_tC2c-1L54ayw/sigma/dp-world-tour-open-de-france-france/1/23_d0CdhpbS/1790458155/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_d0CdhpbS%2Fdp-world-tour-open-de-france-france%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=23_d0CdhpbS%2Fdp-world-tour-open-de-france-france%2Fsigma%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/F41Jtdfgg9Ce-c1-AAzWlA/sigma/dp-world-tour-open-de-france-france/1/23_d0CdhpbS/1790458164/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_d0CdhpbS%2Fdp-world-tour-open-de-france-france%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=23_d0CdhpbS%2Fdp-world-tour-open-de-france-france%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
         ]
@@ -239,13 +223,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/o0CvFSN4aLI9IC1d4Yi9PA/sigma/bristol-rovers-exeter/1/4747339/1790458172/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747339%2Fbristol-rovers-exeter%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/vpStadvJdGxxZUtcH9LE4g/sigma/bristol-rovers-exeter/1/4747339/1790459923/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747339%2Fbristol-rovers-exeter%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4747339%2Fbristol-rovers-exeter%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb6.wfty.st/secure/D3uD215ECffwyXNRPhql3g/sigma/bristol-rovers-exeter/1/4747339/1790458181/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747339%2Fbristol-rovers-exeter%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/ZbsKhhsfwiWCuanotA2uvQ/sigma/bristol-rovers-exeter/1/4747339/1790459932/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747339%2Fbristol-rovers-exeter%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4747339%2Fbristol-rovers-exeter%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
@@ -257,13 +241,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/Chf3ucYd-ktQRBlu-imb3g/sigma/bochum-w-werder-bremen-w/1/4816516/1790458190/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4816516%2Fbochum-w-werder-bremen-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/QiwWI4YMkvRb7owocI2wVw/sigma/bochum-w-werder-bremen-w/1/4816516/1790459940/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4816516%2Fbochum-w-werder-bremen-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4816516%2Fbochum-w-werder-bremen-w%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/WH4Ho5TrVZaZpMDNCDzMrQ/sigma/bochum-w-werder-bremen-w/1/4816516/1790458199/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4816516%2Fbochum-w-werder-bremen-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/H8Sf3YXOnXrQoV8MdF776w/sigma/bochum-w-werder-bremen-w/1/4816516/1790459949/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4816516%2Fbochum-w-werder-bremen-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4816516%2Fbochum-w-werder-bremen-w%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
@@ -275,13 +259,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/b8RoCW-xsNfZwlFAGzSpKw/sigma/cheltenham-chesterfield/1/4747338/1790458207/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747338%2Fcheltenham-chesterfield%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/NxKCmbor5GA2BAyymZyq2A/sigma/cheltenham-chesterfield/1/4747338/1790459958/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747338%2Fcheltenham-chesterfield%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4747338%2Fcheltenham-chesterfield%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb1.wfty.st/secure/iGKdtuCbGnPjhY-7e6pKCg/sigma/cheltenham-chesterfield/1/4747338/1790458221/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747338%2Fcheltenham-chesterfield%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/Y63bVUCeNhnAhF92DKV31Q/sigma/cheltenham-chesterfield/1/4747338/1790459967/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747338%2Fcheltenham-chesterfield%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4747338%2Fcheltenham-chesterfield%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
@@ -293,13 +277,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/wzs9jmTqtJaesyGVKaCGTg/sigma/swindon-accrington/1/4747330/1790458225/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747330%2Fswindon-accrington%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/HYPQ1ZxKZOxJg9MY4vYrEA/sigma/swindon-accrington/1/4747330/1790459975/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747330%2Fswindon-accrington%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4747330%2Fswindon-accrington%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/ZjbiC7q7nAH9Z9Iz0HaYGQ/sigma/swindon-accrington/1/4747330/1790458234/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747330%2Fswindon-accrington%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/iQhlXFfLevkxqIGRkHWpRw/sigma/swindon-accrington/1/4747330/1790459984/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747330%2Fswindon-accrington%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4747330%2Fswindon-accrington%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
@@ -311,13 +295,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/ztnXPruFyCyYJmxDnqlTFCwhnEqEdjPR/rtmp/stream/TCq8aDho7ASa6nVzngMS-ROFPXQY6PxQHkBAKNXAN8s4RJIo-yeORWSULRgjF1MjTp2sj1QF3aDI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/xkpLquwvUmYrPCKKBtmgrVAOMyFBwQJH/rtmp/stream/2eemQAQg5dT3dGDysovwSoQGVP0anSSbdYZcOChyk4HMWt2KVksDSAvFIvKcwG50nYKv01Z0_-IX/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb7.strmd.st/secure/IiUMJDYPuqgEyDLXnmkJRlOGmfUcXrQP/rtmp/stream/TCq8aDho7ASa6nVzngMS-ROFPXQY6PxQHkBAKNXAN8s4RJIo-yeORWSULRgjF1MjTp2sj1QF3aDI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb11.strmd.st/secure/euXSuXdXtHsTkXucdafhbwwHUHyoRMNU/rtmp/stream/2eemQAQg5dT3dGDysovwSoQGVP0anSSbdYZcOChyk4HMWt2KVksDSAvFIvKcwG50nYKv01Z0_-IX/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-scunthorpe-united-vs-hartlepool-united%2F2&source=tv2",
             "resolved": true
           }
