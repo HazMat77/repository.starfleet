@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="starfleet">
   <channel id="TVA.ca"><display-name>TVA</display-name></channel>
-  <programme start="20260926140000 -0400" stop="20260926160000 -0400" channel="TVA.ca">
-    <title>Cinéma "Royal Corgi" (Dessin animé, 2019) Jack Whitehall, Julie Walters, Tom Courtenay</title>
-  </programme>
   <programme start="20260926160000 -0400" stop="20260926180000 -0400" channel="TVA.ca">
     <title>Cinéma "L'appel de la forêt" (Aventure, 2020) Harrison Ford, Omar Sy, Cara Gee</title>
   </programme>
@@ -13,8 +10,8 @@
   <programme start="20260926183000 -0400" stop="20260926203000 -0400" channel="TVA.ca">
     <title>Cinéma "Le chasseur: la guerre hivernale" (Comédie fantaisiste, 2016)</title>
   </programme>
-  <programme start="20260926203000 -0400" stop="20260926230000 -0400" channel="TVA.ca">
-    <title>Cinéma "Kraven le chasseur" (Action, 2024) Aaron Taylor-Johnson, Ariana DeBose, Russell Crowe</title>
+  <programme start="20260926203000 -0400" stop="20260926213000 -0400" channel="TVA.ca">
+    <title>Cinéma "Kraven le chasseur"</title>
   </programme>
   <programme start="20260926230000 -0400" stop="20260926233000 -0400" channel="TVA.ca">
     <title>TVA Nouvelles (N)</title>
@@ -22,8 +19,11 @@
   <programme start="20260926233000 -0400" stop="20260927013000 -0400" channel="TVA.ca">
     <title>Cinéma "Un jour dans la peau du lion" (Thriller, 2023) Scott Caan, Frank Grillo, J.K. Simmons</title>
   </programme>
-  <programme start="20260927013000 -0400" stop="20260927023000 -0400" channel="TVA.ca">
-    <title>Cinéma</title>
+  <programme start="20260927013000 -0400" stop="20260927030000 -0400" channel="TVA.ca">
+    <title>Cinéma "Colombienne" (Action, 2011) Zoe Saldaña, Jordi Mollà, Lennie James</title>
+  </programme>
+  <programme start="20260927030000 -0400" stop="20260927033000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20260927030000 -0400" stop="20260927033000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
@@ -40,7 +40,7 @@
   <programme start="20260927060000 -0400" stop="20260927063000 -0400" channel="TVA.ca">
     <title>Les looney tunes</title>
   </programme>
-  <programme start="20260927063000 -0400" stop="20260927083000 -0400" channel="TVA.ca">
+  <programme start="20260927063000 -0400" stop="20260927093000 -0400" channel="TVA.ca">
     <title>Salut bonjour week-end (N)</title>
   </programme>
   <programme start="20260927103000 -0400" stop="20260927123000 -0400" channel="TVA.ca">
@@ -55,11 +55,8 @@
   <programme start="20260927133000 -0400" stop="20260927140000 -0400" channel="TVA.ca">
     <title>Un zoo pas comme les autres</title>
   </programme>
-  <programme start="20260927140000 -0400" stop="20260927143000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
-  <programme start="20260927140000 -0400" stop="20260927160000 -0400" channel="TVA.ca">
-    <title>Cinéma "La fille du roi" (Comédie fantaisiste, 2022) Pierce Brosnan, Kaya Scodelario, Benjamin Walker</title>
+  <programme start="20260927140000 -0400" stop="20260927153000 -0400" channel="TVA.ca">
+    <title>Cinéma "La fille du roi" (Comédie fantaisiste, 2022)</title>
   </programme>
   <programme start="20260927160000 -0400" stop="20260927180000 -0400" channel="TVA.ca">
     <title>Cinéma "S.O.S. fantômes 2" (Comédie, 1989) Bill Murray, Dan Aykroyd, Sigourney Weaver</title>
@@ -74,7 +71,7 @@
     <title>Chanteurs masqués (N) "Les 5 derniers chanteurs masqués"</title>
   </programme>
   <programme start="20260927203000 -0400" stop="20260927213000 -0400" channel="TVA.ca">
-    <title>MasterChef Québec (N) "Café express"</title>
+    <title>MasterChef Québec (N)</title>
   </programme>
   <programme start="20260927213000 -0400" stop="20260927220000 -0400" channel="TVA.ca">
     <title>J.E.</title>
@@ -86,10 +83,13 @@
     <title>Cinéma "Le bayou bleu" (Drame, 2021) Justin Chon, Alicia Vikander, Mark O'Brien</title>
   </programme>
   <programme start="20260928003000 -0400" stop="20260928023000 -0400" channel="TVA.ca">
-    <title>Cinéma "La fabuleuse Gilly Hopkins" (Comédie dramatique, 2016)</title>
+    <title>Cinéma "La fabuleuse Gilly Hopkins" (Comédie dramatique, 2016) Sophie Nélisse, Kathy Bates, Glenn Close</title>
   </programme>
   <programme start="20260928023000 -0400" stop="20260928030000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
+  </programme>
+  <programme start="20260928030000 -0400" stop="20260928033000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20260928030000 -0400" stop="20260928033000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
@@ -109,7 +109,7 @@
   <programme start="20260928060000 -0400" stop="20260928063000 -0400" channel="TVA.ca">
     <title>Le Québec matin (N)</title>
   </programme>
-  <programme start="20260928063000 -0400" stop="20260928083000 -0400" channel="TVA.ca">
+  <programme start="20260928063000 -0400" stop="20260928093000 -0400" channel="TVA.ca">
     <title>Salut bonjour (N)</title>
   </programme>
   <programme start="20260928103000 -0400" stop="20260928110000 -0400" channel="TVA.ca">
@@ -124,7 +124,10 @@
   <programme start="20260928123000 -0400" stop="20260928130000 -0400" channel="TVA.ca">
     <title>Le bilan du midi (N)</title>
   </programme>
-  <programme start="20260928130000 -0400" stop="20260928143000 -0400" channel="TVA.ca">
-    <title>Cinéma "Cher John" (Drame de moeurs, 2010)</title>
+  <programme start="20260928130000 -0400" stop="20260928150000 -0400" channel="TVA.ca">
+    <title>Cinéma "Cher John" (Drame de moeurs, 2010) Channing Tatum, Amanda Seyfried, Richard Jenkins</title>
+  </programme>
+  <programme start="20260928150000 -0400" stop="20260928153000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
 </tv>
