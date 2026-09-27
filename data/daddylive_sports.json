@@ -1,27 +1,72 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-27T00:55:02.887239Z",
+  "scraped_at": "2026-09-27T01:25:02.890100Z",
   "sports_events": {
+    "other_events": [
+      {
+        "title": "Mexico vs Colombia",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.wfty.st/secure/955VUFxvNnvtRAYmG05_0w/deluxe/mexico-colombia/1/401903308/1790493911/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401903308%2Fmexico-colombia%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401903308%2Fmexico-colombia%2Fdeluxe%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/eUNMYUcmi9DX5nOMMs2bBg/deluxe/mexico-colombia/1/401903308/1790493927/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401903308%2Fmexico-colombia%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401903308%2Fmexico-colombia%2Fdeluxe%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb5.wfty.st/secure/RHNDIKjBN3ywjKEf2ng9KQ/deluxe/mexico-colombia/1/401903308/1790493935/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401903308%2Fmexico-colombia%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401903308%2Fmexico-colombia%2Fdeluxe%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Portland Thorns FC vs Houston Dash",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb1.wfty.st/secure/NIcjvxXX_NtU34iozb3lNQ/sigma/portland-thorns-fc-houston-dash/1/401854012/1790493944/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401854012%2Fportland-thorns-fc-houston-dash%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401854012%2Fportland-thorns-fc-houston-dash%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.wfty.st/secure/a99xhoBoGku7IC-4yE2xjA/sigma/portland-thorns-fc-houston-dash/1/401854012/1790493953/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401854012%2Fportland-thorns-fc-houston-dash%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401854012%2Fportland-thorns-fc-houston-dash%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "mlb": [],
     "cfb": [
       {
         "title": "Arkansas vs Tulsa",
         "is_live": true,
         "links": [
           {
-            "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/WEK3LRoYgAthBRv2g6Q_Pg/pro/arkansas-tulsa/1/4706354/1790492121/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706354%2Farkansas-tulsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706354%2Farkansas-tulsa%2Fpro%2F2&source=tv3",
+            "label": "Link - 1",
+            "playable_url": "https://lb2.wfty.st/secure/vMc8mjUyh0rUTHf-NnIGEQ/pro/arkansas-tulsa/1/4706354/1790493909/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706354%2Farkansas-tulsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706354%2Farkansas-tulsa%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/v4HWTGnJqxbtstFXaYXfVA/pro/arkansas-tulsa/1/4706354/1790492132/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706354%2Farkansas-tulsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/7RQwgGhmio3eLWplkHu6tQ/pro/arkansas-tulsa/1/4706354/1790493934/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706354%2Farkansas-tulsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706354%2Farkansas-tulsa%2Fpro%2F3&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 4",
-            "playable_url": "https://lb4.wfty.st/secure/wVsYGodLqh0PvsijlvTZ9g/pro/arkansas-tulsa/1/4706354/1790492141/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706354%2Farkansas-tulsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/tw1Okta0C4Rf2U7f9dfKYw/pro/arkansas-tulsa/1/4706354/1790493944/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706354%2Farkansas-tulsa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706354%2FArkansas%20vs%20Tulsa%2Fdelta%2F1&source=tv3",
             "resolved": true
           }
@@ -33,41 +78,154 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/TYrVjKRJ5-Ujf3S05U_F7w/pro/ul-monroe-florida-atlantic/1/4706388/1790492150/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706388%2Ful-monroe-florida-atlantic%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/BatP-4biDpfSauupVU2SjA/pro/ul-monroe-florida-atlantic/1/4706388/1790493953/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706388%2Ful-monroe-florida-atlantic%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706388%2Ful-monroe-florida-atlantic%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
-            "label": "Link - 3",
-            "playable_url": "https://lb1.wfty.st/secure/Wplc8yyHcVI7JaawgyuGFw/pro/ul-monroe-florida-atlantic/1/4706388/1790492173/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706388%2Ful-monroe-florida-atlantic%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706388%2Ful-monroe-florida-atlantic%2Fpro%2F3&source=tv3",
+            "label": "Link - 2",
+            "playable_url": "https://lb4.wfty.st/secure/o2E_oN3KIBiepSYmTJ3EtA/pro/ul-monroe-florida-atlantic/1/4706388/1790493962/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706388%2Ful-monroe-florida-atlantic%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706388%2Ful-monroe-florida-atlantic%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
-            "label": "Link - 4",
-            "playable_url": "https://lb3.wfty.st/secure/HGDO0lOKCvqf7prOYpAevw/pro/ul-monroe-florida-atlantic/1/4706388/1790492180/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706388%2Ful-monroe-florida-atlantic%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706388%2FLouisiana-Monroe%20vs%20Florida%20Atlantic%2Fdelta%2F1&source=tv3",
+            "label": "Link - 3",
+            "playable_url": "https://lb6.wfty.st/secure/kOVbDsjULiVck5ArIYqrzQ/pro/ul-monroe-florida-atlantic/1/4706388/1790493971/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706388%2Ful-monroe-florida-atlantic%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706388%2Ful-monroe-florida-atlantic%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Sacramento State vs Massachusetts",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.wfty.st/secure/3HvNxBdzRapo_GtvnPpH_w/pro/sacramento-state-massachusetts/1/4706376/1790493979/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706376%2Fsacramento-state-massachusetts%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706376%2Fsacramento-state-massachusetts%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb4.wfty.st/secure/1-9SfeZIInoxihgTxRdoYg/pro/sacramento-state-massachusetts/1/4706376/1790493989/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706376%2Fsacramento-state-massachusetts%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706376%2Fsacramento-state-massachusetts%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb4.wfty.st/secure/WOfTXat6OFWt5ScSZGicKw/pro/sacramento-state-massachusetts/1/4706376/1790493999/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706376%2Fsacramento-state-massachusetts%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706376%2Fsacramento-state-massachusetts%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "UTEP vs Oregon State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.wfty.st/secure/VW1nzJu3rS6T9C7Hut3jZg/delta/UTEP%20vs%20Oregon%20State/1/4706394/1790494009/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706394%2FUTEP%20vs%20Oregon%20State%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706394%2FUTEP%20vs%20Oregon%20State%2Fdelta%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "SMU vs Missouri State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.wfty.st/secure/5pgmjWldLv1NySxBP4wziQ/delta/Missouri%20State%20Bears%20at%20SMU%20Mustangs/1/4706383/1790494020/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706383%2FMissouri%20State%20Bears%20at%20SMU%20Mustangs%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706383%2FMissouri%20State%20Bears%20at%20SMU%20Mustangs%2Fdelta%2F1&source=tv3",
             "resolved": true
           }
         ]
       }
     ],
-    "mlb": [],
     "soccer": [
+      {
+        "title": "Dorados de Sinaloa vs Durango",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.wfty.st/secure/8YT5mFdMx6nogI5lcFgV2w/sigma/dorados-de-sinaloa-durango/1/4761018/1790494323/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4761018%2Fdorados-de-sinaloa-durango%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4761018%2Fdorados-de-sinaloa-durango%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.wfty.st/secure/Uf-4C54hxzCpmGfWebM78Q/sigma/dorados-de-sinaloa-durango/1/4761018/1790494334/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4761018%2Fdorados-de-sinaloa-durango%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4761018%2Fdorados-de-sinaloa-durango%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb3.wfty.st/secure/DvsjkrKLlYYeSYgA8pwgFg/sigma/dorados-de-sinaloa-durango/1/4761018/1790494344/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4761018%2Fdorados-de-sinaloa-durango%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4761018%2Fdorados-de-sinaloa-durango%2Fsigma%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Juárez (W) vs Club Tijuana (W)",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.wfty.st/secure/zGhe3DwN-KsnmcpVhlfCkw/sigma/juarez-w-club-tijuana-w/1/4789111/1790494355/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4789111%2Fjuarez-w-club-tijuana-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4789111%2Fjuarez-w-club-tijuana-w%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb3.wfty.st/secure/ZweTqmSbvT47nFIoR3toCg/sigma/juarez-w-club-tijuana-w/1/4789111/1790494365/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4789111%2Fjuarez-w-club-tijuana-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4789111%2Fjuarez-w-club-tijuana-w%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.wfty.st/secure/0LAdiHB6DgOCjPo41PGE7A/sigma/juarez-w-club-tijuana-w/1/4789111/1790494377/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4789111%2Fjuarez-w-club-tijuana-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4789111%2Fjuarez-w-club-tijuana-w%2Fsigma%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "San Antonio FC vs Tampa Bay Rowdies",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/dAcPa_aY1Qb_wzs42FX1wQ/sigma/san-antonio-fc-tampa-bay-rowdies/1/4634056/1790492458/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634056%2Fsan-antonio-fc-tampa-bay-rowdies%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/8kce0EUMxikmtjtqvhASNg/sigma/san-antonio-fc-tampa-bay-rowdies/1/4634056/1790494388/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634056%2Fsan-antonio-fc-tampa-bay-rowdies%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4634056%2Fsan-antonio-fc-tampa-bay-rowdies%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb6.wfty.st/secure/9BBOeampqhavOdLxgVfZLQ/sigma/san-antonio-fc-tampa-bay-rowdies/1/4634056/1790492466/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634056%2Fsan-antonio-fc-tampa-bay-rowdies%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/-JYNTB6NPnbi32D-V_8Ccw/sigma/san-antonio-fc-tampa-bay-rowdies/1/4634056/1790494395/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634056%2Fsan-antonio-fc-tampa-bay-rowdies%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4634056%2Fsan-antonio-fc-tampa-bay-rowdies%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "New Mexico vs Sacramento Republic",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.wfty.st/secure/iTXY2DupS9UlsQQm-7Vvbw/sigma/new-mexico-sacramento-republic/1/4634059/1790494405/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634059%2Fnew-mexico-sacramento-republic%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4634059%2Fnew-mexico-sacramento-republic%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/wcmsH-eJwP-9dJUc3I2t_g/sigma/new-mexico-sacramento-republic/1/4634059/1790494415/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4634059%2Fnew-mexico-sacramento-republic%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4634059%2Fnew-mexico-sacramento-republic%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
         ]
