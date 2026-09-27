@@ -1,68 +1,670 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-09-26T17:55:03.482176Z",
+  "scraped_at": "2026-09-27T17:55:02.957806Z",
   "categories": {
-    "mlb": [
+    "soccer": [
       {
-        "title": "San Francisco Giants vs Los Angeles Dodgers",
+        "title": "Norway vs Portugal",
         "is_live": false,
-        "start_ts": 1790388900,
+        "start_ts": 1790534700,
         "links": [
           {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/lJbg68PK2qJHqaRdxpbpWg/platinum/seattle-mariners-los-angeles-angels/1/401817083/1790466918/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/boAZJbEZ9BjyPKpIkSfgrA/deluxe/norway-portugal/1/401861073/1790553330/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/hiuRyCvoqOwtG_e5F0wSSw/platinum/seattle-mariners-los-angeles-angels/2/401817083/1790466920/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb2.wfty.st/secure/MFQps5lNs9JK5nIm8MQgWQ/sigma/norway-portugal/1/401861073/1790553333/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb1.wfty.st/secure/5I_hohYw6VHocz7Xyd62Fw/sigma/norway-portugal/2/401861073/1790553335/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "foxtrot (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/RQOeuWQ0JA16p97Ee6PZcQ/foxtrot/dodgers-v-giants-401817086/1/401817086/1790466922/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/MaFnig7ft6RloU2pIrFuqw/foxtrot/portugal-v-norway-unl-401861073/1/401861073/1790553337/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/WeKslDoYnT7rUbw5os0zIw/hotel/norway-vs-portugal-uefa-nations-league-1790534700/1/401861073/1790553340/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Chelsea vs Arsenal",
+        "is_live": true,
+        "start_ts": 1790523000,
+        "links": [
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb5.wfty.st/secure/5jKnMIAAz-rZsHMy4N_Tzg/sigma/chelsea-arsenal/1/401902901/1790553342/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (FHD)",
+            "playable_url": "https://lb4.wfty.st/secure/e0M1d86UinIqHlkmQE3bdg/sigma/chelsea-arsenal/2/401902901/1790553344/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb2.wfty.st/secure/fg7sBmgFiKHBb9yp6CypPQ/sigma/chelsea-arsenal/3/401902901/1790553346/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb4.wfty.st/secure/xR7XNcSlsKbdQPCpDmsc5g/sigma/chelsea-arsenal/4/401902901/1790553349/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Germany vs Greece",
+        "is_live": false,
+        "start_ts": 1790534700,
+        "links": [
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/v8qQ01lfz7pTcFjEuh-BYQ/deluxe/germany-greece/1/401861074/1790553370/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb5.wfty.st/secure/I7PzJSJ8ROlrhf5gcpU6vg/sigma/germany-greece/1/401861074/1790553372/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb3.wfty.st/secure/DpZwtTUxWwKhkp5xn6W37A/sigma/germany-greece/2/401861074/1790553374/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/u9bZUS29-IP5AhAu4msgLg/foxtrot/greece-v-germany-unl-401861074/1/401861074/1790553376/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/yHEDnsZSN3VYPuTQicsBug/hotel/germany-vs-greece-uefa-nations-league-1790534700/1/401861074/1790553379/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Serbia vs Netherlands",
+        "is_live": true,
+        "start_ts": 1790524800,
+        "links": [
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/mvdnUyUJDL005djcwf7MXQ/deluxe/serbia-netherlands/1/401861068/1790553400/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/gfr1JGuu_zM5bCA26tdg5Q/pro/serbia-netherlands/1/401861068/1790553402/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/IRTFvuGVdxl04Jj3LzXr2g/pro/serbia-netherlands/2/401861068/1790553404/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/MTDzjnabfvtYqecFhgNY5w/pro/serbia-netherlands/3/401861068/1790553406/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (GHD)",
+            "playable_url": "https://lb3.wfty.st/secure/wL6ZXM8a4Mun7Y7LPscvXg/sigma/serbia-netherlands/1/401861068/1790553408/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (GHD)",
+            "playable_url": "https://lb1.wfty.st/secure/keKRoSy-Fo32iQOPhYhMfg/sigma/serbia-netherlands/2/401861068/1790553410/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb3.wfty.st/secure/SasPHCf3WgT1_awRzJkp_w/sigma/serbia-netherlands/3/401861068/1790553413/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "sigma (WHD)",
+            "playable_url": "https://lb2.wfty.st/secure/ofQcQ0A7viNwAsKDmzYpJA/sigma/serbia-netherlands/4/401861068/1790553415/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/WIixnkd7ry7nzZ2nxB77Aw/platinum/serbia-netherlands/1/401861068/1790553418/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/0CFK-dQe4Js_m1GS1qx5iA/delta/live_uefa-nations-league-league-a-gr-2_serbia-netherlands-live-streaming-539448336/1/401861068/1790553420/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/IgxiKbtU9knG30sepIZP-w/foxtrot/netherlands-v-serbia-unl-401861068/1/401861068/1790553422/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/zg9mStiCs8S8tpgL_YqHlQ/hotel/serbia-vs-netherlands-uefa-nations-league-1790524800/1/401861068/1790553424/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "LA Galaxy vs Colorado Rapids",
+        "is_live": true,
+        "start_ts": 1790476200,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/PcLa42bqW9miDxUMhyF47w/platinum/la-galaxy-colorado-rapids/1/761841/1790553426/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/rAFWOsqtlEgCmACRdU3-UA/delta/live_mls_la-galaxy-colorado-live-streaming-539409888/1/761841/1790553428/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/1WapXESFdiErFvfvlzlYDg/foxtrot/colorado-rapids-v-la-galaxy-761841/1/761841/1790553431/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "FC Dallas vs LAFC",
+        "is_live": true,
+        "start_ts": 1790469000,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/StFf2orWEsDoPe4Dl_-LgA/platinum/fc-dallas-lafc/1/761835/1790553433/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/h3A5CRrpt_qv-R6yU6fiSQ/foxtrot/lafc-v-fc-dallas-761835/1/761835/1790553435/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
+    "mlb": [
+      {
+        "title": "Philadelphia Phillies vs Tampa Bay Rays",
+        "is_live": false,
+        "start_ts": 1790533800,
+        "links": [
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/J560rnow5KUdsXuz8vM7rQ/prime/philadelphia-phillies-tampa-bay-rays/1/401817108/1790553459/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/M0XWpF3DRJEv88hVnLgBJg/prime/philadelphia-phillies-tampa-bay-rays/2/401817108/1790553461/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/6IcPQWvQkGwA9831hlwi6Q/prime/philadelphia-phillies-tampa-bay-rays/3/401817108/1790553463/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/_g1nUg23Xs121YO8H2Z3-g/prime/philadelphia-phillies-tampa-bay-rays/4/401817108/1790553467/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/Hbu74il9j5pQOm2jRYuH1Q/deluxe/philadelphia-phillies-tampa-bay-rays/1/401817108/1790553469/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/kIhXLXZOLw6ktpj-IlJa-Q/foxtrot/rays-v-phillies-401817108/1/401817108/1790553472/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
       {
         "title": "Athletics vs Houston Astros",
         "is_live": false,
-        "start_ts": 1790386800,
+        "start_ts": 1790473200,
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/RWuU_WhCj_OIj6e5K8V-lg/platinum/athletics-houston-astros/1/401817085/1790466924/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/f_gt7bJe7IxhGGL5JxN2lA/platinum/athletics-houston-astros/1/401817100/1790553474/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "foxtrot (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/8ucjm5AFR5eysOh5bEDl8w/foxtrot/astros-v-athletics-401817085/1/401817085/1790466927/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/es5HfIDMisLHdd211fzxxg/foxtrot/astros-v-athletics-401817100/1/401817100/1790553476/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
     ],
     "nfl": [
       {
-        "title": "Ohio State vs Illinois",
+        "title": "Pittsburgh Steelers vs Cincinnati Bengals",
         "is_live": true,
-        "start_ts": 1790438400,
+        "start_ts": 1790528400,
         "links": [
           {
-            "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/FJ0pLveyYVzGrUMWZfFreA/pro/ohio-state-illinois/1/4706399/1790466951/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "prime (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/NAtWXpXZZiHv5UKDa2K7jQ/prime/pittsburgh-steelers-cincinnati-bengals/1/4714967/1790553501/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/h3Qf5gTEH5dUvMrYZCXmrA/prime/pittsburgh-steelers-cincinnati-bengals/2/4714967/1790553503/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/5N9r0Rcfh-kLtxr0QimBWQ/deluxe/pittsburgh-steelers-cincinnati-bengals/1/4714967/1790553506/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/5JMabsrbVpM-dmdJXSuDlw/pro/ohio-state-illinois/2/4706399/1790466955/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/KR5g2AevavkM2rcHy9mNFA/pro/pittsburgh-steelers-cincinnati-bengals/1/4714967/1790553508/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/L4hvbPt98n6vnq87AuTgfw/pro/ohio-state-illinois/3/4706399/1790466957/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/ZjFxHvodNx3Q6K3ONxEw_A/pro/pittsburgh-steelers-cincinnati-bengals/2/4714967/1790553510/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/5zOinhZJGCBjGGqa9ZSbJg/pro/pittsburgh-steelers-cincinnati-bengals/3/4714967/1790553512/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/v_rSo1R4RG8Atoyhf6JdIQ/delta/Ohio%20State%20vs%20Illinois/1/4706399/1790466959/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/Irp66XjpULJSCYP1ulyBXA/delta/Pittsburgh%20Steelers%20vs%20Cincinnati%20Bengals/1/4714967/1790553515/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/PQGmt-zsuv82beOpajdikw/platinum/ohio-state-illinois/1/4706399/1790466965/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "label": "delta (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/-P-8oJt5QZriDhH1I0hgaA/delta/Pittsburgh%20Steelers%20vs%20Cincinnati%20Bengals/2/4714967/1790553517/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/6IkCg7f7WzpIL6jEWJWo9w/delta/Pittsburgh%20Steelers%20vs%20Cincinnati%20Bengals/3/4714967/1790553519/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/GkmCF1R8D6aGUnpLHsuQ5w/foxtrot/Pittsburgh%20Steelers%20vs%20Cincinnati%20Bengals/1/4714967/1790553521/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/Ltmk6DpI3ffb9APEQ-vegA/hotel/Pittsburgh%20Steelers%20vs%20Cincinnati%20Bengals/1/4714967/1790553523/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Jacksonville Jaguars vs New England Patriots",
+        "is_live": true,
+        "start_ts": 1790528400,
+        "links": [
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/ILWsxjdcLnaqyz9Ut6hnKg/prime/jacksonville-jaguars-new-england-patriots/1/4714962/1790553545/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/4mLO9p-53Tq4aW-LhBf0rg/prime/jacksonville-jaguars-new-england-patriots/2/4714962/1790553547/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/UgbEW5HkUMJcTpqR07ePCA/prime/jacksonville-jaguars-new-england-patriots/3/4714962/1790553550/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/k8UO1DQtusRkAxtvpj0oIg/deluxe/jacksonville-jaguars-new-england-patriots/1/4714962/1790553552/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/1uGYmfRILB1vSPTfLQiSVA/pro/jacksonville-jaguars-new-england-patriots/1/4714962/1790553555/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/5itcq75C2zu46H8XK6g3Bw/pro/jacksonville-jaguars-new-england-patriots/2/4714962/1790553557/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/qNODXHPDtp5Eufw3PbGrpw/pro/jacksonville-jaguars-new-england-patriots/3/4714962/1790553559/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/CrL06phztlQWnNqn7hjcPA/delta/Jacksonville%20Jaguars%20vs%20New%20England%20Patriots/1/4714962/1790553561/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/qU0_ijEC2DdSD6uQ-6EW6A/delta/Jacksonville%20Jaguars%20vs%20New%20England%20Patriots/2/4714962/1790553563/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/V9ueHEktgsH1A5glabwbfA/delta/Jacksonville%20Jaguars%20vs%20New%20England%20Patriots/3/4714962/1790553565/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/dyQrtTXEzLqv7ZgecgMYHw/foxtrot/Jacksonville%20Jaguars%20vs%20New%20England%20Patriots/1/4714962/1790553567/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/7lRMWimFwzddMHK4u-B8Og/hotel/Jacksonville%20Jaguars%20vs%20New%20England%20Patriots/1/4714962/1790553570/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Buffalo Bills vs Los Angeles Chargers",
+        "is_live": true,
+        "start_ts": 1790528400,
+        "links": [
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/xYEWsSMcfsdNMoRrWu6p1Q/prime/buffalo-bills-los-angeles-chargers/1/4714963/1790553591/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/zGX_EyKoybGi-cCSqHb82Q/prime/buffalo-bills-los-angeles-chargers/2/4714963/1790553593/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/WO2PSs_1vb24rbKoOE67FA/prime/buffalo-bills-los-angeles-chargers/3/4714963/1790553595/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/fTGTg8QQKQIxKB1HgVyPgg/prime/buffalo-bills-los-angeles-chargers/4/4714963/1790553614/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/2fFOxtBEKvIN0OM3ABbu6A/deluxe/buffalo-bills-los-angeles-chargers/1/4714963/1790553617/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/cRfpni-bafC_5o8PH1ep6g/deluxe/buffalo-bills-los-angeles-chargers/2/4714963/1790553619/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/3SNzWzHuB3jMJr1dR6GhBA/pro/buffalo-bills-los-angeles-chargers/1/4714963/1790553621/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/lzaTxmGwezg0TbD4cfjUFg/pro/buffalo-bills-los-angeles-chargers/2/4714963/1790553623/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/WRCEB_IMKmbY6IqNDAIFmw/pro/buffalo-bills-los-angeles-chargers/3/4714963/1790553626/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/J7QnasG92CKSWJe_M2CX1Q/delta/Buffalo%20Bills%20vs%20Los%20Angeles%20Chargers/1/4714963/1790553628/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/sPlG3Tsc2RdzoV5tE_hb0g/delta/Buffalo%20Bills%20vs%20Los%20Angeles%20Chargers/2/4714963/1790553630/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/W2nRioRO4Sm76PQJuYZsNA/delta/Buffalo%20Bills%20vs%20Los%20Angeles%20Chargers/3/4714963/1790553634/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/JLtZ1IT-wci6hSSE2JbQcw/foxtrot/Buffalo%20Bills%20vs%20Los%20Angeles%20Chargers/1/4714963/1790553636/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/-u6eoIBI-EwMGdUjPZodhA/hotel/Buffalo%20Bills%20vs%20Los%20Angeles%20Chargers/1/4714963/1790553639/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Detroit Lions vs New York Jets",
+        "is_live": true,
+        "start_ts": 1790528400,
+        "links": [
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/EqtMh85vlkSRLwpqjwVJhA/prime/detroit-lions-new-york-jets/1/4714964/1790553641/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/FID-gxQbLLSk1ugx4f0qfA/prime/detroit-lions-new-york-jets/2/4714964/1790553643/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/3Y5hNQSHggJ-MbxbFHc5iQ/pro/detroit-lions-new-york-jets/1/4714964/1790553646/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/aADK98JOVFrsWhdGF7EQmA/pro/detroit-lions-new-york-jets/2/4714964/1790553648/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/O8MuKRLvLfzFt6o1Wv63mA/pro/detroit-lions-new-york-jets/3/4714964/1790553650/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/Zj_oB6diJusJaBqP7393cw/delta/Detroit%20Lions%20vs%20New%20York%20Jets/1/4714964/1790553652/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/fXAeykaSQ2-XXzBtAf5Nnw/delta/Detroit%20Lions%20vs%20New%20York%20Jets/2/4714964/1790553655/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/J8Lt6L4jLkcE384NU3RjHw/delta/Detroit%20Lions%20vs%20New%20York%20Jets/3/4714964/1790553657/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/Y1eirzput_R7tgcGZFLadA/foxtrot/Detroit%20Lions%20vs%20New%20York%20Jets/1/4714964/1790553659/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/OU6GUKR-AGkX9V3q4Qt1ew/hotel/Detroit%20Lions%20vs%20New%20York%20Jets/1/4714964/1790553661/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Cleveland Browns vs Carolina Panthers",
+        "is_live": true,
+        "start_ts": 1790528400,
+        "links": [
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/rajfFFKLSFLRashO8AatTA/prime/cleveland-browns-carolina-panthers/1/4714960/1790553682/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/TtM161wTO2LkvsUnfwus7Q/prime/cleveland-browns-carolina-panthers/2/4714960/1790553685/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/UV-t-jqkHbVccUb3ps3p8w/prime/cleveland-browns-carolina-panthers/3/4714960/1790553687/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/1ZVvZ_xehzNORWiu-HZfRw/prime/cleveland-browns-carolina-panthers/4/4714960/1790553689/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/c5VAnUfK9rBZ_hUgWdy0bQ/prime/cleveland-browns-carolina-panthers/5/4714960/1790553692/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/4gcyLamfkAbMIU7CgKiRwg/prime/cleveland-browns-carolina-panthers/6/4714960/1790553694/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/HNp7Vs6D1Xa_7DSE5Qw8mQ/prime/cleveland-browns-carolina-panthers/8/4714960/1790553717/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/nmWvtEDzmfTmxF462N8uhA/prime/cleveland-browns-carolina-panthers/9/4714960/1790553719/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/tPuGNQv87yPrdSaf8HkhxA/deluxe/cleveland-browns-carolina-panthers/1/4714960/1790553722/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/uqS_7zLfhNOoS2BUm3N5FA/pro/cleveland-browns-carolina-panthers/1/4714960/1790553724/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/Wxs2eT6UhCv1I9uL4eNNDA/pro/cleveland-browns-carolina-panthers/2/4714960/1790553726/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/-2NGVkhGjX1MR4myOXiRog/pro/cleveland-browns-carolina-panthers/3/4714960/1790553728/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/sSNc-E94ooe_iO00Q5WqGg/delta/Cleveland%20Browns%20vs%20Carolina%20Panthers/1/4714960/1790553731/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/4ud4TYJT1XNHG6gmBGtZYQ/delta/Cleveland%20Browns%20vs%20Carolina%20Panthers/2/4714960/1790553733/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/_qMqiunyxP8kOU0bnc9KQA/delta/Cleveland%20Browns%20vs%20Carolina%20Panthers/3/4714960/1790553736/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/_dcx02la1arHyNrfEW7JFA/foxtrot/Cleveland%20Browns%20vs%20Carolina%20Panthers/1/4714960/1790553740/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/Fpl_h7UUx-Ak7TjW7SyAhA/hotel/Cleveland%20Browns%20vs%20Carolina%20Panthers/1/4714960/1790553742/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Indianapolis Colts vs Houston Texans",
+        "is_live": true,
+        "start_ts": 1790528400,
+        "links": [
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/tuVpJeo0QMAVbXgINRNwdQ/prime/indianapolis-colts-houston-texans/1/4714965/1790553764/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/d3YtiuQEBQQNARX4HTnGMQ/prime/indianapolis-colts-houston-texans/2/4714965/1790553768/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/-KeXAImhNbcT5aLZCt4z1A/prime/indianapolis-colts-houston-texans/3/4714965/1790553770/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/_2NoF2fg2ylg1IN2Mch7-A/prime/indianapolis-colts-houston-texans/4/4714965/1790553772/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/aezVU1d3V1IzgQaUN7qLfw/prime/indianapolis-colts-houston-texans/5/4714965/1790553774/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/Lw0uezUGgxqR8r5urVPnpw/prime/indianapolis-colts-houston-texans/6/4714965/1790553776/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/k2z2EV5eaOo3VnZaPslTew/prime/indianapolis-colts-houston-texans/7/4714965/1790553779/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/szOlgp5TFcLHvFevYKt8xg/prime/indianapolis-colts-houston-texans/8/4714965/1790553781/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/lQ2Ndjy-LDxg8vCojuLekA/prime/indianapolis-colts-houston-texans/9/4714965/1790553784/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/GHdLuUnJKgHdj71lp2Y-eA/deluxe/indianapolis-colts-houston-texans/1/4714965/1790553786/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/sJmbOcmLOsdFtCMMemOfXQ/deluxe/indianapolis-colts-houston-texans/2/4714965/1790553788/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/fZMG1DecurcLX9eG8V-k3Q/pro/indianapolis-colts-houston-texans/1/4714965/1790553790/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/U6bUn4-4KZGz8ELG2hnmqg/pro/indianapolis-colts-houston-texans/2/4714965/1790553792/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/pTMizSzfFZxz0X6l4UxxcQ/pro/indianapolis-colts-houston-texans/3/4714965/1790553794/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/Ogt_GK3acVQxjuMaKwXamg/delta/Indianapolis%20Colts%20vs%20Houston%20Texans/2/4714965/1790553835/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/KAWE9CZXA1RHTHj1LZABcQ/delta/Indianapolis%20Colts%20vs%20Houston%20Texans/3/4714965/1790553837/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/7QJThPIyMme9VRjzIiSLqw/foxtrot/Indianapolis%20Colts%20vs%20Houston%20Texans/1/4714965/1790553839/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/5VIxatxMT17tONyovD33pw/hotel/Indianapolis%20Colts%20vs%20Houston%20Texans/1/4714965/1790553842/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Miami Dolphins vs Kansas City Chiefs",
+        "is_live": true,
+        "start_ts": 1790528400,
+        "links": [
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/MDHRRymnFSNovtQMBoxaHQ/prime/miami-dolphins-kansas-city-chiefs/1/4714959/1790553862/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/9DHDPW3obalqVxzGGWfP8Q/prime/miami-dolphins-kansas-city-chiefs/2/4714959/1790553865/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/Z2XVMxykXA0oDoJCtecueQ/prime/miami-dolphins-kansas-city-chiefs/3/4714959/1790553867/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/EQ_BwX_mzsKUW2PzwYGOvQ/prime/miami-dolphins-kansas-city-chiefs/4/4714959/1790553869/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/fzhbot1P7cSySSJ_8P5sLA/prime/miami-dolphins-kansas-city-chiefs/5/4714959/1790553871/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/tWm0Rq8KLzWz-DrQDMAK9w/prime/miami-dolphins-kansas-city-chiefs/6/4714959/1790553874/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/IonHoBQXZw92x5w89lpGxQ/prime/miami-dolphins-kansas-city-chiefs/7/4714959/1790553876/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/DQH0IOqzZqLZZ7FIrGeMSQ/prime/miami-dolphins-kansas-city-chiefs/8/4714959/1790553879/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/8sYIicmlzC1bDWiHnM6UOg/prime/miami-dolphins-kansas-city-chiefs/9/4714959/1790553881/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/lRoKFo06ZsbsVv7-fGKSjQ/deluxe/miami-dolphins-kansas-city-chiefs/1/4714959/1790553883/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/OfuuEXEkQA9ddbei_NBD-Q/pro/miami-dolphins-kansas-city-chiefs/1/4714959/1790553885/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/UpEpLNbzJuap7vPbJZBBhw/pro/miami-dolphins-kansas-city-chiefs/2/4714959/1790553888/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/Rga7ewq43sCKOfTT41ckvQ/pro/miami-dolphins-kansas-city-chiefs/3/4714959/1790553890/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/cOEI0ZvkdgJpk96RDn9RcA/delta/Miami%20Dolphins%20vs%20Kansas%20City%20Chiefs/1/4714959/1790553892/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/s-iHobdrfb1fOPeSNog8Ng/delta/Miami%20Dolphins%20vs%20Kansas%20City%20Chiefs/2/4714959/1790553894/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/mScyzC-bkRmKQCCfFhC0ZQ/delta/Miami%20Dolphins%20vs%20Kansas%20City%20Chiefs/3/4714959/1790553899/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/TO3decsdVrDIcMe_4yy60A/foxtrot/Miami%20Dolphins%20vs%20Kansas%20City%20Chiefs/1/4714959/1790553901/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/ND0O3bpwb44Eoj5YNJmyKQ/hotel/Miami%20Dolphins%20vs%20Kansas%20City%20Chiefs/1/4714959/1790553903/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
