@@ -1,7 +1,33 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-27T16:25:02.111292Z",
+  "scraped_at": "2026-09-27T16:55:02.511027Z",
   "sports_events": {
+    "mlb": [
+      {
+        "title": "Washington Nationals vs New York Mets",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.wfty.st/secure/7V8Ya314yXOQJgwjaZiXUA/sigma/washington-nationals-new-york-mets/1/401817106/1790549708/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401817106%2Fwashington-nationals-new-york-mets%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401817106%2Fwashington-nationals-new-york-mets%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.wfty.st/secure/y46VBM3sMyCR0RnkVoKs6A/sigma/washington-nationals-new-york-mets/1/401817106/1790549717/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401817106%2Fwashington-nationals-new-york-mets%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401817106%2Fwashington-nationals-new-york-mets%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb4.wfty.st/secure/E4MvhDcdxhyw4MvgrYIfVg/sigma/washington-nationals-new-york-mets/1/401817106/1790549725/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401817106%2Fwashington-nationals-new-york-mets%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401817106%2Fwashington-nationals-new-york-mets%2Fprime%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [
       {
         "title": "20th Asian Games",
@@ -9,20 +35,38 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb12.strmd.st/secure/LocpIIGSLQcaTDUzJPdXcNIXyGENbagw/hotel/stream/20th-asian-games-20th-asian-games-1790502000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2F20th-asian-games-20th-asian-games-1790502000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/USftgJByJyLYxgpVFnLOJalfUneQhUcr/hotel/stream/20th-asian-games-20th-asian-games-1790502000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2F20th-asian-games-20th-asian-games-1790502000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2F20th-asian-games-20th-asian-games-1790502000%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb11.strmd.st/secure/qVRSJzGzVNRRurNrOBBaXbIfPSvnuTrj/hotel/stream/20th-asian-games-20th-asian-games-1790502000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2F20th-asian-games-20th-asian-games-1790502000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/gYbvKfwLNWIFtybCEHUiFDzubeMZSTgZ/hotel/stream/20th-asian-games-20th-asian-games-1790502000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2F20th-asian-games-20th-asian-games-1790502000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2F20th-asian-games-20th-asian-games-1790502000%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb15.strmd.st/secure/DagcOGFRtcUNhStESJTtAsXixQoGfqOx/hotel/stream/20th-asian-games-20th-asian-games-1790502000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2F20th-asian-games-20th-asian-games-1790502000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.strmd.st/secure/bhAhQOaaOSSbjMNFvMXFnQIUvhwYoPql/hotel/stream/20th-asian-games-20th-asian-games-1790502000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2F20th-asian-games-20th-asian-games-1790502000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2F20th-asian-games-20th-asian-games-1790502000%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Malta vs Liechtenstein",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb5.wfty.st/secure/tBwj8SduX6X4I8hdegOsrQ/sigma/malta-liechtenstein/1/401905204/1790549738/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401905204%2Fmalta-liechtenstein%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401905204%2Fmalta-liechtenstein%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb3.wfty.st/secure/vNxEXyom9iQ4c5WbjJlDeQ/sigma/malta-liechtenstein/1/401905204/1790549747/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401905204%2Fmalta-liechtenstein%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401905204%2Fmalta-liechtenstein%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
         ]
