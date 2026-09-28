@@ -1,7 +1,27 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-28T03:25:02.764817Z",
+  "scraped_at": "2026-09-28T03:55:02.784446Z",
   "sports_events": {
+    "nba": [
+      {
+        "title": "Dallas Wings vs. Golden State Valkyries",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb19.strmd.st/secure/colKTnwquWAGeizrcoVZwFUJBMewOeBG/rtmp/stream/nQPPJCctM05G_vNCjQaP6TTc9RGVG10pXkR9bmJCU55zDOYp9fw2YO3z9uz3E9lMXztOkGUAGxlDW9PnvCgaDXRHtBjchA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dallas-wings-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-dallas-wings-vs-golden-state-valkyries%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb17.strmd.st/secure/hiMkVGLvscYEXUIawbUYaFvFNzubxoUQ/rtmp/stream/HI4M_K9l51Y048ygk8vKpfsSa4nr94PYiWbKz9o-KPTpuHymI6HEN6j61kB_Ion2WxT-USKMWNcP9dVvwLhqqICzEXDEYw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dallas-wings-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-dallas-wings-vs-golden-state-valkyries%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [
       {
         "title": "Road to The Dome Coles",
@@ -9,7 +29,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/UDoqxOKBPpIpsPvTGECJpooDDdwxFNtt/foxtrot/stream/road-to-the-dome-at-coles-county-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Froad-to-the-dome-at-coles-county-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb19.strmd.st/secure/SiEIdbQSUigceSwPWvOKZaebuoukxcpA/foxtrot/stream/road-to-the-dome-at-coles-county-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Froad-to-the-dome-at-coles-county-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Froad-to-the-dome-at-coles-county-speedway%2F1&source=tv2",
             "resolved": true
           }
@@ -21,73 +41,34 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.strmd.st/secure/VNwwpnoNIdKLqcVtKZdJtddCIYbNdHaR/foxtrot/stream/high-limit-racing-at-kokomo-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fhigh-limit-racing-at-kokomo-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb17.strmd.st/secure/djmoUZMjJGZbWCUjRcisYXcazkvYOkmJ/foxtrot/stream/high-limit-racing-at-kokomo-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fhigh-limit-racing-at-kokomo-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fhigh-limit-racing-at-kokomo-speedway%2F1&source=tv2",
             "resolved": true
           }
         ]
       }
     ],
-    "nba": [
+    "soccer": [
       {
-        "title": "Dallas Wings vs. Golden State Valkyries",
+        "title": "Denver Broncos vs Los Angeles Rams",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/TcqvVrDaVqhRyXfDYVwsWQyXAQvfjXgP/rtmp/stream/RbY_UecGiYX88i6dYLA7PAQEilXOzMAzsJAeCSEvdeNqSr6n_B3hZUl4KBU6D-AzvSEsrhLRk8s5fKToM7rbgbrtce6ShA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dallas-wings-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-dallas-wings-vs-golden-state-valkyries%2F1&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/mdenverbroncos/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D260%26id%3D1746%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1746%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.strmd.st/secure/syFJXzLUHGGNxiJKaUjNxLuIjrLCnuxF/rtmp/stream/RbY_UecGiYX88i6dYLA7PAQEilXOzMAzsJAeCSEvdeNqSr6n_B3hZUl4KBU6D-AzvSEsrhLRk8s5fKToM7rbgbrtce6ShA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dallas-wings-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-dallas-wings-vs-golden-state-valkyries%2F2&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/mdenverbroncos/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D260%26id%3D1746%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1746%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb20.strmd.st/secure/ogSESyocQIWgbUYaaAqckoGVgYZUaGWD/delta/stream/live_wnba-playoffs_valkyries-wings-live-streaming-663447888/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_wnba-playoffs_valkyries-wings-live-streaming-663447888%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_wnba-playoffs_valkyries-wings-live-streaming-663447888%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "nfl": [],
-    "soccer": [
-      {
-        "title": "Necaxa vs América",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/YEUZETqlNKnCDHCEAfZUSSsiiYVLnrfJ/rtmp/stream/X_m8PBWWTNZwU2whmjDGAAllWWDRe9Q75zwdYUg_ytxy2kNCpuG_JKZaLoNxb_ra_dwp-aevsN4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-necaxa-vs-am-rica%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-necaxa-vs-am-rica%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb12.strmd.st/secure/yKJVAaRSqNGpcOuemzhTazbtBlsLwTZL/rtmp/stream/X_m8PBWWTNZwU2whmjDGAAllWWDRe9Q75zwdYUg_ytxy2kNCpuG_JKZaLoNxb_ra_dwp-aevsN4/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-necaxa-vs-am-rica%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-necaxa-vs-am-rica%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "León vs Juárez",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/laQQSOZWlDBkDbRVdfHUgHKexxWmebqr/rtmp/stream/Pqr_fdKiQUplin9H1qYuU59XM0Qtjt3bPIgKiaNzrDxHj3AZEi_h9bdLXCLkmfT9EISULA2M8Ic/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-le-n-vs-fc-juarez%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-le-n-vs-fc-juarez%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb10.strmd.st/secure/BojhqogaxrYKilXbhlTvjjANtNPqSIEl/rtmp/stream/Pqr_fdKiQUplin9H1qYuU59XM0Qtjt3bPIgKiaNzrDxHj3AZEi_h9bdLXCLkmfT9EISULA2M8Ic/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-le-n-vs-fc-juarez%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-le-n-vs-fc-juarez%2F2&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/mdenverbroncos/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D260%26id%3D1746%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-los-angeles-rams-at-denver-broncos%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -98,18 +79,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb15.strmd.st/secure/bVbTVuqnFAerBcfkyuMnTeZEaEfOOqhH/delta/stream/live_mls_columbus-inter-miami-live-streaming-539451792/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_columbus-inter-miami-live-streaming-539451792%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb7.strmd.st/secure/XuvDZpDXYKwaVubVAfKdXECKKdiNgbjF/delta/stream/live_mls_columbus-inter-miami-live-streaming-539451792/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_columbus-inter-miami-live-streaming-539451792%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_mls_columbus-inter-miami-live-streaming-539451792%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb19.strmd.st/secure/fEbcdketTMfvieVkLMeAmULXlryvpvqc/delta/stream/live_mls_columbus-inter-miami-live-streaming-539451792/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_columbus-inter-miami-live-streaming-539451792%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb19.strmd.st/secure/ffZarEuazbvaWEUNKjQUfrCJtGKswJnN/delta/stream/live_mls_columbus-inter-miami-live-streaming-539451792/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_mls_columbus-inter-miami-live-streaming-539451792%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Finter-miami-cf-v-columbus-crew-761844%2F1&source=tv2",
             "resolved": true
           }
         ]
       }
-    ]
+    ],
+    "nfl": []
   }
 }
