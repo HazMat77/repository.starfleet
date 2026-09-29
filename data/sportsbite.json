@@ -1,168 +1,88 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-09-28T23:55:02.620588Z",
+  "scraped_at": "2026-09-29T00:25:02.670369Z",
   "categories": {
-    "soccer": [
-      {
-        "title": "Belgium vs France",
-        "is_live": true,
-        "start_ts": 1790621100,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/eEjYasKthYm_YHgc78Uw5g/deluxe/belgium-france/1/401861081/1790661309/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (GHD)",
-            "playable_url": "https://lb3.wfty.st/secure/EqpaoHpMjY5HFwYn6DIzPg/sigma/belgium-france/1/401861081/1790661312/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (GHD)",
-            "playable_url": "https://lb6.wfty.st/secure/sgILRzEsNGI0VMrvImDyWw/sigma/belgium-france/2/401861081/1790661314/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (WHD)",
-            "playable_url": "https://lb6.wfty.st/secure/2h3ZV13RkqCrWe2drukGoA/sigma/belgium-france/3/401861081/1790661316/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (WHD)",
-            "playable_url": "https://lb3.wfty.st/secure/39jdXdj5EE2lgY9DGFfoMA/sigma/belgium-france/4/401861081/1790661318/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/za9wu76yDtiSsNq9BvZXLA/delta/live_uefa-nations-league-league-a-gr-1_belgium-france-live-streaming-539457840/1/401861081/1790661321/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Türkiye vs Italy",
-        "is_live": true,
-        "start_ts": 1790621100,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/MskxjAEVdBR4YjyhxOj0Ng/deluxe/turkiye-italy/1/401861077/1790661323/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (GHD)",
-            "playable_url": "https://lb2.wfty.st/secure/5m4dLZFQfdjeNkMs4zqi6g/sigma/turkiye-italy/1/401861077/1790661325/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (GHD)",
-            "playable_url": "https://lb6.wfty.st/secure/N51HtIQvcf_lJ76O6dLYZg/sigma/turkiye-italy/2/401861077/1790661327/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (WHD)",
-            "playable_url": "https://lb5.wfty.st/secure/yYBDr8Pw4uk4JEfrsP3gVQ/sigma/turkiye-italy/3/401861077/1790661329/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "sigma (WHD)",
-            "playable_url": "https://lb5.wfty.st/secure/aMZV1WGmLYW5cXqf8yj0dA/sigma/turkiye-italy/4/401861077/1790661331/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/nohAcgVqt9Z74Q0bqadF2A/delta/live_uefa-nations-league-league-a-gr-1_turkiye-italy-live-streaming-539458272/1/401861077/1790661333/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      }
-    ],
     "nfl": [
       {
         "title": "Chicago Bears vs Philadelphia Eagles",
-        "is_live": false,
+        "is_live": true,
         "start_ts": 1790640900,
         "links": [
           {
             "label": "prime (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/wdokyiALBn8nAfwFF3Q40w/prime/chicago-bears-philadelphia-eagles/1/4714972/1790661359/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/i2MmowTJQSEVTiqHkkhyzQ/prime/chicago-bears-philadelphia-eagles/1/4714972/1790663130/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "prime (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/Ps42DSC_gm0gEY3KcqyWtg/prime/chicago-bears-philadelphia-eagles/2/4714972/1790661361/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/_BJRKeuawPAt9SUIxviBkg/prime/chicago-bears-philadelphia-eagles/2/4714972/1790663132/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/fe_QLkltj0YifoJC-x20vA/deluxe/chicago-bears-philadelphia-eagles/1/4714972/1790661362/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/RMTiVo2OE3DdbgFtDWjwhA/deluxe/chicago-bears-philadelphia-eagles/1/4714972/1790663134/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/JkhP_YfliKsI6ztEOFAOLg/deluxe/chicago-bears-philadelphia-eagles/2/4714972/1790661364/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/c55L92WyZCOUC7jXwda0Dw/deluxe/chicago-bears-philadelphia-eagles/2/4714972/1790663137/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/jc0SNmNF6to4-18ldTRDrg/deluxe/chicago-bears-philadelphia-eagles/3/4714972/1790661366/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/xlnYoorh_lLhuOeAvarRhQ/deluxe/chicago-bears-philadelphia-eagles/3/4714972/1790663139/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/4q2H4EDLSv6CBQh1lgQAuQ/pro/chicago-bears-philadelphia-eagles/1/4714972/1790661368/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/uEU_OLjdK8Lg0Q7BxcZt1w/pro/chicago-bears-philadelphia-eagles/1/4714972/1790663141/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/o-6gfhQeexWbZSh_uazH4w/pro/chicago-bears-philadelphia-eagles/2/4714972/1790661370/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/47A3vjuBP7V8dSu1TF2j1Q/pro/chicago-bears-philadelphia-eagles/2/4714972/1790663143/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/vTnhq79gaJL_y9H7tOI8NQ/pro/chicago-bears-philadelphia-eagles/3/4714972/1790661373/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/0pOERS-Vah7zoNp8nje4vg/pro/chicago-bears-philadelphia-eagles/3/4714972/1790663145/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/x8u7HkWmpalz0WVNp00u4w/pro/chicago-bears-philadelphia-eagles/4/4714972/1790661375/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/K08VE_OHhW0CfDIA-KqqAA/pro/chicago-bears-philadelphia-eagles/4/4714972/1790663147/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/lE_MZODRcWOF4IA0IO5VNw/pro/chicago-bears-philadelphia-eagles/5/4714972/1790661377/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/5m49AEOXRAAfbgUp6d5Ynw/pro/chicago-bears-philadelphia-eagles/5/4714972/1790663149/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/B_yuAb5XDjE_FzLOiiM1NQ/pro/chicago-bears-philadelphia-eagles/6/4714972/1790661379/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/mGuuHQGPYQlG2SNKRsug2g/pro/chicago-bears-philadelphia-eagles/6/4714972/1790663151/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/9sHfc_6bfnjqq9jXEjYQBw/pro/chicago-bears-philadelphia-eagles/7/4714972/1790661381/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/gOpjZ9e0PSJamKhHl2g4Kw/pro/chicago-bears-philadelphia-eagles/7/4714972/1790663155/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/iKvVuumTFo1Jgavm6yuwDw/pro/chicago-bears-philadelphia-eagles/8/4714972/1790661383/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/JgNf0XUb9AGQl91Nx-Sazg/pro/chicago-bears-philadelphia-eagles/8/4714972/1790663157/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/XTtTIOnqm_FVKrytx4BeNQ/pro/chicago-bears-philadelphia-eagles/9/4714972/1790661386/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/Y4FttIVWEiLNxssqqWiilg/pro/chicago-bears-philadelphia-eagles/9/4714972/1790663159/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/nwo-aXh7ykV2drQr3oBhJQ/delta/Chicago%20Bears%20vs%20Philadelphia%20Eagles/1/4714972/1790661388/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/5BuoXClm-kQEuvVov8-HNQ/delta/Chicago%20Bears%20vs%20Philadelphia%20Eagles/1/4714972/1790663161/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/xKpdZLgq1HVfKJNYIjQDVw/delta/Chicago%20Bears%20vs%20Philadelphia%20Eagles/2/4714972/1790661390/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/t10o9CgEHhh5ysu8bjfFXw/delta/Chicago%20Bears%20vs%20Philadelphia%20Eagles/2/4714972/1790663163/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/uHH5HsIhZCt33BzG1vdiMA/delta/Chicago%20Bears%20vs%20Philadelphia%20Eagles/3/4714972/1790661392/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/jigC_YOlTr6IZj2CFcXXOg/delta/Chicago%20Bears%20vs%20Philadelphia%20Eagles/3/4714972/1790663166/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/1XDO3SNqi1K0U8M1iOodNQ/delta/Chicago%20Bears%20vs%20Philadelphia%20Eagles/4/4714972/1790661394/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/7BrLKct5yXmDZGdj9HuiMw/delta/Chicago%20Bears%20vs%20Philadelphia%20Eagles/4/4714972/1790663168/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "hotel (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/5ScTwe-W1yKzMyvt7MTycw/hotel/Chicago%20Bears%20vs%20Philadelphia%20Eagles/1/4714972/1790661396/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/su9iG9a9wWQQtLZp_pn6SA/platinum/chicago-bears-philadelphia-eagles/1/4714972/1790661398/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/oI_rThEOviOXnLxa8u_JVQ/platinum/chicago-bears-philadelphia-eagles/2/4714972/1790661401/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/XYak1e7nU9UVlalsQUZs4Q/platinum/chicago-bears-philadelphia-eagles/3/4714972/1790661403/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/mLgNtXe0uLrTgvCw8APKfg/platinum/chicago-bears-philadelphia-eagles/4/4714972/1790661405/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/gsrMos7otpZsheNr9NyHZA/hotel/Chicago%20Bears%20vs%20Philadelphia%20Eagles/1/4714972/1790663170/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
