@@ -1,7 +1,47 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-28T23:55:02.606863Z",
+  "scraped_at": "2026-09-29T00:25:02.634572Z",
   "sports_events": {
+    "other_events": [
+      {
+        "title": "Monday Night RAW",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb15.strmd.st/secure/LpoJjSObAkZekektUsTcSqpBtuLDPDkc/delta/stream/live-event_monday-night-raw-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_monday-night-raw-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_monday-night-raw-live-stream%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "wwe": [
+      {
+        "title": "WWE: Monday Night RAW",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb1.wfty.st/secure/K6sfPKMFUbk6flSQOL3Khg/deluxe/wwe-monday-night-raw/1/2ec7bfc1/1790663112/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F2ec7bfc1%2Fwwe-monday-night-raw%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=2ec7bfc1%2Fwwe-monday-night-raw%2Fdeluxe%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.wfty.st/secure/H1YiRfBc1TOWxqENb9XuRg/deluxe/wwe-monday-night-raw/1/2ec7bfc1/1790663119/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F2ec7bfc1%2Fwwe-monday-night-raw%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=2ec7bfc1%2Fwwe-monday-night-raw%2Fdeluxe%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb1.wfty.st/secure/MdG5gvZ2wUruXXQE7FwASA/deluxe/wwe-monday-night-raw/1/2ec7bfc1/1790663127/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F2ec7bfc1%2Fwwe-monday-night-raw%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=2ec7bfc1%2Fwwe-monday-night-raw%2Fplatinum%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "soccer": [
       {
         "title": "Belgium vs France",
@@ -9,7 +49,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb9.strmd.st/secure/uqZRHPNyybquXeRtOWwUnjVYPnJxqvIx/delta/stream/live_uefa-nations-league-league-a-gr-1_belgium-france-live-streaming-539457840/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-a-gr-1_belgium-france-live-streaming-539457840%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb15.strmd.st/secure/qnTEZUfaBGiBoKxCkaGVSoRraQHZkZiV/delta/stream/live_uefa-nations-league-league-a-gr-1_belgium-france-live-streaming-539457840/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-a-gr-1_belgium-france-live-streaming-539457840%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_uefa-nations-league-league-a-gr-1_belgium-france-live-streaming-539457840%2F1&source=tv2",
             "resolved": true
           }
@@ -21,7 +61,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb12.strmd.st/secure/FfhoZuANapVmSgZlTssCLJfQwMAGUuoK/delta/stream/live_uefa-nations-league-league-b-gr-2_northern-ireland-hungary-live-streaming-539459136/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-b-gr-2_northern-ireland-hungary-live-streaming-539459136%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb20.strmd.st/secure/OksFAzzVObfgRgiZiPiATuZfjuMXBErw/delta/stream/live_uefa-nations-league-league-b-gr-2_northern-ireland-hungary-live-streaming-539459136/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-b-gr-2_northern-ireland-hungary-live-streaming-539459136%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_uefa-nations-league-league-b-gr-2_northern-ireland-hungary-live-streaming-539459136%2F1&source=tv2",
             "resolved": true
           }
@@ -33,7 +73,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb8.strmd.st/secure/xqPrxVRavZfhChAkvZyVjVnGzNUGvumg/delta/stream/live_uefa-nations-league-league-b-gr-4_sweden-poland-live-streaming-539460000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-b-gr-4_sweden-poland-live-streaming-539460000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb9.strmd.st/secure/rWkbREMvpGsjJlEGglZVyisiTDuHqLlX/delta/stream/live_uefa-nations-league-league-b-gr-4_sweden-poland-live-streaming-539460000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-b-gr-4_sweden-poland-live-streaming-539460000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_uefa-nations-league-league-b-gr-4_sweden-poland-live-streaming-539460000%2F1&source=tv2",
             "resolved": true
           }
@@ -45,7 +85,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb19.strmd.st/secure/bIoXlMvaGuaYpQzoizLFoZZPUhPVFcaz/delta/stream/live_uefa-nations-league-league-b-gr-4_romania-bosnia-herzegovina-live-streaming-539459568/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-b-gr-4_romania-bosnia-herzegovina-live-streaming-539459568%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/oEmqnHnkxJBurICJuyFFaxGdxvNxkNoL/delta/stream/live_uefa-nations-league-league-b-gr-4_romania-bosnia-herzegovina-live-streaming-539459568/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-b-gr-4_romania-bosnia-herzegovina-live-streaming-539459568%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_uefa-nations-league-league-b-gr-4_romania-bosnia-herzegovina-live-streaming-539459568%2F1&source=tv2",
             "resolved": true
           }
@@ -57,86 +97,74 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb7.strmd.st/secure/oCQcpZgNcxtARHYyRuyegwIRygOTAGqT/delta/stream/live_uefa-nations-league-league-a-gr-1_turkiye-italy-live-streaming-539458272/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-a-gr-1_turkiye-italy-live-streaming-539458272%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.strmd.st/secure/jNqKTNFeOzGRNiIljMnNSBIZGrDrfOCd/delta/stream/live_uefa-nations-league-league-a-gr-1_turkiye-italy-live-streaming-539458272/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-a-gr-1_turkiye-italy-live-streaming-539458272%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_uefa-nations-league-league-a-gr-1_turkiye-italy-live-streaming-539458272%2F1&source=tv2",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Georgia vs Ukraine",
+        "title": "Jamaica vs Honduras",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb18.strmd.st/secure/pgxAtAWVZZNfbQamLLyqZzTzPJLdkrVM/delta/stream/live_uefa-nations-league-league-b-gr-2_georgia-ukraine-live-streaming-539458704/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-b-gr-2_georgia-ukraine-live-streaming-539458704%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_uefa-nations-league-league-b-gr-2_georgia-ukraine-live-streaming-539458704%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Armenia vs Montenegro",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb20.strmd.st/secure/VmJOPlVdTfzAqKGYzzVbmZMxADwbVoVn/delta/stream/live_uefa-nations-league-league-c-gr-2_armenia-montenegro-live-streaming-539460432/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-c-gr-2_armenia-montenegro-live-streaming-539460432%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_uefa-nations-league-league-c-gr-2_armenia-montenegro-live-streaming-539460432%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Latvia vs Cyprus",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb13.strmd.st/secure/LCqwmlcIEskBpGhqhrgQqLFxjeSfdtpK/delta/stream/live_uefa-nations-league-league-c-gr-2_latvia-cyprus-live-streaming-539460864/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-c-gr-2_latvia-cyprus-live-streaming-539460864%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_uefa-nations-league-league-c-gr-2_latvia-cyprus-live-streaming-539460864%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Suriname vs Martinique",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/WjyFBYcOMQpeFuBxZpS5vg/deluxe/suriname-martinique/1/401900611/1790661391/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900611%2Fsuriname-martinique%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401900611%2Fsuriname-martinique%2Fdeluxe%2F1&source=tv3",
+            "playable_url": "https://lb4.wfty.st/secure/ltQ1_FCWK3rrg_bTeweuBw/deluxe/jamaica-honduras/1/401900612/1790663160/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900612%2Fjamaica-honduras%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900612%2Fjamaica-honduras%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb3.wfty.st/secure/7SyqQ6kr3PAw5GVL8MFYRw/deluxe/suriname-martinique/1/401900611/1790661400/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900611%2Fsuriname-martinique%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401900611%2Fsuriname-martinique%2Fsigma%2F1&source=tv3",
+            "playable_url": "https://lb1.wfty.st/secure/RuVnq_zWWjQP0TLk4FhtUg/deluxe/jamaica-honduras/1/401900612/1790663169/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900612%2Fjamaica-honduras%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900612%2Fjamaica-honduras%2Fsigma%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb3.wfty.st/secure/-2rSY5Iuu3rdQNnkLoaAtQ/deluxe/suriname-martinique/1/401900611/1790661408/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900611%2Fsuriname-martinique%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401900611%2Fsuriname-martinique%2Fsigma%2F2&source=tv3",
+            "playable_url": "https://lb6.wfty.st/secure/D_5bOlHA4elQsMJ3T_JWuA/deluxe/jamaica-honduras/1/401900612/1790663178/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900612%2Fjamaica-honduras%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900612%2Fjamaica-honduras%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Club León (W) vs CF América (W)",
+        "title": "St. Kitts and Nevis vs Grenada",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/kDrR0YKbTSFr_JmtHLFvYA/sigma/leon-w-club-america-w/1/4789108/1790661417/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4789108%2Fleon-w-club-america-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4789108%2Fleon-w-club-america-w%2Fsigma%2F1&source=tv3",
+            "playable_url": "https://lb3.wfty.st/secure/QhRZTfQ6gOsgB-dJ4xHbXg/deluxe/st-kitts-and-nevis-grenada/1/401900613/1790663187/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900613%2Fst-kitts-and-nevis-grenada%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900613%2Fst-kitts-and-nevis-grenada%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/tCJIJFLuFHlFqV4_ZIYfHQ/sigma/leon-w-club-america-w/1/4789108/1790661426/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4789108%2Fleon-w-club-america-w%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4789108%2Fleon-w-club-america-w%2Fsigma%2F2&source=tv3",
+            "playable_url": "https://lb1.wfty.st/secure/P-HRHK_S5reumcr1ADmpsA/deluxe/st-kitts-and-nevis-grenada/1/401900613/1790663196/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900613%2Fst-kitts-and-nevis-grenada%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900613%2Fst-kitts-and-nevis-grenada%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb4.wfty.st/secure/QQrFcdFKKbtcwAzR65A5zA/deluxe/st-kitts-and-nevis-grenada/1/401900613/1790663205/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900613%2Fst-kitts-and-nevis-grenada%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900613%2Fst-kitts-and-nevis-grenada%2Fsigma%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Saint Lucia vs Bermuda",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.wfty.st/secure/0J6Vnef1RoY8_ItOCPq66w/sigma/st-lucia-bermuda/1/401900615/1790663214/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900615%2Fst-lucia-bermuda%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900615%2Fst-lucia-bermuda%2Fsigma%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.wfty.st/secure/OHeYzRlI1MYZyr5g4DvKcA/sigma/st-lucia-bermuda/1/401900615/1790663222/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900615%2Fst-lucia-bermuda%2Fsigma%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900615%2Fst-lucia-bermuda%2Fsigma%2F2&source=tv3",
             "resolved": true
           }
         ]
