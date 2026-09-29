@@ -1,7 +1,48 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-09-29T16:55:03.987848Z",
+  "scraped_at": "2026-09-29T17:25:03.306314Z",
   "sports_events": {
+    "other_events": [],
+    "nhl": [
+      {
+        "title": "Brynäs IF vs Timrå IK",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb18.strmd.st/secure/EUuZqbHzJKAOiCYTByPMeLlVnMHGLRvU/rtmp/stream/My-mQEncj9C64jWZoF-WZgPCBABXlOq7A2mggrnIrU3DJ0eBaXqNtXAbHonjIVY4a-1-pvNpepO-8DefpQtR/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-bryn-s-if-vs-timr-ik%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-bryn-s-if-vs-timr-ik%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb12.strmd.st/secure/oqmRRHSponTKCTcivBYZrXCsRPgKQwIw/rtmp/stream/My-mQEncj9C64jWZoF-WZgPCBABXlOq7A2mggrnIrU3DJ0eBaXqNtXAbHonjIVY4a-1-pvNpepO-8DefpQtR/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-bryn-s-if-vs-timr-ik%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-bryn-s-if-vs-timr-ik%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "darts": [
+      {
+        "title": "2026 World Grand Prix | Day 2",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb18.strmd.st/secure/BqMqAyWHIptXmoNXGlOopoeJxwfPzWLZ/rtmp/stream/H_k04hQux7STqLlsyh0T5e7nKxpY84ZtXjB-qs2ReEu4c1ZtEeM3gmzktv0iHBPXRcR18IU-DNBSE9E/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-2026-world-grand-prix-day-2%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-2026-world-grand-prix-day-2%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb12.strmd.st/secure/BsENjcWeNYBshOEDknLAyscLTtlqODgN/rtmp/stream/H_k04hQux7STqLlsyh0T5e7nKxpY84ZtXjB-qs2ReEu4c1ZtEeM3gmzktv0iHBPXRcR18IU-DNBSE9E/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-2026-world-grand-prix-day-2%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-2026-world-grand-prix-day-2%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "soccer": []
   }
 }
