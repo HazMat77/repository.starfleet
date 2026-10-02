@@ -1,7 +1,63 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-10-02T17:25:02.809595Z",
+  "scraped_at": "2026-10-02T17:55:02.840496Z",
   "categories": {
+    "soccer": [
+      {
+        "title": "France vs Italy",
+        "is_live": false,
+        "start_ts": 1790966700,
+        "links": [
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb4.wfty.st/secure/nXNlwitrfzqGN71zjDm30w/deluxe/france-italy/1/401861103/1790985329/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/MCPgRDiBiFlX-Z1buYLLmQ/platinum/france-italy/1/401861103/1790985332/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/DTPFWT3LU6p0cJdppSR_lQ/delta/live_uefa-nations-league-league-a-gr-1_france-italy-live-streaming-539482032/1/401861103/1790985334/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/AsMRk30nGq3iuZGgZMyTyw/foxtrot/italy-v-france-unl-401861103/1/401861103/1790985336/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/Wo6XxhlAwAwVtEkYwFUGTA/hotel/france-vs-italy-uefa-nations-league-1790966700/1/401861103/1790985338/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Belgium vs Türkiye",
+        "is_live": false,
+        "start_ts": 1790966700,
+        "links": [
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/OqrsSsoPyodRVB0cw_FIpw/deluxe/belgium-turkiye/1/401861109/1790985359/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/gO97Vh_jgJo5tnrxt8rpUQ/platinum/belgium-turkiye/1/401861109/1790985361/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/Xn_Rh9Ak_gIq53bcUuU0fQ/delta/live_uefa-nations-league-league-a-gr-1_belgium-turkiye-live-streaming-539481600/1/401861109/1790985364/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/6KPacSriO2aHp2iTxCuwXA/hotel/belgium-vs-t-rkiye-uefa-nations-league-1790966700/1/401861109/1790985366/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "foxtrot (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/WWjNUIK7OwZAEu2Z_m2Myw/foxtrot/turkiye-v-belgium-unl-401861109/1/401861109/1790985368/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
     "mlb": [
       {
         "title": "Atlanta Braves vs Philadelphia Phillies",
@@ -10,23 +66,23 @@
         "links": [
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/gJbEFJxBcjiUAhHSGO3ZAA/deluxe/atlanta-braves-philadelphia-phillies/1/401907973/1790983510/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/IDHIA8xSxhBEHAqWiBv9hg/deluxe/atlanta-braves-philadelphia-phillies/1/401907973/1790985373/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/_cjJJWsGGq1qAdKTthDe4g/deluxe/atlanta-braves-philadelphia-phillies/2/401907973/1790983512/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/ssZImvgVg28IVTIg3gQcsw/deluxe/atlanta-braves-philadelphia-phillies/2/401907973/1790985375/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/boy5R-6jiNRhhVXckgjhYg/platinum/atlanta-braves-philadelphia-phillies/1/401907973/1790983514/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/i_QkPyBiJtWVOPdYz864VA/platinum/atlanta-braves-philadelphia-phillies/1/401907973/1790985377/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/bLZsB5JH4CgCY6rZBy6VzQ/platinum/atlanta-braves-philadelphia-phillies/2/401907973/1790983517/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/0xk4in6rg4qmFS4yW7sGNA/platinum/atlanta-braves-philadelphia-phillies/2/401907973/1790985379/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "foxtrot (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/WE9ulIJ-y6hck6kM9VJUEQ/foxtrot/phillies-v-braves-401907973/1/401907973/1790983519/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/1jD38pt7ek-GG3ofppnG6w/foxtrot/phillies-v-braves-401907973/1/401907973/1790985381/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
@@ -39,7 +95,7 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/UQE5VXkJYcVLryX2p9szFA/platinum/vancouver-canucks-edmonton-oilers/1/401891829/1790983523/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/U21Bz0vKHsyVFRNbe8yMtw/platinum/vancouver-canucks-edmonton-oilers/1/401891829/1790985385/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -50,7 +106,7 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/2nhL_Y95dV-9LxwOnF_UpQ/platinum/calgary-flames-seattle-kraken/1/401891777/1790983525/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/bmFl8znfb-DybxagKV-VaQ/platinum/calgary-flames-seattle-kraken/1/401891777/1790985388/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
@@ -63,47 +119,47 @@
         "links": [
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/RLQ2zpGhBHd9E71Cy9EwjQ/deluxe/cleveland-browns-pittsburgh-steelers/1/4714973/1790983528/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/M2G4oDAkYyauvIm7GGDZoA/deluxe/cleveland-browns-pittsburgh-steelers/1/4714973/1790985391/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/P_OwARFRjT-mmwDJZC6ycw/deluxe/cleveland-browns-pittsburgh-steelers/2/4714973/1790983530/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/OQDnxkVE6KHbZYnKD2qKsA/deluxe/cleveland-browns-pittsburgh-steelers/2/4714973/1790985393/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "foxtrot (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/iIF828_pYsUaAGnyMeHExQ/foxtrot/Cleveland%20Browns%20vs%20Pittsburgh%20Steelers/1/4714973/1790983532/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/H9N1_3Fp4y9VHyTHWe7S3g/foxtrot/Cleveland%20Browns%20vs%20Pittsburgh%20Steelers/1/4714973/1790985395/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "foxtrot (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/fre8qxTk99uk2fvQ_ft2aw/foxtrot/Cleveland%20Browns%20vs%20Pittsburgh%20Steelers/2/4714973/1790983534/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/LuhZMol6Gt3WmeD49k0oUA/foxtrot/Cleveland%20Browns%20vs%20Pittsburgh%20Steelers/2/4714973/1790985398/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "foxtrot (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/WOd3kxni0573X2eY3Bi-LQ/foxtrot/Cleveland%20Browns%20vs%20Pittsburgh%20Steelers/3/4714973/1790983537/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/oyLN6IY4IzQhfUPmggeFDA/foxtrot/Cleveland%20Browns%20vs%20Pittsburgh%20Steelers/3/4714973/1790985400/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "foxtrot (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/Urm9qOMf1FV5mZG1qDuIwg/foxtrot/Cleveland%20Browns%20vs%20Pittsburgh%20Steelers/4/4714973/1790983539/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/naJuz7-Oeo_MHqWF1zrAtw/foxtrot/Cleveland%20Browns%20vs%20Pittsburgh%20Steelers/4/4714973/1790985402/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "hotel (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/pYdkvLE5afRDlu_dxDz11Q/hotel/Cleveland%20Browns%20vs%20Pittsburgh%20Steelers/1/4714973/1790983541/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/BAwHePpeEwTCAazeUdck8A/hotel/Cleveland%20Browns%20vs%20Pittsburgh%20Steelers/1/4714973/1790985404/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/MFscXHFNJ81MWzPjQ86HTQ/platinum/cleveland-browns-pittsburgh-steelers/1/4714973/1790983543/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/JtZrUSykhd3yOwq8wU3bJQ/platinum/cleveland-browns-pittsburgh-steelers/1/4714973/1790985406/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/QhNFGucgaLljuPmcnlKQ_Q/platinum/cleveland-browns-pittsburgh-steelers/2/4714973/1790983545/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/D_LiSrsylvB5EJ9bqzl9fw/platinum/cleveland-browns-pittsburgh-steelers/2/4714973/1790985408/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/iOHgiVrkEGXfQPY-n5BViA/platinum/cleveland-browns-pittsburgh-steelers/3/4714973/1790983547/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/xiHfntGZ5yitwIVJVvFi9A/platinum/cleveland-browns-pittsburgh-steelers/3/4714973/1790985411/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/NdAiDCkpznRj35VPexo9jQ/platinum/cleveland-browns-pittsburgh-steelers/4/4714973/1790983549/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/qZUJOzeXSVa01dqe19qRzQ/platinum/cleveland-browns-pittsburgh-steelers/4/4714973/1790985413/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
