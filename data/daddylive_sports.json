@@ -1,60 +1,28 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-02T14:25:02.756023Z",
+  "scraped_at": "2026-10-02T14:55:02.639065Z",
   "sports_events": {
-    "nba": [
-      {
-        "title": "Perth Wildcats vs South East Melbourne Phoenix",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb6.strmd.st/secure/erOPwiCAKrBtsOTauFaLfeIPlTEotrbl/rtmp/stream/i6XL4F9qYLkDYPnnix13CRFP7im31n94Xr0C1qlk03qJqws29WJmzkVfn92hjPyLQRMulxpZZdKDW60/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-perth-wildcats-vs-south-east-melbourne-phoenix%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-perth-wildcats-vs-south-east-melbourne-phoenix%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb5.strmd.st/secure/iudrfOPTCIvvGzQhUxlOXLMfmsvKyXuI/rtmp/stream/i6XL4F9qYLkDYPnnix13CRFP7im31n94Xr0C1qlk03qJqws29WJmzkVfn92hjPyLQRMulxpZZdKDW60/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-perth-wildcats-vs-south-east-melbourne-phoenix%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-perth-wildcats-vs-south-east-melbourne-phoenix%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
     "other_events": [
       {
-        "title": "PFL MENA 11",
+        "title": "MotoPlayground Race Ponca City",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.strmd.st/secure/dXlLCbTElKsjXHWUApHSSrZjGXComxrR/delta/stream/live-event_pfl-mena-11-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_pfl-mena-11-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_pfl-mena-11-live-stream%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Rally Italia Sardegna — SS6 - Su Filigosu - Lerno 2",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb5.strmd.st/secure/llrAGaVxCqsMaTHBTKxNwmZzuHRsljFM/hotel/stream/rally-italia-sardegna-ss6-su-filigosu-lerno-2-world-rally-championship-1790947860/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Frally-italia-sardegna-ss6-su-filigosu-lerno-2-world-rally-championship-1790947860%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Frally-italia-sardegna-ss6-su-filigosu-lerno-2-world-rally-championship-1790947860%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "MotoPlayGround Race at Ponca City",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb9.strmd.st/secure/CSgLonECVAYhPFvqCPPkLwKhUvyUmAcR/foxtrot/stream/motoplayground-race-ama-amateur-national-motocross-championship/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fmotoplayground-race-ama-amateur-national-motocross-championship%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb18.strmd.st/secure/EzxsQXdYbZRWgPMqUcRQQtveYtWGHOGb/foxtrot/stream/motoplayground-race-ama-amateur-national-motocross-championship/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fmotoplayground-race-ama-amateur-national-motocross-championship%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fmotoplayground-race-ama-amateur-national-motocross-championship%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "PFL MENA 11 Riyadh",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.strmd.st/secure/LHYonlHrhhrNSZsUmhqwcktIoHbWshzx/delta/stream/live-event_pfl-mena-11-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_pfl-mena-11-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_pfl-mena-11-live-stream%2F1&source=tv2",
             "resolved": true
           }
         ]
