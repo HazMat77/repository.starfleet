@@ -1,22 +1,67 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-03T11:55:03.049438Z",
+  "scraped_at": "2026-10-03T12:25:03.122158Z",
   "sports_events": {
-    "cricket": [
+    "cricket": [],
+    "soccer": [
       {
-        "title": "India vs Pakistan",
+        "title": "Chesterfield vs Tranmere",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb24.strmd.st/secure/PdAPQjDBWVNyeyozpoNbdjgCAVNWAgzF/foxtrot/stream/india-vs-pakistan/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Findia-vs-pakistan%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Findia-vs-pakistan%2F1&source=tv2",
+            "playable_url": "https://lb3.wfty.st/secure/cqpLaHE6Xg_uKelBnwhRXA/deluxe/chesterfield-tranmere/1/4747325/1791051911/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747325%2Fchesterfield-tranmere%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4747325%2Fchesterfield-tranmere%2Fdeluxe%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/HgoxUhg2tWgPOabDY4YA-g/deluxe/chesterfield-tranmere/1/4747325/1791051918/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747325%2Fchesterfield-tranmere%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4747325%2Fchesterfield-tranmere%2Fdeluxe%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "nba": [
+      {
+        "title": "Melbourne United vs Cairns Taipans",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb28.strmd.st/secure/kUfrmECMYHZcWetEMyYCTOOCsrImKuwJ/rtmp/stream/RzQ4EvmDxF9KGrIUt_OsOz83Q2yfaeYH3PUSYiLwXL4a5s6PBM3qVg2wGhqjmSksmko2NBie6dE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-melbourne-united-vs-cairns-taipans%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-melbourne-united-vs-cairns-taipans%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb31.strmd.st/secure/UYYkmCdbnjdFxShecgtXWxoUeNJtmRqG/rtmp/stream/RzQ4EvmDxF9KGrIUt_OsOz83Q2yfaeYH3PUSYiLwXL4a5s6PBM3qVg2wGhqjmSksmko2NBie6dE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-melbourne-united-vs-cairns-taipans%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-melbourne-united-vs-cairns-taipans%2F2&source=tv2",
             "resolved": true
           }
         ]
       }
     ],
     "other_events": [
+      {
+        "title": "Motocross of Nations | Day 2",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb28.strmd.st/secure/dTqcsiLUnWJLZqmdScQIXltPrshOeTcK/rtmp/stream/ePWunDHSLcod_ayaMwMAZ-txRgZcvca0XmX317yU520vgqJ4dTZNYlg99WIKU5RAAApJfNpx/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-motocross-of-nations-day-2%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-motocross-of-nations-day-2%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb31.strmd.st/secure/zZZDnMOUedqASWHCWUzQbcLrdEMGBgzP/rtmp/stream/ePWunDHSLcod_ayaMwMAZ-txRgZcvca0XmX317yU520vgqJ4dTZNYlg99WIKU5RAAApJfNpx/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-motocross-of-nations-day-2%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-motocross-of-nations-day-2%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "BKFC Fight Night Hepi v Shewmaker ⭐",
         "is_live": true,
@@ -41,33 +86,12 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/7SSBGLFCjuZDtd2q8VTiSg/foxtrot/india-vs-pakistan/1/1552779/1791050113/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F1552779%2Findia-vs-pakistan%2Ffoxtrot%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/GgNFnoDhONhjHFcq5Y59mw/foxtrot/india-vs-pakistan/1/1552779/1791051933/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F1552779%2Findia-vs-pakistan%2Ffoxtrot%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=1552779%2Findia-vs-pakistan%2Ffoxtrot%2F1&source=tv3",
             "resolved": true
           }
         ]
       }
-    ],
-    "nba": [
-      {
-        "title": "Melbourne United vs Cairns Taipans",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb24.strmd.st/secure/hnXHGRjlhJsOuJEeVwzJtHbfwpLvyWlJ/rtmp/stream/JtApUd_FUL5yGHqfhLfWMcSf9HzRWVWQiPVrmSm2DfrK__WHylYU3nuzwFLg1zCXVriVcqy0elI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-melbourne-united-vs-cairns-taipans%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-melbourne-united-vs-cairns-taipans%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb23.strmd.st/secure/gsytiibMEUcPPQXmQdXLkZnFzOrBbFko/rtmp/stream/JtApUd_FUL5yGHqfhLfWMcSf9HzRWVWQiPVrmSm2DfrK__WHylYU3nuzwFLg1zCXVriVcqy0elI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-melbourne-united-vs-cairns-taipans%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-melbourne-united-vs-cairns-taipans%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "soccer": []
+    ]
   }
 }
