@@ -1,21 +1,7 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-04T08:25:02.441496Z",
+  "scraped_at": "2026-10-04T08:55:02.363629Z",
   "sports_events": {
-    "mlb": [
-      {
-        "title": "Milwaukee Brewers vs San Diego Padres",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb19.strmd.st/secure/aaRgOkeSmGTloaMEdandzJJdOrsDtnVD/foxtrot/stream/padres-v-brewers-401908002/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fpadres-v-brewers-401908002%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fpadres-v-brewers-401908002%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
     "nba": [
       {
         "title": "Adelaide 36ers vs New Zealand Breakers",
@@ -23,14 +9,40 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb19.strmd.st/secure/vefgXWuQHeDxKmFjNMkoykWPwzVHGxqN/rtmp/stream/8faBvUsiUPPD5rWl4pF0ma5KLFyEqlVFesmzlKmkzWBpGzRVOw4eXFRLJN4V8B8FZCLmtV9nhul7Hv8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-adelaide-36-ers-vs-new-zealand-breakers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb29.strmd.st/secure/KEJebzaRVVwalFulYtnUqlIBbtrvtppK/rtmp/stream/7EYjrVJOUMCdW_FbEI4TZ0ym37ZSR6vQHChkSzSNCyvdY-HhPsM28oKultyO_ui8_j90dged90kBXyE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-adelaide-36-ers-vs-new-zealand-breakers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-adelaide-36-ers-vs-new-zealand-breakers%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb30.strmd.st/secure/AmKQpEYQSAmdJKOJtxbqzbizmaPysdyl/rtmp/stream/8faBvUsiUPPD5rWl4pF0ma5KLFyEqlVFesmzlKmkzWBpGzRVOw4eXFRLJN4V8B8FZCLmtV9nhul7Hv8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-adelaide-36-ers-vs-new-zealand-breakers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb17.strmd.st/secure/ydMUUXbVOTnnYiCNXiIkSTMgpVHGjcWV/rtmp/stream/7EYjrVJOUMCdW_FbEI4TZ0ym37ZSR6vQHChkSzSNCyvdY-HhPsM28oKultyO_ui8_j90dged90kBXyE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-adelaide-36-ers-vs-new-zealand-breakers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-adelaide-36-ers-vs-new-zealand-breakers%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "f1": [
+      {
+        "title": "Gulf Air Bahrain Grand Prix in Malaysia - Race",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.wfty.st/secure/GyePdhzHG4u5C02RWoZgig/deluxe/gulf-air-bahrain-grand-prix-in-malaysia/1/401901650/1791125709/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401901650%2Fgulf-air-bahrain-grand-prix-in-malaysia%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401901650%2Fgulf-air-bahrain-grand-prix-in-malaysia%2Fdeluxe%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.wfty.st/secure/BDqTxhPT7_QDn2SY4BgSIQ/deluxe/gulf-air-bahrain-grand-prix-in-malaysia/1/401901650/1791125719/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401901650%2Fgulf-air-bahrain-grand-prix-in-malaysia%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401901650%2Fgulf-air-bahrain-grand-prix-in-malaysia%2Fdeluxe%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb2.wfty.st/secure/ObM5aEucfMx_ZL5mfCHg0w/deluxe/gulf-air-bahrain-grand-prix-in-malaysia/1/401901650/1791125728/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401901650%2Fgulf-air-bahrain-grand-prix-in-malaysia%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401901650%2Fgulf-air-bahrain-grand-prix-in-malaysia%2Fhd%2F1&source=tv3",
             "resolved": true
           }
         ]
@@ -43,7 +55,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb19.strmd.st/secure/rGLBNQOndabFSTzSPZNvkpzzhWGcUXGV/foxtrot/stream/los-angeles-kings-v-san-jose-sharks-401892441/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Flos-angeles-kings-v-san-jose-sharks-401892441%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb29.strmd.st/secure/BZHExCvqekojYvhHPhAkWVeSahrksAPS/foxtrot/stream/los-angeles-kings-v-san-jose-sharks-401892441/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Flos-angeles-kings-v-san-jose-sharks-401892441%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Flos-angeles-kings-v-san-jose-sharks-401892441%2F1&source=tv2",
             "resolved": true
           }
@@ -55,7 +67,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb30.strmd.st/secure/QoiwMGEuPqyTMCePVYWqaoiMNWGYCMXe/foxtrot/stream/calgary-flames-v-vancouver-canucks-401892440/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fcalgary-flames-v-vancouver-canucks-401892440%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb17.strmd.st/secure/GPdIQXrDGBwfTDsWvDvdtpgjvEGnuCPr/foxtrot/stream/calgary-flames-v-vancouver-canucks-401892440/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fcalgary-flames-v-vancouver-canucks-401892440%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fcalgary-flames-v-vancouver-canucks-401892440%2F1&source=tv2",
             "resolved": true
           }
@@ -67,13 +79,14 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/SwXSjAHfKnTJtNbNcosFNFNVRSHqfqwh/foxtrot/stream/st-louis-blues-v-colorado-avalanche-401892439/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fst-louis-blues-v-colorado-avalanche-401892439%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb11.strmd.st/secure/zMBJfzKGrRQIugObuQulFgvKFRWqlPAe/foxtrot/stream/st-louis-blues-v-colorado-avalanche-401892439/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fst-louis-blues-v-colorado-avalanche-401892439%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fst-louis-blues-v-colorado-avalanche-401892439%2F1&source=tv2",
             "resolved": true
           }
         ]
       }
     ],
+    "rugby": [],
     "soccer": [
       {
         "title": "Arizona vs Cincinnati",
@@ -153,7 +166,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/qydaoFbROVVqVKoqNHGEaxCHXnIncdCC/foxtrot/stream/san-jose-state-spartans-v-hawai-i-rainbow-warriors-401864513/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fsan-jose-state-spartans-v-hawai-i-rainbow-warriors-401864513%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/CxQBSHKXOKvsCznhDrcdmGeEYhEfEDCZ/foxtrot/stream/san-jose-state-spartans-v-hawai-i-rainbow-warriors-401864513/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fsan-jose-state-spartans-v-hawai-i-rainbow-warriors-401864513%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fsan-jose-state-spartans-v-hawai-i-rainbow-warriors-401864513%2F1&source=tv2",
             "resolved": true
           }
@@ -165,7 +178,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb22.strmd.st/secure/GkQDsjthZmfHGCoiRjtnjnWBnQwwafxs/foxtrot/stream/usa-vs-mexico/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fusa-vs-mexico%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/CGBxvjPPxihsFOCfmbLkrPZXgqYEbMaL/foxtrot/stream/usa-vs-mexico/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fusa-vs-mexico%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fusa-vs-mexico%2F1&source=tv2",
             "resolved": true
           }
@@ -177,7 +190,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.strmd.st/secure/DqHogsWzcIBWPzzxAADWaTQpUeGSOWTW/foxtrot/stream/fresno-state-bulldogs-v-washington-state-cougars-401860921/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Ffresno-state-bulldogs-v-washington-state-cougars-401860921%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb23.strmd.st/secure/lBiUelHWbobmganrSoCKQyXDmZFoulta/foxtrot/stream/fresno-state-bulldogs-v-washington-state-cougars-401860921/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Ffresno-state-bulldogs-v-washington-state-cougars-401860921%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Ffresno-state-bulldogs-v-washington-state-cougars-401860921%2F1&source=tv2",
             "resolved": true
           }
@@ -215,13 +228,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb30.strmd.st/secure/RtSaSIDfERdLZdVEqnJaJmXENExGYAuY/rtmp/stream/AvmnTP5j37hCz8s9WFebqxqiNnYzEDjOkkPFEZG6OOHmmFAYCS14ESlP-BCq5SAls9E6Ay02/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-motocross-of-nations-day-3%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb17.strmd.st/secure/ZGVjVoSTzxpDmeVCgsQaQvxbSwzFKZLP/rtmp/stream/PIMoYAklKYWzhbCrJ1RMO3yu81xqqrVfbyCgD_xKpb2gN59MRqhI350cur4UciRRT-5He2Hs/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-motocross-of-nations-day-3%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-motocross-of-nations-day-3%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb25.strmd.st/secure/EMISAGGNNqXeIsKKUQmdCpCTSyKWmNvQ/rtmp/stream/AvmnTP5j37hCz8s9WFebqxqiNnYzEDjOkkPFEZG6OOHmmFAYCS14ESlP-BCq5SAls9E6Ay02/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-motocross-of-nations-day-3%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb11.strmd.st/secure/SenzwtQCQwDiNYPaVGlhqroxoUfTkArO/rtmp/stream/PIMoYAklKYWzhbCrJ1RMO3yu81xqqrVfbyCgD_xKpb2gN59MRqhI350cur4UciRRT-5He2Hs/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-motocross-of-nations-day-3%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-motocross-of-nations-day-3%2F2&source=tv2",
             "resolved": true
           }
@@ -233,7 +246,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb27.strmd.st/secure/gPKPuMXKoTRGxLYuqoNcAAfjCNkCuasV/hotel/stream/rally-italia-sardegna-ss15-sassari-argentiera-1-world-rally-championship-1791101100/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Frally-italia-sardegna-ss15-sassari-argentiera-1-world-rally-championship-1791101100%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/wyqPglldgTiHQFoqiZDqoWzjaUJmvgUs/hotel/stream/rally-italia-sardegna-ss15-sassari-argentiera-1-world-rally-championship-1791101100/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Frally-italia-sardegna-ss15-sassari-argentiera-1-world-rally-championship-1791101100%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Frally-italia-sardegna-ss15-sassari-argentiera-1-world-rally-championship-1791101100%2F1&source=tv2",
             "resolved": true
           }
@@ -245,7 +258,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.strmd.st/secure/sgtctlHenToIZaDwcDtMstZVPBCLpYFv/hotel/stream/sepang-race-malaysian-grand-prix-formula-1-1791098941/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fsepang-race-malaysian-grand-prix-formula-1-1791098941%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/YBuqMrUdzmOqUqNjQeJScxPbDxXRgwqw/hotel/stream/sepang-race-malaysian-grand-prix-formula-1-1791098941/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fsepang-race-malaysian-grand-prix-formula-1-1791098941%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fsepang-race-malaysian-grand-prix-formula-1-1791098941%2F1&source=tv2",
             "resolved": true
           }
@@ -257,20 +270,8 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb21.strmd.st/secure/ShgFNOwVcvHHBfvBNrIPfrMqiRmYJiIc/foxtrot/stream/ama-endurocross-at-las-vegas/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fama-endurocross-at-las-vegas%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb23.strmd.st/secure/obyfFWjknKWpBewjGKKPsiAjqYZLavmb/foxtrot/stream/ama-endurocross-at-las-vegas/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fama-endurocross-at-las-vegas%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fama-endurocross-at-las-vegas%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "NARC 410 Sprints at Thunderbowl Raceway",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/jcfngIqRabfNjRNiVkinykIIBPtJrqjb/foxtrot/stream/narc-410-sprints-at-thunderbowl-raceway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fnarc-410-sprints-at-thunderbowl-raceway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fnarc-410-sprints-at-thunderbowl-raceway%2F1&source=tv2",
             "resolved": true
           }
         ]
