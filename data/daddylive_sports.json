@@ -1,81 +1,250 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-04T02:55:02.325280Z",
+  "scraped_at": "2026-10-04T03:25:02.288950Z",
   "sports_events": {
-    "wwe": [],
+    "nba": [
+      {
+        "title": "Toronto Raptors vs Miami Heat",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb24.strmd.st/secure/qCUCfUYmHpkocuLRKtGqmqMroNtOWVBj/foxtrot/stream/toronto-raptors-vs-miami-heat/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Ftoronto-raptors-vs-miami-heat%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Ftoronto-raptors-vs-miami-heat%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "ufc": [
+      {
+        "title": "UFC 332 Silva vs Wang",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/mevent1/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D111%26id%3D2004%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2004%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/mevent1/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D111%26id%3D2004%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2004%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.strmd.st/secure/HpVtLQpjgYIJyTjLGCiZUQdwYvRcvJnn/rtmp/stream/XswrvVg071B9VUB5YZzyy37aCaoFu-GqtL2PI59NtKq5mkLYiYRsIFBupuFSE_hp8NgvR_U/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-ufc-332-silva-vs-wang%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-ufc-332-silva-vs-wang%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [
+      {
+        "title": "AMA EnuroCross Las Vegas",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb24.strmd.st/secure/PbQTCUonrBgBHpeBPcLORNrVPQDOoCOM/foxtrot/stream/ama-endurocross-at-las-vegas/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fama-endurocross-at-las-vegas%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fama-endurocross-at-las-vegas%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "NARC 410 Sprints at Thunderbowl Raceway",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb27.strmd.st/secure/ymdBRIKVloVmZIMAsiosAFdxFiJISDnk/foxtrot/stream/narc-410-sprints-at-thunderbowl-raceway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fnarc-410-sprints-at-thunderbowl-raceway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fnarc-410-sprints-at-thunderbowl-raceway%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Jose Luis Russell Regalado vs Rene Calixto",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb14.strmd.st/secure/uMutCkzXwFMHOvhhjRuOOphWiHkhhVvS/delta/stream/live-event_jose-luis-russell-regalado-vs-rene-calixto-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_jose-luis-russell-regalado-vs-rene-calixto-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_jose-luis-russell-regalado-vs-rene-calixto-live-stream%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "MARS FALS Frenzy at Fairbury Speedway",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb15.strmd.st/secure/ncqonXaUToRRKrTdrOZugCGMQHvVlIeb/foxtrot/stream/mars-fals-frenzy-at-fairbury-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fmars-fals-frenzy-at-fairbury-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fmars-fals-frenzy-at-fairbury-speedway%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "10.3.26 | Williams Grove Speedway",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb11.strmd.st/secure/KsspjQnnWlrWvxmzkQJOBFAiDaBcXTMl/foxtrot/stream/10-3-26-williams-grove-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2F10-3-26-williams-grove-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2F10-3-26-williams-grove-speedway%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "AMSOIL Championship Off Road",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb25.strmd.st/secure/DAyteCVrSWvQxfMEgGipysPaseKNooVm/foxtrot/stream/amsoil-championship-off-road-in-san-bernardino-ca/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Famsoil-championship-off-road-in-san-bernardino-ca%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Famsoil-championship-off-road-in-san-bernardino-ca%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "NAPA All Star Circuit of Champions at Michaels Mercer Raceway",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb17.strmd.st/secure/dXXJVPlBJqkPOUbtaUnTFxyoKhxXgKXm/foxtrot/stream/napa-all-star-circuit-of-champions-at-michaels-mercer-raceway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fnapa-all-star-circuit-of-champions-at-michaels-mercer-raceway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fnapa-all-star-circuit-of-champions-at-michaels-mercer-raceway%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "10.3.26 | Cedar Lake Speedway",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb22.strmd.st/secure/QcGDcJWpuPDAGnLauXXyqjSDrGIITOEi/foxtrot/stream/10-3-26-cedar-lake-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2F10-3-26-cedar-lake-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2F10-3-26-cedar-lake-speedway%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Lucas Oil Pittsburgher at Pittsburgh's Pennsylvania Motor Speedway",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb32.strmd.st/secure/gEwZTJCFlrqxSPYgnTEvLjplNIZLIovO/foxtrot/stream/lucas-oil-pittsburgher-at-pittsburghs-pennsylvania-motor-speedway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Flucas-oil-pittsburgher-at-pittsburghs-pennsylvania-motor-speedway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Flucas-oil-pittsburgher-at-pittsburghs-pennsylvania-motor-speedway%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "FL2K 2026 - Day 3",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb26.strmd.st/secure/PmqnjHfnwqgfuvJrLSnhYXHwfGUvatrF/foxtrot/stream/fl2k-2026-day-3/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Ffl2k-2026-day-3%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Ffl2k-2026-day-3%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Championship Weekend at Riverhead Raceway",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb27.strmd.st/secure/nbxXNeBXhkvexZOASZbLzrObKdEjkZOW/foxtrot/stream/championship-weekend-at-riverhead-raceway/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fchampionship-weekend-at-riverhead-raceway%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fchampionship-weekend-at-riverhead-raceway%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "United States vs Mexico",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/JrvBTMFoOQttsYQt5MRy7A/deluxe/united-states-mexico/1/401905202/1791104108/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401905202%2Funited-states-mexico%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/nhqGVwPTAaqs-TXKToUg5A/deluxe/united-states-mexico/1/401905202/1791106015/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401905202%2Funited-states-mexico%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401905202%2Funited-states-mexico%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb6.wfty.st/secure/d8h1w3hkORKWSIw95wR4Iw/deluxe/united-states-mexico/1/401905202/1791104118/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401905202%2Funited-states-mexico%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/gfSuH59-BBCOBM4RxfQ42g/deluxe/united-states-mexico/1/401905202/1791106025/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401905202%2Funited-states-mexico%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401905202%2Funited-states-mexico%2Fdeluxe%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb2.wfty.st/secure/HaFgjtkN-l3eV7vowCCkpg/deluxe/united-states-mexico/1/401905202/1791104127/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401905202%2Funited-states-mexico%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/fl4oe5IcDGN-ysRAwxm1gw/deluxe/united-states-mexico/1/401905202/1791106034/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401905202%2Funited-states-mexico%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=401905202%2Funited-states-mexico%2Fprime%2F1&source=tv3",
             "resolved": true
           }
         ]
       }
     ],
-    "soccer": [],
-    "mlb": [],
     "cfb": [
-      {
-        "title": "Louisiana vs Arkansas State",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/HgcPfzMYU_CSO1HXUUVzkQ/pro/louisiana-arkansas-state/1/4706491/1791104233/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706491%2Flouisiana-arkansas-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706491%2Flouisiana-arkansas-state%2Fpro%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/J97TZnmBRarBuar16nXVog/pro/louisiana-arkansas-state/1/4706491/1791104242/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706491%2Flouisiana-arkansas-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706491%2Flouisiana-arkansas-state%2Fpro%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb1.wfty.st/secure/ciH32ttNqSSprCXMrRp47Q/pro/louisiana-arkansas-state/1/4706491/1791104251/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706491%2Flouisiana-arkansas-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706491%2Flouisiana-arkansas-state%2Fpro%2F3&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
       {
         "title": "Arizona State vs Baylor",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/BVDUfgTWk2_8QQBzffVY0Q/pro/arizona-state-baylor/1/4706513/1791104260/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706513%2Farizona-state-baylor%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/hqbFJ8pKjiI5FujuefYHww/pro/arizona-state-baylor/1/4706513/1791105973/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706513%2Farizona-state-baylor%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706513%2Farizona-state-baylor%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb3.wfty.st/secure/fQjSvkXfHjHd4OPIt02LtA/pro/arizona-state-baylor/1/4706513/1791104269/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706513%2Farizona-state-baylor%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/KARd2yaGoXJP6h2f6gVY9g/pro/arizona-state-baylor/1/4706513/1791105982/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706513%2Farizona-state-baylor%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706513%2Farizona-state-baylor%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/GD53ljeYFogUh5mjOffMcg/pro/arizona-state-baylor/1/4706513/1791104278/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706513%2Farizona-state-baylor%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/qmmlaW0eigiGbeaz8twyMQ/pro/arizona-state-baylor/1/4706513/1791105991/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706513%2Farizona-state-baylor%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706513%2Farizona-state-baylor%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Arizona vs Cincinnati",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.wfty.st/secure/NYUwxtRK7c1dfNKTCP5IBw/pro/arizona-cincinnati/1/4706533/1791106001/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706533%2Farizona-cincinnati%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706533%2Farizona-cincinnati%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/pi6oza9jsnhTmoNBzfNpWQ/pro/arizona-cincinnati/1/4706533/1791106010/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706533%2Farizona-cincinnati%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706533%2Farizona-cincinnati%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb1.wfty.st/secure/N8jggX3mVnOCvpQli-KzRg/pro/arizona-cincinnati/1/4706533/1791106019/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706533%2Farizona-cincinnati%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706533%2Farizona-cincinnati%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -86,13 +255,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/Nc_XwcjP5G3ZL7LG2ehfsQ/delta/Washington%20State%20vs%20Fresno%20State/1/4706519/1791104287/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706519%2FWashington%20State%20vs%20Fresno%20State%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/2IMzrYKNA_GjsG48zYu8eQ/delta/Washington%20State%20vs%20Fresno%20State/1/4706519/1791106028/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706519%2FWashington%20State%20vs%20Fresno%20State%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706519%2FWashington%20State%20vs%20Fresno%20State%2Fdelta%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb3.wfty.st/secure/YzbmOLxX7-kBJFHt0W91RA/delta/Washington%20State%20vs%20Fresno%20State/1/4706519/1791104296/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706519%2FWashington%20State%20vs%20Fresno%20State%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/0LJcT30M4-m_gm0qt3uwLw/delta/Washington%20State%20vs%20Fresno%20State/1/4706519/1791106037/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706519%2FWashington%20State%20vs%20Fresno%20State%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706519%2FWashington%20State%20vs%20Fresno%20State%2Ffoxtrot%2F1&source=tv3",
             "resolved": true
           }
@@ -104,13 +273,647 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/bofEI7IaIqq--dIOzkKqjQ/delta/UC%20Davis%20vs%20Eastern%20Washington/1/4706488/1791104305/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706488%2FUC%20Davis%20vs%20Eastern%20Washington%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/8e18FN8HEet6VC1piDUydA/delta/UC%20Davis%20vs%20Eastern%20Washington/1/4706488/1791106046/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706488%2FUC%20Davis%20vs%20Eastern%20Washington%2Fdelta%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706488%2FUC%20Davis%20vs%20Eastern%20Washington%2Fdelta%2F1&source=tv3",
             "resolved": true
           }
         ]
       }
     ],
-    "nhl": []
+    "mlb": [],
+    "soccer": [
+      {
+        "title": "Clemson vs Miami (FL)",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/nabchd/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D131%26id%3D1893%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1893%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/nabchd/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D131%26id%3D1893%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1893%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.strmd.st/secure/HULCbvteSPFFamElXzoFQmWNLplTiDkX/rtmp/stream/Jl3fWNJKoqmN9H1ZuJ9xLDqV1oJPdV97XqowDoq438ev24F8HgimiF-EL5OrvTEm2vdNdCE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-miami-hurricanes-at-clemson-tigers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-miami-hurricanes-at-clemson-tigers%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Rutgers vs Indiana",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/nbtn/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D149%26id%3D1899%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1899%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/nbtn/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D149%26id%3D1899%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1899%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb14.strmd.st/secure/MeXmvVpbEmiZRLoMOAJtFXGNIgnUbzKU/rtmp/stream/B5ZWYcdgcziWUDy2Ehie4UWMlt5mi2oi6eukhya17yQ_DUk9QIUQSRkQvLnBZKkP9B1wGGE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-indiana-hoosiers-at-rutgers-scarlet-knights%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-indiana-hoosiers-at-rutgers-scarlet-knights%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "McNeese Cowboys at LSU Tigers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/nsecnet/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D139%26id%3D1898%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1898%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/nsecnet/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D139%26id%3D1898%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1898%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb11.strmd.st/secure/OpykUdvJssxqqmXmiAPlNxHxSBUJDDmJ/rtmp/stream/LqO2ObBS5bFaHOEfc_2AQdOs_DVn9vuvUy8ycsi3RgfCT332Tfe-ZPTX_AxNZ4ESEQzr-jbEQcwomRYI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-mc-neese-cowboys-at-lsu-tigers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-mc-neese-cowboys-at-lsu-tigers%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Colorado vs Texas Tech",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/nfoxhd/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D133%26id%3D1894%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1894%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/nfoxhd/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D133%26id%3D1894%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1894%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb25.strmd.st/secure/FMkNkvVSEtVojkVkoBFFmtElVYgEIeCI/rtmp/stream/uRKvYfXpoBzE5F4kCPT52CdqBsep6LdG4GhtqQToKCzgD6JfQu2PLdJTnLG5DYZNqEKSsOg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-texas-tech-red-raiders-at-colorado-buffaloes%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-texas-tech-red-raiders-at-colorado-buffaloes%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "USC vs Washington",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/nnbchd/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D134%26id%3D1895%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1895%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/nnbchd/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D134%26id%3D1895%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1895%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb22.strmd.st/secure/AkREHokqZYYECuKXRPephdoxGBDRgEvX/rtmp/stream/VQW1ZrdGGLHpRtp0Yf6zRG04FavHykXArqBXV1iwghkUidwV3IZUL-ap_BwQE6gOIHJgei8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-washington-huskies-at-usc-trojans%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-washington-huskies-at-usc-trojans%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Boise State vs Utah State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/ncbsn/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D147%26id%3D1896%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1896%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/ncbsn/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D147%26id%3D1896%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1896%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb32.strmd.st/secure/GXroTmHdaCVzMfRzfYptCMajRsShrcgV/rtmp/stream/yLqv_KDc5yTBcLWAVxHjAXLnnksHAB4-iGEZVF4sSnDa_eRQL_5QFZClTOTWP6CN2stfcCZPSw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-utah-state-aggies-at-boise-state-broncos%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-utah-state-aggies-at-boise-state-broncos%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "San Diego State vs Texas State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb26.strmd.st/secure/ABHJZbQuxyxOYinsGLbRWkXyvvSdASeY/rtmp/stream/sic_5e69mdF8IbtVhrRCS_eFtrwX3Te9yNyBOcc5G_m0bOz_Ducum5jTrc6N30qkhJdoyrT_z1OO0Q/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-texas-state-bobcats-at-san-diego-state-aztecs%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-texas-state-bobcats-at-san-diego-state-aztecs%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb27.strmd.st/secure/pfuHGrTdqOnvaFcrsgXKimpJEjQNUchP/rtmp/stream/rGmI-mnUiPqIBze_hjOc_4Q-Sa1GTjWifcVGs-7wqPicC8YKQRuqZGHNTUSIQfkDj61j97YM-YyvyJnsW78/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-texas-state-bobcats-at-san-diego-state-aztecs%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-texas-state-bobcats-at-san-diego-state-aztecs%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb20.strmd.st/secure/xkGZPgslZioGARSvKnPlPcFqMqlIYsMB/delta/stream/live_cfb_san-diego-st-texas-state-live-streaming-663672096/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_san-diego-st-texas-state-live-streaming-663672096%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_san-diego-st-texas-state-live-streaming-663672096%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Louisiana vs Arkansas State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/espnplus15/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D315%26id%3D1975%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1975%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/espnplus15/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D315%26id%3D1975%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1975%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb21.strmd.st/secure/LHjxjpJsmIgmYPVfLYbPFZHtYUyMFpYq/foxtrot/stream/arkansas-state-red-wolves-v-louisiana-ragin-cajuns-401869932/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Farkansas-state-red-wolves-v-louisiana-ragin-cajuns-401869932%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Farkansas-state-red-wolves-v-louisiana-ragin-cajuns-401869932%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "South Florida vs Temple",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/nespnuhd/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D138%26id%3D1897%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1897%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/nespnuhd/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D138%26id%3D1897%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1897%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb16.strmd.st/secure/yHigAdhhDXIuzKpcUbfsMGpcxOdIuJQD/foxtrot/stream/temple-owls-v-south-florida-bulls-401862792/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Ftemple-owls-v-south-florida-bulls-401862792%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Ftemple-owls-v-south-florida-bulls-401862792%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Louisiana Tech vs Army",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/espnplus14/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D314%26id%3D1974%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1974%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/espnplus14/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D314%26id%3D1974%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1974%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb12.strmd.st/secure/ydvKQcxnUYzKFkQTuSZGsfjNBFocerfl/foxtrot/stream/army-black-knights-v-louisiana-tech-bulldogs-401869842/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Farmy-black-knights-v-louisiana-tech-bulldogs-401869842%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Farmy-black-knights-v-louisiana-tech-bulldogs-401869842%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "TCU vs BYU",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/nespnhd/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D136%26id%3D1891%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1891%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/nespnhd/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D136%26id%3D1891%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1891%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb8.strmd.st/secure/wRHstADNNOsRQbfZbGWKGifqsclAAlbD/foxtrot/stream/byu-cougars-v-tcu-horned-frogs-401856818/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fbyu-cougars-v-tcu-horned-frogs-401856818%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fbyu-cougars-v-tcu-horned-frogs-401856818%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Rice vs UTSA",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/espnplus11/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D311%26id%3D1971%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1971%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/espnplus11/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D311%26id%3D1971%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1971%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.strmd.st/secure/jyGSpnwEVSkHPTZGjSEtqYSPAFVsgxcE/foxtrot/stream/utsa-roadrunners-v-rice-owls-401862788/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Futsa-roadrunners-v-rice-owls-401862788%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Futsa-roadrunners-v-rice-owls-401862788%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Coastal Carolina vs Georgia Southern",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/espnplus12/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D312%26id%3D1972%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1972%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/espnplus12/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D312%26id%3D1972%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1972%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb7.strmd.st/secure/TBdEtKoqjHRAdXkTMGRdcaVndzmQUFRS/foxtrot/stream/georgia-southern-eagles-v-coastal-carolina-chanticleers-401869942/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fgeorgia-southern-eagles-v-coastal-carolina-chanticleers-401869942%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fgeorgia-southern-eagles-v-coastal-carolina-chanticleers-401869942%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "South Alabama vs Louisiana-Monroe",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/espnplus13/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D313%26id%3D1973%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1973%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/espnplus13/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D313%26id%3D1973%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1973%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb2.strmd.st/secure/QjTuHzekathzVSHuiSkENSeqEDryvYMp/foxtrot/stream/ul-monroe-warhawks-v-south-alabama-jaguars-401871089/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Ful-monroe-warhawks-v-south-alabama-jaguars-401871089%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Ful-monroe-warhawks-v-south-alabama-jaguars-401871089%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Arkansas Razorbacks @ Texas A&amp;M Aggies",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/nespn2hd/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D137%26id%3D1892%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1892%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/nespn2hd/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D137%26id%3D1892%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1892%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb11.strmd.st/secure/yUcggxthufPglGalypUgBZoeaVaaojkQ/foxtrot/stream/arkansas-razorbacks-v-texas-a-m-aggies-401856711/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Farkansas-razorbacks-v-texas-a-m-aggies-401856711%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Farkansas-razorbacks-v-texas-a-m-aggies-401856711%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Colorado State vs Oregon State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/nusanetwork/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D148%26id%3D1890%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1890%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/nusanetwork/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D148%26id%3D1890%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1890%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb17.strmd.st/secure/pRFXoBTxWRmEhKJKlcvIXrxrPQLcRnuO/foxtrot/stream/oregon-state-beavers-v-colorado-state-rams-401860899/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Foregon-state-beavers-v-colorado-state-rams-401860899%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Foregon-state-beavers-v-colorado-state-rams-401860899%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Florida Atlantic vs Texas Southern",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/espnplus10/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D310%26id%3D1970%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1970%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/espnplus10/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D310%26id%3D1970%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1970%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb27.strmd.st/secure/qqglFWCpjgufqmPIWgWoQMEcHFbcYjYa/foxtrot/stream/texas-southern-tigers-v-florida-atlantic-owls-401862790/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Ftexas-southern-tigers-v-florida-atlantic-owls-401862790%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Ftexas-southern-tigers-v-florida-atlantic-owls-401862790%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Arizona vs Cincinnati",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb23.strmd.st/secure/lytrvfHPOhcukfYpVFSJVPMbJatAXdwF/delta/stream/live_cfb_arizona-cincinnati-live-streaming-663672528/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_arizona-cincinnati-live-streaming-663672528%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_arizona-cincinnati-live-streaming-663672528%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb19.strmd.st/secure/RMfNvVNETUwAkjRwnGbGOnPUzkwLjYva/foxtrot/stream/cincinnati-bearcats-v-arizona-wildcats-401856820/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fcincinnati-bearcats-v-arizona-wildcats-401856820%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fcincinnati-bearcats-v-arizona-wildcats-401856820%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Arizona State vs Baylor",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb13.strmd.st/secure/aXuKGKNzSmsmAkCRSJZumoEYnmwrRtYU/delta/stream/live_cfb_arizona-st-baylor-live-streaming-663671664/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_arizona-st-baylor-live-streaming-663671664%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_arizona-st-baylor-live-streaming-663671664%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb9.strmd.st/secure/CmBxCTIoLLQGoGtsDwjrzmPPhOYoPTfg/foxtrot/stream/baylor-bears-v-arizona-state-sun-devils-401856817/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fbaylor-bears-v-arizona-state-sun-devils-401856817%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fbaylor-bears-v-arizona-state-sun-devils-401856817%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Washington State vs Fresno State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb23.strmd.st/secure/lNXilEPVaeSDfuJwjAXbciIqPodcIszV/delta/stream/live_cfb_washington-st-fresno-st-live-streaming-663671232/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_washington-st-fresno-st-live-streaming-663671232%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_washington-st-fresno-st-live-streaming-663671232%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb29.strmd.st/secure/rjKySxFCycTJfZBQZBnzRInHBdmeqlSO/foxtrot/stream/fresno-state-bulldogs-v-washington-state-cougars-401860921/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Ffresno-state-bulldogs-v-washington-state-cougars-401860921%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Ffresno-state-bulldogs-v-washington-state-cougars-401860921%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "UC Davis vs Eastern Washington",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb19.strmd.st/secure/zMpCcvgtpydUkmgrIZDKyDDgZdkUYoQZ/delta/stream/live_cfb_california-davis-eastern-washington-live-streaming-663696288/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_california-davis-eastern-washington-live-streaming-663696288%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_california-davis-eastern-washington-live-streaming-663696288%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "LSU vs McNeese State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.strmd.st/secure/usndpTvKUpcVUUeiAxvDUSTcljnrUwJS/delta/stream/live_cfb_lsu-tigers-mcneese-state-live-streaming-663697584/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_lsu-tigers-mcneese-state-live-streaming-663697584%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_lsu-tigers-mcneese-state-live-streaming-663697584%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "nhl": [
+      {
+        "title": "Minnesota Wild vs Boston Bruins",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/mminnesotawild/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D233%26id%3D1985%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1985%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/mminnesotawild/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D233%26id%3D1985%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1985%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb31.strmd.st/secure/TyQnNoTINwlbGibzQaNSlCucylixxcJw/foxtrot/stream/boston-bruins-v-minnesota-wild-401891814/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fboston-bruins-v-minnesota-wild-401891814%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fboston-bruins-v-minnesota-wild-401891814%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Nashville Predators vs Dallas Stars",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/mnashvillepredators/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D235%26id%3D1986%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1986%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/mnashvillepredators/1/#player=clappr&autoplay=true|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed.php%3Fhd%3D235%26id%3D1986%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1986%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb17.strmd.st/secure/gqmDWwyNegvJNAssACCcwCkggOBuzUcW/foxtrot/stream/dallas-stars-v-nashville-predators-401892438/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fdallas-stars-v-nashville-predators-401892438%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fdallas-stars-v-nashville-predators-401892438%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "New York Islanders vs New Jersey Devils",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb30.strmd.st/secure/FUekPNaqCUiBTOVjNBbblZagTrUeRmMp/foxtrot/stream/new-jersey-devils-v-new-york-islanders-401891818/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fnew-jersey-devils-v-new-york-islanders-401891818%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fnew-jersey-devils-v-new-york-islanders-401891818%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Toronto Maple Leafs vs Ottawa Senators",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb32.strmd.st/secure/pQmdMvjsdSfuypzQtyagjCMhlvuNiaJY/foxtrot/stream/ottawa-senators-v-toronto-maple-leafs-401892434/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fottawa-senators-v-toronto-maple-leafs-401892434%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fottawa-senators-v-toronto-maple-leafs-401892434%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Tampa Bay Lightning vs Washington Capitals",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb14.strmd.st/secure/zRcojRgsDLWimKAeUeXSzSQjcniSjGrs/foxtrot/stream/washington-capitals-v-tampa-bay-lightning-401891826/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fwashington-capitals-v-tampa-bay-lightning-401891826%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fwashington-capitals-v-tampa-bay-lightning-401891826%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Pittsburgh Penguins vs Montreal Canadiens",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb25.strmd.st/secure/tysuPLAVmkgQWtSZmvfqQMiALVAIOUfc/foxtrot/stream/montreal-canadiens-v-pittsburgh-penguins-401891822/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fmontreal-canadiens-v-pittsburgh-penguins-401891822%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fmontreal-canadiens-v-pittsburgh-penguins-401891822%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Edmonton Oilers vs Seattle Kraken",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb20.strmd.st/secure/WWXrgQfNWjyMPEksVWIlhqdVBOiymorc/foxtrot/stream/seattle-kraken-v-edmonton-oilers-401892437/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fseattle-kraken-v-edmonton-oilers-401892437%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fseattle-kraken-v-edmonton-oilers-401892437%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Philadelphia Flyers vs Carolina Hurricanes",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb18.strmd.st/secure/PcspFBctTNIyySpcyJQojAMFlQLNkGAv/foxtrot/stream/carolina-hurricanes-v-philadelphia-flyers-401892435/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fcarolina-hurricanes-v-philadelphia-flyers-401892435%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fcarolina-hurricanes-v-philadelphia-flyers-401892435%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Columbus Blue Jackets vs Utah Mammoth",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb2.strmd.st/secure/RRzNGQEmoNmYUbeOboKMZlMNPXbBGqsm/foxtrot/stream/utah-mammoth-v-columbus-blue-jackets-401892436/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Futah-mammoth-v-columbus-blue-jackets-401892436%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Futah-mammoth-v-columbus-blue-jackets-401892436%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Buffalo Sabres vs Chicago Blackhawks",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.strmd.st/secure/tLSunjUwAsgbHTdveJZpknBwUkewryLT/foxtrot/stream/chicago-blackhawks-v-buffalo-sabres-401891776/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Ffoxtrot%2Fchicago-blackhawks-v-buffalo-sabres-401891776%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=foxtrot%2Fchicago-blackhawks-v-buffalo-sabres-401891776%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ]
   }
 }
