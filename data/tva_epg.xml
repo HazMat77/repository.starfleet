@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="starfleet">
   <channel id="TVA.ca"><display-name>TVA</display-name></channel>
-  <programme start="20261005030000 -0400" stop="20261005033000 -0400" channel="TVA.ca">
-    <title>Infopublicit</title>
-  </programme>
-  <programme start="20261005033000 -0400" stop="20261005050000 -0400" channel="TVA.ca">
-    <title>TVA nouvelles (N)</title>
-  </programme>
   <programme start="20261005050000 -0400" stop="20261005053000 -0400" channel="TVA.ca">
     <title>La victoire de l'amour</title>
   </programme>
@@ -16,7 +10,7 @@
   <programme start="20261005060000 -0400" stop="20261005063000 -0400" channel="TVA.ca">
     <title>Le Québec matin (N)</title>
   </programme>
-  <programme start="20261005063000 -0400" stop="20261005093000 -0400" channel="TVA.ca">
+  <programme start="20261005063000 -0400" stop="20261005103000 -0400" channel="TVA.ca">
     <title>Salut bonjour (N)</title>
   </programme>
   <programme start="20261005103000 -0400" stop="20261005110000 -0400" channel="TVA.ca">
@@ -36,9 +30,6 @@
   </programme>
   <programme start="20261005143000 -0400" stop="20261005150000 -0400" channel="TVA.ca">
     <title>Les aventures de Tom</title>
-  </programme>
-  <programme start="20261005150000 -0400" stop="20261005153000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20261005150000 -0400" stop="20261005153000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
@@ -61,14 +52,17 @@
   <programme start="20261005190000 -0400" stop="20261005193000 -0400" channel="TVA.ca">
     <title>Indéfendable (N)</title>
   </programme>
-  <programme start="20261005193000 -0400" stop="20261005213000 -0400" channel="TVA.ca">
+  <programme start="20261005193000 -0400" stop="20261005223000 -0400" channel="TVA.ca">
     <title>Québec 2026: les résultats (N)</title>
   </programme>
   <programme start="20261006000000 -0400" stop="20261006023000 -0400" channel="TVA.ca">
     <title>Cinéma "C.R.A.Z.Y." (Drame, 2005) Michel Côté, Marc-André Grondin, Danielle Proulx</title>
   </programme>
-  <programme start="20261006023000 -0400" stop="20261006033000 -0400" channel="TVA.ca">
-    <title>Cinéma "Phénix"</title>
+  <programme start="20261006023000 -0400" stop="20261006040000 -0400" channel="TVA.ca">
+    <title>Cinéma "Phénix" (Thriller, 2020) K.J. Apa, Sofia Carson, Craig Robinson</title>
+  </programme>
+  <programme start="20261006040000 -0400" stop="20261006043000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20261006040000 -0400" stop="20261006043000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
@@ -79,7 +73,7 @@
   <programme start="20261006050000 -0400" stop="20261006063000 -0400" channel="TVA.ca">
     <title>Le Québec matin (N)</title>
   </programme>
-  <programme start="20261006063000 -0400" stop="20261006093000 -0400" channel="TVA.ca">
+  <programme start="20261006063000 -0400" stop="20261006103000 -0400" channel="TVA.ca">
     <title>Salut bonjour (N)</title>
   </programme>
   <programme start="20261006103000 -0400" stop="20261006110000 -0400" channel="TVA.ca">
@@ -96,9 +90,6 @@
   </programme>
   <programme start="20261006130000 -0400" stop="20261006150000 -0400" channel="TVA.ca">
     <title>Cinéma "Ténor" (Comédie, 2022) MB14, Michèle Laroque, Guillaume Duhesme</title>
-  </programme>
-  <programme start="20261006150000 -0400" stop="20261006153000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20261006150000 -0400" stop="20261006153000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
@@ -127,11 +118,11 @@
   <programme start="20261006200000 -0400" stop="20261006210000 -0400" channel="TVA.ca">
     <title>Alertes (N) "Ayez pitié de nous"</title>
   </programme>
-  <programme start="20261006210000 -0400" stop="20261006213000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
   <programme start="20261006210000 -0400" stop="20261006220000 -0400" channel="TVA.ca">
     <title>Ravages (N) "Bascule"</title>
+  </programme>
+  <programme start="20261006220000 -0400" stop="20261006223000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20261006220000 -0400" stop="20261006223000 -0400" channel="TVA.ca">
     <title>TVA nouvelles (N)</title>
@@ -147,5 +138,8 @@
   </programme>
   <programme start="20261007023000 -0400" stop="20261007033000 -0400" channel="TVA.ca">
     <title>Hôtel "Briser la routine"</title>
+  </programme>
+  <programme start="20261007033000 -0400" stop="20261007043000 -0400" channel="TVA.ca">
+    <title>TVA nouvelles (N)</title>
   </programme>
 </tv>
