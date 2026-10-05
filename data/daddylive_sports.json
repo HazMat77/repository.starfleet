@@ -1,7 +1,27 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-05T03:55:03.063458Z",
+  "scraped_at": "2026-10-05T04:25:02.710929Z",
   "sports_events": {
+    "nhl": [
+      {
+        "title": "Vancouver Canucks vs Vegas Golden Knights",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedvancouvercanucks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D247%26id%3D2003%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2003%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedvancouvercanucks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D247%26id%3D2003%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2003%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "mlb": [
       {
         "title": "Los Angeles Dodgers vs Atlanta Braves",
@@ -17,12 +37,6 @@
             "label": "Link - 2",
             "playable_url": "https://embed.st/embed/ingest/streamedlosangelesdodgers/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D613%26id%3D2020%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2020%2F2&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://embed.st/embed/ingest/streamedlosangelesdodgers/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D613%26id%3D2020%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-atlanta-braves-vs-los-angeles-dodgers%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -59,20 +73,8 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb32.strmd.st/secure/mQKMMgSUsPsdQgQXYYDIlMfFegayJKST/delta/stream/live-event_2026-nascar-cup-series-playoff-at-las-vegas-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_2026-nascar-cup-series-playoff-at-las-vegas-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb28.strmd.st/secure/ByPNVzneKUTPKUCnCLpOJQrHzBZVhxIn/delta/stream/live-event_2026-nascar-cup-series-playoff-at-las-vegas-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_2026-nascar-cup-series-playoff-at-las-vegas-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_2026-nascar-cup-series-playoff-at-las-vegas-live-stream%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Nicaragua vs Dominican Republic",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/TIw3dYq21riz5EXMyhI_sQ/deluxe/nicaragua-dominican-republic/1/401900573/1791194128/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900573%2Fnicaragua-dominican-republic%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401900573%2Fnicaragua-dominican-republic%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           }
         ]
@@ -85,26 +87,24 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb20.strmd.st/secure/wvwfwlYaowtBXIuqCEYqZmCKLhedlLdP/hotel/stream/las-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Flas-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb31.strmd.st/secure/jYyKPYUpCVjAbgHZiiintrKpULKWwUgT/hotel/stream/las-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Flas-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Flas-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb12.strmd.st/secure/yobChQmmVLLlVFqWHpCDlrnbpENoQrnW/hotel/stream/las-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Flas-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb28.strmd.st/secure/hZKqEnvGOgCiTrBWMTgAAdKZRbkmMxJh/hotel/stream/las-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Flas-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Flas-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb27.strmd.st/secure/VaZgkCzFAqdPkYvLHgZXeIqYtynIgjah/hotel/stream/las-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Flas-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/wctNgqcbzzByzmebzQGMHelYfeIZyhSi/hotel/stream/las-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Flas-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Flas-vegas-motor-speedway-the-chase-race-south-point-400-nascar-cup-series-1791149400%2F3&source=tv2",
             "resolved": true
           }
         ]
       }
-    ],
-    "nhl": [],
-    "nfl": []
+    ]
   }
 }
