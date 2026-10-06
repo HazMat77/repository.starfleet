@@ -1,7 +1,47 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-05T23:55:03.065795Z",
+  "scraped_at": "2026-10-06T00:25:03.025184Z",
   "sports_events": {
+    "other_events": [
+      {
+        "title": "Monday Night Raw",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb15.strmd.st/secure/cszLergKpIftQvwoDhRdGbALonPbcpBH/delta/stream/live-event_monday-night-raw-live-stream/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive-event_monday-night-raw-live-stream%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive-event_monday-night-raw-live-stream%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "wwe": [
+      {
+        "title": "WWE: Monday Night RAW",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb6.wfty.st/secure/0li32gwAD_e6HSNFVN1l-Q/deluxe/wwe-monday-night-raw/1/71a0f5d4/1791267910/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F71a0f5d4%2Fwwe-monday-night-raw%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=71a0f5d4%2Fwwe-monday-night-raw%2Fdeluxe%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb4.wfty.st/secure/j69i0K21XRy_thcWp1UXLw/deluxe/wwe-monday-night-raw/1/71a0f5d4/1791267920/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F71a0f5d4%2Fwwe-monday-night-raw%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=71a0f5d4%2Fwwe-monday-night-raw%2Fdeluxe%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb6.wfty.st/secure/8XT-8U5MfiMy6s-UnqNPpg/deluxe/wwe-monday-night-raw/1/71a0f5d4/1791267930/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F71a0f5d4%2Fwwe-monday-night-raw%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=71a0f5d4%2Fwwe-monday-night-raw%2Fplatinum%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "soccer": [
       {
         "title": "Bosnia-Herzegovina vs Poland",
@@ -9,26 +49,38 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb29.strmd.st/secure/MGbADobZkcFQJnWnSBofytTdYqMDUwSP/delta/stream/live_uefa-nations-league-league-b-gr-4_bosnia-herzegovina-poland-live-streaming-539545536/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-b-gr-4_bosnia-herzegovina-poland-live-streaming-539545536%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb15.strmd.st/secure/gGiEhYkzFVNrDZEvIHjntURUSynHdMpY/delta/stream/live_uefa-nations-league-league-b-gr-4_bosnia-herzegovina-poland-live-streaming-539545536/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_uefa-nations-league-league-b-gr-4_bosnia-herzegovina-poland-live-streaming-539545536%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_uefa-nations-league-league-b-gr-4_bosnia-herzegovina-poland-live-streaming-539545536%2F1&source=tv2",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Martinique vs El Salvador",
+        "title": "Guatemala vs Suriname",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/mbZPdmZXy9L4Iih_eDLwHw/deluxe/martinique-el-salvador/1/401900580/1791266119/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900580%2Fmartinique-el-salvador%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401900580%2Fmartinique-el-salvador%2Fdeluxe%2F1&source=tv3",
+            "playable_url": "https://lb4.wfty.st/secure/0tfitSb402E9GYQr98bGEw/deluxe/guatemala-suriname/1/401900581/1791267921/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900581%2Fguatemala-suriname%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900581%2Fguatemala-suriname%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/Ytk4E8R1ANiVgde5hXt3Sg/deluxe/martinique-el-salvador/1/401900580/1791266129/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900580%2Fmartinique-el-salvador%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401900580%2Fmartinique-el-salvador%2Fdeluxe%2F2&source=tv3",
+            "playable_url": "https://lb1.wfty.st/secure/ODwmz5cDV0gVmuFOs4EUJg/deluxe/guatemala-suriname/1/401900581/1791267930/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900581%2Fguatemala-suriname%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900581%2Fguatemala-suriname%2Fdeluxe%2F2&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Bermuda vs Barbados",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.wfty.st/secure/olOSIA8a8NzGFnlzJVASRA/deluxe/bermuda-barbados/1/401900578/1791267939/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900578%2Fbermuda-barbados%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900578%2Fbermuda-barbados%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           }
         ]
@@ -36,49 +88,25 @@
     ],
     "nba": [
       {
-        "title": "Atlanta Hawks vs Memphis Grizzlies",
+        "title": "Milwaukee Bucks vs Minnesota Timberwolves",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://embed.st/embed/ingest/streamedatlantahawks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D501%26id%3D1814%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1814%2F1&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebucks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D516%26id%3D1817%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1817%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://embed.st/embed/ingest/streamedatlantahawks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D501%26id%3D1814%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1814%2F2&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebucks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D516%26id%3D1817%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1817%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://embed.st/embed/ingest/streamedatlantahawks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D501%26id%3D1814%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-memphis-grizzlies-vs-atlanta-hawks%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Detroit Pistons vs Phoenix Suns",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://embed.st/embed/ingest/streameddetroitpistons/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D530%26id%3D1815%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1815%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://embed.st/embed/ingest/streameddetroitpistons/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D530%26id%3D1815%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1815%2F2&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://embed.st/embed/ingest/streameddetroitpistons/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D530%26id%3D1815%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-phoenix-suns-vs-detroit-pistons%2F1&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebucks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D516%26id%3D1817%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-minnesota-timberwolves-vs-milwaukee-bucks%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -127,12 +155,109 @@
             "label": "Link - 3",
             "playable_url": "https://embed.st/embed/ingest/streameddetroitpistons/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D530%26id%3D1815%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-phoenix-suns-vs-detroit-pistons%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Milwaukee Bucks vs Minnesota Timberwolves",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebucks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D516%26id%3D1817%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1817%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebucks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D516%26id%3D1817%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F1817%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebucks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D516%26id%3D1817%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-minnesota-timberwolves-vs-milwaukee-bucks%2F1&source=tv2",
             "resolved": true
           }
         ]
       }
     ],
-    "mlb": [],
-    "nhl": []
+    "nhl": [
+      {
+        "title": "Tampa Bay Lightning vs Philadelphia Flyers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedtampabaylightning/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D245%26id%3D2015%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2015%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedtampabaylightning/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D245%26id%3D2015%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2015%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedtampabaylightning/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D245%26id%3D2015%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-philadelphia-flyers-vs-tampa-bay-lightning%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Boston Bruins vs Ottawa Senators",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedbostonbruins/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D221%26id%3D2016%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2016%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedbostonbruins/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D221%26id%3D2016%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2016%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedbostonbruins/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D221%26id%3D2016%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-ottawa-senators-vs-boston-bruins%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Pittsburgh Penguins vs Winnipeg Jets",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedpittsburghpenguins/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D241%26id%3D2017%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2017%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedpittsburghpenguins/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D241%26id%3D2017%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2017%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedpittsburghpenguins/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D241%26id%3D2017%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-winnipeg-jets-vs-pittsburgh-penguins%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "mlb": []
   }
 }
