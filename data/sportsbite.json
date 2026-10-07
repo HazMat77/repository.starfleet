@@ -1,7 +1,32 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-10-07T01:25:02.996857Z",
+  "scraped_at": "2026-10-07T01:55:03.556923Z",
   "categories": {
+    "soccer": [
+      {
+        "title": "Mexico vs Chile",
+        "is_live": false,
+        "start_ts": 1791340200,
+        "links": [
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/wp-mJ3TyFRxLBe88qL1ZzA/deluxe/mexico-chile/1/401903298/1791359730/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/yN_slq96Tvy_PStVC3aNVw/prime/mexico-chile/1/401903298/1791359733/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "prime (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/mfuNFiQnkBtcyzy6I6IAhA/prime/mexico-chile/2/401903298/1791359735/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "delta (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/-6KhB6PKGwuoDIYSkWLgCw/delta/live_int-friendly-games_mexico-chile-live-streaming-674117856/1/401903298/1791359738/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      }
+    ],
     "nba": [
       {
         "title": "Golden State Warriors vs Los Angeles Lakers",
@@ -9,16 +34,28 @@
         "start_ts": 1791338400,
         "links": [
           {
+            "label": "pro (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/fCVDGESunE-ghzIVc0wKaQ/pro/golden-state-warriors-los-angeles-lakers/1/401898390/1791359761/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/TnqUUOsslENNJ_FKox4m3w/pro/golden-state-warriors-los-angeles-lakers/2/401898390/1791359763/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/0tRGOHLDbTzxZVYziZk1Ug/pro/golden-state-warriors-los-angeles-lakers/3/401898390/1791359766/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
             "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/tlRlC0Qy3X1QdYm7wbNwaQ/delta/live_nba-preseason_warriors-lakers-live-streaming-659441088/1/401898390/1791357928/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb6.wfty.st/secure/Si1EJEYAxDAi-D6fa_6-Fg/delta/live_nba-preseason_warriors-lakers-live-streaming-659441088/1/401898390/1791359768/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "hotel (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/Pag5pnxNr68V2keoHrxgLw/hotel/los-angeles-lakers-vs-golden-state-warriors-nba-1791338400/1/401898390/1791357930/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/RuIJ3-cgDx_VgTqm2uRJqw/hotel/los-angeles-lakers-vs-golden-state-warriors-nba-1791338400/1/401898390/1791359770/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "hotel (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/8XZHpnWTt2HlgcXBeZFIjQ/hotel/los-angeles-lakers-vs-golden-state-warriors-nba-1791338400/2/401898390/1791357933/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/XMEn7C2vzPz5LXGygKmtTA/hotel/los-angeles-lakers-vs-golden-state-warriors-nba-1791338400/2/401898390/1791359773/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
