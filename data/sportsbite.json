@@ -1,241 +1,116 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-10-07T23:55:02.579225Z",
+  "scraped_at": "2026-10-08T00:25:02.430418Z",
   "categories": {
-    "soccer": [
-      {
-        "title": "Mexico vs Chile",
-        "is_live": true,
-        "start_ts": 1791340200,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/01k-Cphj02oJhqJMlPQIIQ/deluxe/mexico-chile/1/401903298/1791438909/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/aV870xmN4yUwinKdVXWQfw/delta/live_int-friendly-games_mexico-chile-live-streaming-674117856/1/401903298/1791438912/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      }
-    ],
     "nba": [
       {
         "title": "Memphis Grizzlies vs Orlando Magic",
-        "is_live": false,
+        "is_live": true,
         "start_ts": 1791417600,
         "links": [
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/zKBSiV30HvzZ2BFTWIereQ/pro/memphis-grizzlies-orlando-magic/1/401898391/1791438934/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/M3V6ZY2fOu1OetUIOAG6cw/pro/memphis-grizzlies-orlando-magic/1/401898391/1791440726/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/AJls7r32LE-XnWuWVa6OjQ/pro/memphis-grizzlies-orlando-magic/2/401898391/1791438937/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/othTa--uRp5GX4cohOQKxw/pro/memphis-grizzlies-orlando-magic/2/401898391/1791440728/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/FSpE-N_I6gmrWfzVx8Bbhg/pro/memphis-grizzlies-orlando-magic/3/401898391/1791438939/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/qGJfgxorsSXXWjoWNAUsjA/pro/memphis-grizzlies-orlando-magic/3/401898391/1791440731/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/cKiT3pW7Ii7t6ntlD-qnNw/delta/live_nba-preseason_grizzlies-magic-live-streaming-659499408/1/401898391/1791438941/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/Eatl0YJ4s9QRA_87lCcqnw/delta/live_nba-preseason_grizzlies-magic-live-streaming-659499408/1/401898391/1791440733/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "hotel (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/i9myNm4hIwMPOz-EkKj3ew/hotel/orlando-magic-vs-memphis-grizzlies-nba-1791417600/1/401898391/1791438943/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/JV4tgNNNpTQoY5HbijMAjg/hotel/orlando-magic-vs-memphis-grizzlies-nba-1791417600/1/401898391/1791440735/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
       {
         "title": "Chicago Bulls vs Phoenix Suns",
-        "is_live": false,
+        "is_live": true,
         "start_ts": 1791417600,
         "links": [
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/LfOoonQXoBMPPQRD44gUqw/pro/chicago-bulls-phoenix-suns/1/401908939/1791438965/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/jSHvmW_Ck5ahZMbUTxsOnQ/pro/chicago-bulls-phoenix-suns/1/401908939/1791440756/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/9TWn3YfE6ArTys9OgIk1hw/pro/chicago-bulls-phoenix-suns/2/401908939/1791438968/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/uPDpLtXdVUxxH0cOUKt9-g/pro/chicago-bulls-phoenix-suns/2/401908939/1791440759/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/ZiNh6km1gXULWFYmFUh0Gw/pro/chicago-bulls-phoenix-suns/3/401908939/1791438970/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/SBrO5u-A2iLtUTuNYdhRzw/pro/chicago-bulls-phoenix-suns/3/401908939/1791440761/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/PiwW4htkwu2BCthMNh6oow/delta/live_nba-preseason_bulls-suns-live-streaming-659498544/1/401908939/1791438972/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/F7_NUK3AK138A8ggALyHrg/delta/live_nba-preseason_bulls-suns-live-streaming-659498544/1/401908939/1791440763/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "hotel (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/_cGdz_3cLIQxLyYd5f6wzw/hotel/phoenix-suns-vs-chicago-bulls-nba-1791417600/1/401908939/1791438974/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/TqThGLYs_x9hocxS84PHZg/hotel/phoenix-suns-vs-chicago-bulls-nba-1791417600/1/401908939/1791440766/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
     ],
     "mlb": [
       {
-        "title": "Atlanta Braves vs Los Angeles Dodgers",
-        "is_live": true,
-        "start_ts": 1791410400,
-        "links": [
-          {
-            "label": "prime (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/5GiKjFrBUvWHyWInHtbZ6g/prime/atlanta-braves-los-angeles-dodgers/1/401908016/1791438996/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "prime (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/7gy3s3ShhOsQpkgDzcMheg/prime/atlanta-braves-los-angeles-dodgers/2/401908016/1791438998/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "prime (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/LVzHplU4jprTdGF1dpcRXA/prime/atlanta-braves-los-angeles-dodgers/3/401908016/1791439000/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "prime (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/53VcFbbmixG9If85SXoKjg/prime/atlanta-braves-los-angeles-dodgers/4/401908016/1791439002/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "prime (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/A4MwzHQd4DkbQJjZzSk5bw/prime/atlanta-braves-los-angeles-dodgers/5/401908016/1791439005/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "prime (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/cU91j03RF3OHS8BcaZv98g/prime/atlanta-braves-los-angeles-dodgers/6/401908016/1791439007/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "prime (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/nG8wW8i1vnNj0Eob5ibl_A/prime/atlanta-braves-los-angeles-dodgers/7/401908016/1791439009/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/tK5eZpARHumD5Mk6PvucxQ/pro/atlanta-braves-los-angeles-dodgers/1/401908016/1791439011/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/Kv7FOjgwa64bBwOY4F2j1g/pro/atlanta-braves-los-angeles-dodgers/2/401908016/1791439013/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/1zLvigAl5lwaqyEiU-GVnw/pro/atlanta-braves-los-angeles-dodgers/3/401908016/1791439016/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/pxfevoKJsnmxgF-Zx_8www/deluxe/atlanta-braves-los-angeles-dodgers/1/401908016/1791439018/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/5Wk2x561QXBCBUtREQokDQ/deluxe/atlanta-braves-los-angeles-dodgers/2/401908016/1791439020/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/6E_QYp7eLNKBnMLmXlrMIA/platinum/atlanta-braves-los-angeles-dodgers/1/401908016/1791439023/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/8OcQByjbAOKfBWGzFn0VGA/platinum/atlanta-braves-los-angeles-dodgers/2/401908016/1791439025/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/VMfdUKs8_rWqdqZWqUFyhQ/delta/live_mlb-playoffs_braves-dodgers-live-streaming-667224432/1/401908016/1791439027/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "hotel (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/GMXoHPr1eI4zZptskX2DVQ/hotel/los-angeles-dodgers-vs-atlanta-braves-mlb-1791410400/1/401908016/1791439030/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
         "title": "New York Yankees vs Tampa Bay Rays",
-        "is_live": false,
+        "is_live": true,
         "start_ts": 1791417600,
         "links": [
           {
             "label": "prime (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/adQqTc6rP9kRfTgcveK93g/prime/new-york-yankees-tampa-bay-rays/1/401907987/1791439051/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/xN-07yFwbJDnlZS0u2O0zg/prime/new-york-yankees-tampa-bay-rays/1/401907987/1791440788/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "prime (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/xl_40T7A0fmp7MdCVv709A/prime/new-york-yankees-tampa-bay-rays/2/401907987/1791439053/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/3ksq0TZEeWhpZp9kaAnwaw/prime/new-york-yankees-tampa-bay-rays/2/401907987/1791440790/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "prime (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/fbtSL5ZHAEQshslxKgYNmw/prime/new-york-yankees-tampa-bay-rays/3/401907987/1791439055/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/H4ebo25rlpF1xxAzT3v-vw/prime/new-york-yankees-tampa-bay-rays/3/401907987/1791440793/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "prime (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/V7bPl7ukbvV45bHgGxes5Q/prime/new-york-yankees-tampa-bay-rays/4/401907987/1791439057/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "prime (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/8A6a35zVw9T79lBisCqaqg/prime/new-york-yankees-tampa-bay-rays/5/401907987/1791439059/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "prime (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/rhRTdSZfTDLIHKxktOmb8g/prime/new-york-yankees-tampa-bay-rays/6/401907987/1791439061/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/LoaFCvOO0aVch9wnS86Y7g/prime/new-york-yankees-tampa-bay-rays/4/401907987/1791440795/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/xq41kWta3dfe6luD4CtnXw/pro/new-york-yankees-tampa-bay-rays/1/401907987/1791439063/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/racR_Up3loQUErexOYeNdA/pro/new-york-yankees-tampa-bay-rays/1/401907987/1791440798/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/BjvOPty6OXFdD3YvQuWuYQ/pro/new-york-yankees-tampa-bay-rays/2/401907987/1791439066/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/-8-Udt7hROt8eXjgn2wb9w/pro/new-york-yankees-tampa-bay-rays/2/401907987/1791440800/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/5ptcjx5_sl3c9njkWVGF5g/pro/new-york-yankees-tampa-bay-rays/3/401907987/1791439068/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/SWilaGfwX6_sTBY3mfGbQQ/pro/new-york-yankees-tampa-bay-rays/3/401907987/1791440802/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/nFd7hfPD2xHFg90rMZ8kpw/deluxe/new-york-yankees-tampa-bay-rays/1/401907987/1791439071/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/n627ht_LmP5-2rKSYri_OA/deluxe/new-york-yankees-tampa-bay-rays/1/401907987/1791440805/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/14jOkNUuDfFxwEmflt1PGQ/deluxe/new-york-yankees-tampa-bay-rays/2/401907987/1791439074/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb5.wfty.st/secure/r7I4yHkiVER0zjqkfmboVQ/deluxe/new-york-yankees-tampa-bay-rays/2/401907987/1791440807/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/NLrYKCyHBVA5CokyECmcXQ/platinum/new-york-yankees-tampa-bay-rays/1/401907987/1791439076/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/ej3qolAJwCxnYftu3Bny_w/platinum/new-york-yankees-tampa-bay-rays/1/401907987/1791440809/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "delta (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/r6gwrnC0gYWS9uBkab6Mzg/delta/live_mlb-playoffs_yankees-rays-live-streaming-663828048/1/401907987/1791439078/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/e8I67fi2AM_zMC840Fh9Bg/delta/live_mlb-playoffs_yankees-rays-live-streaming-663828048/1/401907987/1791440812/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "hotel (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/r1TPah3T02T2tQGRDICJCA/hotel/tampa-bay-rays-vs-new-york-yankees-mlb-1791417600/1/401907987/1791439080/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      }
-    ],
-    "nhl": [
-      {
-        "title": "Winnipeg Jets vs Colorado Avalanche",
-        "is_live": true,
-        "start_ts": 1791415800,
-        "links": [
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/BcLBOoiEuf0yjvBvRbJoKg/pro/winnipeg-jets-colorado-avalanche/1/401892455/1791439103/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/hJc7xWBiVTDG_2Udc4Bf5A/pro/winnipeg-jets-colorado-avalanche/2/401892455/1791439106/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb3.wfty.st/secure/dnsMEyDBjjclMeCtP0pX1w/pro/winnipeg-jets-colorado-avalanche/3/401892455/1791439108/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/EjmvBSqR1-flc60XCx_xlQ/platinum/winnipeg-jets-colorado-avalanche/1/401892455/1791439111/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "delta (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/q0KCqa-eiXhgY1WXbEfl9Q/delta/live_nhl_jets-avalanche-live-streaming-653877360/1/401892455/1791439113/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/6JDct3NTDdROziChcrc7cA/hotel/tampa-bay-rays-vs-new-york-yankees-mlb-1791417600/1/401907987/1791440814/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
