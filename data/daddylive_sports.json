@@ -1,6 +1,6 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-08T04:55:02.425752Z",
+  "scraped_at": "2026-10-08T05:25:02.517145Z",
   "sports_events": {
     "nba": [
       {
@@ -18,11 +18,25 @@
             "playable_url": "https://embed.st/embed/ingest/streamedportlandtrailblazers/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D531%26id%3D2104%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2104%2F2&source=tv2",
             "resolved": true
+          }
+        ]
+      }
+    ],
+    "nhl": [
+      {
+        "title": "Anaheim Ducks vs Edmonton Oilers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedmanheimducks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D219%26id%3D2107%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2107%2F1&source=tv2",
+            "resolved": true
           },
           {
-            "label": "Link - 3",
-            "playable_url": "https://embed.st/embed/ingest/streamedportlandtrailblazers/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D531%26id%3D2104%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-golden-state-warriors-vs-portland-trail-blazers%2F1&source=tv2",
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedmanheimducks/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D219%26id%3D2107%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2107%2F2&source=tv2",
             "resolved": true
           }
         ]
@@ -66,48 +80,22 @@
         ]
       }
     ],
+    "mlb": [],
     "other_events": [
       {
-        "title": "Baycurrent Classic (World) : PGA TOUR: Baycurrent Classic (World)",
+        "title": "Mount Panorama — Free Practice 2",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/HnU_MaTmcsuO-cyTjXJhGA/prime/pga-tour-baycurrent-classic-world/1/23_M54sBkwo/1791456910/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F1&source=tv3",
+            "playable_url": "https://lb22.strmd.st/secure/AiOkbJzmOUyErAUUXEvLhcbwzccftoDM/hotel/stream/mount-panorama-free-practice-2-australian-supercars-championship-1791434700/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fmount-panorama-free-practice-2-australian-supercars-championship-1791434700%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fmount-panorama-free-practice-2-australian-supercars-championship-1791434700%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb1.wfty.st/secure/uAsRZK-v9D88UAWMkT83oQ/prime/pga-tour-baycurrent-classic-world/1/23_M54sBkwo/1791456917/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb5.wfty.st/secure/EufYTJTBD3cCu_nxBVuFmw/prime/pga-tour-baycurrent-classic-world/1/23_M54sBkwo/1791456926/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F3&source=tv3",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "nhl": [],
-    "mlb": [
-      {
-        "title": "New York Yankees vs Tampa Bay Rays",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb19.strmd.st/secure/uoELMiFcDZRmDweLWUXhjTIeZclFdoeM/golf/stream/2136/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F2136%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2136%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb29.strmd.st/secure/fCihKdpIixRiGSiDmboFIXaCrcbimaHh/golf/stream/2136/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F2136%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2136%2F2&source=tv2",
+            "playable_url": "https://lb7.strmd.st/secure/NANKzAgCRbbTjsbpqiPGGBcVTiXXMbHn/hotel/stream/mount-panorama-free-practice-2-australian-supercars-championship-1791434700/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fmount-panorama-free-practice-2-australian-supercars-championship-1791434700%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fmount-panorama-free-practice-2-australian-supercars-championship-1791434700%2F2&source=tv2",
             "resolved": true
           }
         ]
