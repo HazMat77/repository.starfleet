@@ -1,7 +1,33 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-08T00:55:02.377019Z",
+  "scraped_at": "2026-10-08T01:25:02.447291Z",
   "sports_events": {
+    "soccer": [
+      {
+        "title": "Florida Intl Golden Panthers vs New Mexico State Aggies",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb19.strmd.st/secure/GNdQixKLXGzrIMTjxALwdoXZsQjJZgTc/delta/stream/live_cfb_florida-int-new-mexico-st-live-streaming-663789600/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_florida-int-new-mexico-st-live-streaming-663789600%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_florida-int-new-mexico-st-live-streaming-663789600%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Kennesaw State vs Jacksonville State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedcbsn/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D147%26id%3D1998%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_kennesaw-st-jacksonville-state-live-streaming-663789168%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "nhl": [
       {
         "title": "Washington Capitals vs Pittsburgh Penguins",
@@ -54,45 +80,43 @@
     ],
     "other_events": [
       {
-        "title": "Cruzeiro vs São Paulo",
+        "title": "Baycurrent Classic (World) : PGA TOUR: Baycurrent Classic (World)",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/ywoirdyHAz2bMxK8UrANAQ/deluxe/cruzeiro-sao-paulo/1/401841249/1791442508/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841249%2Fcruzeiro-sao-paulo%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401841249%2Fcruzeiro-sao-paulo%2Fdeluxe%2F1&source=tv3",
+            "playable_url": "https://lb3.wfty.st/secure/ez8XYl8wk39giDdIEDXuLA/prime/pga-tour-baycurrent-classic-world/1/23_M54sBkwo/1791444308/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/oDUWIvHHM26HwcdMa06RbQ/deluxe/cruzeiro-sao-paulo/1/401841249/1791442517/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841249%2Fcruzeiro-sao-paulo%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401841249%2Fcruzeiro-sao-paulo%2Fdeluxe%2F2&source=tv3",
+            "playable_url": "https://lb6.wfty.st/secure/1C9iYygIJ3mRUmDpKcr-jg/prime/pga-tour-baycurrent-classic-world/1/23_M54sBkwo/1791444317/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F2&source=tv3",
             "resolved": true
-          }
-        ]
-      }
-    ],
-    "soccer": [
-      {
-        "title": "Florida Intl Golden Panthers vs New Mexico State Aggies",
-        "is_live": true,
-        "links": [
+          },
           {
-            "label": "Link - 1",
-            "playable_url": "https://lb22.strmd.st/secure/loooymBwOktsdEreFrMfBSVJsbjetSdX/delta/stream/live_cfb_florida-int-new-mexico-st-live-streaming-663789600/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_florida-int-new-mexico-st-live-streaming-663789600%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_florida-int-new-mexico-st-live-streaming-663789600%2F1&source=tv2",
+            "label": "Link - 3",
+            "playable_url": "https://lb2.wfty.st/secure/n8ApvwgzT21TjK--7a7Tew/prime/pga-tour-baycurrent-classic-world/1/23_M54sBkwo/1791444326/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=23_M54sBkwo%2Fpga-tour-baycurrent-classic-world%2Fprime%2F3&source=tv3",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Kennesaw State vs Jacksonville State",
+        "title": "Cruzeiro vs São Paulo",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/nQyeUNBXtNQmgYfNwhxkuzqkDnqByTnG/delta/stream/live_cfb_kennesaw-st-jacksonville-state-live-streaming-663789168/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fdelta%2Flive_cfb_kennesaw-st-jacksonville-state-live-streaming-663789168%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=delta%2Flive_cfb_kennesaw-st-jacksonville-state-live-streaming-663789168%2F1&source=tv2",
+            "playable_url": "https://lb2.wfty.st/secure/XQy1rgv6oANvJHu2Hn7Fpw/deluxe/cruzeiro-sao-paulo/1/401841249/1791444335/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841249%2Fcruzeiro-sao-paulo%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841249%2Fcruzeiro-sao-paulo%2Fdeluxe%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb4.wfty.st/secure/xbcGYjyrVTnfHfHC1VZPZg/deluxe/cruzeiro-sao-paulo/1/401841249/1791444344/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401841249%2Fcruzeiro-sao-paulo%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401841249%2Fcruzeiro-sao-paulo%2Fdeluxe%2F2&source=tv3",
             "resolved": true
           }
         ]
