@@ -1,8 +1,26 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-09T10:55:02.937108Z",
+  "scraped_at": "2026-10-09T11:25:02.872589Z",
   "sports_events": {
     "other_events": [
+      {
+        "title": "Singapore Grand Prix Sprint",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedskyf1hdd/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D106%26id%3D2133%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2133%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedskyf1hdd/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D106%26id%3D2133%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2133%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "Singapore Grand Prix Practice 1",
         "is_live": true,
@@ -20,15 +38,23 @@
             "resolved": true
           }
         ]
-      },
+      }
+    ],
+    "darts": [
       {
-        "title": "Indonesia Free Practice 1",
+        "title": "Swiss Darts Trophy | Day 1 - Afternoon Session",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/mvTWrfcRdCRZDsVZEsJkICAzlRPUuHIL/hotel/stream/estoril-free-practice-supersport-world-championship-1791541200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Festoril-free-practice-supersport-world-championship-1791541200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Festoril-free-practice-supersport-world-championship-1791541200%2F1&source=tv2",
+            "playable_url": "https://lb11.strmd.st/secure/YcOJquMQNvkLaiHFNbXsUeAgumvWzsUS/rtmp/stream/0yNv2QqUYTa1M4IgEkN4aBSpdnTrJCW4iwqeOjppqqNu-xelkubvaViQQE60WDKbT6rmQkdQWw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-1-afternoon-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-1-afternoon-session%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb16.strmd.st/secure/tCtZHttkSRyKQbrfwonPBkIQfBUuSWkD/rtmp/stream/0yNv2QqUYTa1M4IgEkN4aBSpdnTrJCW4iwqeOjppqqNu-xelkubvaViQQE60WDKbT6rmQkdQWw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-1-afternoon-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-1-afternoon-session%2F2&source=tv2",
             "resolved": true
           }
         ]
@@ -41,19 +67,18 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb31.strmd.st/secure/amNBqjirMziVckJbbFtqePHNPeBLPCNE/rtmp/stream/khY_R7AxPXQRwCRbcRjK6hqSGrhMS55BBOKmcPiPfocd75iJ_txHZKcMO6nFd1SIP7BN9W_uRL8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-illawarra-hawks-vs-tasmania-jack-jumpers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb11.strmd.st/secure/bDsptewHEfetEcetPLUBiYDIeqbNvDNE/rtmp/stream/y32Rs2zjhXx7rhZYMFeQTa6XtiaQ0fAztV50DAUYblsXs7AkVqTaRvWJp0KXE_OJs2bA-AabD6s/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-illawarra-hawks-vs-tasmania-jack-jumpers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-illawarra-hawks-vs-tasmania-jack-jumpers%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.strmd.st/secure/OzdlUjEAHgKwQYzpbmpDEPFSEQXEcIfP/rtmp/stream/khY_R7AxPXQRwCRbcRjK6hqSGrhMS55BBOKmcPiPfocd75iJ_txHZKcMO6nFd1SIP7BN9W_uRL8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-illawarra-hawks-vs-tasmania-jack-jumpers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb16.strmd.st/secure/ldzuiqXOWqfNzAUGMeYQjZzZeWhldSps/rtmp/stream/y32Rs2zjhXx7rhZYMFeQTa6XtiaQ0fAztV50DAUYblsXs7AkVqTaRvWJp0KXE_OJs2bA-AabD6s/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-illawarra-hawks-vs-tasmania-jack-jumpers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-illawarra-hawks-vs-tasmania-jack-jumpers%2F2&source=tv2",
             "resolved": true
           }
         ]
       }
-    ],
-    "f1": []
+    ]
   }
 }
