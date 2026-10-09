@@ -1,51 +1,32 @@
 {
   "site": "sportsbite.org",
-  "scraped_at": "2026-10-09T18:25:05.448636Z",
+  "scraped_at": "2026-10-09T18:55:03.467876Z",
   "categories": {
     "soccer": [
       {
         "title": "Lens vs Lyon",
-        "is_live": false,
+        "is_live": true,
         "start_ts": 1791571500,
         "links": [
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb4.wfty.st/secure/Qc-KvEvP4LrQyV741Esyzw/deluxe/lens-lyon/1/401876447/1791591933/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb1.wfty.st/secure/-e6la43zJ0ZpnUY9N3B7eg/deluxe/lens-lyon/1/401876447/1791593728/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/hCocS_E7SM9SdRTQc4nE-g/pro/lens-lyon/1/401876447/1791593731/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/y5jAcWY_m3ebb6MUKqMpEw/pro/lens-lyon/2/401876447/1791593734/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/WZAxu85CeFI9X_f5eLkVlg/pro/lens-lyon/3/401876447/1791593736/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "hotel (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/-npm2Ut-dplREoEhIw0yaQ/hotel/lens-vs-lyon-ligue-1-1791571500/1/401876447/1791591935/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          }
-        ]
-      },
-      {
-        "title": "Borussia Dortmund vs Werder Bremen",
-        "is_live": false,
-        "start_ts": 1791570600,
-        "links": [
-          {
-            "label": "deluxe (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/rghIKxJHF75ENoExql9ZbQ/deluxe/borussia-dortmund-werder-bremen/1/401884781/1791591957/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/4IPpKlhI3ri7vrkuNbbYnw/pro/borussia-dortmund-werder-bremen/1/401884781/1791591959/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb5.wfty.st/secure/J_jIMAJt28qGe5kejK81yw/pro/borussia-dortmund-werder-bremen/2/401884781/1791591961/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "pro (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/QXyxjYIOLKD-Vs3VJCR6ZA/pro/borussia-dortmund-werder-bremen/3/401884781/1791591964/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "platinum (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/tNTR63pxaXijZDxiPbMEDA/platinum/borussia-dortmund-werder-bremen/1/401884781/1791591966/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-          },
-          {
-            "label": "hotel (HD)",
-            "playable_url": "https://lb6.wfty.st/secure/4URXy_Ee7qQpUdLSsqq7AA/hotel/borussia-dortmund-vs-werder-bremen-bundesliga-1791570600/1/401884781/1791591968/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/RO51jZYG-1WZwCBNs6X3fw/hotel/lens-vs-lyon-ligue-1-1791571500/1/401876447/1791593739/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       },
@@ -56,11 +37,42 @@
         "links": [
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/mNAo_b6S1oHx0BSHOdWe9w/deluxe/west-ham-united-queens-park-rangers/1/401880233/1791591970/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb2.wfty.st/secure/hv7cEVDcObR95gPdHikZxQ/deluxe/west-ham-united-queens-park-rangers/1/401880233/1791593741/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           },
           {
             "label": "deluxe (HD)",
-            "playable_url": "https://lb1.wfty.st/secure/G8iNw9a1rq6jUOaumV-v2g/deluxe/west-ham-united-queens-park-rangers/2/401880233/1791591973/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb4.wfty.st/secure/Ee7IF28YFpVFOf9Jq7Mtuw/deluxe/west-ham-united-queens-park-rangers/2/401880233/1791593744/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Borussia Dortmund vs Werder Bremen",
+        "is_live": true,
+        "start_ts": 1791570600,
+        "links": [
+          {
+            "label": "deluxe (HD)",
+            "playable_url": "https://lb6.wfty.st/secure/6rAsVu-9GB3Vh28Ah9vECA/deluxe/borussia-dortmund-werder-bremen/1/401884781/1791593765/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb3.wfty.st/secure/3ac_ZYAKnC6SWkUnkybIhQ/pro/borussia-dortmund-werder-bremen/1/401884781/1791593767/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/XEyagVfIW-6o9SLjhWa99w/pro/borussia-dortmund-werder-bremen/2/401884781/1791593770/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "pro (HD)",
+            "playable_url": "https://lb1.wfty.st/secure/l5iXoR_3N2qu8UXH7lPllA/pro/borussia-dortmund-werder-bremen/3/401884781/1791593772/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/iksM14a27e8AfBpA-necfA/platinum/borussia-dortmund-werder-bremen/1/401884781/1791593774/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          },
+          {
+            "label": "hotel (HD)",
+            "playable_url": "https://lb5.wfty.st/secure/C-L9lBlbAx1KXRCk1C50Ig/hotel/borussia-dortmund-vs-werder-bremen-bundesliga-1791570600/1/401884781/1791593776/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
@@ -73,7 +85,18 @@
         "links": [
           {
             "label": "platinum (HD)",
-            "playable_url": "https://lb2.wfty.st/secure/RsB61W64lYX6NTYIKQSawA/platinum/vegas-golden-knights-toronto-maple-leafs/1/401892464/1791591980/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+            "playable_url": "https://lb3.wfty.st/secure/PRR9gU-cC5ycTwEtv2RgdA/platinum/vegas-golden-knights-toronto-maple-leafs/1/401892464/1791593783/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        ]
+      },
+      {
+        "title": "Calgary Flames vs Colorado Avalanche",
+        "is_live": false,
+        "start_ts": 1791507840,
+        "links": [
+          {
+            "label": "platinum (HD)",
+            "playable_url": "https://lb2.wfty.st/secure/RfykN4VfvBs3UodlVugxjg/platinum/calgary-flames-colorado-avalanche/1/401892463/1791593785/playlist.m3u8|Referer=https://sportsembed.su/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           }
         ]
       }
