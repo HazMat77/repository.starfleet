@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="starfleet">
   <channel id="TVA.ca"><display-name>TVA</display-name></channel>
-  <programme start="20261009130000 -0400" stop="20261009143000 -0400" channel="TVA.ca">
-    <title>Cinéma "Ace Ventura mène l'enquête" (Comédie, 1994)</title>
-  </programme>
   <programme start="20261009143000 -0400" stop="20261009150000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
   </programme>
@@ -25,7 +22,10 @@
   <programme start="20261009183000 -0400" stop="20261009190000 -0400" channel="TVA.ca">
     <title>Le tricheur (N)</title>
   </programme>
-  <programme start="20261009190000 -0400" stop="20261009193000 -0400" channel="TVA.ca">
+  <programme start="20261009190000 -0400" stop="20261009200000 -0400" channel="TVA.ca">
+    <title>Ça finit bien la semaine (N)</title>
+  </programme>
+  <programme start="20261009200000 -0400" stop="20261009203000 -0400" channel="TVA.ca">
     <title>&amp;nbsp;</title>
   </programme>
   <programme start="20261009200000 -0400" stop="20261009220000 -0400" channel="TVA.ca">
@@ -37,8 +37,8 @@
   <programme start="20261009223000 -0400" stop="20261010013000 -0400" channel="TVA.ca">
     <title>Cinéma "Vrai mensonge" (Action, 1994) Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold</title>
   </programme>
-  <programme start="20261010013000 -0400" stop="20261010030000 -0400" channel="TVA.ca">
-    <title>Cinéma "Ace Ventura: l'appel de la nature" (Comédie, 1995)</title>
+  <programme start="20261010013000 -0400" stop="20261010023000 -0400" channel="TVA.ca">
+    <title>Cinéma</title>
   </programme>
   <programme start="20261010030000 -0400" stop="20261010040000 -0400" channel="TVA.ca">
     <title>Hôtel "Changement d'itinéraire"</title>
@@ -55,7 +55,7 @@
   <programme start="20261010060000 -0400" stop="20261010063000 -0400" channel="TVA.ca">
     <title>Les looney tunes</title>
   </programme>
-  <programme start="20261010063000 -0400" stop="20261010073000 -0400" channel="TVA.ca">
+  <programme start="20261010063000 -0400" stop="20261010083000 -0400" channel="TVA.ca">
     <title>Salut bonjour week-end (N)</title>
   </programme>
   <programme start="20261010103000 -0400" stop="20261010113000 -0400" channel="TVA.ca">
@@ -71,13 +71,13 @@
     <title>Infopublicit</title>
   </programme>
   <programme start="20261010130000 -0400" stop="20261010133000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
-  <programme start="20261010130000 -0400" stop="20261010133000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
   </programme>
   <programme start="20261010133000 -0400" stop="20261010140000 -0400" channel="TVA.ca">
     <title>Les looney tunes</title>
+  </programme>
+  <programme start="20261010140000 -0400" stop="20261010143000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20261010140000 -0400" stop="20261010160000 -0400" channel="TVA.ca">
     <title>Cinéma "Mystère" (Drame, 2021) Vincent Elbaz, Marie Gillain, Shanna Keil</title>
@@ -88,8 +88,8 @@
   <programme start="20261010180000 -0400" stop="20261010183000 -0400" channel="TVA.ca">
     <title>TVA Nouvelles (N)</title>
   </programme>
-  <programme start="20261010183000 -0400" stop="20261010193000 -0400" channel="TVA.ca">
-    <title>Cinéma</title>
+  <programme start="20261010183000 -0400" stop="20261010203000 -0400" channel="TVA.ca">
+    <title>Cinéma "Venom: la dernière danse" (Action, 2024) Tom Hardy, Chiwetel Ejiofor, Juno Temple</title>
   </programme>
   <programme start="20261010203000 -0400" stop="20261010223000 -0400" channel="TVA.ca">
     <title>Cinéma "John Wick" (Action, 2014) Keanu Reeves, Michael Nyqvist, Alfie Allen</title>
@@ -100,8 +100,8 @@
   <programme start="20261010230000 -0400" stop="20261011013000 -0400" channel="TVA.ca">
     <title>Cinéma "Rapport minoritaire" (Science fiction, 2002) Tom Cruise, Colin Farrell, Samantha Morton</title>
   </programme>
-  <programme start="20261011013000 -0400" stop="20261011040000 -0400" channel="TVA.ca">
-    <title>Cinéma "Burlesque" (Drame, 2010) Cher, Christina Aguilera, Eric Dane</title>
+  <programme start="20261011013000 -0400" stop="20261011023000 -0400" channel="TVA.ca">
+    <title>Cinéma</title>
   </programme>
   <programme start="20261011040000 -0400" stop="20261011043000 -0400" channel="TVA.ca">
     <title>Infopublicit</title>
@@ -118,7 +118,7 @@
   <programme start="20261011060000 -0400" stop="20261011063000 -0400" channel="TVA.ca">
     <title>Les looney tunes</title>
   </programme>
-  <programme start="20261011063000 -0400" stop="20261011073000 -0400" channel="TVA.ca">
+  <programme start="20261011063000 -0400" stop="20261011083000 -0400" channel="TVA.ca">
     <title>Salut bonjour week-end (N)</title>
   </programme>
   <programme start="20261011103000 -0400" stop="20261011123000 -0400" channel="TVA.ca">
@@ -128,6 +128,9 @@
     <title>Les aventures de Tom</title>
   </programme>
   <programme start="20261011130000 -0400" stop="20261011133000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
+    <title>La victoire de l'amour (N)</title>
+  </programme>
+  <programme start="20261011133000 -0400" stop="20261011143000 -0400" channel="TVA.ca">
+    <title>Cinéma "Chantez! 2"</title>
   </programme>
 </tv>
