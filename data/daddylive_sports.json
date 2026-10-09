@@ -1,7 +1,21 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-09T13:55:02.891116Z",
+  "scraped_at": "2026-10-09T14:25:02.982203Z",
   "sports_events": {
+    "soccer": [
+      {
+        "title": "Al Kholood vs Al Qadsiah",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.wfty.st/secure/0Gr5kALwZ38VdDnp36TuqQ/deluxe/al-kholood-al-qadsiah/1/401900908/1791577511/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401900908%2Fal-kholood-al-qadsiah%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401900908%2Fal-kholood-al-qadsiah%2Fdeluxe%2F1&source=tv3",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "darts": [
       {
         "title": "Swiss Darts Trophy | Day 1 - Afternoon Session",
@@ -9,40 +23,14 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb21.strmd.st/secure/pwRDQuQsJumYDCxsjRYpjVikdwYeHRcg/rtmp/stream/ot2cBIBLP0OUChrjjbEYj2juZRjfRswpRd_WsEp5prT31rnc0UpAsL41RExfOXou81p_HXHhIw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-1-afternoon-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb18.strmd.st/secure/FmXBKnzIGjxMlcKZKsBIHeQfhnySwvTw/rtmp/stream/sH-XJQCI3w50fQriNYC6Q2MCPz7BKR8YXu_hdF4TbucFxrYa9HByq225Ihug_-4AM3yxQsIpSQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-1-afternoon-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-1-afternoon-session%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb1.strmd.st/secure/cTvLpRtKQlEEszfTyPmFpGQaYdOpbMMy/rtmp/stream/ot2cBIBLP0OUChrjjbEYj2juZRjfRswpRd_WsEp5prT31rnc0UpAsL41RExfOXou81p_HXHhIw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-1-afternoon-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb29.strmd.st/secure/erkDuYpHponPIxXcMOlEGcNlbofyskqB/rtmp/stream/sH-XJQCI3w50fQriNYC6Q2MCPz7BKR8YXu_hdF4TbucFxrYa9HByq225Ihug_-4AM3yxQsIpSQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-1-afternoon-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-1-afternoon-session%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "f1": [
-      {
-        "title": "Singapore Airlines Singapore Grand Prix - SS",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/i0HmWDmZqb3BfV75r4TA2Q/prime/singapore-airlines-singapore-grand-prix/1/401839114/1791575710/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839114%2Fsingapore-airlines-singapore-grand-prix%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401839114%2Fsingapore-airlines-singapore-grand-prix%2Fprime%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/OvxKLTq3UCBswPRjcIqf2A/prime/singapore-airlines-singapore-grand-prix/1/401839114/1791575719/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839114%2Fsingapore-airlines-singapore-grand-prix%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401839114%2Fsingapore-airlines-singapore-grand-prix%2Fprime%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb1.wfty.st/secure/IMDrgkxhSzHBkEZ3543wJg/prime/singapore-airlines-singapore-grand-prix/1/401839114/1791575727/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839114%2Fsingapore-airlines-singapore-grand-prix%2Fprime%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401839114%2Fsingapore-airlines-singapore-grand-prix%2Fprime%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -79,20 +67,38 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.strmd.st/secure/RrhkRYfzTCWlVFcwQlgqzrpaVKkoyFvA/hotel/stream/marina-bay-sprint-qualifying-formula-1-1791549000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fmarina-bay-sprint-qualifying-formula-1-1791549000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb26.strmd.st/secure/IEphCaLtsapfeNFueOfozGiRINbjEfws/hotel/stream/marina-bay-sprint-qualifying-formula-1-1791549000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fmarina-bay-sprint-qualifying-formula-1-1791549000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fmarina-bay-sprint-qualifying-formula-1-1791549000%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb13.strmd.st/secure/pmXlxOiGABAyJgfTveuIyBkjpqRgrGPI/hotel/stream/marina-bay-sprint-qualifying-formula-1-1791549000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fmarina-bay-sprint-qualifying-formula-1-1791549000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb27.strmd.st/secure/NVZEvhLMisAHuYwIgYEpRvMKFGksiMQJ/hotel/stream/marina-bay-sprint-qualifying-formula-1-1791549000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fmarina-bay-sprint-qualifying-formula-1-1791549000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fmarina-bay-sprint-qualifying-formula-1-1791549000%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb10.strmd.st/secure/wsOPkgMJVbDysZTdouEVYcJKSAHQVhoi/hotel/stream/marina-bay-sprint-qualifying-formula-1-1791549000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fmarina-bay-sprint-qualifying-formula-1-1791549000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb28.strmd.st/secure/yoZtXNuuBdzSMZmdqorakCaWAtvpMZTl/hotel/stream/marina-bay-sprint-qualifying-formula-1-1791549000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fmarina-bay-sprint-qualifying-formula-1-1791549000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fmarina-bay-sprint-qualifying-formula-1-1791549000%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Estoril — Free Practice 2",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb27.strmd.st/secure/laAPDaGNhfGhcswhzvEQLIFCyRGHGomg/hotel/stream/estoril-free-practice-2-worldsbk-1791554400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Festoril-free-practice-2-worldsbk-1791554400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Festoril-free-practice-2-worldsbk-1791554400%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb16.strmd.st/secure/wHSSJrTGtUTDBceBnAmiIAfIXkZAvvza/hotel/stream/estoril-free-practice-2-worldsbk-1791554400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Festoril-free-practice-2-worldsbk-1791554400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Festoril-free-practice-2-worldsbk-1791554400%2F2&source=tv2",
             "resolved": true
           }
         ]
