@@ -1,27 +1,7 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-10T08:25:02.773115Z",
+  "scraped_at": "2026-10-10T08:55:02.789299Z",
   "sports_events": {
-    "other_events": [
-      {
-        "title": "Castillo vs Zarate",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://embed.st/embed/ingest/streamedevent2/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D112%26id%3D2174%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2174%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://embed.st/embed/ingest/streamedevent2/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D112%26id%3D2174%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2174%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
     "soccer": [
       {
         "title": "BYU vs Iowa State",
@@ -42,27 +22,59 @@
         ]
       }
     ],
-    "motogp": [
+    "nba": [
       {
-        "title": "Grand Prix of Indonesia Sprint Race - MOTOGP",
+        "title": "South East Melbourne Phoenix vs Melbourne United",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/pr4M6ZzS6iT3yVuckdW7ZA/deluxe/singapore-airlines-singapore-grand-prix/1/401839115/1791642312/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839115%2Fsingapore-airlines-singapore-grand-prix%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401839115%2Fsingapore-airlines-singapore-grand-prix%2Fdeluxe%2F1&source=tv3",
+            "playable_url": "https://lb9.strmd.st/secure/uhJdCxlXskeBMFEXMboEcWQKMXrqFCQz/rtmp/stream/rOln2N1NsWbDYSaTdKWeaazuRtkyMg9_aeeQ71NZFkz_O78quN6cxC2-6I8kpTOash8z2UpB7QE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-south-east-melbourne-phoenix-vs-melbourne-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-south-east-melbourne-phoenix-vs-melbourne-united%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/Tg4EiNCLqWX_7VvzvvfNNg/deluxe/singapore-airlines-singapore-grand-prix/1/401839115/1791642320/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839115%2Fsingapore-airlines-singapore-grand-prix%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=401839115%2Fsingapore-airlines-singapore-grand-prix%2Fdeluxe%2F2&source=tv3",
+            "playable_url": "https://lb2.strmd.st/secure/TcoaiWoBGqtPCmslzyjZtvJheKBwMsCB/rtmp/stream/rOln2N1NsWbDYSaTdKWeaazuRtkyMg9_aeeQ71NZFkz_O78quN6cxC2-6I8kpTOash8z2UpB7QE/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-south-east-melbourne-phoenix-vs-melbourne-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-south-east-melbourne-phoenix-vs-melbourne-united%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "other_events": [
+      {
+        "title": "Indonesia Free Practice 2",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb9.strmd.st/secure/dqzkIGmyOlviUfCkkwmlDblvAPzFcWgD/hotel/stream/estoril-free-practice-3-worldsbk-1791621600/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Festoril-free-practice-3-worldsbk-1791621600%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Festoril-free-practice-3-worldsbk-1791621600%2F1&source=tv2",
             "resolved": true
           },
           {
-            "label": "Link - 3",
-            "playable_url": "https://lb5.wfty.st/secure/UwFY5hhVtx5TNF-uWkxHSw/deluxe/singapore-airlines-singapore-grand-prix/1/401839115/1791642329/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401839115%2Fsingapore-airlines-singapore-grand-prix%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=nascar6241%2Fgrand-prix-of-indonesia-sprint-race%2Feasy%2F1&source=tv3",
+            "label": "Link - 2",
+            "playable_url": "https://lb2.strmd.st/secure/ZSrappmoohEUyQiNpTOhCPkedZMkfWOe/hotel/stream/estoril-free-practice-3-worldsbk-1791621600/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Festoril-free-practice-3-worldsbk-1791621600%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Festoril-free-practice-3-worldsbk-1791621600%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Castillo vs Zarate",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedevent2/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D112%26id%3D2174%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2174%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedevent2/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D112%26id%3D2174%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2174%2F2&source=tv2",
             "resolved": true
           }
         ]
