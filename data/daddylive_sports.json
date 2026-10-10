@@ -1,7 +1,27 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-10T11:25:02.475627Z",
+  "scraped_at": "2026-10-10T11:55:02.518317Z",
   "sports_events": {
+    "nba": [
+      {
+        "title": "Perth Wildcats vs New Zealand Breakers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb28.strmd.st/secure/ktoRmKeiLFZVWoKyvdsMEcrKNCaSYUuz/rtmp/stream/KZLIO4-9OdqaBxsimvrtytl-ZHIhrIupK-Pun8IR6lxW0be3CTW1-CPZBNArh7eb6fmqiv2qTDs/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-perth-wildcats-vs-new-zealand-breakers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-perth-wildcats-vs-new-zealand-breakers%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb3.strmd.st/secure/AEeUxVPcELJObcVHhLeFQPemvuAMubAW/rtmp/stream/KZLIO4-9OdqaBxsimvrtytl-ZHIhrIupK-Pun8IR6lxW0be3CTW1-CPZBNArh7eb6fmqiv2qTDs/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-perth-wildcats-vs-new-zealand-breakers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-perth-wildcats-vs-new-zealand-breakers%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [
       {
         "title": "Singapore Grand Prix Sprint",
@@ -26,41 +46,41 @@
             "resolved": true
           }
         ]
-      }
-    ],
-    "nba": [
+      },
       {
-        "title": "Perth Wildcats vs New Zealand Breakers",
+        "title": "Hockenheim — Race 1",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/DatXfmpfVDjpEqQpOxZOUNUjvlnYLhDE/rtmp/stream/e6ce-2x-bKvwGN_4ziceZ_ZdXBSyD981SyjaiuQ4YMFaR8ll-yjWdUa55yv8ZUpUfMZdx96xFrU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-perth-wildcats-vs-new-zealand-breakers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-perth-wildcats-vs-new-zealand-breakers%2F1&source=tv2",
+            "playable_url": "https://lb3.strmd.st/secure/gLdDAJYmrTyfEhQcqmfWWiPZWJohmcbR/hotel/stream/hockenheim-race-1-dtm-1791631800/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fhockenheim-race-1-dtm-1791631800%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fhockenheim-race-1-dtm-1791631800%2F1&source=tv2",
             "resolved": true
-          },
+          }
+        ]
+      }
+    ],
+    "soccer": [
+      {
+        "title": "Oldham vs Accrington",
+        "is_live": true,
+        "links": [
           {
-            "label": "Link - 2",
-            "playable_url": "https://lb27.strmd.st/secure/xjfyqDSHHFRheTxyeKEihegtdZawMTlS/rtmp/stream/e6ce-2x-bKvwGN_4ziceZ_ZdXBSyD981SyjaiuQ4YMFaR8ll-yjWdUa55yv8ZUpUfMZdx96xFrU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-perth-wildcats-vs-new-zealand-breakers%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-perth-wildcats-vs-new-zealand-breakers%2F2&source=tv2",
+            "label": "Link - 1",
+            "playable_url": "https://lb4.wfty.st/secure/apsiG1o26p2ysRT-U6CiFg/deluxe/oldham-accrington/1/4747310/1791655160/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4747310%2Foldham-accrington%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4747310%2Foldham-accrington%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           }
         ]
       },
       {
-        "title": "South East Melbourne Phoenix vs Melbourne United",
+        "title": "Swansea City vs Norwich City",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb12.strmd.st/secure/IuPdFVZOzTaHHguvKldhBnzPzDTtaZKx/rtmp/stream/Eqg7B1VV9T7Ereuyghq-QYm1PPeyK5Xb57CJ1qGfI9YNH89sIxbb1S3UK4k-ska9BL6wH7PIxwU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-south-east-melbourne-phoenix-vs-melbourne-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-south-east-melbourne-phoenix-vs-melbourne-united%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb29.strmd.st/secure/OAyGMtpnRRQuqMSefHlMpRuxHznLuvgC/rtmp/stream/Eqg7B1VV9T7Ereuyghq-QYm1PPeyK5Xb57CJ1qGfI9YNH89sIxbb1S3UK4k-ska9BL6wH7PIxwU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-south-east-melbourne-phoenix-vs-melbourne-united%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-south-east-melbourne-phoenix-vs-melbourne-united%2F2&source=tv2",
+            "playable_url": "https://lb4.wfty.st/secure/FFgidQgHWR2AAvBRxjnA8Q/deluxe/swansea-city-norwich-city/1/401880236/1791655169/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F401880236%2Fswansea-city-norwich-city%2Fdeluxe%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=401880236%2Fswansea-city-norwich-city%2Fdeluxe%2F1&source=tv3",
             "resolved": true
           }
         ]
