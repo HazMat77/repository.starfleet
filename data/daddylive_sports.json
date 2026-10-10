@@ -1,8 +1,26 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-10T03:55:02.614374Z",
+  "scraped_at": "2026-10-10T04:25:02.866114Z",
   "sports_events": {
     "other_events": [
+      {
+        "title": "Castillo vs Zarate",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedevent2/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D112%26id%3D2174%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2174%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedevent2/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D112%26id%3D2174%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2174%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "BKFC Fight Night Bethlehem Cisneros vs Petersen",
         "is_live": true,
@@ -22,6 +40,26 @@
         ]
       }
     ],
+    "nba": [
+      {
+        "title": "Las Vegas Aces vs Golden State Valkyries",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.strmd.st/secure/MbWZKeWDaKxdtwbJHvslzwtnWeTdvWUg/rtmp/stream/4P1LamsZ1-J_JzJ5HWDoUydJhmG4WGBeJd3tFs0ZrQhGklIXbH4KVJiAi2pe-AQPV5zxyTbzVJHAawSHVnI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-golden-state-valkyries-vs-las-vegas-aces%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-golden-state-valkyries-vs-las-vegas-aces%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.strmd.st/secure/JbDKVKGQXLoeRtnoVilfhtHIFIVTjoBq/rtmp/stream/4P1LamsZ1-J_JzJ5HWDoUydJhmG4WGBeJd3tFs0ZrQhGklIXbH4KVJiAi2pe-AQPV5zxyTbzVJHAawSHVnI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-golden-state-valkyries-vs-las-vegas-aces%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-golden-state-valkyries-vs-las-vegas-aces%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "cfl": [],
     "cfb": [
       {
@@ -30,44 +68,20 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/2RhSzFZfMXBPBW--sKSpZw/pro/washington-iowa/1/4706586/1791626113/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706586%2Fwashington-iowa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/arisepEZxvivwTQ0JcVCkA/pro/washington-iowa/1/4706586/1791627914/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706586%2Fwashington-iowa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706586%2Fwashington-iowa%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/pdqdVM-bTSQm1MvDwuVWxQ/pro/washington-iowa/1/4706586/1791626121/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706586%2Fwashington-iowa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/XglcNwcVPrq7Z2QUt6114Q/pro/washington-iowa/1/4706586/1791627924/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706586%2Fwashington-iowa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706586%2Fwashington-iowa%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb2.wfty.st/secure/32dy0no8tFgc-O4t2oT2YA/pro/washington-iowa/1/4706586/1791626131/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706586%2Fwashington-iowa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/jGFx2WgqaAqo_ZGVbt9XIw/pro/washington-iowa/1/4706586/1791627933/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706586%2Fwashington-iowa%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706586%2Fwashington-iowa%2Fpro%2F3&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Utah State vs Washington State",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/-KNCFLYW4QnFYNDEbqvefw/pro/utah-state-washington-state/1/4706600/1791626141/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706600%2Futah-state-washington-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706600%2Futah-state-washington-state%2Fpro%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/Zbi_zensJmXKWRomnhVGdg/pro/utah-state-washington-state/1/4706600/1791626150/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706600%2Futah-state-washington-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706600%2Futah-state-washington-state%2Fpro%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/lPNU-54JOt3eLQ_N8EgwBw/pro/utah-state-washington-state/1/4706600/1791626160/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706600%2Futah-state-washington-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706600%2Futah-state-washington-state%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -78,28 +92,44 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.wfty.st/secure/S6nSSMVEmGvaCUbhTUf_iQ/platinum/san-jose-state-wyoming/1/4706559/1791626191/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706559%2Fsan-jose-state-wyoming%2Fplatinum%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706559%2Fsan-jose-state-wyoming%2Fplatinum%2F1&source=tv3",
-            "resolved": true
-          }
-        ]
-      }
-    ],
-    "nba": [
-      {
-        "title": "Chicago Bulls vs Memphis Grizzlies",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://embed.st/embed/ingest/streamedchicagobulls/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D505%26id%3D2140%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2140%2F1&source=tv2",
+            "playable_url": "https://lb4.wfty.st/secure/cFwZiGMAh_FpISG3NwUSGw/pro/san-jose-state-wyoming/1/4706559/1791627942/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706559%2Fsan-jose-state-wyoming%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706559%2Fsan-jose-state-wyoming%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://embed.st/embed/ingest/streamedchicagobulls/1|Referer=https%3A%2F%2Frockystream.st%2Fsource%2Fstreamed1.php%3Fhd%3D505%26id%3D2140%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2140%2F2&source=tv2",
+            "playable_url": "https://lb6.wfty.st/secure/gQfj2b-DvrWx2BA8g-3dtQ/pro/san-jose-state-wyoming/1/4706559/1791627951/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706559%2Fsan-jose-state-wyoming%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706559%2Fsan-jose-state-wyoming%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb1.wfty.st/secure/1kn7qa6dD7v0V7NKi35SnQ/pro/san-jose-state-wyoming/1/4706559/1791627960/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706559%2Fsan-jose-state-wyoming%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706559%2Fsan-jose-state-wyoming%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Utah State vs Washington State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb1.wfty.st/secure/D-flMmYccNVRMv92zPegSQ/pro/utah-state-washington-state/1/4706600/1791627969/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706600%2Futah-state-washington-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706600%2Futah-state-washington-state%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb4.wfty.st/secure/-T5ZX7FGT4AaMHMFl2Vwhw/pro/utah-state-washington-state/1/4706600/1791627979/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706600%2Futah-state-washington-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706600%2Futah-state-washington-state%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb4.wfty.st/secure/M792pvTKQ3BXONACt2W5UQ/pro/utah-state-washington-state/1/4706600/1791627988/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706600%2Futah-state-washington-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706600%2Futah-state-washington-state%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -112,13 +142,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb32.strmd.st/secure/yvNprseJeDOucLEwZVBArUarqfSMRnTX/rtmp/stream/VpCHXZC8L-0_t7rQsE-pcxrG26ttxPUeUf-WBaaPWzd7_rc7QqtXTWL_2ns6K7jM3_xkOU9W/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-iowa-state-cyclones-at-byu-cougars%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb20.strmd.st/secure/BTPIuHCfbOlOxuAUmvBiXyMZlimknwSk/rtmp/stream/T1vYFD4yo6zW5dAmZIJUfYNYuUfyVq0EQzQ45l5U0L7QV-6bt_nSUTD9VQfn9HaH9VplzJkV/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-iowa-state-cyclones-at-byu-cougars%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-iowa-state-cyclones-at-byu-cougars%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb19.strmd.st/secure/mELlndjetDFMSklCzaZASRksBiadJvHi/rtmp/stream/VpCHXZC8L-0_t7rQsE-pcxrG26ttxPUeUf-WBaaPWzd7_rc7QqtXTWL_2ns6K7jM3_xkOU9W/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-iowa-state-cyclones-at-byu-cougars%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb25.strmd.st/secure/jIVgVSVHNdGKaTirMcayyXDEZASdEWpd/rtmp/stream/T1vYFD4yo6zW5dAmZIJUfYNYuUfyVq0EQzQ45l5U0L7QV-6bt_nSUTD9VQfn9HaH9VplzJkV/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-iowa-state-cyclones-at-byu-cougars%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-iowa-state-cyclones-at-byu-cougars%2F2&source=tv2",
             "resolved": true
           }
@@ -130,13 +160,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb27.strmd.st/secure/BDrHvvOTppstXVAgaytJFFWguIbFMEjp/rtmp/stream/0lQDtKeEGgav7emqOPFZdanqDj5thOvPrZAlJQqh5qhO1K4J6sigojVFAs5L4m8mocO-Sn_K/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-ottawa-red-blacks-at-bc-lions%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/DYKjnIABvEkTdIathvQNgWuoQeqwuaxH/rtmp/stream/ZkC-n0rnUqJ09rf1ygf8RqxmmmQO7XjNCQveKAKSBAfZBeZyap4xE-7vDVqSgCSTJV9aw470/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-ottawa-red-blacks-at-bc-lions%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-ottawa-red-blacks-at-bc-lions%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb21.strmd.st/secure/nDpendtzFFaEVsZdZlLdduvPClICFePF/rtmp/stream/0lQDtKeEGgav7emqOPFZdanqDj5thOvPrZAlJQqh5qhO1K4J6sigojVFAs5L4m8mocO-Sn_K/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-ottawa-red-blacks-at-bc-lions%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb28.strmd.st/secure/lRrLLYHKtlQpSWakyHFClDVnDAznoPpK/rtmp/stream/ZkC-n0rnUqJ09rf1ygf8RqxmmmQO7XjNCQveKAKSBAfZBeZyap4xE-7vDVqSgCSTJV9aw470/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-ottawa-red-blacks-at-bc-lions%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-ottawa-red-blacks-at-bc-lions%2F2&source=tv2",
             "resolved": true
           }
