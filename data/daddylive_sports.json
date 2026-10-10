@@ -1,7 +1,47 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-10T17:25:02.419778Z",
+  "scraped_at": "2026-10-10T17:55:02.494609Z",
   "sports_events": {
+    "boxing": [
+      {
+        "title": "Misfits Boxing: Joey Essex vs. Dapper Laughs",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb10.strmd.st/secure/irFiOZlTiQVNRaTIgNiCmBefZKzyYvng/rtmp/stream/EIW812UY5ivQcvPkkzJqTpwTlloh_jQluHiiRskMcawmNHEKS0yGlk4l8LietUBUxdXEig6N6syq/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-misfits-boxing-joey-essex-vs-dapper-laughs%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-misfits-boxing-joey-essex-vs-dapper-laughs%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb31.strmd.st/secure/GTReNcagRQAJgAVFPOgyKqubplyglxSn/rtmp/stream/EIW812UY5ivQcvPkkzJqTpwTlloh_jQluHiiRskMcawmNHEKS0yGlk4l8LietUBUxdXEig6N6syq/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-misfits-boxing-joey-essex-vs-dapper-laughs%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-misfits-boxing-joey-essex-vs-dapper-laughs%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "darts": [
+      {
+        "title": "Swiss Darts Trophy | Day 2 - Evening Session",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb10.strmd.st/secure/jLnuuaDbFQOjgYwvdlpNlZEYHgNleWIB/rtmp/stream/AYmJgQQqX1Q6FJmnDbq-xA2RQmIGweypcfk7Rl1IVB-Vqy0Im5Lf4NSSQi_3StgOeAE8t9nf_A/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-2-evening-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-2-evening-session%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb31.strmd.st/secure/fRkXwlJDGIbJUwPYCgYLEDBezYbcDfOZ/rtmp/stream/vfqjtDzSx6-cXeqIgdjQIy5TRUWawI9JcBtEeVUYXTeUgBwpXf5eRwm9jivgWfwQIdvfGYraNQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-2-evening-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-2-evening-session%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [
       {
         "title": "Singapore Grand Prix Qualifying",
@@ -27,7 +67,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.strmd.st/secure/GSoOzIxlcronTrfAgpCDDWtGMyVRQuId/hotel/stream/charlotte-motor-speedway-free-practice-nascar-cup-series-1791651600/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-free-practice-nascar-cup-series-1791651600%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb12.strmd.st/secure/VNXonUOgBIzxdNkVCJTQUzETavcYUjxP/hotel/stream/charlotte-motor-speedway-free-practice-nascar-cup-series-1791651600/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-free-practice-nascar-cup-series-1791651600%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fcharlotte-motor-speedway-free-practice-nascar-cup-series-1791651600%2F1&source=tv2",
             "resolved": true
           }
@@ -46,24 +86,12 @@
         ]
       },
       {
-        "title": "Algarve — Race: 4 Hours of Portimão",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb23.strmd.st/secure/kImqzJEJUlrwZWVeewdJOasEjfmziWbn/hotel/stream/algarve-race-4-hours-of-portim-o-european-le-mans-series-1791639000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Falgarve-race-4-hours-of-portim-o-european-le-mans-series-1791639000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Falgarve-race-4-hours-of-portim-o-european-le-mans-series-1791639000%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
         "title": "Marina Bay — Qualifying",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb22.strmd.st/secure/CeOAGtFLpxtywvbcwqQqApnJVcKZcKGl/hotel/stream/marina-bay-qualifying-formula-1-1791636694/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fmarina-bay-qualifying-formula-1-1791636694%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/TQmbtjczopObWmKbtsIUDAMyVZqPIgtA/hotel/stream/marina-bay-qualifying-formula-1-1791636694/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fmarina-bay-qualifying-formula-1-1791636694%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fmarina-bay-qualifying-formula-1-1791636694%2F1&source=tv2",
             "resolved": true
           }
@@ -73,49 +101,49 @@
     "nhl": [],
     "cfb": [
       {
-        "title": "Bowling Green vs Sacramento State",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/Mun1e5OLOjCX95h6SXj1RQ/pro/bowling-green-sacramento-state/1/4706562/1791674877/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706562%2Fbowling-green-sacramento-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706562%2Fbowling-green-sacramento-state%2Fpro%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb6.wfty.st/secure/Hc9eW6nmID4QzzG5AJVjnA/pro/bowling-green-sacramento-state/1/4706562/1791674887/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706562%2Fbowling-green-sacramento-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706562%2Fbowling-green-sacramento-state%2Fpro%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/UCX27y2hpWKQ6mlk-Q0lkg/pro/bowling-green-sacramento-state/1/4706562/1791674897/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706562%2Fbowling-green-sacramento-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706562%2Fbowling-green-sacramento-state%2Fpro%2F3&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
         "title": "Pittsburgh vs North Carolina",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb5.wfty.st/secure/ZolGow-4az8R1RZ8B2CY0Q/pro/pittsburgh-north-carolina/1/4706612/1791674906/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706612%2Fpittsburgh-north-carolina%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/SnHwJQCMw1Xwqm_Ukk4n6Q/pro/pittsburgh-north-carolina/1/4706612/1791676722/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706612%2Fpittsburgh-north-carolina%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706612%2Fpittsburgh-north-carolina%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/d9i-Xsk8a9sFV_rMpXr55Q/pro/pittsburgh-north-carolina/1/4706612/1791674915/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706612%2Fpittsburgh-north-carolina%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/JUmMmrN3swvKkEbjjd30Hg/pro/pittsburgh-north-carolina/1/4706612/1791676731/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706612%2Fpittsburgh-north-carolina%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706612%2Fpittsburgh-north-carolina%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb2.wfty.st/secure/ZY8QdGZwSxfNR_TZD48frg/pro/pittsburgh-north-carolina/1/4706612/1791674925/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706612%2Fpittsburgh-north-carolina%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/eKkRj31BEu_PJhfoR6m7fA/pro/pittsburgh-north-carolina/1/4706612/1791676741/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706612%2Fpittsburgh-north-carolina%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706612%2Fpittsburgh-north-carolina%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Bowling Green vs Sacramento State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb4.wfty.st/secure/j9SJCI3SZL5V0CiGw2EozQ/pro/bowling-green-sacramento-state/1/4706562/1791676751/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706562%2Fbowling-green-sacramento-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706562%2Fbowling-green-sacramento-state%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/fJyWXujlKEh82DMZxFs49w/pro/bowling-green-sacramento-state/1/4706562/1791676761/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706562%2Fbowling-green-sacramento-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706562%2Fbowling-green-sacramento-state%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb3.wfty.st/secure/Eu6xR7BrxKDgb0QtAXmXzg/pro/bowling-green-sacramento-state/1/4706562/1791676771/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706562%2Fbowling-green-sacramento-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706562%2Fbowling-green-sacramento-state%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -126,44 +154,20 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb2.wfty.st/secure/5q7_gusM7HcE-cbqtydfyQ/pro/northwestern-ball-state/1/4706570/1791674935/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706570%2Fnorthwestern-ball-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/6MNEqTjARLlNf1ZTSbRTLA/pro/northwestern-ball-state/1/4706570/1791676781/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706570%2Fnorthwestern-ball-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706570%2Fnorthwestern-ball-state%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb1.wfty.st/secure/CS0GvVk7GPQsTAJLRDNbVA/pro/northwestern-ball-state/1/4706570/1791674944/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706570%2Fnorthwestern-ball-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.wfty.st/secure/hJ0fGoI3ghyt1uPaHvU-hQ/pro/northwestern-ball-state/1/4706570/1791676791/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706570%2Fnorthwestern-ball-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706570%2Fnorthwestern-ball-state%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/rJXf9T8LNUi-y-gS7xXlHQ/pro/northwestern-ball-state/1/4706570/1791674955/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706570%2Fnorthwestern-ball-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/4Gt4RO7G9JaAbQ6Vl2JRyw/pro/northwestern-ball-state/1/4706570/1791676801/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706570%2Fnorthwestern-ball-state%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706570%2Fnorthwestern-ball-state%2Fpro%2F3&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "East Carolina vs Rice",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/3T90s8j12UkDKekh6Ivvgg/pro/east-carolina-rice/1/4706576/1791674964/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706576%2Feast-carolina-rice%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706576%2Feast-carolina-rice%2Fpro%2F1&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb4.wfty.st/secure/HTeWZiN2Zlv_tP4q9KMfGg/pro/east-carolina-rice/1/4706576/1791674973/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706576%2Feast-carolina-rice%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706576%2Feast-carolina-rice%2Fpro%2F2&source=tv3",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://lb4.wfty.st/secure/VrC-qK3jofLFCi7KXMWLDg/pro/east-carolina-rice/1/4706576/1791674982/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706576%2Feast-carolina-rice%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706576%2Feast-carolina-rice%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -174,20 +178,44 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/xSVlWs-TtboqgMpfyy5fqA/pro/appalachian-state-old-dominion/1/4706605/1791674991/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706605%2Fappalachian-state-old-dominion%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/xpbNNPLGvEaulZdEx3gEvg/pro/appalachian-state-old-dominion/1/4706605/1791676810/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706605%2Fappalachian-state-old-dominion%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706605%2Fappalachian-state-old-dominion%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb5.wfty.st/secure/3-SFiu4wrqAqr8ujxdqimQ/pro/appalachian-state-old-dominion/1/4706605/1791675000/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706605%2Fappalachian-state-old-dominion%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb1.wfty.st/secure/uHxQVcEFRZ8HH123d1p_Iw/pro/appalachian-state-old-dominion/1/4706605/1791676819/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706605%2Fappalachian-state-old-dominion%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706605%2Fappalachian-state-old-dominion%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb6.wfty.st/secure/M6RiYvGoQ8bJY-WTzw7gaA/pro/appalachian-state-old-dominion/1/4706605/1791675009/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706605%2Fappalachian-state-old-dominion%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.wfty.st/secure/WVUGQQeGRqGK53jRbOi31g/pro/appalachian-state-old-dominion/1/4706605/1791676828/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706605%2Fappalachian-state-old-dominion%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706605%2Fappalachian-state-old-dominion%2Fpro%2F3&source=tv3",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "East Carolina vs Rice",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.wfty.st/secure/x1_StYvaJCJHFqJ61UhdKg/pro/east-carolina-rice/1/4706576/1791676837/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706576%2Feast-carolina-rice%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706576%2Feast-carolina-rice%2Fpro%2F1&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.wfty.st/secure/J3V4ToQSzzVH4P3xusSwjQ/pro/east-carolina-rice/1/4706576/1791676846/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706576%2Feast-carolina-rice%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706576%2Feast-carolina-rice%2Fpro%2F2&source=tv3",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb3.wfty.st/secure/Am2gUApL4TT_pWE768f6JA/pro/east-carolina-rice/1/4706576/1791676855/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706576%2Feast-carolina-rice%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=4706576%2Feast-carolina-rice%2Fpro%2F3&source=tv3",
             "resolved": true
           }
         ]
@@ -198,44 +226,20 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.wfty.st/secure/PSE97rILlITZ3soTXG2hXA/pro/nc-state-wake-forest/1/4706614/1791675018/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706614%2Fnc-state-wake-forest%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.wfty.st/secure/L7aVr0JGkkKjJcqTJARe1A/pro/nc-state-wake-forest/1/4706614/1791676865/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706614%2Fnc-state-wake-forest%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706614%2Fnc-state-wake-forest%2Fpro%2F1&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.wfty.st/secure/sIMPcQDnhnGtuKvvIRVh-w/pro/nc-state-wake-forest/1/4706614/1791675027/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706614%2Fnc-state-wake-forest%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.wfty.st/secure/SDi9OKShxgMJtaxH0oRhaw/pro/nc-state-wake-forest/1/4706614/1791676874/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706614%2Fnc-state-wake-forest%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706614%2Fnc-state-wake-forest%2Fpro%2F2&source=tv3",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb2.wfty.st/secure/VlAEptaujeC_Hl5snRLy3w/pro/nc-state-wake-forest/1/4706614/1791675036/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706614%2Fnc-state-wake-forest%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb5.wfty.st/secure/qdwTK1PKNNpTHkjmEO7KZQ/pro/nc-state-wake-forest/1/4706614/1791676883/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706614%2Fnc-state-wake-forest%2Fpro%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=4706614%2Fnc-state-wake-forest%2Fpro%2F3&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Army vs Tulane",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb6.wfty.st/secure/dQSqMTih8NLSVkdSOOyUqA/platinum/army-tulane/1/4706616/1791675089/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706616%2Farmy-tulane%2Fplatinum%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706616%2Farmy-tulane%2Fplatinum%2F1&source=tv3",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "West Virginia vs Arizona",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb4.wfty.st/secure/C-mq4RwspuWhLUCTFwed3Q/platinum/west-virginia-arizona/1/4706567/1791675096/playlist.m3u8|Referer=https%3A%2F%2Fsportsembed.su%2Fembed%2F4706567%2Fwest-virginia-arizona%2Fplatinum%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=4706567%2Fwest-virginia-arizona%2Fplatinum%2F1&source=tv3",
             "resolved": true
           }
         ]
