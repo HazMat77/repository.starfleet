@@ -1,7 +1,33 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-11T22:25:02.893614Z",
+  "scraped_at": "2026-10-11T22:55:02.871213Z",
   "sports_events": {
+    "nba": [
+      {
+        "title": "Cleveland Cavaliers vs Orlando Magic",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedclevelandcavaliers/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D506%26id%3D2178%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2178%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedclevelandcavaliers/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D506%26id%3D2178%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2178%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedclevelandcavaliers/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D506%26id%3D2178%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-orlando-magic-vs-cleveland-cavaliers%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "darts": [
       {
         "title": "Swiss Darts Trophy | Day 3 - Evening Session",
@@ -9,13 +35,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb23.strmd.st/secure/taGSbmudxnNtyPDFhoXrAbNaXPPPWdQB/rtmp/stream/dIfjITyKHJQYHGjp7acu9JOF5UlkX_gUME0cM8GD8ytvEuSzcq640ahazpvmABcqlf9X4XbFfA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-3-evening-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb23.strmd.st/secure/AMLSanlJJAATYAWkqYXhtcXCYftxGYdM/rtmp/stream/dIfjITyKHJQYHGjp7acu9JOF5UlkX_gUME0cM8GD8ytvEuSzcq640ahazpvmABcqlf9X4XbFfA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-3-evening-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-3-evening-session%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb28.strmd.st/secure/qXRdOsosQMSuRJFqAhCJYFqJGUGKNqjA/rtmp/stream/dIfjITyKHJQYHGjp7acu9JOF5UlkX_gUME0cM8GD8ytvEuSzcq640ahazpvmABcqlf9X4XbFfA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-3-evening-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.strmd.st/secure/onnhsIwHJvUnyCSlAVhnKucLljiAXDRi/rtmp/stream/dIfjITyKHJQYHGjp7acu9JOF5UlkX_gUME0cM8GD8ytvEuSzcq640ahazpvmABcqlf9X4XbFfA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-3-evening-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-3-evening-session%2F2&source=tv2",
             "resolved": true
           }
@@ -29,19 +55,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb23.strmd.st/secure/utqnrvgxGmDvQcwCGtpINlDBarnLAgzf/hotel/stream/charlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb23.strmd.st/secure/CnrCQmxnRSXPIngMBmCUqbpUjLhfGNxM/hotel/stream/charlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fcharlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb28.strmd.st/secure/jjxmUOuchRGcctaAaLeDuPfQSqWxDDHT/hotel/stream/charlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.strmd.st/secure/fNVoIisdKkyGoyBddGxtGIFeplMcwKSA/hotel/stream/charlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fcharlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb14.strmd.st/secure/dBVtszeQCKEFGyvKsfuKocpsYrtWGQid/hotel/stream/charlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb14.strmd.st/secure/rVItDavFbFzImMWSnQqELophlgLKFLCd/hotel/stream/charlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fcharlotte-motor-speedway-the-chase-race-bank-of-america-400-nascar-cup-series-1791746340%2F3&source=tv2",
             "resolved": true
           }
@@ -53,13 +79,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb16.strmd.st/secure/jifmwYuhxxaMHPmEuPOuLnEjoqyMEQSy/rtmp/stream/N2hM8Txa-ANtdpstoPIMhOTdiQx_PJh9MnBUP_iN3QZVvx4HTCGIjLwN7SZgHQi5od28MGk/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-bound-for-glory%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb30.strmd.st/secure/ZrEzuqgctUUlfdVmJSFCASgAxQuUzCwG/rtmp/stream/xJOVQxxd_vsuJo-sVLlxupzHyAfzzAMS714SqXisZ7sUbNFdV7mKH-k67OEWcZzwHqg4qbc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-bound-for-glory%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-tna-bound-for-glory%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb18.strmd.st/secure/uLsvqGiizEJwadlZiOlHAXjcnZqSEhtQ/rtmp/stream/N2hM8Txa-ANtdpstoPIMhOTdiQx_PJh9MnBUP_iN3QZVvx4HTCGIjLwN7SZgHQi5od28MGk/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-bound-for-glory%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb28.strmd.st/secure/xNIvvMvcYprJXNWiBwKUpKlbYjWZwlYW/rtmp/stream/xJOVQxxd_vsuJo-sVLlxupzHyAfzzAMS714SqXisZ7sUbNFdV7mKH-k67OEWcZzwHqg4qbc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-bound-for-glory%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-tna-bound-for-glory%2F2&source=tv2",
             "resolved": true
           }
@@ -125,19 +151,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/AaxPJLPTrbQHhuGWbBNMCXlVeTarSiEM/rtmp/stream/XnZTYWB1UeYLTpKt62syZtppIBm7eAN9NW-tjfT7Ap1k2kuE5dc7084-hCBi7b90ex06kkTYnP1A/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nfl-red-zone%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb2.strmd.st/secure/ddTYpyDAxBFoSFlScwdhRKQRyHjCBYVN/rtmp/stream/pVsOG78QPiNTo_Pyea0APXyg10gsf9jBjVf9UQDHdjuu0runpeJGsKLKXd_QPCz2nx6wIfEQSRTC/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nfl-red-zone%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-nfl-red-zone%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb29.strmd.st/secure/FDYrYDqgFunYsgPsdIHennTvYHBJPmlM/rtmp/stream/XnZTYWB1UeYLTpKt62syZtppIBm7eAN9NW-tjfT7Ap1k2kuE5dc7084-hCBi7b90ex06kkTYnP1A/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nfl-red-zone%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb26.strmd.st/secure/KUefIrTOHXnppAqwjOEPJFBaDAsybMZV/rtmp/stream/pVsOG78QPiNTo_Pyea0APXyg10gsf9jBjVf9UQDHdjuu0runpeJGsKLKXd_QPCz2nx6wIfEQSRTC/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nfl-red-zone%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-nfl-red-zone%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb22.strmd.st/secure/MktUpjIAuWdoiMmvrjEFoVOvTmIHgzSq/rtmp/stream/XnZTYWB1UeYLTpKt62syZtppIBm7eAN9NW-tjfT7Ap1k2kuE5dc7084-hCBi7b90ex06kkTYnP1A/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nfl-red-zone%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb25.strmd.st/secure/VXrVaNHIgLUYsWLHvCRaQJfefZgNxjcy/rtmp/stream/pVsOG78QPiNTo_Pyea0APXyg10gsf9jBjVf9UQDHdjuu0runpeJGsKLKXd_QPCz2nx6wIfEQSRTC/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nfl-red-zone%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=golf%2F-20261011%2F1&source=tv2",
             "resolved": true
           }
@@ -149,7 +175,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb24.strmd.st/secure/bdukAKBnkYVMwveCTCnHKrMvFImHyeGK/hotel/stream/racing-santander-vs-valencia-laliga-ea-sports-1791745200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fracing-santander-vs-valencia-laliga-ea-sports-1791745200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb24.strmd.st/secure/FpzeKdZPXtOCxVCsEnqqWxCtJLwWtOYJ/hotel/stream/racing-santander-vs-valencia-laliga-ea-sports-1791745200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fracing-santander-vs-valencia-laliga-ea-sports-1791745200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fracing-santander-vs-valencia-laliga-ea-sports-1791745200%2F1&source=tv2",
             "resolved": true
           }
@@ -161,7 +187,7 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb25.strmd.st/secure/uMhTwxbhQSheTfFLUaHiQWxwrdBFnOpD/hotel/stream/redzone-week-5-nfl-1791738000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fredzone-week-5-nfl-1791738000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb28.strmd.st/secure/hjkXTBPZoJcGBtzZwyTawFueyCaKhaae/hotel/stream/redzone-week-5-nfl-1791738000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fredzone-week-5-nfl-1791738000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fredzone-week-5-nfl-1791738000%2F1&source=tv2",
             "resolved": true
           }
