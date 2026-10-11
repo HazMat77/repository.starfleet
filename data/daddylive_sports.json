@@ -1,7 +1,27 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-11T14:25:03.058677Z",
+  "scraped_at": "2026-10-11T14:55:03.047951Z",
   "sports_events": {
+    "darts": [
+      {
+        "title": "Swiss Darts Trophy | Day 3 - Afternoon Session",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb17.strmd.st/secure/zYCgFsBKBgcFZPaaaMflxUUgWYsVPGLg/rtmp/stream/IjCwn6CtbTpEkRt95BlfYZzlpeE0pKFDYA4YRjYtfKvAm0LrqzugTauawmIFVr0sM6-OtJCGMw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-3-afternoon-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-3-afternoon-session%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb9.strmd.st/secure/lucXyUkWkkMkgpsrVBksabZssoaQdKNz/rtmp/stream/IjCwn6CtbTpEkRt95BlfYZzlpeE0pKFDYA4YRjYtfKvAm0LrqzugTauawmIFVr0sM6-OtJCGMw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-3-afternoon-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-3-afternoon-session%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [
       {
         "title": "Singapore Grand Prix",
@@ -26,23 +46,27 @@
             "resolved": true
           }
         ]
-      }
-    ],
-    "darts": [
+      },
       {
-        "title": "Swiss Darts Trophy | Day 3 - Afternoon Session",
+        "title": "Hockenheim — Race 2",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb20.strmd.st/secure/UELhAEuHpuWJBhrqABKWffgZyZjTyZjg/rtmp/stream/KKdewhtkqh-S82cKI5j9rW0-VfyN9axjcbIR2tMfFRrOM6VYg_kyxHJuAn4kmyB0qCYcmcmQrQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-3-afternoon-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-3-afternoon-session%2F1&source=tv2",
+            "playable_url": "https://lb9.strmd.st/secure/ASKhofKiNBQPkCnUVgxKjyHvrMllYYfD/hotel/stream/hockenheim-race-2-dtm-1791729000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fhockenheim-race-2-dtm-1791729000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fhockenheim-race-2-dtm-1791729000%2F1&source=tv2",
             "resolved": true
-          },
+          }
+        ]
+      },
+      {
+        "title": "Estoril — Race 2",
+        "is_live": true,
+        "links": [
           {
-            "label": "Link - 2",
-            "playable_url": "https://lb10.strmd.st/secure/NgMKEiDbjtKeypPvDEIHtDZTkOImYQWa/rtmp/stream/KKdewhtkqh-S82cKI5j9rW0-VfyN9axjcbIR2tMfFRrOM6VYg_kyxHJuAn4kmyB0qCYcmcmQrQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-swiss-darts-trophy-day-3-afternoon-session%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-swiss-darts-trophy-day-3-afternoon-session%2F2&source=tv2",
+            "label": "Link - 1",
+            "playable_url": "https://lb2.strmd.st/secure/UROPdyShlPtqGsPduDUWXbdYlVMCcyUe/hotel/stream/estoril-race-2-worldsbk-1791729000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Festoril-race-2-worldsbk-1791729000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Festoril-race-2-worldsbk-1791729000%2F1&source=tv2",
             "resolved": true
           }
         ]
