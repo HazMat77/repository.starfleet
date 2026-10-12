@@ -1,7 +1,85 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-12T03:25:03.561414Z",
+  "scraped_at": "2026-10-12T03:55:03.246427Z",
   "sports_events": {
+    "nba": [
+      {
+        "title": "Denver Nuggets vs Chicago Bulls",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streameddenvernuggets/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D508%26id%3D2180%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2180%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streameddenvernuggets/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D508%26id%3D2180%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2180%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streameddenvernuggets/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D508%26id%3D2180%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-chicago-bulls-vs-denver-nuggets%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "soccer": [
+      {
+        "title": "Atlanta Falcons vs Baltimore Ravens",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedatlantafalcons/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D252%26id%3D2113%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2113%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedatlantafalcons/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D252%26id%3D2113%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2113%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedatlantafalcons/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D252%26id%3D2113%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-baltimore-ravens-at-atlanta-falcons%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "mlb": [
+      {
+        "title": "Milwaukee Brewers vs Los Angeles Dodgers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebrewers/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D615%26id%3D2198%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2198%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebrewers/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D615%26id%3D2198%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2198%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebrewers/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D615%26id%3D2198%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-los-angeles-dodgers-vs-milwaukee-brewers%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [
       {
         "title": "Charlotte Motor Speedway — The Chase - Race: Blue Cross NC 300",
@@ -9,13 +87,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb9.strmd.st/secure/JEupfvQvUBCAsQdamcRpeciBHxjZKOhq/hotel/stream/charlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb26.strmd.st/secure/FXxzTnPQIsGBgWwcbiXBFaOmtXUPHmgT/hotel/stream/charlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb25.strmd.st/secure/okrSUAyJCWGeWbPswDrfbgzPwgOvvAxH/hotel/stream/charlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb23.strmd.st/secure/caJveiePGoFzMezvACpyNVwAFJXSqCER/hotel/stream/charlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F2&source=tv2",
             "resolved": true
           }
@@ -27,43 +105,21 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb4.strmd.st/secure/SpYquMtPsbNRXyZOHnsriYdoZDIEyiQR/rtmp/stream/zQzqSTUJggrA0QjNZ-4PKWGXxJ1jCRDi4HYvI0pAd4RYAhysFq6HufJagnJ3uT2PaKuEcyA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-bound-for-glory%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb26.strmd.st/secure/TgjcIdJNCazqEFspKzzkXjOfvFcMjKnG/rtmp/stream/zQzqSTUJggrA0QjNZ-4PKWGXxJ1jCRDi4HYvI0pAd4RYAhysFq6HufJagnJ3uT2PaKuEcyA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-bound-for-glory%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-tna-bound-for-glory%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb27.strmd.st/secure/jNqkhTUOVhmdEXDkeIKpfbblsZjXtBXV/rtmp/stream/zQzqSTUJggrA0QjNZ-4PKWGXxJ1jCRDi4HYvI0pAd4RYAhysFq6HufJagnJ3uT2PaKuEcyA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-bound-for-glory%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb24.strmd.st/secure/HkEdbUkXAzyqPCTlRJJPJtqjWHVCppyh/rtmp/stream/zQzqSTUJggrA0QjNZ-4PKWGXxJ1jCRDi4HYvI0pAd4RYAhysFq6HufJagnJ3uT2PaKuEcyA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-bound-for-glory%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-tna-bound-for-glory%2F2&source=tv2",
             "resolved": true
           }
         ]
       }
     ],
-    "nba": [],
     "ufc": [],
-    "mlb": [],
     "nhl": [],
-    "soccer": [
-      {
-        "title": "Pumas UNAM vs Cruz Azul",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb27.strmd.st/secure/LApIubvNEfsBjrRKspDmMEDCNPIWgbOE/rtmp/stream/vacE652EOcoFfJoWwLz3ett7DsLmw89bnxw6xmyPhjqo5_mICt6o-6y_0XlPBERZ9jdWUy-1662P/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-pumas-unam-vs-cruz-azul%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-pumas-unam-vs-cruz-azul%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb21.strmd.st/secure/DxgHqHXbKAyQaYdNTKRaMbzvUnTJXyhI/rtmp/stream/vacE652EOcoFfJoWwLz3ett7DsLmw89bnxw6xmyPhjqo5_mICt6o-6y_0XlPBERZ9jdWUy-1662P/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-pumas-unam-vs-cruz-azul%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-pumas-unam-vs-cruz-azul%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
     "cfb": []
   }
 }
