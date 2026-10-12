@@ -1,27 +1,7 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-12T04:25:02.878849Z",
+  "scraped_at": "2026-10-12T04:55:03.140557Z",
   "sports_events": {
-    "mlb": [
-      {
-        "title": "Milwaukee Brewers vs Los Angeles Dodgers",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebrewers/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D615%26id%3D2198%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2198%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://embed.st/embed/ingest/streamedmilwaukeebrewers/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D615%26id%3D2198%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2198%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
     "nba": [
       {
         "title": "Denver Nuggets vs Chicago Bulls",
@@ -68,7 +48,27 @@
           {
             "label": "Link - 3",
             "playable_url": "https://embed.st/embed/ingest/streamedatlantafalcons/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D252%26id%3D2113%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-baltimore-ravens-at-atlanta-falcons%2F1&source=tv2",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fbaltimore-ravens-vs-atlanta-falcons-nfl-1791764400%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "mlb": [
+      {
+        "title": "Milwaukee Brewers vs Los Angeles Dodgers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb26.strmd.st/secure/wuUqxhmQZZdNuvhxruCIZiwjmgBZdFoJ/golf/stream/2198/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F2198%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2198%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb13.strmd.st/secure/UOncLAnJZdmBYNRamPJfDwsnyNNdULHK/golf/stream/2198/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fgolf%2F2198%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2198%2F2&source=tv2",
             "resolved": true
           }
         ]
@@ -81,13 +81,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb29.strmd.st/secure/ILNAhkzuEFDUuiZiZSZyieOXZSyngidd/hotel/stream/charlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb26.strmd.st/secure/aPbdBaToIdBoKWqnKDIkBVZybMHIuhmR/hotel/stream/charlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb2.strmd.st/secure/NxVOeoshXRXpGqILjdOIPkVlCrQWvRXu/hotel/stream/charlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/ZIbRIXettXtVzJIjOjNZNXPinnCzOsaZ/hotel/stream/charlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fcharlotte-motor-speedway-the-chase-race-blue-cross-nc-300-nascar-oreilly-auto-parts-series-1791763200%2F2&source=tv2",
             "resolved": true
           }
