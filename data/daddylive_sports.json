@@ -1,8 +1,26 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-13T23:55:03.317547Z",
+  "scraped_at": "2026-10-14T00:25:03.223300Z",
   "sports_events": {
     "soccer": [
+      {
+        "title": "Jacksonville State Gamecocks vs Florida Intl Golden Panthers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedespnuhd/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D138%26id%3D2151%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2151%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedespnuhd/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D138%26id%3D2151%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2151%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "Middle Tennessee vs Delaware",
         "is_live": true,
@@ -22,6 +40,26 @@
         ]
       }
     ],
+    "wwe": [
+      {
+        "title": "WWE NXT",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb13.strmd.st/secure/YzacBPOcrVvsPLIwlluWTpGWDWYgzecS/rtmp/stream/YZl6X91QYTKhlSuPATzfwPZSAk_ZZEudYLrmJIuqJzOp3vSKHdUtjtKvNgaHItCs8fTQcdhSq9i-/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-wwe-nxt%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-wwe-nxt%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb30.strmd.st/secure/oGUFaKirDKihQrYeinQZmStuIwXvFNKg/rtmp/stream/YZl6X91QYTKhlSuPATzfwPZSAk_ZZEudYLrmJIuqJzOp3vSKHdUtjtKvNgaHItCs8fTQcdhSq9i-/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-wwe-nxt%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-wwe-nxt%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [
       {
         "title": "Dana White's Contender Series",
@@ -29,19 +67,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb25.strmd.st/secure/vfKcfxdrglfdLBCxWyQxIvEKdnjhFaKG/rtmp/stream/rs0DbWI9U8EV1K-rKD-wWgpaE8HxjyQCwuTWmIIrzvm8NDr84HAYRP4txXZV_OTAov2OA7QS/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dana-white-s-contender-series%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/LzRvzJKcGYRzLUEeHWIKYpydlNxGkARF/rtmp/stream/m8TPJaybmNOj2c-v0Dg-EMQoEFBrFUyWdPk59_xpLpY1H7M8HdJ4qJBYkFEzSxRtb8wete11/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dana-white-s-contender-series%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-dana-white-s-contender-series%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb24.strmd.st/secure/TAiqjpIaNmEpgnXEKnVCTmXYIwrpxgzW/rtmp/stream/rs0DbWI9U8EV1K-rKD-wWgpaE8HxjyQCwuTWmIIrzvm8NDr84HAYRP4txXZV_OTAov2OA7QS/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dana-white-s-contender-series%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb30.strmd.st/secure/JYkkEasjlZRpOjAClOTJtUsUQQLEQxpL/rtmp/stream/m8TPJaybmNOj2c-v0Dg-EMQoEFBrFUyWdPk59_xpLpY1H7M8HdJ4qJBYkFEzSxRtb8wete11/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dana-white-s-contender-series%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-dana-white-s-contender-series%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb29.strmd.st/secure/KPdJFirFCstJdqmPNwECBHmJXNMUobfQ/rtmp/stream/rs0DbWI9U8EV1K-rKD-wWgpaE8HxjyQCwuTWmIIrzvm8NDr84HAYRP4txXZV_OTAov2OA7QS/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dana-white-s-contender-series%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb11.strmd.st/secure/nQGgHIIQYTRTTyIiQCPPGOIoxPwAjvQs/rtmp/stream/m8TPJaybmNOj2c-v0Dg-EMQoEFBrFUyWdPk59_xpLpY1H7M8HdJ4qJBYkFEzSxRtb8wete11/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-dana-white-s-contender-series%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fdana-white-s-contender-series-season-10-week-10-ufc-1791932400%2F1&source=tv2",
             "resolved": true
           }
@@ -66,7 +104,32 @@
         ]
       }
     ],
+    "ufc": [],
     "nba": [
+      {
+        "title": "Oklahoma City Thunder vs Indiana Pacers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedoklahomacitythunder/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D520%26id%3D2234%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2234%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedoklahomacitythunder/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D520%26id%3D2234%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2234%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedoklahomacitythunder/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D520%26id%3D2234%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-indiana-pacers-vs-oklahoma-city-thunder%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "Toronto Raptors vs New York Knicks",
         "is_live": true,
@@ -92,8 +155,56 @@
         ]
       }
     ],
-    "ufc": [],
+    "mlb": [],
     "nhl": [
+      {
+        "title": "Chicago Blackhawks vs Pittsburgh Penguins",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedpittsburghpenguins/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D241%26id%3D2245%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2245%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedpittsburghpenguins/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D241%26id%3D2245%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2245%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedpittsburghpenguins/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D241%26id%3D2245%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2245%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "New York Islanders vs Vancouver Canucks",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedvancouvercanucks/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D247%26id%3D2244%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2244%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedvancouvercanucks/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D247%26id%3D2244%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2244%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedvancouvercanucks/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D247%26id%3D2244%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2244%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "Ottawa Senators vs St. Louis Blues",
         "is_live": true,
@@ -239,18 +350,42 @@
         ]
       },
       {
+        "title": "Detroit Red Wings vs New Jersey Devils",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamednewjerseydevils/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D236%26id%3D2237%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2237%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamednewjerseydevils/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D236%26id%3D2237%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2237%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamednewjerseydevils/1|Referer=https%3A%2F%2Frockylive.st%2Fsource%2Fstreamed1.php%3Fhd%3D236%26id%3D2237%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2237%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
         "title": "NHL Frozen Frenzy",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb25.strmd.st/secure/KTxjKsFkJpIXBzOsMgUyhrSqPRSgqFin/rtmp/stream/A-5gKlEXAibuULHJfYZ2ujeRfyW8RNL04kZp37Ifd-I1g_trYcRXC6kuqqiAzfH1UKmIdQEHaQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nhl-frozen-frenzy%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb12.strmd.st/secure/yczDMiKyXBFyFmfNDuNLSdQPxHYXXfcU/rtmp/stream/PE5VG8MTyqy2pX151GulEi4oYPbIcvLI1TP2oVdEqi9YR9hU0SleexSCoBN7nSsQKGsQ__H3oQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nhl-frozen-frenzy%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-nhl-frozen-frenzy%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb32.strmd.st/secure/CRfsdODpqPpKzdvzcanqsBMuMypxtidr/rtmp/stream/A-5gKlEXAibuULHJfYZ2ujeRfyW8RNL04kZp37Ifd-I1g_trYcRXC6kuqqiAzfH1UKmIdQEHaQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nhl-frozen-frenzy%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb16.strmd.st/secure/PJfkZeIGLqOmJjmhCdwlehRurRqqyRXm/rtmp/stream/PE5VG8MTyqy2pX151GulEi4oYPbIcvLI1TP2oVdEqi9YR9hU0SleexSCoBN7nSsQKGsQ__H3oQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-nhl-frozen-frenzy%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-nhl-frozen-frenzy%2F2&source=tv2",
             "resolved": true
           }
