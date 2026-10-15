@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="starfleet">
   <channel id="TVA.ca"><display-name>TVA</display-name></channel>
-  <programme start="20261015130000 -0400" stop="20261015150000 -0400" channel="TVA.ca">
-    <title>Cinéma "Duma" (Jeunes, 2005) Alex Michaeletos, Eamonn Walker, Campbell Scott</title>
-  </programme>
   <programme start="20261015150000 -0400" stop="20261015153000 -0400" channel="TVA.ca">
     <title>Histoire de succès (N)</title>
   </programme>
@@ -23,10 +20,13 @@
     <title>Le tricheur (N)</title>
   </programme>
   <programme start="20261015190000 -0400" stop="20261015193000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
+    <title>Indéfendable (N)</title>
   </programme>
   <programme start="20261015193000 -0400" stop="20261015200000 -0400" channel="TVA.ca">
     <title>J.E. (N)</title>
+  </programme>
+  <programme start="20261015200000 -0400" stop="20261015203000 -0400" channel="TVA.ca">
+    <title>&amp;nbsp;</title>
   </programme>
   <programme start="20261015200000 -0400" stop="20261015210000 -0400" channel="TVA.ca">
     <title>Médecin malgré tout (N)</title>
@@ -43,8 +43,8 @@
   <programme start="20261015230000 -0400" stop="20261016003000 -0400" channel="TVA.ca">
     <title>Cinéma "Ace Ventura: l'appel de la nature" (Comédie, 1995)</title>
   </programme>
-  <programme start="20261016003000 -0400" stop="20261016013000 -0400" channel="TVA.ca">
-    <title>Cinéma "Commis en folie III"</title>
+  <programme start="20261016003000 -0400" stop="20261016023000 -0400" channel="TVA.ca">
+    <title>Cinéma "Commis en folie III" (Comédie, 2022)</title>
   </programme>
   <programme start="20261016023000 -0400" stop="20261016033000 -0400" channel="TVA.ca">
     <title>Hôtel "Les disparus"</title>
@@ -64,7 +64,7 @@
   <programme start="20261016060000 -0400" stop="20261016063000 -0400" channel="TVA.ca">
     <title>Le Québec matin (N)</title>
   </programme>
-  <programme start="20261016063000 -0400" stop="20261016073000 -0400" channel="TVA.ca">
+  <programme start="20261016063000 -0400" stop="20261016083000 -0400" channel="TVA.ca">
     <title>Salut bonjour (N)</title>
   </programme>
   <programme start="20261016103000 -0400" stop="20261016110000 -0400" channel="TVA.ca">
@@ -79,11 +79,8 @@
   <programme start="20261016123000 -0400" stop="20261016130000 -0400" channel="TVA.ca">
     <title>Le bilan du midi (N)</title>
   </programme>
-  <programme start="20261016130000 -0400" stop="20261016133000 -0400" channel="TVA.ca">
-    <title>&amp;nbsp;</title>
-  </programme>
-  <programme start="20261016130000 -0400" stop="20261016150000 -0400" channel="TVA.ca">
-    <title>Cinéma "Dieu, tu es là? C'est moi Margaret." (Comédie dramatique, 2023)</title>
+  <programme start="20261016130000 -0400" stop="20261016143000 -0400" channel="TVA.ca">
+    <title>Cinéma "Dieu, tu es là? C'est moi Margaret."</title>
   </programme>
   <programme start="20261016150000 -0400" stop="20261016153000 -0400" channel="TVA.ca">
     <title>Histoire de succès (N)</title>
@@ -103,7 +100,10 @@
   <programme start="20261016183000 -0400" stop="20261016190000 -0400" channel="TVA.ca">
     <title>Le tricheur (N)</title>
   </programme>
-  <programme start="20261016190000 -0400" stop="20261016193000 -0400" channel="TVA.ca">
+  <programme start="20261016190000 -0400" stop="20261016200000 -0400" channel="TVA.ca">
+    <title>Ça finit bien la semaine (N)</title>
+  </programme>
+  <programme start="20261016200000 -0400" stop="20261016203000 -0400" channel="TVA.ca">
     <title>&amp;nbsp;</title>
   </programme>
   <programme start="20261016200000 -0400" stop="20261016220000 -0400" channel="TVA.ca">
@@ -115,8 +115,8 @@
   <programme start="20261016223000 -0400" stop="20261017003000 -0400" channel="TVA.ca">
     <title>Cinéma "Mission: Impossible" (Action, 1996) Tom Cruise, Jon Voight, Henry Czerny</title>
   </programme>
-  <programme start="20261017003000 -0400" stop="20261017013000 -0400" channel="TVA.ca">
-    <title>Cinéma "Bataille navale"</title>
+  <programme start="20261017003000 -0400" stop="20261017023000 -0400" channel="TVA.ca">
+    <title>Cinéma "Bataille navale" (Science fiction, 2012)</title>
   </programme>
   <programme start="20261017030000 -0400" stop="20261017040000 -0400" channel="TVA.ca">
     <title>Hôtel "À trop vouloir bien faire"</title>
@@ -133,7 +133,7 @@
   <programme start="20261017060000 -0400" stop="20261017063000 -0400" channel="TVA.ca">
     <title>Les looney tunes</title>
   </programme>
-  <programme start="20261017063000 -0400" stop="20261017073000 -0400" channel="TVA.ca">
+  <programme start="20261017063000 -0400" stop="20261017083000 -0400" channel="TVA.ca">
     <title>Salut bonjour week-end (N)</title>
   </programme>
   <programme start="20261017103000 -0400" stop="20261017113000 -0400" channel="TVA.ca">
@@ -149,6 +149,12 @@
     <title>Infopublicit</title>
   </programme>
   <programme start="20261017130000 -0400" stop="20261017133000 -0400" channel="TVA.ca">
+    <title>Infopublicit</title>
+  </programme>
+  <programme start="20261017133000 -0400" stop="20261017140000 -0400" channel="TVA.ca">
+    <title>Un zoo pas comme les autres</title>
+  </programme>
+  <programme start="20261017140000 -0400" stop="20261017143000 -0400" channel="TVA.ca">
     <title>&amp;nbsp;</title>
   </programme>
 </tv>
