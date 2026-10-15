@@ -1,11 +1,30 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-15T20:25:02.768701Z",
+  "scraped_at": "2026-10-15T20:55:02.917221Z",
   "sports_events": {
+    "mlb": [
+      {
+        "title": "Cleveland Guardians vs Tampa Bay Rays",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedclevelandguardians/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D607%26id%3D2339%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2339%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedclevelandguardians/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D607%26id%3D2339%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2339%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [],
     "ufc": [],
     "nhl": [],
-    "mlb": [],
     "cfb": [],
     "soccer": [
       {
@@ -134,19 +153,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb27.strmd.st/secure/kUMvYuVMMgXobqhnWUYRHqEXhKnviwBv/rtmp/stream/IIjXs9Ntmt4dU5dJjnB3JysJgFtLf3hp07hX-6KolO5029I5s3F1Pgadiyc4T_jmxFI2j43T/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-brighton-hove-albion-vs-kauno-zalgiris%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb23.strmd.st/secure/rGTuLtcKStBrnWxzTbqTefVjKKSdBUmX/rtmp/stream/KwV2tHwvXUxe4Xlh48xQyoR6iM4uBecgXWHzd0mYVjSPb6c9YGCeYG0amEfJO4LMr5WEexkP/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-brighton-hove-albion-vs-kauno-zalgiris%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-brighton-hove-albion-vs-kauno-zalgiris%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb11.strmd.st/secure/lWcjwTUCmcPhbWCEvndIzjoTfugYPFHO/rtmp/stream/IIjXs9Ntmt4dU5dJjnB3JysJgFtLf3hp07hX-6KolO5029I5s3F1Pgadiyc4T_jmxFI2j43T/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-brighton-hove-albion-vs-kauno-zalgiris%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb17.strmd.st/secure/pHTMnEEduYzsuHHEkLlRmVUMVEQRHYDO/rtmp/stream/KwV2tHwvXUxe4Xlh48xQyoR6iM4uBecgXWHzd0mYVjSPb6c9YGCeYG0amEfJO4LMr5WEexkP/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-brighton-hove-albion-vs-kauno-zalgiris%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-brighton-hove-albion-vs-kauno-zalgiris%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb26.strmd.st/secure/IOuFvLEezmrizzTWQoSgYcbFhsvVZyco/rtmp/stream/IIjXs9Ntmt4dU5dJjnB3JysJgFtLf3hp07hX-6KolO5029I5s3F1Pgadiyc4T_jmxFI2j43T/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-brighton-hove-albion-vs-kauno-zalgiris%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb23.strmd.st/secure/yUnZGGMrirSYDLiakmXeNSdfdlvMDDGA/rtmp/stream/KwV2tHwvXUxe4Xlh48xQyoR6iM4uBecgXWHzd0mYVjSPb6c9YGCeYG0amEfJO4LMr5WEexkP/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-brighton-hove-albion-vs-kauno-zalgiris%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fbrighton-hove-albion-vs-kauno-zalgiris-uefa-europa-conference-league-1792090800%2F1&source=tv2",
             "resolved": true
           }
@@ -158,19 +177,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb13.strmd.st/secure/tSNFawFPSLHflMPlJqRAkBhICXeNMMBl/rtmp/stream/EybBrSFmP0IwzdcfNfQ_M9Md6VMzpa57HXhYxtzH0gPXi3541l5PYCKFO0w-LWPKPz0Pp3i5/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-heart-of-midlothian-vs-fc-nordsj-lland%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/CqfdxZhjOMsRTXTGnpUyEISTEPEaQmdu/rtmp/stream/bb6qZBmHUraCgh4QcEi0Ieta8C-ppUEYj00TFnC65Z2gwsT5nz95FyGjmqYVP22-Bz2fBkcl/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-heart-of-midlothian-vs-fc-nordsj-lland%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-heart-of-midlothian-vs-fc-nordsj-lland%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb24.strmd.st/secure/tWSSiyOvUBIoyhRrmzhhlhHiPLLijocR/rtmp/stream/EybBrSFmP0IwzdcfNfQ_M9Md6VMzpa57HXhYxtzH0gPXi3541l5PYCKFO0w-LWPKPz0Pp3i5/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-heart-of-midlothian-vs-fc-nordsj-lland%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb22.strmd.st/secure/AOREOxWEAiABkCntIdFQoxUfYTyhvKaJ/rtmp/stream/bb6qZBmHUraCgh4QcEi0Ieta8C-ppUEYj00TFnC65Z2gwsT5nz95FyGjmqYVP22-Bz2fBkcl/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-heart-of-midlothian-vs-fc-nordsj-lland%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-heart-of-midlothian-vs-fc-nordsj-lland%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb31.strmd.st/secure/MPGPdltzLBEMTecyhmuUUGWSSMXqEiVW/rtmp/stream/EybBrSFmP0IwzdcfNfQ_M9Md6VMzpa57HXhYxtzH0gPXi3541l5PYCKFO0w-LWPKPz0Pp3i5/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-heart-of-midlothian-vs-fc-nordsj-lland%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb23.strmd.st/secure/iWQnOqiPgMbzZneEKlbKzDlFQqFIPnpH/rtmp/stream/bb6qZBmHUraCgh4QcEi0Ieta8C-ppUEYj00TFnC65Z2gwsT5nz95FyGjmqYVP22-Bz2fBkcl/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-heart-of-midlothian-vs-fc-nordsj-lland%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fheart-of-midlothian-vs-fc-nordsj-lland-uefa-europa-conference-league-1792090800%2F1&source=tv2",
             "resolved": true
           }
@@ -182,19 +201,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/tkEHsECDFpNxiXAdpIUuiYoFHbThoxUZ/rtmp/stream/vTfGFdab8dHe0uUcmwzr-HYdJA5krKyYKCWFmKu9attZ_7DuqLHhyJ3HBKH5CylQ6rPlYuCIjpvyAA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atalanta-vs-pafos%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb23.strmd.st/secure/emEkxWgLozmjkbHNiLAYCceBupXjNtcr/rtmp/stream/X-WCUUNLbjHC8yY1YmuofbC-eWnD_BlnHaQT-xsQE0HNg7tutQKYGzn_UNMptXSevh5NQ14Ci7K6FA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atalanta-vs-pafos%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-atalanta-vs-pafos%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb26.strmd.st/secure/YqafOGgNnQoGllLruckxeTNUjSyfaVBv/rtmp/stream/vTfGFdab8dHe0uUcmwzr-HYdJA5krKyYKCWFmKu9attZ_7DuqLHhyJ3HBKH5CylQ6rPlYuCIjpvyAA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atalanta-vs-pafos%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.strmd.st/secure/nbdEeTxKwZtLqlJImSEWrVFIYKNOiErW/rtmp/stream/X-WCUUNLbjHC8yY1YmuofbC-eWnD_BlnHaQT-xsQE0HNg7tutQKYGzn_UNMptXSevh5NQ14Ci7K6FA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atalanta-vs-pafos%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-atalanta-vs-pafos%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb15.strmd.st/secure/qnIRdrzbBbVkcwKNjnxbLmtSrqQhYHBU/rtmp/stream/vTfGFdab8dHe0uUcmwzr-HYdJA5krKyYKCWFmKu9attZ_7DuqLHhyJ3HBKH5CylQ6rPlYuCIjpvyAA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atalanta-vs-pafos%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb19.strmd.st/secure/dsIFOtYhVBGfrgUdwuHsAjsAcvdfoCcR/hotel/stream/atalanta-vs-pafos-uefa-europa-conference-league-1792090800/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fatalanta-vs-pafos-uefa-europa-conference-league-1792090800%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fatalanta-vs-pafos-uefa-europa-conference-league-1792090800%2F1&source=tv2",
             "resolved": true
           }
@@ -206,38 +225,20 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb3.strmd.st/secure/aLXroesWbgIqklkTczcJoJmojZVoGVSJ/rtmp/stream/TP2Zn6C0DF2Ju556isvi-Ds4lRUhAqKlLB2f2f2Cyzjp_gUYdVRHY0NG-9lSLQzbquoD-RKWWsaUGA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-f-c-k-benhavn-vs-braga%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb31.strmd.st/secure/GElamjufSMtUbBrvKvpKHqjhHzlzyYRZ/rtmp/stream/cI8AGcIDdb41iCyuU2sp-dpkVlae-ji_RqbYfVqkdqRs0Bi_nEUBVzb6Yni47ZJbfiKe51vWrG7uJg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-f-c-k-benhavn-vs-braga%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-f-c-k-benhavn-vs-braga%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb22.strmd.st/secure/fSJJDOmiewSOPuAGTaPqfpPxEVwWjkzV/rtmp/stream/TP2Zn6C0DF2Ju556isvi-Ds4lRUhAqKlLB2f2f2Cyzjp_gUYdVRHY0NG-9lSLQzbquoD-RKWWsaUGA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-f-c-k-benhavn-vs-braga%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.strmd.st/secure/PEASKaDqKAKnQBEiKPGlnpEzDEtgeXcz/rtmp/stream/cI8AGcIDdb41iCyuU2sp-dpkVlae-ji_RqbYfVqkdqRs0Bi_nEUBVzb6Yni47ZJbfiKe51vWrG7uJg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-f-c-k-benhavn-vs-braga%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-f-c-k-benhavn-vs-braga%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb29.strmd.st/secure/SpgkXFIJQjanuQlgmegLydZmNeFDvIyI/rtmp/stream/TP2Zn6C0DF2Ju556isvi-Ds4lRUhAqKlLB2f2f2Cyzjp_gUYdVRHY0NG-9lSLQzbquoD-RKWWsaUGA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-f-c-k-benhavn-vs-braga%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb32.strmd.st/secure/XzqUSpsaNmTdvDrQpUJEtDUqVFNCMvAG/hotel/stream/f-c-k-benhavn-vs-braga-uefa-europa-conference-league-1792090800/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Ff-c-k-benhavn-vs-braga-uefa-europa-conference-league-1792090800%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Ff-c-k-benhavn-vs-braga-uefa-europa-conference-league-1792090800%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Instant Highlights",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb1.strmd.st/secure/JPEesHUNyaCMRTQikKloHBauuNZubRSx/rtmp/stream/PLTqCUg4p0Ou1OZasjXjt4MYsSEPQA8rkDrrkh7mmXa9wqEJy-6nrnV4nnV74PLkJ9VDXKCFjiOW8e6wMp6KF9LbEQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-instant-highlights%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-instant-highlights%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb25.strmd.st/secure/vBqAhVadBgeDFqceqiMLurEtSnqvSowf/rtmp/stream/PLTqCUg4p0Ou1OZasjXjt4MYsSEPQA8rkDrrkh7mmXa9wqEJy-6nrnV4nnV74PLkJ9VDXKCFjiOW8e6wMp6KF9LbEQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-instant-highlights%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-instant-highlights%2F2&source=tv2",
             "resolved": true
           }
         ]
@@ -248,13 +249,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/PGrcNEdZCynwovAFDfMFlHWOTVfPMubK/rtmp/stream/nNMS2qp-FlO4Nl3llMK-erEnQ_tvAXqAmK7k8dsBx_aUE8KRykOJ3xFhmZ8joMFdSX_7tCNvQ6I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-the-golazo-show%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.strmd.st/secure/ySYVNsvPkAtQJbyNKSIJevlFyKHkofDm/admin/stream/ppv-the-golazo-show/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-the-golazo-show%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-the-golazo-show%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb15.strmd.st/secure/lpCXKoMShMXtMuYskzMxNVncFHhAwONb/rtmp/stream/nNMS2qp-FlO4Nl3llMK-erEnQ_tvAXqAmK7k8dsBx_aUE8KRykOJ3xFhmZ8joMFdSX_7tCNvQ6I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-the-golazo-show%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb31.strmd.st/secure/cEpYqFAnZNcvzBKQifCCfZRrHcvOiDLl/admin/stream/ppv-the-golazo-show/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-the-golazo-show%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-the-golazo-show%2F2&source=tv2",
             "resolved": true
           }
