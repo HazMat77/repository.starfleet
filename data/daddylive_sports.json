@@ -1,8 +1,7 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-15T23:55:02.820078Z",
+  "scraped_at": "2026-10-16T00:25:02.967528Z",
   "sports_events": {
-    "other_events": [],
     "nba": [
       {
         "title": "New York Knicks vs Toronto Raptors",
@@ -29,7 +28,52 @@
         ]
       }
     ],
+    "mlb": [
+      {
+        "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedlosangelesdodgers/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D613%26id%3D2340%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2340%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedlosangelesdodgers/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D613%26id%3D2340%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2340%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedlosangelesdodgers/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D613%26id%3D2340%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-milwaukee-brewers-vs-los-angeles-dodgers%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "other_events": [],
     "soccer": [
+      {
+        "title": "Texas State vs Colorado State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedcbsn/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D147%26id%3D2191%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2191%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedcbsn/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D147%26id%3D2191%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2191%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "UAB vs East Carolina",
         "is_live": true,
@@ -69,6 +113,78 @@
     ],
     "ufc": [],
     "nhl": [
+      {
+        "title": "Chicago Blackhawks vs Winnipeg Jets",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedwinnipegjets/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D250%26id%3D2305%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2305%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedwinnipegjets/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D250%26id%3D2305%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2305%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedwinnipegjets/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D250%26id%3D2305%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2305%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Minnesota Wild vs St. Louis Blues",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedlouisblue/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D244%26id%3D2307%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2307%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedlouisblue/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D244%26id%3D2307%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2307%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedlouisblue/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D244%26id%3D2307%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2307%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Nashville Predators vs San Jose Sharks",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedsanjosesharks/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D242%26id%3D2306%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2306%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedsanjosesharks/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D242%26id%3D2306%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2306%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedsanjosesharks/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D242%26id%3D2306%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2306%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "Detroit Red Wings vs Philadelphia Flyers",
         "is_live": true,
