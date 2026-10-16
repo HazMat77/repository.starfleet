@@ -1,8 +1,7 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-16T00:55:02.851324Z",
+  "scraped_at": "2026-10-16T01:25:02.858342Z",
   "sports_events": {
-    "other_events": [],
     "soccer": [
       {
         "title": "Denver Broncos vs Seattle Seahawks",
@@ -83,6 +82,27 @@
         ]
       }
     ],
+    "other_events": [
+      {
+        "title": "TNA Impact",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb20.strmd.st/secure/ayXZERPhhwPpeZClFkFbkicZoBfhPZwK/rtmp/stream/3hhHIBgRNxXN5rq_pyPRlCzCcLQNR-1MB-4XCfsK9S10JBtvbpbCiLhwtQSGp1MkFFQ4kqk/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-impact%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-tna-impact%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb15.strmd.st/secure/qlmOaPgoBZIOdYTetCaWaWBHPTHpvcpA/rtmp/stream/3hhHIBgRNxXN5rq_pyPRlCzCcLQNR-1MB-4XCfsK9S10JBtvbpbCiLhwtQSGp1MkFFQ4kqk/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-impact%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-tna-impact%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "ufc": [],
     "nba": [
       {
         "title": "New York Knicks vs Toronto Raptors",
@@ -109,9 +129,32 @@
         ]
       }
     ],
-    "ufc": [],
     "mlb": [],
     "nhl": [
+      {
+        "title": "Edmonton Oilers vs Utah Mammoth",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedutahhockeyclub/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D218%26id%3D2308%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2308%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedutahhockeyclub/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D218%26id%3D2308%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2308%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedutahhockeyclub/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D218%26id%3D2308%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2308%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "Chicago Blackhawks vs Winnipeg Jets",
         "is_live": true,
