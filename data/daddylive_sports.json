@@ -1,5 +1,81 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-17T06:25:02.460481Z",
-  "sports_events": {}
+  "scraped_at": "2026-10-17T06:55:02.368935Z",
+  "sports_events": {
+    "mlb": [
+      {
+        "title": "Cleveland Guardians vs Tampa Bay Rays",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedclevelandguardians/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D607%26id%3D2377%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2377%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedclevelandguardians/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D607%26id%3D2377%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2377%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "other_events": [
+      {
+        "title": "Autopolis — Qualifying",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb27.strmd.st/secure/aWcRZKaqIalcgIcsFplzJDjgwcVGakBD/hotel/stream/autopolis-qualifying-super-gt-1792215000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fautopolis-qualifying-super-gt-1792215000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fautopolis-qualifying-super-gt-1792215000%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "nba": [
+      {
+        "title": "South East Melbourne Phoenix vs Cairns Taipans",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb27.strmd.st/secure/wIwgdDdgOcoiyoITQVtOMLAEIlPbgrej/rtmp/stream/ILq9JbOxbsU_cWwxLLWaDrQb7Tqimm4x-q4uBukk0S0_zPHL894S-gbql6YtAKfCaCZsfCL2I-Y/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-south-east-melbourne-phoenix-vs-cairns-taipans%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-south-east-melbourne-phoenix-vs-cairns-taipans%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb7.strmd.st/secure/PDDQGDYUkyowhQjGNBrUCMMQXXzXtEBC/rtmp/stream/ILq9JbOxbsU_cWwxLLWaDrQb7Tqimm4x-q4uBukk0S0_zPHL894S-gbql6YtAKfCaCZsfCL2I-Y/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-south-east-melbourne-phoenix-vs-cairns-taipans%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-south-east-melbourne-phoenix-vs-cairns-taipans%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Los Angeles Lakers vs Denver Nuggets",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedlosangeleslakers/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D513%26id%3D2328%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2328%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedlosangeleslakers/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D513%26id%3D2328%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2328%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "ufc": [],
+    "nhl": [],
+    "cfb": []
+  }
 }
