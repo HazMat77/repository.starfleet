@@ -259,4 +259,23 @@ v2.3.215 - Fixed three real skin-navigation bugs found by live-testing on the Fi
       </assets>
     </extension>
   </addon>
+<addon id="script.module.starfleetresolve"
+       name="Starfleet Resolver"
+       version="1.0.1"
+       provider-name="HazMat">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+    <import addon="script.module.resolveurl" version="5.1.206" optional="true"/>
+    <import addon="script.module.pyaes" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Starfleet video host resolver</summary>
+    <description lang="en">Resolves video player and host addresses to playable streams. Covers sports, live and adult hosts that other resolvers do not, and falls back to ResolveURL for every host it knows.</description>
+    <platform>all</platform>
+    <license>GPL-2.0</license>
+    <news>v1.0.1 - free direct resolvers for MediaFire, Gofile, Pixeldrain, Dropbox, Google Drive, Sendspace, Solidfiles, Upload.ee, Files.fm and XFileSharing-style hosts (Vidoza, ClipWatching, GoUnlimited, Vidlox, VidUP, VUP, Uppit, Up-load, Uploadrar, TusFiles, DDownload, Racaty and more), plus Mp4upload, YourUpload and Sendvid as a second chance. Verified on real links: MediaFire, Pixeldrain, Upload.ee, Files.fm, Dropbox, Google Drive, Mp4upload, YourUpload, Sendvid. Hosts that no longer exist (GoUnlimited, Mystream, Vidlox, Fembed, VUP, UpVID, Racaty and others) now fail at once instead of waiting on fallbacks. v1.0.0 - first release: embed.st and embedsports players, embedsports.me, streame.center, shared gooz player, rockylive, vidload, gbsagbo, site-hosted video; MixDrop, DoodStream and StreamTape as a second chance after ResolveURL.</news>
+  </extension>
+</addon>
 </addons>
