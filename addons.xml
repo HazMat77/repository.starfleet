@@ -466,4 +466,26 @@ v2.3.215 - Fixed three real skin-navigation bugs found by live-testing on the Fi
     <news>v1.1.2 - Filemoon and the other Byse-based hosts (proof-of-work puzzle, 5 to 25 seconds) now get a longer time budget, so they resolve reliably instead of timing out at 14 seconds (9 of 9 test runs now play, was 4 of 9). v1.1.1 - New native resolvers for hosts that failed in a live test: Dailymotion, Archive.org, Rutube, PeerTube, Vimeo, Streamable, YouJizz, RedTube, XNXX/XVideos (each checked on current videos except XNXX). A list of 243 host names that no longer exist is built in, so links to them fail at once instead of waiting. v1.1.0 - Starfleet now carries its own copy of all the ResolveURL host resolvers (217 resolvers, 1007 domains) plus the adult extension resolvers (79 more), so every host ResolveURL knows is resolved by Starfleet first; the installed ResolveURL add-on stays as the last-chance fallback in case it was updated before this copy. Debrid-Link and Offcloud can now download a torrent that is not cached yet. v1.0.1 - free direct resolvers for MediaFire, Gofile, Pixeldrain, Dropbox, Google Drive, Sendspace, Solidfiles, Upload.ee, Files.fm and XFileSharing-style hosts (Vidoza, ClipWatching, GoUnlimited, Vidlox, VidUP, VUP, Uppit, Up-load, Uploadrar, TusFiles, DDownload, Racaty and more), plus Mp4upload, YourUpload and Sendvid as a second chance. Verified on real links: MediaFire, Pixeldrain, Upload.ee, Files.fm, Dropbox, Google Drive, Mp4upload, YourUpload, Sendvid. Hosts that no longer exist (GoUnlimited, Mystream, Vidlox, Fembed, VUP, UpVID, Racaty and others) now fail at once instead of waiting on fallbacks. v1.0.0 - first release: embed.st and embedsports players, embedsports.me, streame.center, shared gooz player, rockylive, vidload, gbsagbo, site-hosted video; MixDrop, DoodStream and StreamTape as a second chance after ResolveURL.</news>
   </extension>
 </addon>
+<addon id="plugin.program.starfleetresolver"
+       name="Starfleet Resolver"
+       version="1.0.0"
+       provider-name="HazMat">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.starfleetresolve" version="1.1.2"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Starfleet video host resolver - pair debrid accounts, test a link</summary>
+    <description lang="en">Front door of the Starfleet Resolver (script.module.starfleetresolve), the resolver other add-ons can use to turn host and player addresses into playable streams. Pair Real-Debrid, AllDebrid, Premiumize, TorBox, Debrid-Link and Offcloud, import accounts from the Starfleet plugin or ResolveURL, see what is paired, and test any link. Installing this add-on installs the resolver module with it.</description>
+    <platform>all</platform>
+    <license>GPL-3.0-or-later</license>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <news>v1.0.0 - first release: a visible Program add-on for the Starfleet Resolver module, so it can be found and installed on its own from the Starfleet repository.</news>
+  </extension>
+</addon>
 </addons>
