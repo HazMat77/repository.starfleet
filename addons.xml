@@ -468,11 +468,11 @@ v2.3.215 - Fixed three real skin-navigation bugs found by live-testing on the Fi
 </addon>
 <addon id="plugin.program.starfleetresolver"
        name="Starfleet Resolver"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="HazMat">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.starfleetresolve" version="1.1.2"/>
+    <import addon="script.module.starfleetresolve" version="1.2.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
@@ -485,7 +485,7 @@ v2.3.215 - Fixed three real skin-navigation bugs found by live-testing on the Fi
     <assets>
       <icon>icon.png</icon>
     </assets>
-    <news>v1.0.0 - first release: a visible Program add-on for the Starfleet Resolver module, so it can be found and installed on its own from the Starfleet repository.</news>
+    <news>v1.0.1 - Mega-Debrid can be paired from this menu. v1.0.0 - first release: a visible Program add-on for the Starfleet Resolver module, so it can be found and installed on its own from the Starfleet repository.</news>
   </extension>
 </addon>
 </addons>
