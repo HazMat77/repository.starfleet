@@ -445,21 +445,24 @@ v2.3.215 - Fixed three real skin-navigation bugs found by live-testing on the Fi
   </addon>
 <addon id="script.module.starfleetresolve"
        name="Starfleet Resolver"
-       version="1.0.1"
+       version="1.1.0"
        provider-name="HazMat">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.22.0"/>
+    <import addon="script.module.six" version="1.15.0"/>
+    <import addon="script.module.kodi-six" version="0.0.1"/>
     <import addon="script.module.resolveurl" version="5.1.206" optional="true"/>
     <import addon="script.module.pyaes" optional="true"/>
   </requires>
   <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.python.pluginsource" library="lib/default.py"/>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Starfleet video host resolver</summary>
     <description lang="en">Resolves video player and host addresses to playable streams. Covers sports, live and adult hosts that other resolvers do not, and falls back to ResolveURL for every host it knows.</description>
     <platform>all</platform>
-    <license>GPL-2.0</license>
-    <news>v1.0.1 - free direct resolvers for MediaFire, Gofile, Pixeldrain, Dropbox, Google Drive, Sendspace, Solidfiles, Upload.ee, Files.fm and XFileSharing-style hosts (Vidoza, ClipWatching, GoUnlimited, Vidlox, VidUP, VUP, Uppit, Up-load, Uploadrar, TusFiles, DDownload, Racaty and more), plus Mp4upload, YourUpload and Sendvid as a second chance. Verified on real links: MediaFire, Pixeldrain, Upload.ee, Files.fm, Dropbox, Google Drive, Mp4upload, YourUpload, Sendvid. Hosts that no longer exist (GoUnlimited, Mystream, Vidlox, Fembed, VUP, UpVID, Racaty and others) now fail at once instead of waiting on fallbacks. v1.0.0 - first release: embed.st and embedsports players, embedsports.me, streame.center, shared gooz player, rockylive, vidload, gbsagbo, site-hosted video; MixDrop, DoodStream and StreamTape as a second chance after ResolveURL.</news>
+    <license>GPL-3.0-or-later</license>
+    <news>v1.1.0 - Starfleet now carries its own copy of all the ResolveURL host resolvers (217 resolvers, 1007 domains) plus the adult extension resolvers (79 more), so every host ResolveURL knows is resolved by Starfleet first; the installed ResolveURL add-on stays as the last-chance fallback in case it was updated before this copy. Debrid-Link and Offcloud can now download a torrent that is not cached yet. v1.0.1 - free direct resolvers for MediaFire, Gofile, Pixeldrain, Dropbox, Google Drive, Sendspace, Solidfiles, Upload.ee, Files.fm and XFileSharing-style hosts (Vidoza, ClipWatching, GoUnlimited, Vidlox, VidUP, VUP, Uppit, Up-load, Uploadrar, TusFiles, DDownload, Racaty and more), plus Mp4upload, YourUpload and Sendvid as a second chance. Verified on real links: MediaFire, Pixeldrain, Upload.ee, Files.fm, Dropbox, Google Drive, Mp4upload, YourUpload, Sendvid. Hosts that no longer exist (GoUnlimited, Mystream, Vidlox, Fembed, VUP, UpVID, Racaty and others) now fail at once instead of waiting on fallbacks. v1.0.0 - first release: embed.st and embedsports players, embedsports.me, streame.center, shared gooz player, rockylive, vidload, gbsagbo, site-hosted video; MixDrop, DoodStream and StreamTape as a second chance after ResolveURL.</news>
   </extension>
 </addon>
 </addons>
