@@ -1,27 +1,7 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-18T02:55:02.674869Z",
+  "scraped_at": "2026-10-18T03:25:02.604286Z",
   "sports_events": {
-    "wwe": [
-      {
-        "title": "AEW Saturday Night Collision",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb32.strmd.st/secure/PPQGCOBuympQXrhJHGSQSYiwqlKALVhz/rtmp/stream/JbuT32l2Yve9i75fNpw3pxGL_Ek4O5yws6an3IRPbBajuClfcAkT4wjrKPvOTUjVpmrbEUU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-aew-saturday-night-collision%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb4.strmd.st/secure/uKEcsWGaZwXLzAGHdaKrQwIZrgyzejgd/rtmp/stream/JbuT32l2Yve9i75fNpw3pxGL_Ek4O5yws6an3IRPbBajuClfcAkT4wjrKPvOTUjVpmrbEUU/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-aew-saturday-night-collision%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-aew-saturday-night-collision%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
     "other_events": [
       {
         "title": "BKFC 95 Newark Herring vs Dodson",
@@ -229,30 +209,6 @@
         ]
       },
       {
-        "title": "Miami (FL) vs Florida State",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://embed.st/embed/ingest/streamedespnhd/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D136%26id%3D2266%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2266%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://embed.st/embed/ingest/streamedespnhd/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D136%26id%3D2266%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2266%2F2&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://embed.st/embed/ingest/streamedespnhd/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D136%26id%3D2266%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-florida-state-seminoles-at-miami-hurricanes%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
         "title": "California vs Wake Forest",
         "is_live": true,
         "links": [
@@ -373,18 +329,54 @@
         ]
       },
       {
+        "title": "Oregon vs Nebraska",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedfoxhd/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D133%26id%3D2284%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2284%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedfoxhd/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D133%26id%3D2284%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2284%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Cruz Azul vs. FC Juárez",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb15.strmd.st/secure/LMCbffKcGcPXGDQsIHALbRkccOzZXCms/rtmp/stream/jN9vRFj2BQv04yqSz2EMQO9jWwKjuWdGge4-9ez0P1XhrvgsxETTYU4pTrUmuRaYu-TMGJyUJRc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cruz-azul-vs-fc-ju-rez%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-cruz-azul-vs-fc-ju-rez%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb2.strmd.st/secure/bJVZiQNxHVDRpPQyGkniNSalVWxMqjGf/rtmp/stream/jN9vRFj2BQv04yqSz2EMQO9jWwKjuWdGge4-9ez0P1XhrvgsxETTYU4pTrUmuRaYu-TMGJyUJRc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cruz-azul-vs-fc-ju-rez%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-cruz-azul-vs-fc-ju-rez%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
         "title": "San Diego vs Valparaiso",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb12.strmd.st/secure/cEXXUZaRXJxMOUWPdkqfeEoAXzMIKJOF/rtmp/stream/67eI3v3U_ckXEplriWW6PGyb4uROooDOyebhIfeLHcYzZHmj-7PbFCH7m5Wr6nhjSxy27Tdd2zw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-la-galaxy-vs-san-diego-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb32.strmd.st/secure/rLogjOyCjyEXDzkEcQzzxMQCEGoVSTiI/rtmp/stream/OMrrT1MDK67RfazSd_vNz_WSB_5BC5Bj8eMJu9FDlJfM-xOON_RC2FmBjItkNClo5u5IOWVXUsI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-la-galaxy-vs-san-diego-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-la-galaxy-vs-san-diego-fc%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb10.strmd.st/secure/bZyVCmtPXRWcnHANNvmsWHPVuDZhqXKu/rtmp/stream/67eI3v3U_ckXEplriWW6PGyb4uROooDOyebhIfeLHcYzZHmj-7PbFCH7m5Wr6nhjSxy27Tdd2zw/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-la-galaxy-vs-san-diego-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb28.strmd.st/secure/PUUwWuwHevXwkYsJCkbXiaWxlRuspMJH/rtmp/stream/OMrrT1MDK67RfazSd_vNz_WSB_5BC5Bj8eMJu9FDlJfM-xOON_RC2FmBjItkNClo5u5IOWVXUsI/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-la-galaxy-vs-san-diego-fc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-la-galaxy-vs-san-diego-fc%2F2&source=tv2",
             "resolved": true
           }
@@ -409,61 +401,7 @@
         ]
       },
       {
-        "title": "Seattle Sounders vs CF Montréal",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb25.strmd.st/secure/TttBQXZIWOurKRlDRGIyiiOScMUqmYVK/rtmp/stream/Gj-dWumYNo67zR2YRfqoTlajwInzMdU8O8qQZaT-ZkeF48JdHAxtzVgsi0gZo69s6MaoZN05s879/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-sounders-fc-vs-cf-montr-al%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-seattle-sounders-fc-vs-cf-montr-al%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb26.strmd.st/secure/SrtHcKnEqpfLsHJCINKtJnYERTsRjJiD/rtmp/stream/Gj-dWumYNo67zR2YRfqoTlajwInzMdU8O8qQZaT-ZkeF48JdHAxtzVgsi0gZo69s6MaoZN05s879/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-sounders-fc-vs-cf-montr-al%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-seattle-sounders-fc-vs-cf-montr-al%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "San Jose Earthquakes vs Nashville SC",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb9.strmd.st/secure/mNTfXKBJaSjELHeDGherDlfHeoLWOZWa/rtmp/stream/qfKmHMW2OF3PVGVaPbTY2IsgAhXSpQK66p284FpxIlxFu9KBchuuU8qd2nb22ajIpsipEbHjY3U/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-san-jose-earthquakes-vs-nashville-sc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-san-jose-earthquakes-vs-nashville-sc%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb2.strmd.st/secure/weOPtyUwksbbwhdeSvOLXaMbkOaCHgPB/rtmp/stream/qfKmHMW2OF3PVGVaPbTY2IsgAhXSpQK66p284FpxIlxFu9KBchuuU8qd2nb22ajIpsipEbHjY3U/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-san-jose-earthquakes-vs-nashville-sc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-san-jose-earthquakes-vs-nashville-sc%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Portland Timbers vs Colorado Rapids",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb16.strmd.st/secure/kMofxMnperKTnbDGupttsQLcJapAZSnT/rtmp/stream/7-hqxQpNIYmYh06lPrYUmm0lVyd4ci5A22HyWDKeOkdCXOhaELpbTLTQCX2oPuxM7qcdHkmreXwj/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-timbers-vs-colorado-rapids%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-timbers-vs-colorado-rapids%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb31.strmd.st/secure/uqpzABnMSNZkCSxBevnXGkqJHSSqfwyR/rtmp/stream/7-hqxQpNIYmYh06lPrYUmm0lVyd4ci5A22HyWDKeOkdCXOhaELpbTLTQCX2oPuxM7qcdHkmreXwj/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-timbers-vs-colorado-rapids%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-timbers-vs-colorado-rapids%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      },
-      {
-        "title": "Hawaii Rainbow Warriors vs New Mexico Lobos",
+        "title": "Hawaii vs New Mexico",
         "is_live": true,
         "links": [
           {
@@ -476,6 +414,60 @@
             "label": "Link - 2",
             "playable_url": "https://embed.st/embed/ingest/streamedfsonehd/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D145%26id%3D2283%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2283%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Seattle Sounders vs CF Montréal",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb29.strmd.st/secure/ryrFmNuQDxIJqyxfdZOhFxGEKXJapdOL/rtmp/stream/XM04hhw7rpVFyELP1xktwWZwmiaLYlqJn3Q-rstHLo7MUlEn_KZGy7gr676Tg6crvUYvdvgcuRjR/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-sounders-fc-vs-cf-montr-al%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-seattle-sounders-fc-vs-cf-montr-al%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.strmd.st/secure/DQGIhEWMjagwwlxeODObeIuZSWRcCTDn/rtmp/stream/XM04hhw7rpVFyELP1xktwWZwmiaLYlqJn3Q-rstHLo7MUlEn_KZGy7gr676Tg6crvUYvdvgcuRjR/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-seattle-sounders-fc-vs-cf-montr-al%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-seattle-sounders-fc-vs-cf-montr-al%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "San Jose Earthquakes vs Nashville SC",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb12.strmd.st/secure/rETwCdPqWFsqeKkQopQnTeEBqvRfNeMI/rtmp/stream/W-iL50Y1ZtwyRhpiTAjxrLLalzh646RzEQj6TTJz_xT8hfKArndeOUPaVquoRSc0noLWs6bVh9I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-san-jose-earthquakes-vs-nashville-sc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-san-jose-earthquakes-vs-nashville-sc%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb30.strmd.st/secure/ouKCkxNlcPRnDKyooZrKJRAzRTtedEvC/rtmp/stream/W-iL50Y1ZtwyRhpiTAjxrLLalzh646RzEQj6TTJz_xT8hfKArndeOUPaVquoRSc0noLWs6bVh9I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-san-jose-earthquakes-vs-nashville-sc%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-san-jose-earthquakes-vs-nashville-sc%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Portland Timbers vs Colorado Rapids",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb27.strmd.st/secure/WEDegCdiIIooNqIoVIvzaDEcvifZUtsx/rtmp/stream/wzTNAB1vN-PMQqGRCWe_81AvqHlQ8USjzI5HjrLmR8CEbnrz3us7txaXMm1U7HTotS7qOO3bU5fL/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-timbers-vs-colorado-rapids%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-timbers-vs-colorado-rapids%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb15.strmd.st/secure/AeqNTuMpjFTcQlwCLhdbEvztrUGVSycr/rtmp/stream/wzTNAB1vN-PMQqGRCWe_81AvqHlQ8USjzI5HjrLmR8CEbnrz3us7txaXMm1U7HTotS7qOO3bU5fL/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-portland-timbers-vs-colorado-rapids%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-portland-timbers-vs-colorado-rapids%2F2&source=tv2",
             "resolved": true
           }
         ]
@@ -504,13 +496,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb1.strmd.st/secure/IWzQbnUdoimVXWywUUUAGGuwhKVUhkEo/rtmp/stream/R-9nnjgtPA6II1WqX2Q8eq6wqLWB3hqpJfcOW2Pg_1J0LTazBYAVnsuEsSRnvGPyHYtcXn5TnP8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-toluca-vs-atl-tico-de-san-luis%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb6.strmd.st/secure/jCRZvgSqgogXGUzMUqeSctDackRoWXPz/rtmp/stream/JNleFF4GDkwU0TwDibCQ5DiiNFAVRTwADGk8HqrzyBxaajhUbRsR5WClmSl2SUtBATq-NtnP5yM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-toluca-vs-atl-tico-de-san-luis%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-toluca-vs-atl-tico-de-san-luis%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb11.strmd.st/secure/YoWoiEXVdqEohbADeQbCMQlSWmePqkpj/rtmp/stream/R-9nnjgtPA6II1WqX2Q8eq6wqLWB3hqpJfcOW2Pg_1J0LTazBYAVnsuEsSRnvGPyHYtcXn5TnP8/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-toluca-vs-atl-tico-de-san-luis%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb26.strmd.st/secure/BmaGQvxXStBGJpjKILwRRGNeuZYFhQHw/rtmp/stream/JNleFF4GDkwU0TwDibCQ5DiiNFAVRTwADGk8HqrzyBxaajhUbRsR5WClmSl2SUtBATq-NtnP5yM/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-toluca-vs-atl-tico-de-san-luis%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-toluca-vs-atl-tico-de-san-luis%2F2&source=tv2",
             "resolved": true
           }
@@ -522,13 +514,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb30.strmd.st/secure/RjmycqOOjqGDLcvWeVkIkpcyujtNxetb/rtmp/stream/fFxorauMuL-go_5CMAW5_ZaBO2nQL-8P_qndrTJIXU2_uLli5xx9IEC6chaZ-Pk8_4ukeIzkv3g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-le-n-vs-am-rica%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb14.strmd.st/secure/pGcagjbPXhKYnGggrJacflszMQVmzwOX/rtmp/stream/0RUH5gsyd7Ia1TuguHZ3jqQ0T9uwrQcqFXhfAl0C_Gj-w5bhVvIt9lrcOqrXD_6o1rFtP_YKhfA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-le-n-vs-am-rica%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-le-n-vs-am-rica%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb24.strmd.st/secure/crWPWRryPaCZhVmCPlytCFuPKDfwkLTx/rtmp/stream/fFxorauMuL-go_5CMAW5_ZaBO2nQL-8P_qndrTJIXU2_uLli5xx9IEC6chaZ-Pk8_4ukeIzkv3g/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-le-n-vs-am-rica%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb3.strmd.st/secure/suPEwWijzEMBYFTtTLFWoyZUvPPsunsZ/rtmp/stream/0RUH5gsyd7Ia1TuguHZ3jqQ0T9uwrQcqFXhfAl0C_Gj-w5bhVvIt9lrcOqrXD_6o1rFtP_YKhfA/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-le-n-vs-am-rica%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-le-n-vs-am-rica%2F2&source=tv2",
             "resolved": true
           }
@@ -540,13 +532,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb15.strmd.st/secure/KqMpNhcNwpniUDEuvdiyPuSrzVPCRTWt/rtmp/stream/GLUw6W6oOw3yOR3weBq6AR8SFG7xsgTD2Rf8xEfihYfxa8RfX1EzyOuWqrGBELbUqf8bNFaYnNjQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-austin-fc-vs-vancouver-whitecaps%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb7.strmd.st/secure/FJyqBAUNGpqRtvHpmeskbSRJpaLRzAOY/rtmp/stream/AMB4dn1EIsbOnEAQtd1o88YG8VWETbpysOujgo9qRv7SlQkAEeEqIJE38f2UjbRGfMJ5_ttgOO7I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-austin-fc-vs-vancouver-whitecaps%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-austin-fc-vs-vancouver-whitecaps%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb4.strmd.st/secure/VMBqKQGxMyivnTjGLZwQbSuQmKhMaETO/rtmp/stream/GLUw6W6oOw3yOR3weBq6AR8SFG7xsgTD2Rf8xEfihYfxa8RfX1EzyOuWqrGBELbUqf8bNFaYnNjQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-austin-fc-vs-vancouver-whitecaps%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb31.strmd.st/secure/FIivxcsuhIxzvDVMVuLpPTcqcCkvQTvb/rtmp/stream/AMB4dn1EIsbOnEAQtd1o88YG8VWETbpysOujgo9qRv7SlQkAEeEqIJE38f2UjbRGfMJ5_ttgOO7I/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-austin-fc-vs-vancouver-whitecaps%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-austin-fc-vs-vancouver-whitecaps%2F2&source=tv2",
             "resolved": true
           }
@@ -558,13 +550,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb8.strmd.st/secure/GNupXMYgiElJJJhquNdXXjcVFUViyuzA/rtmp/stream/h3pQe7npLqfCsZIqIh3yjLNfTwMreNswBGmNSZpmi7YBpM2QRYqlVubEtsOzBLsDO6YVvNcvvkB9/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-houston-dynamo-fc-vs-fc-dallas%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb4.strmd.st/secure/KHqkboECAnVIUIoaQWKHhDGpHbqtJCQt/rtmp/stream/zlec-qqOyu5D_Ib8KA1LukA4SJ2UpHAreZuzcgJsjhMQ6HqZJR3PmMhoPx2bELWaiVIDzmQ1PRv1/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-houston-dynamo-fc-vs-fc-dallas%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-houston-dynamo-fc-vs-fc-dallas%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb7.strmd.st/secure/yLNcgvQSpwbDqAHIIyBPnRTNSNMWZRxs/rtmp/stream/h3pQe7npLqfCsZIqIh3yjLNfTwMreNswBGmNSZpmi7YBpM2QRYqlVubEtsOzBLsDO6YVvNcvvkB9/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-houston-dynamo-fc-vs-fc-dallas%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb29.strmd.st/secure/OQjEpjcEJFllyAcsAfxcCHlocwZlfeRi/rtmp/stream/zlec-qqOyu5D_Ib8KA1LukA4SJ2UpHAreZuzcgJsjhMQ6HqZJR3PmMhoPx2bELWaiVIDzmQ1PRv1/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-houston-dynamo-fc-vs-fc-dallas%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-houston-dynamo-fc-vs-fc-dallas%2F2&source=tv2",
             "resolved": true
           }
@@ -576,13 +568,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb10.strmd.st/secure/bBbvhHxPcFacaAtgKFCAKdjCtgFPkIlb/rtmp/stream/QSs_HYKHYKzijEAhe_SvOTlIFF6LGKms1rqAa9mEOqrQ4i1VfnTrRGguLPigZO1IafMoKqO8KN1O/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-sporting-kansas-city-vs-real-salt-lake%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb24.strmd.st/secure/fXbULmnUSkUuQWpYSVgahZubqIlRfYgH/rtmp/stream/QVv9IlD2ht-Fbc0sUzHx4OapQQWIGKN_0AtyzUXrMMKML-I9vM4oQAPP4hGevLpvtgvbMZ598C-S/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-sporting-kansas-city-vs-real-salt-lake%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-sporting-kansas-city-vs-real-salt-lake%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb25.strmd.st/secure/QwtWRKTylXdUNNxBHUwgklbwzqKhmtuG/rtmp/stream/QSs_HYKHYKzijEAhe_SvOTlIFF6LGKms1rqAa9mEOqrQ4i1VfnTrRGguLPigZO1IafMoKqO8KN1O/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-sporting-kansas-city-vs-real-salt-lake%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb10.strmd.st/secure/iOzEdSAgzDAssWCuEpjMlZEnoACPiBDf/rtmp/stream/pK4YWJHcuSAUQHfFCOVEabiycnyZMmCZOJgvR42ePcQylhsU7B16Zg2B4aBWnuL009XCtOxj0CET/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-sporting-kansas-city-vs-real-salt-lake%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-sporting-kansas-city-vs-real-salt-lake%2F2&source=tv2",
             "resolved": true
           }
@@ -674,6 +666,24 @@
             "label": "Link - 2",
             "playable_url": "https://embed.st/embed/ingest/streamedfsonehd/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D145%26id%3D2268%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2268%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Miami (FL) vs Florida State",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedespnhd/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D136%26id%3D2266%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2266%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedespnhd/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D136%26id%3D2266%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2266%2F2&source=tv2",
             "resolved": true
           }
         ]
