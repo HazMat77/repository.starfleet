@@ -1,6 +1,6 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-20T00:55:02.399670Z",
+  "scraped_at": "2026-10-20T01:25:02.472086Z",
   "sports_events": {
     "soccer": [
       {
@@ -28,7 +28,51 @@
         ]
       }
     ],
+    "nba": [
+      {
+        "title": "Golden State Valkyries vs Atlanta Dream",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb13.strmd.st/secure/RNYDFCEyUqdbHNsiBiSgHJqYXnmYfnHD/rtmp/stream/BhVRmV-J9CrWNC2iBAJpRFYkyz_IxQvpYvBBMGl0uGJprAtGYbVQbXII-AJzuzd7Q0s9BvSSHvYZAL_wud1fgAYawLWc5w/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atlanta-dream-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-atlanta-dream-vs-golden-state-valkyries%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb17.strmd.st/secure/dlqjDvLhRjydNCKVYdWOEpPLjueBejiT/rtmp/stream/BhVRmV-J9CrWNC2iBAJpRFYkyz_IxQvpYvBBMGl0uGJprAtGYbVQbXII-AJzuzd7Q0s9BvSSHvYZAL_wud1fgAYawLWc5w/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atlanta-dream-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-atlanta-dream-vs-golden-state-valkyries%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "nhl": [
+      {
+        "title": "Utah Mammoth vs Pittsburgh Penguins",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://embed.st/embed/ingest/streamedpittsburghpenguins/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D241%26id%3D2390%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2390%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://embed.st/embed/ingest/streamedpittsburghpenguins/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D241%26id%3D2390%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2390%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedpittsburghpenguins/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D241%26id%3D2390%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2390%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
       {
         "title": "Toronto Maple Leafs vs San Jose Sharks",
         "is_live": true,
@@ -102,26 +146,6 @@
         ]
       }
     ],
-    "nba": [
-      {
-        "title": "Golden State Valkyries vs Atlanta Dream",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/hIPPfnvitaGNKmBAUQrMRKinktKCZQDW/rtmp/stream/cYVWExDP4jdQgsZod-C7erw-W0BjgjD_fN9fFd58o17mg8-i40g0DXswtIEPHOmaGy823EQ6b205pOSR40dyfhhAEui7eg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atlanta-dream-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-atlanta-dream-vs-golden-state-valkyries%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://lb30.strmd.st/secure/PFgnRrHlpWlKsKoYVFDNofFNNFRKAeUO/rtmp/stream/cYVWExDP4jdQgsZod-C7erw-W0BjgjD_fN9fFd58o17mg8-i40g0DXswtIEPHOmaGy823EQ6b205pOSR40dyfhhAEui7eg/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-atlanta-dream-vs-golden-state-valkyries%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-atlanta-dream-vs-golden-state-valkyries%2F2&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
     "mlb": [
       {
         "title": "Tampa Bay Rays vs Cleveland Guardians",
@@ -129,19 +153,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb17.strmd.st/secure/FECNaAtznsJXiwiRuuShXMKfpilUTWQS/rtmp/stream/9sqwBuAC6irecagmtxmvFeU5xy7TUs9LXNDz3Sgrvn7u7zlSAAY5ctizwDtinOvrDOuVHF5LmlZXsU8owcQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cleveland-guardians-vs-tampa-bay-rays%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/OQAPsAkzMHpWoGOpYjZVzOrLcSQJxurd/rtmp/stream/pbwbPmuExqPQOrgia0QmNlckyEbZr_FYkrhrQGVFZgrCP-C-KY1RYi1bSGQfVRZjICb427LY_IZJQ61c38E/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cleveland-guardians-vs-tampa-bay-rays%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-cleveland-guardians-vs-tampa-bay-rays%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb30.strmd.st/secure/LemYOZxzUvUHjOGZYJhTIqqQhZWMCfKR/rtmp/stream/9sqwBuAC6irecagmtxmvFeU5xy7TUs9LXNDz3Sgrvn7u7zlSAAY5ctizwDtinOvrDOuVHF5LmlZXsU8owcQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cleveland-guardians-vs-tampa-bay-rays%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb17.strmd.st/secure/blfcFtmFgKVWbfpfWEUxXQKzrxiLcXxw/rtmp/stream/pbwbPmuExqPQOrgia0QmNlckyEbZr_FYkrhrQGVFZgrCP-C-KY1RYi1bSGQfVRZjICb427LY_IZJQ61c38E/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cleveland-guardians-vs-tampa-bay-rays%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-cleveland-guardians-vs-tampa-bay-rays%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb29.strmd.st/secure/zPZkapwLPNQxQeNqfHCuvjoKYMaYzyzv/rtmp/stream/9sqwBuAC6irecagmtxmvFeU5xy7TUs9LXNDz3Sgrvn7u7zlSAAY5ctizwDtinOvrDOuVHF5LmlZXsU8owcQ/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cleveland-guardians-vs-tampa-bay-rays%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb21.strmd.st/secure/uZiyVzznQAaWKeUkUJNIXuzGWHnCpvYe/rtmp/stream/pbwbPmuExqPQOrgia0QmNlckyEbZr_FYkrhrQGVFZgrCP-C-KY1RYi1bSGQfVRZjICb427LY_IZJQ61c38E/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-cleveland-guardians-vs-tampa-bay-rays%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fcleveland-guardians-vs-tampa-bay-rays-mlb-1792452600%2F1&source=tv2",
             "resolved": true
           }
