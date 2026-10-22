@@ -1,7 +1,21 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-22T22:25:02.714482Z",
+  "scraped_at": "2026-10-22T22:55:02.781163Z",
   "sports_events": {
+    "nba": [
+      {
+        "title": "Cleveland Cavaliers vs Philadelphia 76ers",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb14.strmd.st/secure/kXwZGSxDkYeXEvYRowWxwhAkbkwvMIYZ/hotel/stream/cleveland-cavaliers-vs-philadelphia-76ers-nba-1792706400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fcleveland-cavaliers-vs-philadelphia-76ers-nba-1792706400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fcleveland-cavaliers-vs-philadelphia-76ers-nba-1792706400%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "soccer": [
       {
         "title": "The Golazo Show",
@@ -9,14 +23,58 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb11.strmd.st/secure/bfqnBxCehqmYmGPdrNfSVUBZNYdNGhwD/rtmp/stream/fT-Fia-a9BRfh5QUvIMFzbNacQflUIY_C8QgNRGmxfbptHeCN1HsmOaKMgit0K1sThP8erc1R7o/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-the-golazo-show%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb14.strmd.st/secure/bxyPFZZtICQdNakHCsspGCHucFEmWdqf/rtmp/stream/IkTUZ0zCtL7hPITU-hLqj6yQyzG2u1ZmI3tdgbOM5OYDogiiRfNwLfRH5_qSTrpe4k-Sy4yRlGs/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-the-golazo-show%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-the-golazo-show%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb31.strmd.st/secure/WaKYWJVmqWOrLUkDVSYnruqMcnXdeJLO/rtmp/stream/fT-Fia-a9BRfh5QUvIMFzbNacQflUIY_C8QgNRGmxfbptHeCN1HsmOaKMgit0K1sThP8erc1R7o/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-the-golazo-show%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb13.strmd.st/secure/nxqgtitIiVLeOJGXafmZCjiJlQacyYNx/rtmp/stream/IkTUZ0zCtL7hPITU-hLqj6yQyzG2u1ZmI3tdgbOM5OYDogiiRfNwLfRH5_qSTrpe4k-Sy4yRlGs/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-the-golazo-show%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-the-golazo-show%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "other_events": [
+      {
+        "title": "Phillip Island — Free Practice 1",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb14.strmd.st/secure/ituQaqDxBwoXdJgMsLrpUvNAFqQedRod/hotel/stream/phillip-island-free-practice-1-motogp-1792706400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb9.strmd.st/secure/wnFwlHPzASCuFcjbBPzODpUvYkfyLVVi/hotel/stream/phillip-island-free-practice-1-motogp-1792706400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://lb24.strmd.st/secure/IYSGCWNNVxClotlpEOmTrbShXZXlpHDN/hotel/stream/phillip-island-free-practice-1-motogp-1792706400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F3&source=tv2",
+            "resolved": true
+          }
+        ]
+      },
+      {
+        "title": "Australia - Practice 1",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb30.strmd.st/secure/qDYMSGtycOMqKDtqzAuEMvyQfZfqYWlK/rtmp/stream/_FuCm6AjuqTeahYCmniBuSn3G3b_4tu9Im87lrJBg80fPkhsc3CndbKVeTDwwJ8n5ykUPIIc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-australia-practice-1%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-australia-practice-1%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb1.strmd.st/secure/jQYFtbFSuQpZmuBkvMJzvFRReJYFRbgy/rtmp/stream/_FuCm6AjuqTeahYCmniBuSn3G3b_4tu9Im87lrJBg80fPkhsc3CndbKVeTDwwJ8n5ykUPIIc/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-australia-practice-1%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-australia-practice-1%2F2&source=tv2",
             "resolved": true
           }
         ]
