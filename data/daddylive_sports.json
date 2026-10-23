@@ -1,6 +1,6 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-23T00:55:02.913470Z",
+  "scraped_at": "2026-10-23T01:25:02.898528Z",
   "sports_events": {
     "nba": [
       {
@@ -23,6 +23,26 @@
             "label": "Link - 3",
             "playable_url": "https://embed.st/embed/ingest/streamedphiladelphia76ers/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D522%26id%3D2478%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-cleveland-cavaliers-vs-philadelphia-76-ers%2F1&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
+    "other_events": [
+      {
+        "title": "TNA iMPACT #1161",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb3.strmd.st/secure/GENhBHscwcOZCczrepANVKyFyYZryBmv/rtmp/stream/lEU1NBxTMRaxMOZz1lJNVpS36647A4lXQNUOsyoOS-VP9ZZINofzUp1NfTgYWEYvZlN4ABY/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-impact%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-tna-impact%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb6.strmd.st/secure/onbmouqMmXkRCVUGDDXbfozmCwTXCFqn/rtmp/stream/lEU1NBxTMRaxMOZz1lJNVpS36647A4lXQNUOsyoOS-VP9ZZINofzUp1NfTgYWEYvZlN4ABY/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-tna-impact%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-tna-impact%2F2&source=tv2",
             "resolved": true
           }
         ]
@@ -108,51 +128,55 @@
         ]
       }
     ],
-    "other_events": [
+    "nhl": [
       {
-        "title": "Phillip Island — Free Practice 1",
+        "title": "Calgary Flames vs Minnesota Wild",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb19.strmd.st/secure/lgXufzJabanHrjeemaluDgBRyMOndVRY/hotel/stream/phillip-island-free-practice-1-motogp-1792706400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F1&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/streamedminnesotawild/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D233%26id%3D2489%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2489%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb22.strmd.st/secure/BOzjHPOQpEuNXatlmCyrHXyVrkgWAMox/hotel/stream/phillip-island-free-practice-1-motogp-1792706400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F2&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/streamedminnesotawild/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D233%26id%3D2489%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2489%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb26.strmd.st/secure/rNIGcDvbliBxKGnURhbcsfccAXUNlQbV/hotel/stream/phillip-island-free-practice-1-motogp-1792706400/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fphillip-island-free-practice-1-motogp-1792706400%2F3&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/streamedminnesotawild/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D233%26id%3D2489%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2489%2F3&source=tv2",
             "resolved": true
           }
         ]
       },
       {
-        "title": "Australia - Practice 1",
+        "title": "Edmonton Oilers vs Carolina Hurricanes",
         "is_live": true,
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb24.strmd.st/secure/jljqlCGCiXaPkyCyIHNAwpZyrdTjBRom/admin/stream/ppv-australia-practice-1/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-australia-practice-1%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-australia-practice-1%2F1&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/streamedcarolinahurricanes/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D224%26id%3D2490%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2490%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb8.strmd.st/secure/TybEHjcXvdjiJGyqPKpySsnZIsYQTTyp/admin/stream/ppv-australia-practice-1/2/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-australia-practice-1%2F2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-australia-practice-1%2F2&source=tv2",
+            "playable_url": "https://embed.st/embed/ingest/streamedcarolinahurricanes/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D224%26id%3D2490%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2490%2F2&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 3",
+            "playable_url": "https://embed.st/embed/ingest/streamedcarolinahurricanes/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D224%26id%3D2490%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2490%2F3&source=tv2",
             "resolved": true
           }
         ]
-      }
-    ],
-    "nhl": [
+      },
       {
         "title": "Dallas Stars vs Winnipeg Jets",
         "is_live": true,
