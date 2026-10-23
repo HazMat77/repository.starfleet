@@ -1,33 +1,7 @@
 {
   "site": "https://daddylive.mov",
-  "scraped_at": "2026-10-23T04:55:03.034849Z",
+  "scraped_at": "2026-10-23T05:25:03.019052Z",
   "sports_events": {
-    "soccer": [
-      {
-        "title": "Chicago Bears vs New England Patriots",
-        "is_live": true,
-        "links": [
-          {
-            "label": "Link - 1",
-            "playable_url": "https://embed.st/embed/ingest/streamedchicagobears/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D256%26id%3D2423%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2423%2F1&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 2",
-            "playable_url": "https://embed.st/embed/ingest/streamedchicagobears/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D256%26id%3D2423%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2423%2F2&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://embed.st/embed/ingest/streamedchicagobears/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D256%26id%3D2423%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fnew-england-patriots-vs-chicago-bears-nfl-1792710000%2F1&source=tv2",
-            "resolved": true
-          }
-        ]
-      }
-    ],
     "nba": [
       {
         "title": "Oklahoma City Thunder vs Denver Nuggets",
@@ -43,12 +17,6 @@
             "label": "Link - 2",
             "playable_url": "https://embed.st/embed/ingest/streamedoklahomacitythunder/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D520%26id%3D2479%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=golf%2F2479%2F2&source=tv2",
-            "resolved": true
-          },
-          {
-            "label": "Link - 3",
-            "playable_url": "https://embed.st/embed/ingest/streamedoklahomacitythunder/1|Referer=https%3A%2F%2Frockyembed.st%2Fsource%2Fstreamed1.php%3Fhd%3D520%26id%3D2479%26no%3D1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
-            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fdenver-nuggets-vs-oklahoma-city-thunder-nba-1792719000%2F1&source=tv2",
             "resolved": true
           }
         ]
@@ -104,6 +72,26 @@
         ]
       }
     ],
+    "soccer": [
+      {
+        "title": "Chicago Bears vs New England Patriots",
+        "is_live": true,
+        "links": [
+          {
+            "label": "Link - 1",
+            "playable_url": "https://lb29.strmd.st/secure/fqLqYMnLeMCCrmWotdcPIEuRhVdZzUnG/hotel/stream/new-england-patriots-vs-chicago-bears-nfl-1792710000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fnew-england-patriots-vs-chicago-bears-nfl-1792710000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fnew-england-patriots-vs-chicago-bears-nfl-1792710000%2F1&source=tv2",
+            "resolved": true
+          },
+          {
+            "label": "Link - 2",
+            "playable_url": "https://lb22.strmd.st/secure/xGMqOlhifwHVHykutVzsKDdSCUrcGOan/hotel/stream/new-england-patriots-vs-chicago-bears-nfl-1792710000/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fnew-england-patriots-vs-chicago-bears-nfl-1792710000%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fnew-england-patriots-vs-chicago-bears-nfl-1792710000%2F2&source=tv2",
+            "resolved": true
+          }
+        ]
+      }
+    ],
     "other_events": [
       {
         "title": "Phillip Island — Free Practice 2",
@@ -111,19 +99,19 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb28.strmd.st/secure/mNMyLzQaVhVBqWChIuPkHJjNKOjSGutX/hotel/stream/phillip-island-free-practice-2-motogp-1792721700/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-2-motogp-1792721700%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb29.strmd.st/secure/SueyISidsvIwmsTvfwQYiTXeGehuqcju/hotel/stream/phillip-island-free-practice-2-motogp-1792721700/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-2-motogp-1792721700%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fphillip-island-free-practice-2-motogp-1792721700%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb27.strmd.st/secure/lTtbgPmwCgAjynucwuguznWIxrEBnYjR/hotel/stream/phillip-island-free-practice-2-motogp-1792721700/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-2-motogp-1792721700%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb22.strmd.st/secure/HXLGLdZRTkyiGXtwZtLgCsGgZDMMjHYp/hotel/stream/phillip-island-free-practice-2-motogp-1792721700/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-2-motogp-1792721700%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fphillip-island-free-practice-2-motogp-1792721700%2F2&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 3",
-            "playable_url": "https://lb21.strmd.st/secure/XfrLxGqkFdgXbBsqnyJcgwGQrNEAKdmq/hotel/stream/phillip-island-free-practice-2-motogp-1792721700/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-2-motogp-1792721700%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb31.strmd.st/secure/pMjJDUBSrQeYAwcmNTxTcuwjrLOsiMFL/hotel/stream/phillip-island-free-practice-2-motogp-1792721700/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fhotel%2Fphillip-island-free-practice-2-motogp-1792721700%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=hotel%2Fphillip-island-free-practice-2-motogp-1792721700%2F3&source=tv2",
             "resolved": true
           }
@@ -135,13 +123,13 @@
         "links": [
           {
             "label": "Link - 1",
-            "playable_url": "https://lb14.strmd.st/secure/rEPcDHaokUMzQSQlzafQWnTNaarsSwaf/rtmp/stream/ls_WOT7HPlVz3pjCWSsI7jc0UA5GREA0hLDHLkVIhUGJ3DIopQkhO7inWuZmuYUJRIAb5dZR/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-australia-practice%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb21.strmd.st/secure/LqhSBgBPafhvTluktNxoYGXwoTPsrPnY/admin/stream/ppv-australia-practice/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-australia-practice%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-australia-practice%2F1&source=tv2",
             "resolved": true
           },
           {
             "label": "Link - 2",
-            "playable_url": "https://lb23.strmd.st/secure/tHsxxFWsMGIVHwvZqOLMkFDXXfNmjOwh/rtmp/stream/ls_WOT7HPlVz3pjCWSsI7jc0UA5GREA0hLDHLkVIhUGJ3DIopQkhO7inWuZmuYUJRIAb5dZR/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-australia-practice%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
+            "playable_url": "https://lb28.strmd.st/secure/uQbustOzoFVlwWAHjpYGweCTWuXeSXMc/admin/stream/ppv-australia-practice/1/playlist.m3u8|Referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-australia-practice%2F1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&Sec-Fetch-Dest=empty&Sec-Fetch-Mode=cors&Sec-Fetch-Site=cross-site",
             "source_url": "https://daddylive.li/player/embed.php?id=admin%2Fppv-australia-practice%2F2&source=tv2",
             "resolved": true
           }
