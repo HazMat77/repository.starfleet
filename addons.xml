@@ -479,7 +479,7 @@ v2.3.215 - Fixed three real skin-navigation bugs found by live-testing on the Fi
   </addon>
   <addon id="script.module.starfleetscrapers"
        name="Starfleet Scrapers"
-       version="1.3.56"
+       version="1.3.57"
        provider-name="HazMat">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -498,7 +498,8 @@ v2.3.215 - Fixed three real skin-navigation bugs found by live-testing on the Fi
     <assets><icon>icon.png</icon></assets>
     <assets><fanart>fanart.jpg</fanart></assets>
     <license>GPL-3.0-or-later</license>
-    <news>v1.3.56 - Fixed: the live TV and sports searches no longer contact two former TimStreams addresses that now belong to unrelated sites (one of them a shop for stolen card data); the one working address list is kept.
+    <news>v1.3.57 - New: Usenet indexer accounts. NZBGeek, NZBPlanet, DrunkenSlug, NZBFinder and NZB.life are searched with the account's API key (their own settings), all at the same time as the free Usenet sites instead of one after another. 8K: releases tagged 8K / 4320p are recognised and offered on a device that can play them (setting device_8k), and kept out otherwise. Usenet releases play through TorBox first (instant when it has the release), then Premiumize.
+v1.3.56 - Fixed: the live TV and sports searches no longer contact two former TimStreams addresses that now belong to unrelated sites (one of them a shop for stolen card data); the one working address list is kept.
 v1.3.55 - Fixed: the free-stream (embed) search could be asked for only some of its providers and refused, so apps that ask that way got no embed streams at all; it works again. Fixed: NoodleMagazine, PornRaw and JustFullPorn videos play again; ad tiles are no longer listed as videos. New: TugFlix (replaces LetMeJizz). New: VR scenes from the tube sites that carry them. Removed: sites that are gone or only lead to paid pages (Fux, HypnoTube, TabooFantazy, WatchXXXFree, 5MoviesPorn, LetMeJizz, KRX18).
 v1.3.54 - Fixed: hockey games from the OnHockey list were filed under the wrong day in the evening (after 7 PM Eastern, when it is already tomorrow in UTC), so a game in progress showed as "Tomorrow" and as upcoming instead of live.
 v1.3.54 - New: video files from VOE and the hosts behind it (and playmogo / vidload) that the site hands out slowly, one connection at a time, are now fetched in several parts at once by the built-in relay, so a big file plays instead of stalling.
