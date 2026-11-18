@@ -14,7 +14,9 @@ Kodi repository hosting `plugin.video.starfleet`.
 
 ## Contents
 
-| Addon | Version |
-|-------|---------|
-| plugin.video.starfleet | 2.3.332 |
-| repository.starfleet | 1.0.13 |
+| Add-on |
+|--------|
+| plugin.video.starfleet |
+| script.module.starfleetscrapers |
+| script.module.starfleetresolve |
+| repository.starfleet |
