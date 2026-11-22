@@ -423,7 +423,7 @@
       <news>v1.0.3 - requires resolver 1.4.7 (TimStreams players, self-check of paired accounts, DASH streams), so updating this add-on updates the resolver too. v1.0.2 - requires resolver 1.3.0. v1.0.1 - Mega-Debrid can be paired from this menu. v1.0.0 - first release: a visible Program add-on for the Starfleet Resolver module, so it can be found and installed on its own from the Starfleet repository.</news>
     </extension>
   </addon>
-  <addon id="script.module.starfleetscrapers" name="Starfleet Scrapers" version="1.3.118" provider-name="HazMat">
+  <addon id="script.module.starfleetscrapers" name="Starfleet Scrapers" version="1.3.119" provider-name="HazMat">
     <requires>
       <import addon="xbmc.python" version="3.0.0" />
       <import addon="script.module.requests" version="2.22.0" />
@@ -445,7 +445,8 @@
         <fanart>fanart.jpg</fanart>
       </assets>
       <license>GPL-3.0-or-later</license>
-      <news>v1.3.118 - New for sports: college basketball, college hockey, football and WNBA games that are live on YouTube (tournament broadcasts, school and conference channels) now list the YouTube link, played in the app in up to 1080p.
+      <news>v1.3.119 - Fixed for sports: a match-site link (Footy4U, PPV and the other hubs) that sat in the list until the stream host refused its token (403 "Source error") is looked up again from its player page when it is picked.
+  v1.3.118 - New for sports: college basketball, college hockey, football and WNBA games that are live on YouTube (tournament broadcasts, school and conference channels) now list the YouTube link, played in the app in up to 1080p.
   v1.3.117 -Fixed for sports: TimStreams works again (its new player page is read, and its video pictures are unpacked by the relay), FalconStreams links open (its mirrors are PPV, streame.center and other players that the shared resolver reads), and the DaddyLive/TVNow channel lookup no longer stalls for over a minute when its sites are down (the addresses are asked side by side).
   v1.3.116 - Faster for sports on a busy night (NBA): dead stream hosts that do not connect are skipped for 10 minutes instead of making every game wait on them, page checks give up on a host that does not connect within 5 seconds, and the stream hubs hand back their links without waiting on the slowest one. sportsframe.me channels (used by 720pStream, college basketball) now play like embedsports.me ones.
   v1.3.115 - Fixed for sports: live-game web-player links are no longer listed. Every one of those pages waits for a button press (and opens an ad) before any video starts, so the app could never play them.
