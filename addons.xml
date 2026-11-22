@@ -422,7 +422,7 @@
       <news>v1.0.3 - requires resolver 1.4.7 (TimStreams players, self-check of paired accounts, DASH streams), so updating this add-on updates the resolver too. v1.0.2 - requires resolver 1.3.0. v1.0.1 - Mega-Debrid can be paired from this menu. v1.0.0 - first release: a visible Program add-on for the Starfleet Resolver module, so it can be found and installed on its own from the Starfleet repository.</news>
     </extension>
   </addon>
-  <addon id="script.module.starfleetscrapers" name="Starfleet Scrapers" version="1.3.114" provider-name="HazMat">
+  <addon id="script.module.starfleetscrapers" name="Starfleet Scrapers" version="1.3.115" provider-name="HazMat">
     <requires>
       <import addon="xbmc.python" version="3.0.0" />
       <import addon="script.module.requests" version="2.22.0" />
@@ -444,7 +444,8 @@
         <fanart>fanart.jpg</fanart>
       </assets>
       <license>GPL-3.0-or-later</license>
-      <news>v1.3.114 - Fixed for sports: more (web) player links are checked before they are listed (StreamEast, SportSurge and the live-site pages too), so ones whose page only frames a dead site no longer show.
+      <news>v1.3.115 - Fixed for sports: live-game web-player links are no longer listed. Every one of those pages waits for a button press (and opens an ad) before any video starts, so the app could never play them.
+  v1.3.114 - Fixed for sports: more (web) player links are checked before they are listed (StreamEast, SportSurge and the live-site pages too), so ones whose page only frames a dead site no longer show.
   v1.3.113 - Fixed for sports: MethStreams and OnHockey links that waited in the stream list for a minute or two no longer fail with a source error (they now get a fresh token when picked), and web-player links whose page only frames a dead host are no longer offered.
   v1.3.112 - Fixed and new for sports: Hoofoot is back (its live feed moved to a new address, direct playable links), iStreamEast works again on its new site (its player pages, used by the HazMat TV web player), FalconStreams follows its move to a new address and no longer waits on its dead feed, OnHockey links are no longer cut off by slower sources, and a channel that is offline no longer raises an error. The Cinevid page entry (which never played) is replaced by the same channels straight from the live feed.
   v1.3.111 - New: Cinevid as a live-game source for every sport (it needs the HazMat TV web player and only appears when Cinevid has a server on the game), basketballreplays.net NBA replays, and the neporn site (HazMat TV). SlapStreams (NHL) links are listed first and fetched fresh at play. Adult search: proper titles, covers that exist, XXXClub torrent releases also when the search word is a category, and the Full Library cached for 6 hours. Free TV gets a zlive.st list (HazMat TV).
