@@ -28,7 +28,7 @@
   </addon>
   <addon id="plugin.video.starfleet"
        name="Starfleet"
-       version="2.3.708"
+       version="2.3.709"
        provider-name="HazMat">
 
   <requires>
@@ -61,7 +61,8 @@
     <forum/>
     <website/>
     <source/>
-    <news>v2.3.708 - Fixed: changing the Home layout in Settings now reopens Home reliably (it could end on an empty Videos list), and the Rows top menu no longer shows white boxes.
+    <news>v2.3.709 - New: every Home layout (Shuttle, Voyager, Flyer, Discovery, Holiday and Enterprise) now has its own screen that follows the layouts of HazMat TV: top bar or side menu, hero banner, Play and More Info, cards and captions. Fixed white boxes in the menus and a Play button without a label.
+v2.3.708 - Fixed: changing the Home layout in Settings now reopens Home reliably (it could end on an empty Videos list), and the Rows top menu no longer shows white boxes.
 v2.3.707 - New: the Enterprise home layout now looks like the Enterprise layout of HazMat TV (white side rail with icons, rounded banner, white title card with Play and More Info, big row titles). Changing Home layout moved to its own Layout tab in Settings and Home reopens in the chosen layout when you leave Settings.
 v2.3.706 - Fixed: MethStreams links in the sports stream list get a fresh address when you pick them. Requires Starfleet Scrapers 1.3.122.
 v2.3.705 - Fixed: SlapStreams (NHL) games list Home, Away, Link 3 and Link 4 first, and the address is fetched at the moment you press play. Fixed: Adult search shows proper titles and working covers, and XXXClub releases are listed also when the search word is a category. Faster: the Adult Full Library is kept for 6 hours. New: Debrid link languages can be picked more than one at a time. Requires Starfleet Scrapers 1.3.111.
