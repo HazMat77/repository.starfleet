@@ -506,4 +506,29 @@
 		</assets>
 	</extension>
 </addon>
+  <addon id="skin.hazmatdiscovery" version="1.0.0" name="HazMat Discovery" provider-name="HazMat77">
+	<requires>
+		<import addon="xbmc.gui" version="5.18.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false">
+		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
+		<res width="1920" height="1280" aspect="3:2" default="false" folder="xml" />
+		<res width="1920" height="1200" aspect="16:10" default="false" folder="xml" />
+		<res width="2040" height="1080" aspect="17:9" default="false" folder="xml" />
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+		<res width="2560" height="1080" aspect="21:9" default="false" folder="xml" />
+		<res width="2338" height="1080" aspect="19.5:9" default="false" folder="xml" />
+		<res width="2160" height="1080" aspect="18:9" default="false" folder="xml" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">A dark navy skin for Kodi 22 in the Discovery style</summary>
+		<description lang="en_GB">HazMat Discovery: a deep navy skin with a labelled side menu, a search bar, a wide rounded banner that follows the highlighted title, row chips and rounded posters.[CR]Its screens other than Home are built on Estuary, the skin that ships with Kodi (by phil65 and Ichabod Fletchman), restyled for Discovery.</description>
+		<platform>all</platform>
+		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
 </addons>
