@@ -531,4 +531,29 @@
 		</assets>
 	</extension>
 </addon>
+  <addon id="skin.hazmatvice" version="1.0.0" name="HazMat Vice" provider-name="HazMat77">
+	<requires>
+		<import addon="xbmc.gui" version="5.18.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false">
+		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
+		<res width="1920" height="1280" aspect="3:2" default="false" folder="xml" />
+		<res width="1920" height="1200" aspect="16:10" default="false" folder="xml" />
+		<res width="2040" height="1080" aspect="17:9" default="false" folder="xml" />
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+		<res width="2560" height="1080" aspect="21:9" default="false" folder="xml" />
+		<res width="2338" height="1080" aspect="19.5:9" default="false" folder="xml" />
+		<res width="2160" height="1080" aspect="18:9" default="false" folder="xml" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Neon sunsets, palm trees and a quick wheel: a Kodi 22 skin with a Vice-coast mood</summary>
+		<description lang="en_GB">HazMat Vice: a full-screen coastline that changes with the time of day (or the artwork of the highlighted title), a pause-menu style row of tabs, a heads-up clock, five-star ratings, slanted buttons and a round quick wheel for your shortcuts. All artwork is original.[CR]Its screens other than Home and the add-on hub are built on Estuary, the skin that ships with Kodi (by phil65 and Ichabod Fletchman), restyled. Fonts: Anton (SIL Open Font License) and Yellowtail (Apache License 2.0).</description>
+		<platform>all</platform>
+		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
 </addons>
