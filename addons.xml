@@ -556,4 +556,29 @@
 		</assets>
 	</extension>
 </addon>
+  <addon id="skin.hazmatbridge" version="1.0.0" name="HazMat Bridge" provider-name="HazMat77">
+	<requires>
+		<import addon="xbmc.gui" version="5.18.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false">
+		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
+		<res width="1920" height="1280" aspect="3:2" default="false" folder="xml" />
+		<res width="1920" height="1200" aspect="16:10" default="false" folder="xml" />
+		<res width="2040" height="1080" aspect="17:9" default="false" folder="xml" />
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+		<res width="2560" height="1080" aspect="21:9" default="false" folder="xml" />
+		<res width="2338" height="1080" aspect="19.5:9" default="false" folder="xml" />
+		<res width="2160" height="1080" aspect="18:9" default="false" folder="xml" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Take the captain's chair: a Kodi 22 starship bridge skin with a view screen and a crew of its own</summary>
+		<description lang="en_GB">HazMat Bridge puts you in the captain's chair. The view screen shows deep space, a nebula or a planet, and the artwork of whatever you highlight. Your own crew of five officers and LUMA, the ship's computer, introduce themselves, speak for each part of the menu and keep your shortcuts at their stations in the Ready Room. Names and pictures of the crew can be changed on your device. All artwork and characters are original.[CR]Its screens other than Home and the add-on hub are built on Estuary, the skin that ships with Kodi (by phil65 and Ichabod Fletchman), restyled.</description>
+		<platform>all</platform>
+		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
 </addons>

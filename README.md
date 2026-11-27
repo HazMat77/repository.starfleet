@@ -22,4 +22,5 @@ Kodi repository hosting `plugin.video.starfleet`.
 | skin.hazmatdiscovery (HazMat Discovery skin, Kodi 22) |
 | skin.hazmatzion (HazMat Zion skin, Kodi 22) |
 | skin.hazmatvice (HazMat Vice skin, Kodi 22) |
+| skin.hazmatbridge (HazMat Bridge skin, Kodi 22) |
 | repository.starfleet |
