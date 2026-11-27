@@ -481,4 +481,29 @@
   v1.3.102 - Fixed: Usenet (NZB) results now show for Premiumize and TorBox users (they were cut off behind the first 100 torrent rows) and the list no longer fills with par2, rar-part and soundtrack files. Fixed: adult title searches on Usenet find names written without spaces and names with apostrophes. New: HappyFappy ratio guard and TorBox seeding for private-tracker releases. Changed: releases from private trackers (HappyFappy, BitPorn, Podzemlje) play through TorBox Pro only, so the share ratio is kept; the other debrid services never touch them. v1.3.93 - Fixed: DaddyLive channels play again (12 of 12 tried, in about 4 seconds instead of failing) and a game with many DaddyLive channels no longer waits 40 seconds for the slow ones. New: fourteen more JAV sites (MissAV, Javtiful, JAVGG, HoHoJ, JavTrailers, Caribbeancom, masutabe, iQoo, nukistream, YourAVHost, LoveH, JAV HD Porn, JAVDock, JAVXXX), listed in the JAV menu as English / Translated to English / Previews, with English titles and descriptions, thumbnails and the product code; a title that has no player on one site is looked up on the others by its code. Fixed: javbangers lists only its public videos (the private ones had no player). New: torrents can go through Put.io and LinkSnappy (when linked in Premium Services). Removed from Adult: Porn00 and LatestLeaks (dead), PelisXPorno (site down). v1.3.92 - Faster: the quick half of the free embed sources now answers in about 2 seconds instead of up to 10 (the slowest site moved to the slow half). v1.3.91 - New: soccer replays from fullmatchshows.com (full matches and halves, English and other languages) added to the soccer replay list. v1.3.90 - Fixed: the adult sites watchpornx.com, streamporn.li and adultdvdparadise.org (new page layout) list films and play again. v1.3.89 - New: NFL replays from nfl-replays.com (full game replays with ok.ru and Byse players, merged into the NFL replay list by game). v1.3.88 - Fixed: sports lists in the morning. A sport page (NBA, NHL, MLB and the other team sports) showed nothing until late in the day because the score feed still listed last night's finished games; today's and tomorrow's games are asked for now. Fixed: free sources for TV episodes (the free hosts were searched for "Show S01E01" and matched nothing, so shows like Breaking Bad had none). v1.3.87 - Fixed: event pages for games listed under a whole sport (Hockey, Basketball, Football, Baseball) and for leagues the scoreboard does not carry (AHL, OHL, NOJHL, PWHL and more) now show the two teams, records and top players where known; a live game whose list title carries the score opens its page too. v1.3.86</news>
     </extension>
   </addon>
+  <addon id="skin.hazmatzion" version="1.0.0" name="HazMat Zion" provider-name="HazMat77">
+	<requires>
+		<import addon="xbmc.gui" version="5.18.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false">
+		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
+		<res width="1920" height="1280" aspect="3:2" default="false" folder="xml" />
+		<res width="1920" height="1200" aspect="16:10" default="false" folder="xml" />
+		<res width="2040" height="1080" aspect="17:9" default="false" folder="xml" />
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+		<res width="2560" height="1080" aspect="21:9" default="false" folder="xml" />
+		<res width="2338" height="1080" aspect="19.5:9" default="false" folder="xml" />
+		<res width="2160" height="1080" aspect="18:9" default="false" folder="xml" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">A bright, rounded skin for Kodi 22 in the Enterprise style</summary>
+		<description lang="en_GB">HazMat Zion: a light skin with a rounded menu rail, a large banner that follows the highlighted title and rows of posters.[CR]Its screens other than Home are built on Estuary, the skin that ships with Kodi (by phil65 and Ichabod Fletchman), restyled for Zion.</description>
+		<platform>all</platform>
+		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
 </addons>

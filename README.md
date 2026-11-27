@@ -19,4 +19,5 @@ Kodi repository hosting `plugin.video.starfleet`.
 | plugin.video.starfleet |
 | script.module.starfleetscrapers |
 | script.module.starfleetresolve |
+| skin.hazmatzion (HazMat Zion skin, Kodi 22) |
 | repository.starfleet |
